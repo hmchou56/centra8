@@ -6,13 +6,46 @@ permalink: /about/
 published: true
 ---
 
+#What is US-EA CENTRA?
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+US-EA CENTRA stands for US-East Asia Collaborations to Enable Transnational 
+Cyberinfrastructure Applications and refers to a partnership and evolving 
+framework for collaborations amongst research centers, institutes and 
+laboratories in the USA and East-Asia countries.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+#Objectives
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+CENTRA currently supports collaborative cyberinfrastructure research activities 
+designed to educate a new generation of researchers who are technically and 
+culturally competent to engage with international scientific networks. Two 
+intertwined transformative global trends motivate the scope of technical 
+research activities. One is the emergence of software-defined 
+cyberinfrastructure, starting with networking components followed by compute and 
+storage hardware and extending to middleware and application-software layers. 
+The second trend is the emergence of data and software that can be used to help 
+understand and solve problems of regional or global nature. These trends are 
+intertwined because software-definition can enable heterogeneous transnational 
+cyberinfrastructure and applications to interoperate and integrate and, 
+conversely, the characteristics and requirements of transnational 
+cyberinfrastructure and applications determine the kinds of software-definition 
+that need to be implemented. The confluence of these two trends creates many 
+novel research questions and disrupts many established IT solutions adopted for 
+problems of local or national scope and homogeneous cyberinfrastructures whose 
+IT stack components have a static nature with respect to their configuration and 
+control. This projects pursues the rigorous understanding and solution of these 
+scientific problems via international collaborations which bring out real-world 
+contexts of transnational applications and create transnational 
+cyberinfrastructure instances where researchers get practical insight.
 
-A**test modification.**![test]({{site.baseurl}}//bgrS1xy.png)
+#Advisory Board
 
+TBA
 
+#Funding
+
+CENTRA is funded in the USA by the US National Science Foundation (NSF). CENTRA 
+partners include the Center of Excellence for Cyber-Enablement of Applications 
+(CECEA) in Taiwan funded by the Ministry of Science and Technology (MOST) of 
+Taiwan, and the ASEAN International Virtual Organization (IVO) funded by the 
+National Institute of Information and Communications Technologies (NICT) of 
+Japan.
