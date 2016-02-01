@@ -2,7 +2,7 @@
 layout: page
 title: Members
 permalink: /members/
-"feature-img": img/sample_feature_img_2.png
+"feature-img": img/header-nologo.jpg
 published: true
 ---
 
@@ -18,8 +18,7 @@ TBD
 
 Invited researchers who engage and advise junior researchers in CENTRA-related projects include the following:
 
-Name  | Position  | Interests |
-------------------- |---------------------------------------------------------------------------------------- |--------------------- |
+**Name**  | **Position**  | **Interests** |
 Beth Plale          |Professor, School of Informatics and Computing, Indiana Univ.                            |Data science and systems
 Calton Pu     |Professor, John Imlay Jr. Chair in Software, College of Computing, Georgia Tech       |Distributed systems, Internet, data management, disaster management
 Glen Ricart        |Founder and CTO, US Ignite                                             |Smart cities, networking and security

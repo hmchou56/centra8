@@ -1,6 +1,9 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.globalcentra.org" # the base hostname & protocol for your site
+#custom site variables
+NSF_footer_text: "Communication is not possible. The shuttle has no power. Using the gravitational pull of a star to slingshot back in time? We are going to Starbase Montgomery for Engineering consultations prompted by minor read-out anomalies."
+site_naivation_logo: <img src="/img/centra-logo.jpg">
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -24,7 +27,7 @@ theme:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "acis.lab"
   flickr:
   github: "acislab"
   google_plus:
@@ -36,14 +39,14 @@ theme:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: 
+  twitter: "GlobalCentra"
   wordpress:
   youtube:
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  katex: true # Enable if using math markup
+  katex: false # Enable if using math markup
 
   # Localization strings
   str_follow_on: "Follow on"

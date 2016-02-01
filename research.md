@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-"feature-img": img/sample_feature_img_2.png
+"feature-img": img/header-nologo.jpg
 published: true
 ---
 

@@ -1,0 +1,57 @@
+    	body{
+    		font-size: 2.0em;
+    	    background-color: rgb(238, 238, 238);
+
+    	}
+    	h1, h2, h3, h4, h5, h6 {
+		    color: #7a9806;
+		    font-weight: bold;
+		    padding-top: ;
+    	    margin: 0.3em 0;
+		}
+		.story-highlight{
+		    background-color: white;
+		    padding-top: 1em;
+		    padding-left: 1em;
+		    padding-right: 1em;
+		    padding-bottom: 1px;
+		    margin-bottom: 1em;
+		}
+		.site-header
+		{
+			padding-top: .5em;
+			padding-bottom: .5em;
+
+		}
+		.banner
+		{
+		    list-style-type: none;
+		    list-style-image: none;
+		    list-style-position: outside;
+		    float: right;
+	    	display: flex;
+		}
+		.banner a
+		{
+			color:white;
+		}
+
+		.NSF_footer
+		{
+			display: flex;
+    		align-items: center;	
+    		padding: 2em;
+		}
+
+		.jumbotron
+		{
+			padding-bottom: 0;
+			margin-bottom: 1em;
+		}
+
+		.subtron
+		{
+			background-color: #7a9806;
+            color:  white;
+            padding: .7em;
+		}

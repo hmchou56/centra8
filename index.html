@@ -1,52 +1,175 @@
 ---
 layout: default
+
+column1_newsitem1_headline: Welcome
+column1_newsitem1_image: /img/welcome.jpg
+column1_newsitem1_text: Run a manual sweep of anomalous airborne or electromagnetic readings. Radiation levels in our atmosphere have increased by 3,000 percent. Electromagnetic and subspace wave fronts approaching synchronization.
+
+column1_newsitem2_headline: Collaborators
+column1_newsitem2_image: /img/collaborators.jpg
+column1_newsitem2_text: I have reset the sensors to scan for frequencies outside the usual range. By emitting harmonic vibrations to shatter the lattices. We will monitor and adjust the frequency of the resonators. He has this ability of instantly interpreting and extrapolating any verbal communication he hears. It may be due to the envelope over the structure, causing hydrogen-carbon helix patterns throughout. I'm comparing the molecular integrity of that bubble against our phasers.
+
+column1_newsitem3_headline: 
+column1_newsitem3_text:
+column1_newsitem3_image:
+
+column1_newsitem4_headline: 
+column1_newsitem4_text:
+column1_newsitem4_image:
+
+column2_newsitem1_headline: Meetings
+column2_newsitem1_text: Sensors indicate no shuttle or other ships in this sector. According to coordinates, we have travelled 7,000 light years and are located near the system J-25. Tractor beam released, sir. Force field maintaining our hull integrity. Damage report? Sections 27, 28 and 29 on decks four, five and six destroyed. Without our shields, at this range it is probable a photon detonation could destroy the Enterprise.
+column2_newsitem1_image: /img/meetings.jpg
+
+column2_newsitem2_headline: 
+column2_newsitem2_text:
+column2_newsitem2_image:
+
+column2_newsitem3_headline: 
+column2_newsitem3_text:
+column2_newsitem3_image:
+
+column2_newsitem4_headline: 
+column2_newsitem4_text:
+column2_newsitem4_image:
+
 ---
 
-<div class="home">
-  {% if site.theme.header_text %}
-  <div class="call-out" 
-  style="background-image: url('{{ site.baseurl }}/{{ site.theme.header_text_feature_image }}')">
-    {{ site.theme.header_text }}
-  </div>
-  {% endif %}
 
-  <div class="posts">
-    {% for post in paginator.posts %}
-    <div class="post-teaser">
-      <header>
-        <h1>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}
-          </a>
-        </h1>
-        <p class="meta">
-          {{ post.date | date: "%B %-d, %Y" }}
-        </p>
-      </header>
-      <div class="excerpt">
-        {{ post.excerpt }}
-        <a class="button" href="{{ post.url | prepend: site.baseurl }}">
-          {{ site.theme.str_continue_reading }}
-        </a>
+    <div class="jumbotron">
+      <div class="container">
+        <img src="/img/header.jpg">
+        <div class="subtron">
+            ADVANCING THE SCIENTIFIC UNDERSTANDING OF DISTRIBUTED SOFTWARE-DEFINED CYBERINFRASTRUCTURES
+            <ul class="banner">{% include icons.html %}</ul>
+        </div>
       </div>
     </div>
-    {% endfor %}
-  </div>
 
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
-      <i class="fa fa-chevron-left"></i>
-      {{ site.theme.str_prev }}
-    </a>
-    {% endif %}
-    {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
-      {{ site.theme.str_next }}
-      <i class="fa fa-chevron-right"></i>
-    </a>
-    {% endif %}
+    <div class="container">
+      <div class="row">
+        
+        <div class="col-md-6">
+          
+          {% if page.column1_newsitem1_headline or  page.column1_newsitem1_text or page.column1_newsitem1_image %}
+          <div class="story-highlight">
+            {% if page.column1_newsitem1_image %}
+              <img src="{{ page.column1_newsitem1_image }}" class="img-responsive" alt="Responsive image">
+            {% endif %}
+            {% if page.column1_newsitem1_headline %}
+              <h2>{{ page.column1_newsitem1_headline }}</h2>
+            {% endif %}
+            {% if page.column1_newsitem1_text %}
+              <p>{{ page.column1_newsitem1_text }}</p>
+            {% endif %}
+          </div>
+          {% endif %}
+
+          {% if page.column1_newsitem2_headline or  page.column1_newsitem2_text or page.column1_newsitem2_image %}
+          <div class="story-highlight">
+            {% if page.column1_newsitem2_image %}
+              <img src="{{ page.column1_newsitem2_image }}" class="img-responsive" alt="Responsive image">
+            {% endif %}
+            {% if page.column1_newsitem2_headline %}
+              <h2>{{ page.column1_newsitem2_headline }}</h2>
+            {% endif %}
+            {% if page.column1_newsitem2_text %}
+              <p>{{ page.column1_newsitem2_text }}</p>
+            {% endif %}
+          </div>
+          {% endif %}
+
+
+          {% if page.column1_newsitem3_headline or  page.column1_newsitem3_text or page.column1_newsitem3_image %}
+          <div class="story-highlight">
+            {% if page.column1_newsitem3_image %}
+              <img src="{{ page.column1_newsitem3_image }}" class="img-responsive" alt="Responsive image">
+            {% endif %}
+            {% if page.column1_newsitem3_headline %}
+              <h2>{{ page.column1_newsitem3_headline }}</h2>
+            {% endif %}
+            {% if page.column1_newsitem3_text %}
+              <p>{{ page.column1_newsitem3_text }}</p>
+            {% endif %}
+          </div>
+          {% endif %}
+
+          {% if page.column1_newsitem4_headline or  page.column1_newsitem4_text or page.column1_newsitem4_image %}
+          <div class="story-highlight">
+            {% if page.column1_newsitem4_image %}
+              <img src="{{ page.column1_newsitem4_image }}" class="img-responsive" alt="Responsive image">
+            {% endif %}
+            {% if page.column1_newsitem4_headline %}
+              <h2>{{ page.column1_newsitem4_headline }}</h2>
+            {% endif %}
+            {% if page.column1_newsitem4_text %}
+              <p>{{ page.column1_newsitem4_text }}</p>
+            {% endif %}
+          </div>
+          {% endif %}
+        </div>
+
+        <div class="col-md-6">
+          
+          {% if page.column2_newsitem1_headline or  page.column2_newsitem1_text or page.column2_newsitem1_image %}
+          <div class="story-highlight">
+            {% if page.column2_newsitem1_image %}
+              <img src="{{ page.column2_newsitem1_image }}" class="img-responsive" alt="Responsive image">
+            {% endif %}
+            {% if page.column2_newsitem1_headline %}
+              <h2>{{ page.column2_newsitem1_headline }}</h2>
+            {% endif %}
+            {% if page.column2_newsitem1_text %}
+              <p>{{ page.column2_newsitem1_text }}</p>
+            {% endif %}
+          </div>
+          {% endif %}
+
+          {% if page.column2_newsitem2_headline or  page.column2_newsitem2_text or page.column2_newsitem2_image %}
+          <div class="story-highlight">
+            {% if page.column2_newsitem2_image %}
+              <img src="{{ page.column2_newsitem2_image }}" class="img-responsive" alt="Responsive image">
+            {% endif %}
+            {% if page.column2_newsitem2_headline %}
+              <h2>{{ page.column2_newsitem2_headline }}</h2>
+            {% endif %}
+            {% if page.column2_newsitem2_text %}
+              <p>{{ page.column2_newsitem2_text }}</p>
+            {% endif %}
+          </div>
+          {% endif %}
+
+
+          {% if page.column2_newsitem3_headline or  page.column2_newsitem3_text or page.column2_newsitem3_image %}
+          <div class="story-highlight">
+            {% if page.column2_newsitem3_image %}
+              <img src="{{ page.column2_newsitem3_image }}" class="img-responsive" alt="Responsive image">
+            {% endif %}
+            {% if page.column2_newsitem3_headline %}
+              <h2>{{ page.column2_newsitem3_headline }}</h2>
+            {% endif %}
+            {% if page.column2_newsitem3_text %}
+              <p>{{ page.column2_newsitem3_text }}</p>
+            {% endif %}
+          </div>
+          {% endif %}
+
+          {% if page.column2_newsitem4_headline or  page.column2_newsitem4_text or page.column2_newsitem4_image %}
+          <div class="story-highlight">
+            {% if page.column2_newsitem4_image %}
+              <img src="{{ page.column2_newsitem4_image }}" class="img-responsive" alt="Responsive image">
+            {% endif %}
+            {% if page.column2_newsitem4_headline %}
+              <h2>{{ page.column2_newsitem4_headline }}</h2>
+            {% endif %}
+            {% if page.column2_newsitem4_text %}
+              <p>{{ page.column2_newsitem4_text }}</p>
+            {% endif %}
+          </div>
+          {% endif %}
+        </div>
+          
+      </div>
+
+    </div>
   </div>
-  {% endif %}
-</div>

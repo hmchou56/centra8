@@ -1,14 +1,15 @@
-# Type Theme
+#Centra website created by [ACIS lab](https://www.acis.ufl.edu/)
 
-![Default Type Theme blog](https://cloud.githubusercontent.com/assets/816965/5142407/19742e48-71d6-11e4-8d9d-fdfe010784f0.png)
+##Technologies used
 
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
+###Type Theme
+Modified [Type Theme](https://rohanchandra.github.io/project/type/) for [Jekyll](http://jekyllrb.com) as a starting point for understanding [YAML](http://www.yaml.org/) and [Liquid](https://docs.shopify.com/themes/liquid-documentation/basics).  Under the MIT License (MIT)
 
-## Get Started
+###Bootstrap
+Using [Bootstrap](https://getbootstrap.com/) for consistent style and responsiveness.
 
-[Demo](https://rohanchandra.github.io/type-theme/)
+###Jumbotron Template
+Modified [Bootstrap Jumbotron](https://getbootstrap.com/examples/jumbotron/) template for hero area.
 
-[Using Type](https://rohanchandra.github.io/project/type/)
-
-## License
-The MIT License (MIT)
+###Github Pages for hosting
+[GitHub Pages](https://pages.github.com/)
