@@ -12,7 +12,7 @@ Institutional partners in East Asia who are key to the proposed work include the
 
 # Partners
 
-TBD
+To be announced.
 
 # Researchers
 
@@ -34,4 +34,4 @@ Valerie Taylor      |Senior Associate Dean for Academic Affairs and Royce E. Wis
 
 # Students
 
-TBD
+To be announced.

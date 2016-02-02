@@ -14,6 +14,10 @@ The activities of this project aim to advance the scientific understanding of di
 
 The related middleware research seeks solutions for software-defined data sharing, middleware interoperability via software-definition, and coordinated software-definition of distributed IT systems.
 
+# Projects
+
+To be announced.
+
 # Testbeds and Resources
 
 PRAGMA Experimental Network Testbed ([PRAGMA-ENT](https://github.com/pragmagrid/pragma_ent/wiki))
