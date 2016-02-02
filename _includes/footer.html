@@ -1,21 +1,20 @@
-<div class="container">
+<footer class="container">
 	<p class="NSF_footer">
 		<img align="left" src="/img/nsf1.gif">
 		{{ site.NSF_footer_text }}
 	</p>
-</div>
 
 {% if site.theme.katex %}
 <script src="{{ "/js/katex_init.js" | prepend: site.baseurl }}"></script>
 {% endif %}
 
 {% if site.theme.footer_text %}
-<footer class="site-footer">
-	<p class="text">{{ site.theme.footer_text }}</p>
-</footer>
+<div class="site-footer">
+	<p>{{ site.theme.footer_text }}</p>
+</div>
 {% endif %}
 
-
+</footer>
 
 
 <!-- Bootstrap core JavaScript
