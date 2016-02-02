@@ -2,7 +2,11 @@
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.globalcentra.org" # the base hostname & protocol for your site
 #custom site variables
-NSF_footer_text: "Communication is not possible. The shuttle has no power. Using the gravitational pull of a star to slingshot back in time? We are going to Starbase Montgomery for Engineering consultations prompted by minor read-out anomalies."
+NSF_footer_text: >
+   <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></br>
+   Except where otherwise noted, content on this site is licensed under a 
+   <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
+   Copyright 2016 ACIS Lab
 site_naivation_logo: <img src="/img/centra-logo.jpg">
 
 # THEME-SPECIFIC CONFIGURATION
