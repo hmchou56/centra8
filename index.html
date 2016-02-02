@@ -3,25 +3,30 @@ layout: default
 
 column1_newsitem1_headline: Welcome
 column1_newsitem1_image: /img/welcome.jpg
+column1_newsitem1_link: /about/#welcome
 column1_newsitem1_text: "US-EA CENTRA stands for US-East Asia Collaborations to Enable Transnational 
 Cyberinfrastructure Applications and refers to a partnership and evolving 
 framework for collaborations amongst research centers, institutes and 
 laboratories in the USA and East-Asia countries."
 
 column1_newsitem2_headline: 
-column1_newsitem2_text:
 column1_newsitem2_image:
+column1_newsitem2_link: 
+column1_newsitem2_text:
 
 column1_newsitem3_headline: 
-column1_newsitem3_text:
 column1_newsitem3_image:
+column1_newsitem3_link:
+column1_newsitem3_text:
 
 column1_newsitem4_headline: 
-column1_newsitem4_text:
 column1_newsitem4_image:
+column1_newsitem4_link: 
+column1_newsitem4_text:
 
 column2_newsitem1_headline: Collaborators
 column2_newsitem1_image: /img/collaborators.jpg
+column2_newsitem1_link: /about/#collaborators
 column2_newsitem1_text: "While administrated and operated from the University of Florida's
 Advanced Computing and Informations Systems Laboratory, key institutional partners
 in East Asia include the National Center for High-Performance Computing of the 
@@ -32,17 +37,21 @@ Asian partners in order to achieve scientific progress and engage junior researc
 in international activities."
 
 column2_newsitem2_headline: Meetings
+column2_newsitem2_image: /img/meetings.png
+column2_newsitem2_link: 
 column2_newsitem2_text: "Meetings and seminars play a critical role in communications and
 program planning for the CENTRA collaborators."
-column2_newsitem2_image: /img/meetings.png
 
 column2_newsitem3_headline: 
-column2_newsitem3_text:
 column2_newsitem3_image:
+column2_newsitem3_link: 
+column2_newsitem3_text:
 
 column2_newsitem4_headline: 
-column2_newsitem4_text:
 column2_newsitem4_image:
+column2_newsitem4_link: 
+column2_newsitem4_text:
+
 
 ---
 
@@ -73,6 +82,9 @@ column2_newsitem4_image:
             {% if page.column1_newsitem1_text %}
               <p>{{ page.column1_newsitem1_text }}</p>
             {% endif %}
+            {% if page.column1_newsitem1_link %}
+              <p><a class="btn btn-default" href="{{ page.column1_newsitem1_link }}" role="button">View details »</a></p>
+            {% endif %}
           </div>
           {% endif %}
 
@@ -86,6 +98,9 @@ column2_newsitem4_image:
             {% endif %}
             {% if page.column1_newsitem2_text %}
               <p>{{ page.column1_newsitem2_text }}</p>
+            {% endif %}
+            {% if page.column1_newsitem2_link %}
+              <p><a class="btn btn-default" href="{{ page.column1_newsitem2_link }}" role="button">View details »</a></p>
             {% endif %}
           </div>
           {% endif %}
@@ -102,6 +117,9 @@ column2_newsitem4_image:
             {% if page.column1_newsitem3_text %}
               <p>{{ page.column1_newsitem3_text }}</p>
             {% endif %}
+            {% if page.column3_newsitem1_link %}
+              <p><a class="btn btn-default" href="{{ page.column1_newsitem3_link }}" role="button">View details »</a></p>
+            {% endif %}
           </div>
           {% endif %}
 
@@ -115,6 +133,9 @@ column2_newsitem4_image:
             {% endif %}
             {% if page.column1_newsitem4_text %}
               <p>{{ page.column1_newsitem4_text }}</p>
+            {% endif %}
+            {% if page.column1_newsitem4_link %}
+              <p><a class="btn btn-default" href="{{ page.column1_newsitem4_link }}" role="button">View details »</a></p>
             {% endif %}
           </div>
           {% endif %}
@@ -133,6 +154,9 @@ column2_newsitem4_image:
             {% if page.column2_newsitem1_text %}
               <p>{{ page.column2_newsitem1_text }}</p>
             {% endif %}
+            {% if page.column2_newsitem1_link %}
+              <p><a class="btn btn-default" href="{{ page.column2_newsitem1_link }}" role="button">View details »</a></p>
+            {% endif %}
           </div>
           {% endif %}
 
@@ -146,6 +170,9 @@ column2_newsitem4_image:
             {% endif %}
             {% if page.column2_newsitem2_text %}
               <p>{{ page.column2_newsitem2_text }}</p>
+            {% endif %}
+            {% if page.column2_newsitem2_link %}
+              <p><a class="btn btn-default" href="{{ page.column2_newsitem2_link }}" role="button">View details »</a></p>
             {% endif %}
           </div>
           {% endif %}
@@ -162,6 +189,9 @@ column2_newsitem4_image:
             {% if page.column2_newsitem3_text %}
               <p>{{ page.column2_newsitem3_text }}</p>
             {% endif %}
+            {% if page.column2_newsitem3_link %}
+              <p><a class="btn btn-default" href="{{ page.column2_newsitem3_link }}" role="button">View details »</a></p>
+            {% endif %}
           </div>
           {% endif %}
 
@@ -175,6 +205,9 @@ column2_newsitem4_image:
             {% endif %}
             {% if page.column2_newsitem4_text %}
               <p>{{ page.column2_newsitem4_text }}</p>
+            {% endif %}
+            {% if page.column2_newsitem4_link %}
+              <p><a class="btn btn-default" href="{{ page.column2_newsitem4_link }}" role="button">View details »</a></p>
             {% endif %}
           </div>
           {% endif %}

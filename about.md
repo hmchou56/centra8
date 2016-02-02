@@ -6,7 +6,9 @@ permalink: /about/
 published: true
 ---
 
-#<a id="welcome"></a>What is US-EA CENTRA?
+<div id="welcome"></div>
+
+#What is US-EA CENTRA?
 
 US-EA CENTRA stands for US-East Asia Collaborations to Enable Transnational 
 Cyberinfrastructure Applications and refers to a partnership and evolving 
@@ -45,7 +47,9 @@ cyberinfrastructure instances where researchers get practical insight.
 
 To be announced.
 
-#<a id="collaborators"></a>Collaborators
+<div id="collaborators"></div>
+
+#Collaborators
 
 While administrated and operated from the University of Florida's
 Advanced Computing and Informations Systems Laboratory, key institutional partners
