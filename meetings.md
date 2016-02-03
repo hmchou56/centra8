@@ -8,4 +8,4 @@ published: true
 
 # Future Meetings
 
-The CENTRA project kick-off meeting will be held in March in Thailand.
+The CENTRA project kick-off meeting will be held March 30, 31 and April 1st in Taiwan.
