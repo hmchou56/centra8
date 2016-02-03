@@ -45,6 +45,8 @@ header {
   }
   .post-content {
     @extend %padding-small;
+    background-color: white;
+    margin-top: 30px;
   }
 }
 // Post navigation
