@@ -11,19 +11,17 @@ published: true
 <div>
 {% for news in site.news %}
 <div class="post-teaser">
-  <header>
-	<h1>
-	  <a class="post-link" href="{{ news.url | prepend: site.baseurl }}">
+	<h2>
+	  <a href="{{ news.url | prepend: site.baseurl }}">
 		{{ news.title }}
 	  </a>
-	</h1>
+	</h2>
 	<p class="meta">
 	  {{ news.date | date: "%B %-d, %Y" }}
 	</p>
-  </header>
   <div class="excerpt">
-	{{ news.excerpt }}
-	<a class="button" href="{{ post.url | prepend: site.baseurl }}">
+	<p>{{ news.excerpt }}</p>
+	<a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}">
 	  {{ site.theme.str_continue_reading }}
 	</a>
   </div>
