@@ -5,8 +5,6 @@
     	}
     	h1, h2, h3, h4, h5, h6 {
 		    color: #7a9806;
-		    font-weight: bold;
-		    padding-top: ;
     	    margin: 0.3em 0;
 		}
 		.story-highlight{
@@ -16,6 +14,8 @@
 		    padding-right: 1em;
 		    padding-bottom: 1px;
 		    margin-bottom: 1em;
+		    border-radius: 4px;
+		    font
 		}
 		.banner
 		{
@@ -67,4 +67,8 @@
 		{
 		    padding:5px 8px 7px 8px;
 		    color: #383838;
+		}
+		.title
+		{
+			font-weight: bold;
 		}
