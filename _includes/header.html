@@ -1,22 +1,32 @@
+<div class="container">
+
 <header class="site-header">
-	<div class="branding">
-		<h1 class="site-title">
-			<a href="{{ site.baseurl }}/">{{ site.site_naivation_logo }}</a>
-		</h1>
-	</div>
-	<nav class="site-nav">
-		<ul>
-			<li><a class="page-link" href="{{ site.baseurl }}/">Home</a></li>
-			{% for page in site.pages %}
-			{% if page.title and page.hide != true %}
-			<li>
-				<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
-					{{ page.title }}
-				</a>
- 			</li>
+
+	<a href="{{ site.baseurl }}/">{{ site.site_naivation_logo }}</a>
+
+	<nav>
+		<span style="float:right; margin-top:18px;">
+			{% if page.url == '/index.html' %}
+				<a href="{{ site.baseurl }}/" class="highlight-nav-link">Home</a>
+			{% else %}
+				<a href="{{ site.baseurl }}/" class="nav-link">Home</a>
+			{% endif %}
+
+			{% for navpage in site.pages %}
+			{% if navpage.title and navpage.hide != true and navpage.title != page.title %}
+				<a href="{{ navpage.url | prepend: site.baseurl }}" class="nav-link">
+					{{ navpage.title }}</a>
+
+				{% elsif navpage.title and navpage.hide != true and navpage.title == page.title %}
+
+				<a href="{{ navpage.url | prepend: site.baseurl }}" class="highlight-nav-link">
+					{{ navpage.title }}</a>
+
 			{% endif %}
 			{% endfor %}
-
-		</ul>
+		</span>
 	</nav>
+
 </header>
+
+</div>

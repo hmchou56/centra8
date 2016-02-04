@@ -4,7 +4,7 @@ url: "http://www.globalcentra.org" # the base hostname & protocol for your site
 #custom site variables
 NSF_footer_text: >
    US-EA CENTRA has been funded by a grant (NSF ACI 1550126) from the National Science Foundation<br>
-site_naivation_logo: <img src="/img/centra-logo.jpg">
+site_naivation_logo: <img src="/img/centra-logo.jpg" align="left">
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
