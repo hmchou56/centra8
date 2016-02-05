@@ -8,7 +8,7 @@ published: true
 
 # Founding Members
 
-Institutional partners in East Asia who are key to the proposed work include the Center of Excellence for Cyber-  Enablement of Cyberinfrastructure Applications hosted by the National Center for High-performance Computing (NCHC) of the National Applied Research Laboratories (NARL) of Taiwan, and the ASEAN International Virtual Organization of the National Institute of Information and Communication Technologies of Japan. Both aim to enable research collaborations with countries in South-East Asia on topics aligned with the objectives of this project. Each partner will host workshops, support researcher visits to other partners and provide access to cyberinfrastructure testbeds. In addition to scientific outcomes, this project is contributing towards a framework to coordinate research involving these and other partners in order to achieve scientific progress and engage junior researchers in international activities.
+The founding members of CENTRA are the Advanced Computing and Information Systems (ACIS) laboratory of the University of Florida with support from the National Science Foundation (NSF) of the USA, the Center of Excellence for Cyber-Enablement of Applications (CECEA) of the National Center for High-Performance Computing (NCHC) of Taiwan with support from the Ministry of Science and Technology (MOST) of Taiwan, and the ASEAN International Virtual Organization (IVO) funded by the National Institute of Information and Communications Technologies (NICT), Japan.
 
 # Partners
 

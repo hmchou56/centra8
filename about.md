@@ -8,13 +8,17 @@ published: true
 
 <div id="welcome"></div>
 
-# What is US-EA CENTRA?
+# What is CENTRA?
 
 CENTRA stands for Collaborations to Enable Transnational Cyberinfrastructure Applications and refers to a partnership and evolving framework for collaborations amongst research centers, institutes and laboratories across the world.
 
-# Mission
+# Vision
 
-To be written.
+CENTRA envisions:
+
+* An international community of scientists, educators, policy makers, and citizens invested in the advancement of research on transnational cyberinfrastructure and its applications
+* A transnational network of instrumented cyberinfrastructure testbeds accessible to international teams of researchers
+* A framework that facilitates the formation of long-lived collaboration teams across borders and enables their members to work together via remote communication and stays at collaborating sites.
 
 # Objectives
 
@@ -35,10 +39,22 @@ that need to be implemented. The confluence of these two trends creates many
 novel research questions and disrupts many established IT solutions adopted for 
 problems of local or national scope and homogeneous cyberinfrastructures whose 
 IT stack components have a static nature with respect to their configuration and 
-control. This projects pursues the rigorous understanding and solution of these 
+control. This project pursues the rigorous understanding and solution of these 
 scientific problems via international collaborations which bring out real-world 
 contexts of transnational applications and create transnational 
 cyberinfrastructure instances where researchers get practical insight.
+
+# Mission
+
+CENTRA will
+
+ Harness software-defined technologies to address transnational societal needs in domains that include but are not limited to disaster management, environmental modeling and smart and connected communities.
+
+* Advance the science needed to design and use these technologies to build effective and efficient transnational IT systems
+* Train the next generation of students and innovators to work in trans-national setting through
+	* Convening experts in workshops to identify solutions to key problems.
+	* Providing students an immersive experience in collaborative, multidisciplinary teams that address the transnational problems (and provide them opportunities of entrepreneurial experiences).
+	* Facilitating the use and development of prototypes and testbeds to demonstrate solutions.
 
 # Advisory Board
 

@@ -8,7 +8,7 @@ published: true
 
 # Application Domains
 
-The activities of this project aim to advance the scientific understanding of distributed software-defined cyberinfrastructures and the ability to run scientific applications using data and tools in different countries. Specifically, the targeted applications are in environmental modeling, disaster management and smart cities, focusing on how these domains impact each other. 
+The activities of this project aim to advance the scientific understanding of distributed software-defined cyberinfrastructures and the ability to run scientific applications using data and tools in different countries. Specifically, the targeted applications are in environmental modeling, disaster management and smart and connected communities, focusing on how these domains impact each other. 
 
 # IT Research
 
@@ -20,7 +20,7 @@ To be announced.
 
 # Testbeds and Resources
 
-The following testbeds and systems are availible to researchers in the CENTRA project.
+The following testbeds and systems are available to researchers in the CENTRA project.  Click on their acronyms to find out how impressive they are.
 
 - **PRAGMA Experimental Network Testbed** ([PRAGMA-ENT](https://github.com/pragmagrid/pragma_ent/wiki)) - A breakable
 international software-defined network (SDN) testbed.
