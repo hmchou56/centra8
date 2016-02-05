@@ -10,10 +10,7 @@ published: true
 
 # What is US-EA CENTRA?
 
-US-EA CENTRA stands for US-East Asia Collaborations to Enable Transnational 
-Cyberinfrastructure Applications and refers to a partnership and evolving 
-framework for collaborations amongst research centers, institutes and 
-laboratories in the USA and East-Asia countries.
+CENTRA stands for Collaborations to Enable Transnational Cyberinfrastructure Applications and refers to a partnership and evolving framework for collaborations amongst research centers, institutes and laboratories across the world.
 
 # Mission
 
@@ -51,14 +48,7 @@ To be announced.
 
 # Collaborators
 
-While administrated and operated from the University of Florida's
-Advanced Computing and Informations Systems Laboratory, key institutional partners
-in East Asia include the National Center for High-Performance Computing of the 
-National Applied Research Laboratories of Taiwan and the National Institute of
-Information and Communication Technologies of Japan. This project is to contribute
-towards a framework to coordinate CI-based and CI-enabled research with East
-Asian partners in order to achieve scientific progress and engage junior researchers
-in international activities.
+CENTRA engages international entities in collaborative research activities in several ways. Institutional members provide access to facilities and testbeds to host researchers and enable experimental work. Individual researchers who belong to member institutions, or are invited by these institutions, can participate in CENTRA projects. Current institutional members are the Advanced Computing and Information Systems (ACIS) laboratory of the University of Florida, the Center of Excellence for Cyber-Enablement of Applications (CECEA) in Taiwan and the National Institute of Information and Communications Technologies (NICT) in Japan. Researchers who have accepted invitations of interest in participation in CENTRA activities are from a growing number of countries which include the following: Indonesia, Japan, Philippines, Malaysia, Thailand, Singapore and USA.
 
 # Funding
 
