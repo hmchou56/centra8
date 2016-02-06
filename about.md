@@ -46,12 +46,11 @@ cyberinfrastructure instances where researchers get practical insight.
 
 # Mission
 
-CENTRA will
+CENTRA's mission is to
 
- Harness software-defined technologies to address transnational societal needs in domains that include but are not limited to disaster management, environmental modeling and smart and connected communities.
-
+* Harness software-defined technologies to address transnational societal needs in domains that include but are not limited to disaster management, environmental modeling and smart and connected communities.
 * Advance the science needed to design and use these technologies to build effective and efficient transnational IT systems
-* Train the next generation of students and innovators to work in trans-national setting through
+* Train the next generation of students and innovators to work in transnational settings through
 	* Convening experts in workshops to identify solutions to key problems.
 	* Providing students an immersive experience in collaborative, multidisciplinary teams that address the transnational problems (and provide them opportunities of entrepreneurial experiences).
 	* Facilitating the use and development of prototypes and testbeds to demonstrate solutions.
