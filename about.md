@@ -73,3 +73,8 @@ partners include the Center of Excellence for Cyber-Enablement of Applications
 Taiwan, and the ASEAN International Virtual Organization (IVO) funded by the 
 National Institute of Information and Communications Technologies (NICT) of 
 Japan.
+
+# Contact
+
+For more information about CENTRA or to express an interest in collaborating, please
+contact us via email at centra@acis.ufl.edu
