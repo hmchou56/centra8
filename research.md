@@ -37,13 +37,12 @@ and "unbreakable" networks, especially in the case of a disaster, this center ai
 resilient ICT technologies.
 
 - **Research Infrastructure for Large-Scale Network Experiments** ([RISE](https://www.jgn.nict.go.jp/nwgn/rise/index.html)) -
-A New Generation Network Testbed (NICT JGN-X) wide-area SDN testbed including East Asia, Japan, and the US connected via TEIN.
+A New Generation Network Testbed (NICT JGN-X) wide-area SDN testbed including East Asia, Japan, and the US connected via [TEIN](http://tein4.net/tein4/about/history.do).
 
 <img src="/img/dis.jpg" style="padding: 0 1.5em 0 1em;" class="pull-left img-responsive" >
 
 - **National Center for High Performance Computing - Taiwan** ([NCHC](https://www.nchc.org.tw/en/)) - A member of the National Applied Research 
-Laboratories (NARLabs) providing national services of compute, storage, and network services to Academia of Taiwan. A total
-of 200 terra-float compute, 6 petabyte storage, and 100 Gb/s Taiwan Research and Educational Network available.
+Laboratories (NARLabs) providing national services of compute, storage, and network services to Academia of Taiwan. A total of 200 teraflop compute, 6 petabyte storage, and 100 Gb/s Taiwan Research and Educational Network available.
 
    - **Future Internet SDN Testbed** - A national SDN testbed based on OpenFlow and connected to iGENI@US and [JGN-X@JP](http://www.jgn.nict.go.jp/english/index.html)
    - **Software defined systems for real world applications** - Flood mitigation, Bridge safety monitoring, Precision
