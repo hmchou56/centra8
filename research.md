@@ -20,7 +20,7 @@ To be announced.
 
 # Testbeds and Resources
 
-The following testbeds and systems are available to researchers in the CENTRA project.  Click on their acronyms to find out how impressive they are.
+The following testbeds and systems are available to CENTRA researchers.  Click on their acronyms to find out how impressive they are.
 
 <img src="/img/starbed.jpg" style="float:right; padding: 0 0 1em 1em;" class="img-responsive" >
 
