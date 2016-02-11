@@ -42,7 +42,7 @@ IT stack components have a static nature with respect to their configuration and
 control. This project pursues the rigorous understanding and solution of these 
 scientific problems via international collaborations which bring out real-world 
 contexts of transnational applications and create transnational 
-cyberinfrastructure instances where researchers get practical insight.
+cyberinfrastructure instances where researchers get practical insight. Currently, the broad application domains of interest are disaster management, environmental modeling and smart and connected communities.
 
 # Mission
 
@@ -50,9 +50,9 @@ CENTRA's mission is to
 
 * Harness software-defined technologies to address transnational societal needs in domains that include but are not limited to disaster management, environmental modeling and smart and connected communities.
 * Advance the science needed to design and use these technologies to build effective and efficient transnational IT systems
-* Train the next generation of students and innovators to work in transnational settings through
+* Train the next generation of junior researchers and innovators to work in transnational settings through
 	* Convening experts in workshops to identify solutions to key problems.
-	* Providing students an immersive experience in collaborative, multidisciplinary teams that address the transnational problems (and provide them opportunities of entrepreneurial experiences).
+	* Providing junior researchers an immersive experience in collaborative, multidisciplinary teams that address the transnational problems (and provide them opportunities of entrepreneurial experiences).
 	* Facilitating the use and development of prototypes and testbeds to demonstrate solutions.
 
 # Advisory Board
@@ -63,7 +63,7 @@ To be announced.
 
 # Collaborators
 
-CENTRA engages international entities in collaborative research activities in several ways. Institutional members provide access to facilities and testbeds to host researchers and enable experimental work. Individual researchers who belong to member institutions, or are invited by these institutions, can participate in CENTRA projects. Current institutional members are the Advanced Computing and Information Systems (ACIS) laboratory of the University of Florida, the Center of Excellence for Cyber-Enablement of Applications (CECEA) in Taiwan and the National Institute of Information and Communications Technologies (NICT) in Japan. Researchers who have accepted invitations of interest in participation in CENTRA activities are from a growing number of countries which include the following: Indonesia, Japan, Philippines, Malaysia, Thailand, Singapore and USA.
+CENTRA engages international entities in collaborative research activities in several ways. Institutional members provide access to facilities and testbeds to host researchers and enable experimental work. Individual researchers who belong to member institutions, or are invited by these institutions, can participate in CENTRA projects. Current institutional members are the Advanced Computing and Information Systems (ACIS) laboratory of the University of Florida, the Center of Excellence for Cyber-Enablement of Applications (CECEA) in Taiwan and the National Institute of Information and Communications Technologies (NICT) in Japan. Researchers who have accepted invitations of interest in participation in CENTRA activities are from a growing number of countries which include the following: Indonesia, Japan, Philippines, Malaysia, Myanmar, Taiwan, Thailand, Singapore, Vietnam and USA.
 
 # Funding
 
