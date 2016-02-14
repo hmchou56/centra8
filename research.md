@@ -16,7 +16,7 @@ The related middleware research seeks solutions for software-defined data sharin
 
 # Projects
 
-To be announced.
+To be posted after the kickoff meeting.
 
 # Testbeds and Resources
 
