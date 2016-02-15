@@ -21,10 +21,11 @@ published: true
 	</p>
   <div class="excerpt">
 	<p>{{ news.excerpt }}</p>
-	<a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}">
+	<a class="btn btn-default" href="{{ news.url | prepend: site.baseurl }}">
 	  {{ site.theme.str_continue_reading }}
 	</a>
   </div>
 </div>
+<p>&nbsp;</p>
 {% endfor %}
 </div>
