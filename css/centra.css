@@ -32,7 +32,7 @@
 
 		.NSF_footer
 		{
-			display: flex;
+			/* display: flex; */
     		align-items: center;	
     		padding: .5em;
 		}
