@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Global CENTRA website launches
-excerpt: The Global Centra Website launched February 15, 2015 to assist worldwide collaborators reach their project goals
+excerpt: The Global Centra Website launched February 15, 2016 to assist worldwide collaborators reach their project goals
 ---
 
 ## What is CENTRA?
