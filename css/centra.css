@@ -35,8 +35,14 @@
 			/* display: flex; */
     		align-items: center;	
     		padding: .5em;
+    		display: table;
 		}
-
+		.NSF_footer_text
+		{
+		    display: table-cell;
+		    vertical-align: middle;
+		    padding: 0 0 0 1em;
+		}
 		.jumbotron
 		{
 			padding-bottom: 0;
