@@ -82,3 +82,11 @@
 		{
 			font-weight: bold;
 		}
+		.member-heading
+		{
+			color:#7a9806;
+		}
+		.member-image
+		{
+			float:left; padding: .5em 1em 1em 0;
+		}
