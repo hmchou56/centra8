@@ -6,13 +6,13 @@ permalink: /meetings/
 published: true
 ---
 
-#Future Meetings
+# Future Meetings
 
 The CENTRA project kick-off meeting will be held March 30, 31 and April 1st in Taiwan.
 
 Join the CENTRA Kickoff Meeting [Forum Discussions](https://groups.google.com/forum/#!forum/centrakickoff)
 
-##Meeting Attendees
+## Meeting Attendees
 
 <img src="/img/members/josefortes.jpg" class="member-image">
 <span class="member-heading">
