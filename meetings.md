@@ -73,6 +73,7 @@ Research Interests:</span> Modeling and simulation, computer networking, paralle
 
 Dr. Jason Liu is an Associate Professor at the School of Computing and Information Sciences at Florida International University. His research focuses on parallel discrete-event simulation and high-performance modeling and simulation of computer networks and computer systems, funded by NSF, DHS, DOD, and DOE. Dr. Liu is an NSF CAREER Award recipient and an ACM Distinguished Scientist. He served as general chairs and program chairs for several conferences, and on the technical committees for many  system and network modeling and simulation conferences. He is currently a Steering Committee member for ACM SIGSIM-PADS, and is on the editorial board for ACM TOMACS and SCS SIMULATION.
 
+<img src="/img/members/thonguyen.jpg" class="member-image">
 <span class="member-heading">
 <strong>Tho Nguyen</strong><br>
 University of Virginia<br>
@@ -142,6 +143,7 @@ Research Interests:</span> high performance computing, performance analysis, pow
 
 Valerie Taylor is the Senior Associate Dean of Academic Affairs in the Dwight Look College of Engineering and the Regents Professor and Royce E. Wisenbaker Professor in the Department of Computer Science and Engineering at Texas A&M University.  She is also the Executive Director of the Center for Minorities and People with Disabilities in IT (CMD-IT).  Dr. Taylor is an IEEE Fellow and has received numerous awards for distinguished research and leadership, including the 2001 IEEE Harriet B. Rigas Award for a woman with significant contributions in engineering education, the 2002 Outstanding Young Engineering Alumni from the University of California at Berkeley, the 2002 CRA Nico Habermann Award for increasing the diversity in computing, and the 2005 Tapia Achievement Award for Scientific Scholarship, Civic Science, and Diversifying Computing. Dr. Taylor earned her B.S. in Electrical and Computer Engineering and M.S. in Computer Engineering from Purdue University in 1985 and 1986, respectively, and a Ph.D. in Electrical Engineering and Computer Sciences from the University of California, Berkeley, in 1991.
 
+<img src="/img/members/ryanvrecenar.jpg" class="member-image">
 <span class="member-heading">
 <strong>Ryan Vrecenar</strong><br>
 Texas A and M University<br>
