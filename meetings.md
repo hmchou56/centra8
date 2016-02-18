@@ -154,7 +154,7 @@ I am a first year PhD student working under Dr. Liu with interest in Reverse Eng
 <strong>Hiroaki Yamanaka</strong><br>
 National Institute of Information and Communications Technology<br>
 <a href="mailto:hyamanaka@nict.go.jp">hyamanaka@nict.go.jp</a><br>
-Research Interests:</span> SDN, Virtualiation, Edge computing, IoT
+Research Interests:</span> SDN, virtualization, Edge computing, IoT
 
 Hiroaki Yamanaka received M.E. and Ph.D from Osaka University in 2008 and 2011, respectively. From 2011, he is a researcher at Network Testbed R&D Laboratory of National Institute of Information and Communications Technology (NICT). His current research work is focusing on network virtualization and OpenFlow.
 
