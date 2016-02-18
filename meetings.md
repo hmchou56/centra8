@@ -145,7 +145,7 @@ Valerie Taylor is the Senior Associate Dean of Academic Affairs in the Dwight Lo
 <span class="member-heading">
 <strong>Ryan Vrecenar</strong><br>
 Texas A and M University<br>
-<a href="mailto:ryanvrecenar@email.tamu.edu">sshimojo@gmail.com</a><br>
+<a href="mailto:ryanvrecenar@email.tamu.edu">ryanvrecenar@email.tamu.edu</a><br>
 Research Interests:</span> Reverse Engineering, Security, Binary Modeling
 
 I am a first year PhD student working under Dr. Liu with interest in Reverse Engineering and Security. I have been a TA for Operating Systems and Reverse Engineering for my first year at A and M. I typically play real time strategy games and military oriented games and these games typically drive some extra interests that I try to look into for research. I am from Houston and the vibe in College Station feels like a small town.
