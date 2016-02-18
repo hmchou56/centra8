@@ -73,6 +73,15 @@ Research Interests:</span> Modeling and simulation, computer networking, paralle
 
 Dr. Jason Liu is an Associate Professor at the School of Computing and Information Sciences at Florida International University. His research focuses on parallel discrete-event simulation and high-performance modeling and simulation of computer networks and computer systems, funded by NSF, DHS, DOD, and DOE. Dr. Liu is an NSF CAREER Award recipient and an ACM Distinguished Scientist. He served as general chairs and program chairs for several conferences, and on the technical committees for many  system and network modeling and simulation conferences. He is currently a Steering Committee member for ACM SIGSIM-PADS, and is on the editorial board for ACM TOMACS and SCS SIMULATION.
 
+<span class="member-heading">
+<strong>Tho Nguyen</strong><br>
+University of Virginia<br>
+<a href="mailto:ntho@virginia.edu">ntho@virginia.edu</a><br>
+<a href="http://cap.virginia.edu">cap.virginia.edu</a><br>
+Research Interests:</span> cyber-physical systems, environmental sensing, cyberinfrastructure, resiliency, large-scale system modeling
+
+Tho Nguyen is the Managing Director of the Center for Automata Processing (CAP) and Senior Research Program Officer in the Computer Science Department at the University of Virginia. Tho is primarily responsible for project and program development .  Tho obtained his PhD from the Department of Electrical Engineering (Systems, Controls & Robotics) at the University of Washington in 2009.  His past work focused on sensing, modeling, and application of controls for large-scale environmental systems.  Tho’s current research interest is in extending cyber-physical systems theory and technologies to mitigate the impact of disruptions to large scale systems (i.e., resiliency). Tho has had extensive international research experience and was previously funded by NSF and USAID. Prior to joining UVa, Tho served as a AAAS Fellow appointed to the National Science Foundation, where he worked on the Cyber-Physical Systems Program (2013-2015).  He is also a former J. William Fulbright Fellow to Vietnam. 
+
 <img src="/img/members/glenricart.jpg" class="member-image">
 <span class="member-heading">
 <strong>Glenn Ricart</strong><br>
