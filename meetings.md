@@ -12,7 +12,26 @@ The CENTRA project kick-off meeting will be held March 30, 31 and April 1st in T
 
 Join the CENTRA Kickoff Meeting [Forum Discussions](https://groups.google.com/forum/#!forum/centrakickoff)
 
-## Meeting Attendees
+## Kickoff meeting attendees
+
+<span class="member-heading">
+<strong>James (Jim) Beach</strong><br>
+University of Kansas, Lawrence, KS USA<br>
+<a href="mailto:beach@ku.edu">beach@ku.edu</a><br>
+<a href="http://lifemapper.org">lifemapper.org</a><br>
+<a href="http://specifysoftware.org">specifysoftware.org</a><br>
+Research Interests:</span> biological museum data processing, biodiversity modelling software
+
+I originally trained as a tree breeding systems biologist and studied in a Costa Rican rainforest. In the mid-1980s, I shifted career direction to the emerging field of biodiversity informatics with an emphasis on museum collection computerization and networked data communications. Today, I guide a biodiversity software engineering group within the University of Kansas Biodiversity Institute.  We produce and support open-source 'Specify' software for computerizing biological collections (specifysoftware.org).  I also direct the Lifemapper Project which includes a high-performance computation platform and web services for species distribution and macroecological modeling, and for metacommunity phylogenetics (lifemapper.org).
+
+<span class="member-heading">
+<strong>Ling-Jyh Chen</strong><br>
+Academia Sinica<br>
+<a href="mailto:cclljj@gmail.com">cclljj@gmail.com</a><br>
+<a href="https://sites.google.com/site/cclljj/">sites.google.com/site/cclljj/</a><br>
+Research Interests:</span> participatory urban sensing; networked sensing systems
+
+Dr. Ling-Jyh Chen received the B.Ed. degree in information and computer education from National Taiwan Normal University in 1998, and the M.S. and Ph.D. degrees in computer science from University of California at Los Angeles in 2002 and 2005 respectively. He joined the Institute of Information Science of Academia Sinica as Assistant Research Fellow in 2005, and became an Associate Research Fellow in 2011. His research interests are networked sensing systems, wireless and mobile networks, mobile computing, and social computing. His current research projects are comfort measuring system (CMS) of Taipei bus systems and micro-air pollution sensing systems (MAPS).
 
 <span class="member-heading">
 <strong>Yen-Jong Chen (陳彥仲)</strong><br>
@@ -21,6 +40,15 @@ National Cheng Kung University (成功大學), Taiwan<br>
 Research Interests:</span> Urban System, Housing Economics, Energy Application, Green City
 
 I received Ph.D. from Northwestern University, IL. USA (1993), and is the Distinguished Professor of Urban Planning in NCKU, Taiwan. I served as the department  chair of Urban Planning in NCKU (2005-2008), and also, for more than 20 years, served as the reviewer of research projects for government, MoST, and academic journals.  
+
+<span class="member-heading">
+<strong>Susumu Date</strong><br>
+Osaka University<br>
+<a href="mailto:date@ais.cmc.osaka-u.ac.jp">date@ais.cmc.osaka-u.ac.jp</a><br>
+<a href="http://ds-server.ais.cmc.osaka-u.ac.jp/">ds-server.ais.cmc.osaka-u.ac.jp/</a><br>
+Research Interests:</span> grid, cloud, sdn
+
+Susumu Date is Associate Professor of the Cybermedia Center at Osaka University since 2008. I received my B.E., M.E., and Ph.D. from Osaka University in 1997, 2000, and 2002, respectively. I was Assistant Professor of the Graduate School of Information Science and Technology at Osaka University from 2002 to 2005. I also had worked as a visiting scholar in University of California, San Diego in 2005. From 2005 to 2008, I had worked on the internationalization of education in the Graduate School of Information Science and Technology at Osaka University as a Specially-Appointed Associate Professor.
 
 <img src="/img/members/pdinda.jpg" class="member-image">
 <span class="member-heading">
@@ -52,6 +80,15 @@ ACIS, University of Florida<br>
 
 I am a computer scientist and engineer teaching at the University of Florida. I am also the Director of the Advanced Computing and Information Systems (ACIS) lab. My research interests are in the areas of distributed computing, autonomic computing, computer architecture, parallel processing and fault-tolerant computing. I have also worked extensively in the development of e-science cyberinfrastructures, including PUNCH, Nanohub, FutureGrid and iDigBio. Currently, I am particularly interested in all aspects of software-defined systems and how they introduce new questions in the above-listed areas. Transnational contexts are of particular interest to me because they bring out the need for collaborative autonomics across software stacks that are deep and/or distributed among different administrative domains.
 
+<span class="member-heading">
+<strong>Jason Haga</strong><br>
+AIST<br>
+<a href="mailto:jh.haga@aist.go.jp">jh.haga@aist.go.jp</a><br>
+<a href="http://www.aist.go.jp/index_en.html">www.aist.go.jp/index_en.html</a><br>
+Research Interests:</span> IoT, visualization, user experience, interdisciplinary collaboration
+
+Jason Haga is a Senior Research Scientist in the Information Technology Research Institute of AIST. His past research work involved the design and implementation of applications for grid computing environments and tiled display walls. Jason has over 11 years of collaborative efforts with members of the PRAGMA community and continues to look for opportunities, both within the community and abroad.
+
 <img src="/img/members/kylehale.jpg" class="member-image">
 <span class="member-heading">
 <strong>Kyle Hale</strong><br>
@@ -63,6 +100,52 @@ Research Interests:</span> operating systems, high-performance computing, comput
 Kyle C. Hale is a PhD candidate in Computer Science at Northwestern University, advised by Professor Peter Dinda. His research interests lie at the intersection of operating systems, parallel computing, and computer architecture, with a focus on building experimental systems. His work ranges from Networks-on-Chip to specialized operating systems and parallel languages. He has held research internships in industry (VMware, Fujitsu) and at Sandia National Labs. He is a major contributor to several open-source codebases, including the Palacios Virtual Machine Monitor, the Nautilus Aerokernel, and Philix, a toolkit for booting and customizing OS kernels on the Xeon Phi. 
 He received his BS in Computer Science from The University of Texas at Austin in 2010,  an MS in Computer Science from Northwestern in 2013, and will receive his PhD in Spring of 2016.
 
+<span class="member-heading">
+<strong>Yeni Herdiyeni</strong><br>
+Bogor Agricultural University, Indonesia<br>
+<a href="mailto:yeni.herdiyeni@ipb.ac.id">yeni.herdiyeni@ipb.ac.id</a><br>
+<a href="http://cs.ipb.ac.id/~yeni/">cs.ipb.ac.id/~yeni/</a><br>
+Research Interests:</span> Computer vision, image processing, pattern recognition, biodiversity informatics
+
+I am a lecturer in Department of Computer Science, Faculty of Mathematics and Natural Sciences, Bogor Agricultural University (Institut Pertanian Bogor – IPB), West Java, Indonesia. My research research areas are digital image processing, computer vision, pattern recognition, computational intelligence and biodiversity informatics. Now I am head of Computational Intelligence laboratory and Computer Vision Research Group at Department of Computer Science IPB. Currently,  I have been working on Biodiversity Informatics (IPBiotics) development in IPB.
+
+<span class="member-heading">
+<strong>Weicheng Huang</strong><br>
+NCHC<br>
+<a href="mailto:whuang@nchc.narl.org.tw">whuang@nchc.narl.org.tw</a><br>
+Research Interests:</span> big data
+
+I am Weicheng Huang, a local participant from NCHC. My specialty includes parallel processing, grid, cloud and currently big data.
+
+<span class="member-heading">
+<strong>Shantenu Jha</strong><br>
+Rutgers University<br>
+<a href="mailto:shantenu.jha@rutgers.edu">shantenu.jha@rutgers.edu</a><br>
+<a href="http://radical.rutgers.edu/shantenu">radical.rutgers.edu/shantenu</a><br>
+Research Interests:</span> High-performance distributed computing, Computational Science, Cyberinfrastructure
+
+Shantenu is an Associate Professor of Computer Engineering at Rutgers
+University. His research interests lie at the triple point of High-performance distributed computing, Computational Science and Cyberinfrastructure; more details can be found at http://radical.rutgers.edu. Shantenu leads the RADICAL-Cybertools (http://radical-cybertools.github.com) project which are a suite of
+standards-driven and abstractions-based tools used to support
+large-scale science and engineering applications. He has won several awards at leading supercomputing conferences for the application of high-performance distributed computing to computational science. His research is supported by the US DOE and NSF, including the CAREER Award. He was appointed a Rutgers Chancellor Scholar in 2015. Away from work, Jha indulges in middle-distance running and the quest for the perfect bad joke!
+
+<span class="member-heading">
+<strong>Eiji Kawai</strong><br>
+NICT<br>
+<a href="mailto:eiji-ka@nict.go.jp">eiji-ka@nict.go.jp</a><br>
+<a href="http://www.nict.go.jp/">www.nict.go.jp/</a><br>
+Research Interests:</span> SDI, testbed, IoT
+
+Eiji Kawai joined NICT in 2009 and has been conducting research on advanced networking technologies for Future Internet as director of Network Testbed R&D Laboratory. He is now interested in deployment of SDN/SDI technologies on large-scale network infrastructure for IoT applications.
+
+<span class="member-heading">
+<strong>Fang-Pang Lin</strong><br>
+National Center for High-Performance Computing<br>
+<a href="mailto:fplin@nchc.narl.org.tw">fplin@nchc.narl.org.tw</a><br>
+Research Interests:</span> Cloud Computing, Sensor Network, Disaster Management, Smart Cities
+
+Dr. Fang-Pang Lin obtained his PhD in University of Wales at Swansea, UK in 1995. He worked in Rolls-Royce University Computing Center in Oxford University as a research scientist after one-year postdoctoral research in Swansea. He joined NCHC in Oct1997 and has been working in numerical simulation and software engineering regarding application integration. 
+
 <img src="/img/members/jasonliu.jpg" class="member-image">
 <span class="member-heading">
 <strong>Jason Liu</strong><br>
@@ -72,6 +155,14 @@ Florida International University<br>
 Research Interests:</span> Modeling and simulation, computer networking, parallel computing, computer systems
 
 Dr. Jason Liu is an Associate Professor at the School of Computing and Information Sciences at Florida International University. His research focuses on parallel discrete-event simulation and high-performance modeling and simulation of computer networks and computer systems, funded by NSF, DHS, DOD, and DOE. Dr. Liu is an NSF CAREER Award recipient and an ACM Distinguished Scientist. He served as general chairs and program chairs for several conferences, and on the technical committees for many  system and network modeling and simulation conferences. He is currently a Steering Committee member for ACM SIGSIM-PADS, and is on the editorial board for ACM TOMACS and SCS SIMULATION.
+
+<span class="member-heading">
+<strong>Toshiyuki Miyachi</strong><br>
+NICT<br>
+<a href="mailto:miyachi@nict.go.jp">miyachi@nict.go.jp</a><br>
+Research Interests:</span> Network Testbed
+
+Toshiyuki Miyachi is the director of Hokuriku StarBED technology center, National Institute of Information and Communications Technology(NICT). He received his M.Sc. and Ph.D. degrees from Information Science at Japan Advanced Institute of Science and Technology(JAIST) in 2002 and 2007 respectively. He and his research group focused on several topics on network testbed especially by utilizing StarBED; network architecture of testbed; reproduction of disaster situation & building platform to evaluate disaster recovery technologies; educational use of network testbed; IoT testbed and so forth.
 
 <img src="/img/members/thonguyen.jpg" class="member-image">
 <span class="member-heading">
@@ -102,6 +193,15 @@ Osaka University/NICT<br>
 Research Interests:</span> IOT, software defined system, commons
 
 Shinji Shimojo received the M.E. and Ph.D. degrees from Osaka University in 1983 and 1986, respectively. He has been a Professor with the Cybermedia Center(then the Computation Center) at Osaka University and the director of the Center. He is an executive researcher at National Institute of Information and Communications Technology and a director of Network Testbed Research and Development Promotion Center. 
+
+<span class="member-heading">
+<strong>Myint Myint Sein (Ms.)</strong><br>
+University of Computer Studies, Yangon, Myanmar<br>
+<a href="mailto:myint@ucsy.edu.mm">myint@ucsy.edu.mm</a><br>
+<a href="http://www.ucsy.edu.mm/ucsy/GoGISLab.do">www.ucsy.edu.mm/ucsy/GoGISLab.do</a><br>
+Research Interests:</span> GIS, Disaster Responding
+
+She received the Ph.D in Electrical Engineering from the Graduate School of Engineering, Osaka City University, Osaka, Japan in 2001. She is presently serving as a Pro-Rector and Head of Geographical Information System Lab., University of Computer Studies, Yangon, Myanmar.
 
 <img src="/img/members/shavasmallen.jpg" class="member-image">
 <span class="member-heading">
@@ -153,6 +253,40 @@ Research Interests:</span> Reverse Engineering, Security, Binary Modeling
 I am a first year PhD student working under Dr. Liu with interest in Reverse Engineering and Security. I have been a TA for Operating Systems and Reverse Engineering for my first year at A and M. I typically play real time strategy games and military oriented games and these games typically drive some extra interests that I try to look into for research. I am from Houston and the vibe in College Station feels like a small town.
 
 <span class="member-heading">
+<strong>Hui Ping Tsai</strong><br>
+National Chung Hsing University<br>
+<a href="mailto:huiping.tsai@gmail.com">huiping.tsai@gmail.com</a><br>
+Research Interests:</span> Remote sensing, land use and land cover change, climate variability
+
+Hui Ping Tsai received the Ph.D. degree in geography from the University of Florida in 2012. Currently, she is a Postdoctoral Fellow with the Center for Environmental Restoration and Disaster Reduction in NCHU. Recently, she work on investigating vegetation (using NDVI as a surrogate) and climate variabilities in Taiwan and would like to assess associations between them.  
+
+<span class="member-heading">
+<strong>Whey-Fone Tsai</strong><br>
+National Center for High-performance Computing, National Applied Research Laboratories, Taiwan<br>
+<a href="mailto:wftsai@nchc.narl.org.tw">wftsai@nchc.narl.org.tw</a><br>
+<a href="http://www.nchc.narl.org.tw/en/">www.nchc.narl.org.tw/en/</a><br>
+Research Interests:</span> Environmental Monitoring, Disaster Management, Big Data Application, Geo-spatial Application
+
+Whey-Fone Tsai obtained his PhD in Department of Civil and Environmental Engineering, University of Iowa, USA. He joined National Center for High-performance Computing (NCHC), Taiwan in 1993. From 1998 to 2009, he served as the deputy director of NCHC, and in 2008-2009 he was named the acting director of Taiwan Typhoon and Flood Research Institute. 2007~till now, he has been PI of multidisciplinary research projects, “3D GIS Taiwan” and “Disaster Management Information Platform” covering disaster management and environmental monitoring associated with HPC, cloud computing, and big data analytics. Meantime, he is also the adjunct professor in the Department of Hydraulics and Ocean Engineering, National Cheng Kung University, Taiwan.
+
+<span class="member-heading">
+<strong>Nadya Williams</strong><br>
+UCSD<br>
+<a href="mailto:nadya@sdsc.edu">nadya@sdsc.edu</a><br>
+Research Interests:</span> Software architecture, virtualization
+
+Worked at the University of California, San Diego since 1991. Received an M.S. Computer Science from UCSD in 2002. Worked in Switzerland 2006 - 2009 at Swiss National Supercomputing Center and the University of Zurich managing the Swiss Multi-Science Computing Grid project across multiple sites, including project planning and management, proposal and report writing, and technical tasks of deployment of Grid middleware. Currently, serve as functional lead in the design, specification and evaluation of software architectures that will be scalable and reusable for current and future environments for use by the NBCR community and a member of PRAMGA cloud infrastructure developers team at UCSD.
+
+<span class="member-heading">
+<strong>Shyhtsun Felix Wu</strong><br>
+University of California, Davis<br>
+<a href="mailto:sfwu@ucdavis.edu">sfwu@ucdavis.edu</a><br>
+<a href="http://web.cs.ucdavis.edu/~wu/">web.cs.ucdavis.edu/~wu/</a><br>
+Research Interests:</span> Cyber Security, Social Computing
+
+Dr. S. Felix Wu received his BS from Tunghai University, Taiwan in 1985, MS., and Ph.D. from Columbia University in 1989 and 1995 respectively, all in Computer Science. He is a Professor of Computer Science and Associate Dean, College of Engineering at University of California at Davis. He is interested in “experimental” research, i.e., building prototype systems to justify and validate novel architectural concepts. His most recent work is the SINCERE (Social Interaction Networks, Conversation Entropy Ranking Engine) project, which leverages social science principles in information analysis and computational applications. 
+
+<span class="member-heading">
 <strong>Hiroaki Yamanaka</strong><br>
 National Institute of Information and Communications Technology<br>
 <a href="mailto:hyamanaka@nict.go.jp">hyamanaka@nict.go.jp</a><br>
@@ -160,3 +294,10 @@ Research Interests:</span> SDN, virtualization, Edge computing, IoT
 
 Hiroaki Yamanaka received M.E. and Ph.D from Osaka University in 2008 and 2011, respectively. From 2011, he is a researcher at Network Testbed R&D Laboratory of National Institute of Information and Communications Technology (NICT). His current research work is focusing on network virtualization and OpenFlow.
 
+<span class="member-heading">
+<strong>Ming-Der Yang</strong><br>
+National Chung Hsing University<br>
+<a href="mailto:mdyang@nchu.edu.tw">mdyang@nchu.edu.tw</a><br>
+Research Interests:</span> Image processing, remote sensing, geographic information system, environmental monitoring, disaster assessment
+
+Ming-Der Yang is a Professor with the Department of Civil Engineering, National Chung Hsing University. He has devoted himself into the field of disaster investigation for many years and published many international journal research papers. Recently, research efforts have been put on developing 3-D reconstruction technology on remote sensing images for disaster monitoring and assessment.
