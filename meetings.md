@@ -15,6 +15,15 @@ Join the CENTRA Kickoff Meeting [Forum Discussions](https://groups.google.com/fo
 ## Kickoff meeting attendees
 
 <span class="member-heading">
+<strong>Alejandro H. Ballado, Jr.</strong><br>
+Mapua Institute of Technology<br>
+<a href="mailto:ahballado@mapua.edu.ph">ahballado@mapua.edu.ph</a><br>
+<a href="http://www.mapua.edu.ph">www.mapua.edu.ph</a><br>
+Research Interests:</span> Wireless Systems, RF and Microwaves, IoT, Smart Sytems
+
+I am currently the Dean of the School of Electrical, Electronics, and Computer Engineering in Mapua. I have completed all the course work and working on my PhD dissertation at the De La Salle University. I have published papers in local and international publications. I have attended various training and internships in Japan, Australia, Germany, and France. I am also a registered Patent Agent in the Philippines.
+
+<span class="member-heading">
 <strong>James (Jim) Beach</strong><br>
 University of Kansas, Lawrence, KS USA<br>
 <a href="mailto:beach@ku.edu">beach@ku.edu</a><br>
@@ -24,6 +33,7 @@ Research Interests:</span> biological museum data processing, biodiversity model
 
 I originally trained as a tree breeding systems biologist and studied in a Costa Rican rainforest. In the mid-1980s, I shifted career direction to the emerging field of biodiversity informatics with an emphasis on museum collection computerization and networked data communications. Today, I guide a biodiversity software engineering group within the University of Kansas Biodiversity Institute.  We produce and support open-source 'Specify' software for computerizing biological collections (specifysoftware.org).  I also direct the Lifemapper Project which includes a high-performance computation platform and web services for species distribution and macroecological modeling, and for metacommunity phylogenetics (lifemapper.org).
 
+<img src="/img/members/lingjyhchen.jpg" class="member-image">
 <span class="member-heading">
 <strong>Ling-Jyh Chen</strong><br>
 Academia Sinica<br>
@@ -41,6 +51,7 @@ Research Interests:</span> Urban System, Housing Economics, Energy Application, 
 
 I received Ph.D. from Northwestern University, IL. USA (1993), and is the Distinguished Professor of Urban Planning in NCKU, Taiwan. I served as the department  chair of Urban Planning in NCKU (2005-2008), and also, for more than 20 years, served as the reviewer of research projects for government, MoST, and academic journals.  
 
+<img src="/img/members/susumudate.jpg" class="member-image">
 <span class="member-heading">
 <strong>Susumu Date</strong><br>
 Osaka University<br>
@@ -100,6 +111,7 @@ Research Interests:</span> operating systems, high-performance computing, comput
 Kyle C. Hale is a PhD candidate in Computer Science at Northwestern University, advised by Professor Peter Dinda. His research interests lie at the intersection of operating systems, parallel computing, and computer architecture, with a focus on building experimental systems. His work ranges from Networks-on-Chip to specialized operating systems and parallel languages. He has held research internships in industry (VMware, Fujitsu) and at Sandia National Labs. He is a major contributor to several open-source codebases, including the Palacios Virtual Machine Monitor, the Nautilus Aerokernel, and Philix, a toolkit for booting and customizing OS kernels on the Xeon Phi. 
 He received his BS in Computer Science from The University of Texas at Austin in 2010,  an MS in Computer Science from Northwestern in 2013, and will receive his PhD in Spring of 2016.
 
+<img src="/img/members/yeniherdi.jpg" class="member-image">
 <span class="member-heading">
 <strong>Yeni Herdiyeni</strong><br>
 Bogor Agricultural University, Indonesia<br>
@@ -117,6 +129,7 @@ Research Interests:</span> big data
 
 I am Weicheng Huang, a local participant from NCHC. My specialty includes parallel processing, grid, cloud and currently big data.
 
+<img src="/img/members/shantenujha.png" class="member-image">
 <span class="member-heading">
 <strong>Shantenu Jha</strong><br>
 Rutgers University<br>
@@ -129,6 +142,7 @@ University. His research interests lie at the triple point of High-performance d
 standards-driven and abstractions-based tools used to support
 large-scale science and engineering applications. He has won several awards at leading supercomputing conferences for the application of high-performance distributed computing to computational science. His research is supported by the US DOE and NSF, including the CAREER Award. He was appointed a Rutgers Chancellor Scholar in 2015. Away from work, Jha indulges in middle-distance running and the quest for the perfect bad joke!
 
+<img src="/img/members/eijikawai.jpg" class="member-image">
 <span class="member-heading">
 <strong>Eiji Kawai</strong><br>
 NICT<br>
@@ -138,6 +152,21 @@ Research Interests:</span> SDI, testbed, IoT
 
 Eiji Kawai joined NICT in 2009 and has been conducting research on advanced networking technologies for Future Internet as director of Network Testbed R&D Laboratory. He is now interested in deployment of SDN/SDI technologies on large-scale network infrastructure for IoT applications.
 
+<span class="member-heading">
+<strong>Yoshiyuki Kido</strong><br>
+Osaka University<br>
+<a href="mailto:kido@cmc.osaka-u.ac.jp">kido@cmc.osaka-u.ac.jp</a><br>
+Research Interests:</span> TDW, SDN
+
+Yoshiyuki Kido is an Associate Professor of the Cybermedia Center, Osaka University.
+He received his Ph.D. from Osaka University in 2008. He was a Specially-appointed Assistant Professor of the Center for Advanced Medical Engineering and Informatics, Osaka University from 2008 to 2011.
+
+He was a Specially-appointed Researcher of the Graduate School of Information Science and Technology, Osaka University from 2011 to 2012.
+He worked in RIKEN, the HPCI Program for Computational Life Science from 2012 to 2013. He became a Specially-appointed Associate Professor of the Cybermedia Center, Osaka University in 2013.
+
+His research field is computer science with bioscience and his current research interests include visualization, software defined networking, high-performance computing and related information technologies.
+
+<img src="/img/members/fangpanglin.png" class="member-image">
 <span class="member-heading">
 <strong>Fang-Pang Lin</strong><br>
 National Center for High-Performance Computing<br>
@@ -260,6 +289,7 @@ Research Interests:</span> Remote sensing, land use and land cover change, clima
 
 Hui Ping Tsai received the Ph.D. degree in geography from the University of Florida in 2012. Currently, she is a Postdoctoral Fellow with the Center for Environmental Restoration and Disaster Reduction in NCHU. Recently, she work on investigating vegetation (using NDVI as a surrogate) and climate variabilities in Taiwan and would like to assess associations between them.  
 
+<img src="/img/members/wheyfonetsai.png" class="member-image">
 <span class="member-heading">
 <strong>Whey-Fone Tsai</strong><br>
 National Center for High-performance Computing, National Applied Research Laboratories, Taiwan<br>
@@ -269,6 +299,7 @@ Research Interests:</span> Environmental Monitoring, Disaster Management, Big Da
 
 Whey-Fone Tsai obtained his PhD in Department of Civil and Environmental Engineering, University of Iowa, USA. He joined National Center for High-performance Computing (NCHC), Taiwan in 1993. From 1998 to 2009, he served as the deputy director of NCHC, and in 2008-2009 he was named the acting director of Taiwan Typhoon and Flood Research Institute. 2007~till now, he has been PI of multidisciplinary research projects, “3D GIS Taiwan” and “Disaster Management Information Platform” covering disaster management and environmental monitoring associated with HPC, cloud computing, and big data analytics. Meantime, he is also the adjunct professor in the Department of Hydraulics and Ocean Engineering, National Cheng Kung University, Taiwan.
 
+<img src="/img/members/nadyawilliams.png" class="member-image">
 <span class="member-heading">
 <strong>Nadya Williams</strong><br>
 UCSD<br>
