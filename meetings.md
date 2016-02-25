@@ -24,6 +24,7 @@ Research Interests:</span> Wireless Systems, RF and Microwaves, IoT, Smart Sytem
 I am currently the Dean of the School of Electrical, Electronics, and Computer Engineering in Mapua. I have completed all the course work and working on my PhD dissertation at the De La Salle University. I have published papers in local and international publications. I have attended various training and internships in Japan, Australia, Germany, and France. I am also a registered Patent Agent in the Philippines.
 
 <span class="member-heading">
+<img src="/img/members/jamesbeach.jpg" class="member-image">
 <strong>James (Jim) Beach</strong><br>
 University of Kansas, Lawrence, KS USA<br>
 <a href="mailto:beach@ku.edu">beach@ku.edu</a><br>
