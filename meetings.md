@@ -365,6 +365,7 @@ Research Interests:</span> Software architecture, virtualization
 
 Worked at the University of California, San Diego since 1991. Received an M.S. Computer Science from UCSD in 2002. Worked in Switzerland 2006 - 2009 at Swiss National Supercomputing Center and the University of Zurich managing the Swiss Multi-Science Computing Grid project across multiple sites, including project planning and management, proposal and report writing, and technical tasks of deployment of Grid middleware. Currently, serve as functional lead in the design, specification and evaluation of software architectures that will be scalable and reusable for current and future environments for use by the NBCR community and a member of PRAMGA cloud infrastructure developers team at UCSD.
 
+<img src="/img/members/shytsunfelixwu.jpeg" class="member-image">
 <span class="member-heading">
 <strong>Shyhtsun Felix Wu</strong><br>
 University of California, Davis<br>
