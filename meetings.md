@@ -14,6 +14,7 @@ Join the CENTRA Kickoff Meeting [Forum Discussions](https://groups.google.com/fo
 
 ## Kickoff meeting attendees
 
+<img src="/img/members/alejandroballado.png" class="member-image">
 <span class="member-heading">
 <strong>Alejandro H. Ballado, Jr.</strong><br>
 Mapua Institute of Technology<br>
@@ -23,6 +24,7 @@ Research Interests:</span> Wireless Systems, RF and Microwaves, IoT, Smart Sytem
 
 I am currently the Dean of the School of Electrical, Electronics, and Computer Engineering in Mapua. I have completed all the course work and working on my PhD dissertation at the De La Salle University. I have published papers in local and international publications. I have attended various training and internships in Japan, Australia, Germany, and France. I am also a registered Patent Agent in the Philippines.
 
+<img src="/img/members/jamesbeach.jpg" class="member-image">
 <span class="member-heading">
 <strong>James (Jim) Beach</strong><br>
 University of Kansas, Lawrence, KS USA<br>
@@ -32,6 +34,14 @@ University of Kansas, Lawrence, KS USA<br>
 Research Interests:</span> biological museum data processing, biodiversity modelling software
 
 I originally trained as a tree breeding systems biologist and studied in a Costa Rican rainforest. In the mid-1980s, I shifted career direction to the emerging field of biodiversity informatics with an emphasis on museum collection computerization and networked data communications. Today, I guide a biodiversity software engineering group within the University of Kansas Biodiversity Institute.  We produce and support open-source 'Specify' software for computerizing biological collections (specifysoftware.org).  I also direct the Lifemapper Project which includes a high-performance computation platform and web services for species distribution and macroecological modeling, and for metacommunity phylogenetics (lifemapper.org).
+
+<span class="member-heading">
+<strong>Lin-huang Chang</strong><br>
+National Taichung Univ.<br>
+<a href="mailto:lchang@mail.ntcu.edu.tw">lchang@mail.ntcu.edu.tw</a><br>
+Research Interests:</span> Software-defined networking
+
+my researches are in SDN, Wireless sensor networks
 
 <img src="/img/members/lingjyhchen.jpg" class="member-image">
 <span class="member-heading">
@@ -91,6 +101,7 @@ ACIS, University of Florida<br>
 
 I am a computer scientist and engineer teaching at the University of Florida. I am also the Director of the Advanced Computing and Information Systems (ACIS) lab. My research interests are in the areas of distributed computing, autonomic computing, computer architecture, parallel processing and fault-tolerant computing. I have also worked extensively in the development of e-science cyberinfrastructures, including PUNCH, Nanohub, FutureGrid and iDigBio. Currently, I am particularly interested in all aspects of software-defined systems and how they introduce new questions in the above-listed areas. Transnational contexts are of particular interest to me because they bring out the need for collaborative autonomics across software stacks that are deep and/or distributed among different administrative domains.
 
+<img src="/img/members/jasonhaga.jpg" class="member-image">
 <span class="member-heading">
 <strong>Jason Haga</strong><br>
 AIST<br>
@@ -104,7 +115,7 @@ Jason Haga is a Senior Research Scientist in the Information Technology Research
 <span class="member-heading">
 <strong>Kyle Hale</strong><br>
 Northwestern University<br>
-<a href="mailto:fortes@ufl.edu">kh@u.northwestern.edu</a><br>
+<a href="mailto:kh@u.northwestern.edu@ufl.edu">kh@u.northwestern.edu</a><br>
 <a href="http://halek.co">halek.co</a><br>
 Research Interests:</span> operating systems, high-performance computing, computer architecture
 
@@ -128,6 +139,15 @@ NCHC<br>
 Research Interests:</span> big data
 
 I am Weicheng Huang, a local participant from NCHC. My specialty includes parallel processing, grid, cloud and currently big data.
+
+<span class="member-heading">
+<strong>Kohei Ichikawa</strong><br>
+Nara Institute of Science and Technology<br>
+<a href="mailto:ichikawa@is.naist.jp">ichikawa@is.naist.jp</a><br>
+<a href="http://isw3.naist.jp/home-en.html">isw3.naist.jp/home-en.html</a><br>
+Research Interests:</span> Distributed systems, Virtualization, Software Defined Networking
+
+Kohei Ichikawa is an Associate Professor in the Graduate School of Information Science at Nara Institute of Science and Technology, Japan. His past research work involved the design and development of middleware and applications for Grid, virtualized infrastructures and Software Defined Network testbed. He currently works on the PRAGMA project, developing an international Software Defined Networking Testbed for use by the PRAGMA researchers.
 
 <img src="/img/members/shantenujha.png" class="member-image">
 <span class="member-heading">
@@ -166,6 +186,16 @@ He worked in RIKEN, the HPCI Program for Computational Life Science from 2012 to
 
 His research field is computer science with bioscience and his current research interests include visualization, software defined networking, high-performance computing and related information technologies.
 
+<img src="/img/members/jasonleigh.png" class="member-image">
+<span class="member-heading">
+<strong>Jason Leigh</strong><br>
+University of Hawaii at Manoa<br>
+<a href="mailto:leighj@hawaii.edu">leighj@hawaii.edu</a><br>
+<a href="http://lava.hawaii.edu">lava.hawaii.edu</a><br>
+Research Interests:</span> data visualization, virtual reality, collaboration technologies
+
+I am a professor of Computer Science, Director of the Laboratory for Advanced Visualization and Applications (in Hawaii) and Director Emeritus of the Electronic Visualization Lab (at the University of Illinois at Chicago). My interest is in cyber-infrastructure hardware and software technologies for collaborative data visualization in science, engineering as well as in the arts and humanities. Some of my recent projects  include: the CAVE2 hybrid reality environment, SAGE and SAGE2 - Scalable Amplified Group Environment, NetSage - the network monitoring and visualization platform for National Science Foundation's International Research Network Connections program, and Articulate - an automated way to translate natural language into visualizations.
+
 <img src="/img/members/fangpanglin.png" class="member-image">
 <span class="member-heading">
 <strong>Fang-Pang Lin</strong><br>
@@ -203,15 +233,42 @@ Research Interests:</span> cyber-physical systems, environmental sensing, cyberi
 
 Tho Nguyen is the Managing Director of the Center for Automata Processing (CAP) and Senior Research Program Officer in the Computer Science Department at the University of Virginia. Tho is primarily responsible for project and program development .  Tho obtained his PhD from the Department of Electrical Engineering (Systems, Controls & Robotics) at the University of Washington in 2009.  His past work focused on sensing, modeling, and application of controls for large-scale environmental systems.  Tho’s current research interest is in extending cyber-physical systems theory and technologies to mitigate the impact of disruptions to large scale systems (i.e., resiliency). Tho has had extensive international research experience and was previously funded by NSF and USAID. Prior to joining UVa, Tho served as a AAAS Fellow appointed to the National Science Foundation, where he worked on the Cyber-Physical Systems Program (2013-2015).  He is also a former J. William Fulbright Fellow to Vietnam. 
 
+<span class="member-heading">
+<strong>Frederick Kin Hing Phoa</strong><br>
+Academia Sinica<br>
+<a href="mailto:fredphoa@stat.sinica.edu.tw">fredphoa@stat.sinica.edu.tw</a><br>
+<a href="http://phoa.stat.sinica.edu.tw:10080">http://phoa.stat.sinica.edu.tw:10080</a><br>
+Research Interests:</span> Social Network Analysis; Nature-Inspired Evolutionary Algorithm; Parallel Computing; Big Data Analytics; Design and Analysis of Experiments
+
+Dr. Frederick Kin Hing Phoa is an Associate Research Fellow of Institute of Statistical Science at Academia Sinica (ISSAS), Taiwan since 2013, with a joint appointment as an Adjunct Associate Professor of Statistics at National Central University, Taiwan. He received his B.S. degrees in chemistry and applied mathematics, M.S. and Ph.D. degrees in statistics from University of California-Los Angeles (UCLA) in 2002, 2007 and 2009 respectively. He was an Assistant Research Fellow of ISSAS from 2009 to 2013. His research currently involves social network analysis, nature-inspired evolutionary algorithm, parallel computing, big data analytics, and designs and analysis of experiments.
+
+<img src="/img/members/bethplale.jpg" class="member-image">
+<span class="member-heading">
+<strong>Beth Plale</strong><br>
+Indiana University<br>
+<a href="mailto:plale@indiana.edu">plale@indiana.edu</a><br>
+<a href="http://www.cs.indiana.edu/~plale">www.cs.indiana.edu/~plale</a><br>
+Research Interests:</span> big data, data preservation, cloud computing, data trust
+
+Beth A. Plale is a Full Professor of Informatics and Computing at Indiana University where she directs the Data To Insight Center and is Science Director of the Pervasive Technology Institute.   Professor Plale’s postdoctoral studies were at Georgia Institute of Technology, and her PhD in computer science from State University of New York Binghamton.  Her deep interest in technology for societal change arises in part from the MBA she received while working as a software developer in Southern California.   Plale is founder and Co-director of the HathiTrust Research Center which provisions analysis to nearly 14 million digitized books from research libraries, past chair of the Research Data Alliance Technical Advisory Board (TAB), and is vice-chair of RDA/US. She is Department of Energy (DOE) Early Career Awardee and past Fellow of the Midwest university consortium CIC’s Academic Leadership Program.  
+
 <img src="/img/members/glenricart.jpg" class="member-image">
 <span class="member-heading">
 <strong>Glenn Ricart</strong><br>
 US Ignite and U Utah<br>
 <a href="mailto:Glenn.Ricart@us-ignite.org">Glenn.Ricart@us-ignite.org</a><br>
 <a href="http://www.us-ignite.org">www.us-ignite.org</a><br>
-Research Interests:</span> Smart and connected communities
+Research Interests:</span> Smart cities, local (edge) clouds, IoT, Metropolitan Internets
 
 Glenn Ricart is founder and CTO of US Ignite, a nonprofit creating an ecosystem of innovative applications and services in smart gigabit communities enabled by software-driven infrastructure.  US Ignite brings together corporations, cities and regions, government, nonprofits, and academic to make and deploy these innovative applications and services.   Dr. Ricart is also Adjunct Professor in the School of Computing at the University of Utah. Previously, Glenn was CEO of National LambdaRail, Managing Director of PricewaterhouseCoopers, Executive Vice President and CTO of Novell during its heyday, Program Manager at DARPA, and Assistant Vice Chancellor of Academic Affairs and academic CIO at the University of Maryland.  Dr. Ricart was inducted into the Internet Hall of Fame as an Internet Pioneer in 2013. He is also the founder or co-founder of five startups raising a combined total of $190M.
+
+<span class="member-heading">
+<strong>Ce-Kuen Shieh</strong><br>
+National Cheng-Kung University, National Center for High-performance Computing<br>
+<a href="mailto:shieh@ee.ncku.edu.tw">shieh@ee.ncku.edu.tw</a><br>
+Research Interests:</span> Distributed and Parallel Processing, Big Data, Wireless Communication
+
+Dr. Ce-Kuen Shieh received Ph.D degree in electrical engineering from National Cheng Kung University, Tainan, Taiwan in 1988. He joined the faculty in EE Department at National Cheng Kung University from 1983, and was promoted to Full Professor in 1998. He ever visited Bell Laboratory, Murry Hill, New Jersey, U.S.A as a Postdoctoral Member of Technical Staff (PMTS) during 1989-1990. He had chaired the Department of Electrical Engineering, National Cheng-Kung University during 2002 – 2005 and served as the Director of Computer and Network Center, National Cheng-Kung University from 2005 to 2011. Currently, he serves as the Director General of National Center for High-performance Computing, National Applied Research Laboratory, Taiwan (2013~). 
 
 <img src="/img/members/shinjishimojo.jpg" class="member-image">
 <span class="member-heading">
