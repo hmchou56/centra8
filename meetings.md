@@ -61,6 +61,14 @@ Research Interests:</span> Urban System, Housing Economics, Energy Application, 
 
 I received Ph.D. from Northwestern University, IL. USA (1993), and is the Distinguished Professor of Urban Planning in NCKU, Taiwan. I served as the department  chair of Urban Planning in NCKU (2005-2008), and also, for more than 20 years, served as the reviewer of research projects for government, MoST, and academic journals.  
 
+<span class="member-heading">
+<strong>Febus Reidj G. Cruz</strong><br>
+Mapua Institute of Technology (Manila, Philippines)<br>
+<a href="mailto:reidjcruz@gmail.com">reidjcruz@gmail.com</a><br>
+Research Interests:</span> IoT Wireless Sensor Nodes
+
+Febus Reidj G. Cruz is an electronics engineer, a senior researcher, and a faculty member of the School of Electrical Electronics and Computer Engineering of Mapua Institute of Technology in Manila, Philippines since June 1995 up to present. His research interests include the design, innovation, and development of microelectronic circuits and systems for different sensor applications, including wireless sensor nodes towards internet of things implementation.
+
 <img src="/img/members/susumudate.jpg" class="member-image">
 <span class="member-heading">
 <strong>Susumu Date</strong><br>
@@ -101,6 +109,14 @@ ACIS, University of Florida<br>
 
 I am a computer scientist and engineer teaching at the University of Florida. I am also the Director of the Advanced Computing and Information Systems (ACIS) lab. My research interests are in the areas of distributed computing, autonomic computing, computer architecture, parallel processing and fault-tolerant computing. I have also worked extensively in the development of e-science cyberinfrastructures, including PUNCH, Nanohub, FutureGrid and iDigBio. Currently, I am particularly interested in all aspects of software-defined systems and how they introduce new questions in the above-listed areas. Transnational contexts are of particular interest to me because they bring out the need for collaborative autonomics across software stacks that are deep and/or distributed among different administrative domains.
 
+<span class="member-heading">
+<strong>Ming Tai Ha</strong><br>
+Rutgers University<br>
+<a href="mailto:ming.tai.ha@gmail.com">ming.tai.ha@gmail.com</a><br>
+Research Interests:</span> High Performance Computing, Distributed Computing
+
+Ming Tai Ha is a first year graduate student at Rutgers University. He is also a member of the Research in Advanced Distributed Cyberinfrastructure and Application Laboratory. As an undergraduate, he double majored in Material Science and Mathematics at Rutgers University. Recently, he received the GAANN (Graduate Assistance in Areas of National Need) Fellowship to develop tools to help bioinformaticians sequence DNA. He intends to take his experience from his undergraduate research in order to develop scalable scientific computing solutions for researchers in various fields.
+
 <img src="/img/members/jasonhaga.jpg" class="member-image">
 <span class="member-heading">
 <strong>Jason Haga</strong><br>
@@ -140,6 +156,7 @@ Research Interests:</span> big data
 
 I am Weicheng Huang, a local participant from NCHC. My specialty includes parallel processing, grid, cloud and currently big data.
 
+<img src="/img/members/koheiichikawa.png" class="member-image">
 <span class="member-heading">
 <strong>Kohei Ichikawa</strong><br>
 Nara Institute of Science and Technology<br>
@@ -222,6 +239,22 @@ NICT<br>
 Research Interests:</span> Network Testbed
 
 Toshiyuki Miyachi is the director of Hokuriku StarBED technology center, National Institute of Information and Communications Technology(NICT). He received his M.Sc. and Ph.D. degrees from Information Science at Japan Advanced Institute of Science and Technology(JAIST) in 2002 and 2007 respectively. He and his research group focused on several topics on network testbed especially by utilizing StarBED; network architecture of testbed; reproduction of disaster situation & building platform to evaluate disaster recovery technologies; educational use of network testbed; IoT testbed and so forth.
+
+<span class="member-heading">
+<strong>Akihiro Nakao</strong><br>
+The University of Tokyo<br>
+<a href="mailto:nakao@nakao-lab.org">nakao@nakao-lab.org</a><br>
+<a href="http://www.nakao-lab.org">www.nakao-lab.org</a><br>
+Research Interests:</span> SDN, NFV, MEC, IoT, Machine Learning
+
+"Akihiro NAKAOreceived B.S.(1991) in Physics, M.E.(1994) in Information Engineering from the 
+University of Tokyo. He was at IBM Yamato Laboratory, Tokyo Research 
+Laboratory, and IBM Texas Austin from 1994 till 2005. 
+He received M.S.(2001) and Ph.D.(2005) in Computer Science from Princeton 
+University. He has been teaching as an associate professor (2005-2014) 
+and as a full professor (2014-present) in Applied Computer Science, 
+at Interfaculty Initiative in Information  Studies, Graduate School of Interdisciplinary Information Studies, the University.
+He has been appointed as Chairman of 5GMF Network Architecture Committee since 2014."
 
 <img src="/img/members/thonguyen.jpg" class="member-image">
 <span class="member-heading">
@@ -329,15 +362,7 @@ Research Interests:</span> high performance computing, performance analysis, pow
 
 Valerie Taylor is the Senior Associate Dean of Academic Affairs in the Dwight Look College of Engineering and the Regents Professor and Royce E. Wisenbaker Professor in the Department of Computer Science and Engineering at Texas A&M University.  She is also the Executive Director of the Center for Minorities and People with Disabilities in IT (CMD-IT).  Dr. Taylor is an IEEE Fellow and has received numerous awards for distinguished research and leadership, including the 2001 IEEE Harriet B. Rigas Award for a woman with significant contributions in engineering education, the 2002 Outstanding Young Engineering Alumni from the University of California at Berkeley, the 2002 CRA Nico Habermann Award for increasing the diversity in computing, and the 2005 Tapia Achievement Award for Scientific Scholarship, Civic Science, and Diversifying Computing. Dr. Taylor earned her B.S. in Electrical and Computer Engineering and M.S. in Computer Engineering from Purdue University in 1985 and 1986, respectively, and a Ph.D. in Electrical Engineering and Computer Sciences from the University of California, Berkeley, in 1991.
 
-<img src="/img/members/ryanvrecenar.jpg" class="member-image">
-<span class="member-heading">
-<strong>Ryan Vrecenar</strong><br>
-Texas A and M University<br>
-<a href="mailto:ryanvrecenar@email.tamu.edu">ryanvrecenar@email.tamu.edu</a><br>
-Research Interests:</span> Reverse Engineering, Security, Binary Modeling
-
-I am a first year PhD student working under Dr. Liu with interest in Reverse Engineering and Security. I have been a TA for Operating Systems and Reverse Engineering for my first year at A and M. I typically play real time strategy games and military oriented games and these games typically drive some extra interests that I try to look into for research. I am from Houston and the vibe in College Station feels like a small town.
-
+<img src="/img/members/huipingtsai.jpg" class="member-image">
 <span class="member-heading">
 <strong>Hui Ping Tsai</strong><br>
 National Chung Hsing University<br>
@@ -355,6 +380,25 @@ National Center for High-performance Computing, National Applied Research Labora
 Research Interests:</span> Environmental Monitoring, Disaster Management, Big Data Application, Geo-spatial Application
 
 Whey-Fone Tsai obtained his PhD in Department of Civil and Environmental Engineering, University of Iowa, USA. He joined National Center for High-performance Computing (NCHC), Taiwan in 1993. From 1998 to 2009, he served as the deputy director of NCHC, and in 2008-2009 he was named the acting director of Taiwan Typhoon and Flood Research Institute. 2007~till now, he has been PI of multidisciplinary research projects, “3D GIS Taiwan” and “Disaster Management Information Platform” covering disaster management and environmental monitoring associated with HPC, cloud computing, and big data analytics. Meantime, he is also the adjunct professor in the Department of Hydraulics and Ocean Engineering, National Cheng Kung University, Taiwan.
+
+<img src="/img/members/ryanvrecenar.jpg" class="member-image">
+<span class="member-heading">
+<strong>Ryan Vrecenar</strong><br>
+Texas A and M University<br>
+<a href="mailto:ryanvrecenar@email.tamu.edu">ryanvrecenar@email.tamu.edu</a><br>
+Research Interests:</span> Reverse Engineering, Security, Binary Modeling
+
+I am a first year PhD student working under Dr. Liu with interest in Reverse Engineering and Security. I have been a TA for Operating Systems and Reverse Engineering for my first year at A and M. I typically play real time strategy games and military oriented games and these games typically drive some extra interests that I try to look into for research. I am from Houston and the vibe in College Station feels like a small town.
+
+<img src="/img/members/taichiwang.jpg" class="member-image">
+<span class="member-heading">
+<strong>Tai-Chi Wang</strong><br>
+Institute of Statistical Science, Academia Sinica, Taiwan<br>
+<a href="mailto:taichi43@stat.sinica.edu.tw">taichi43@stat.sinica.edu.tw</a><br>
+<a href="http://www.stat.sinica.edu.tw/taichi43/">www.stat.sinica.edu.tw/taichi43/</a><br>
+Research Interests:</span> Social Networks, Spatial Statistics, Design of Experiments
+
+Tai-Chi Wang received the Ph.D. degree in Statistics at National Chengchi University, Taiwan in 2013. Currently, he is a postdoctoral research fellow in the Institute of Statistical Science, Academia Sinica, Taiwan. Recently, he focuses on recognizing the community and centrality patterns in social networks.
 
 <img src="/img/members/nadyawilliams.png" class="member-image">
 <span class="member-heading">
@@ -375,6 +419,17 @@ Research Interests:</span> Cyber Security, Social Computing
 
 Dr. S. Felix Wu received his BS from Tunghai University, Taiwan in 1985, MS., and Ph.D. from Columbia University in 1989 and 1995 respectively, all in Computer Science. He is a Professor of Computer Science and Associate Dean, College of Engineering at University of California at Davis. He is interested in “experimental” research, i.e., building prototype systems to justify and validate novel architectural concepts. His most recent work is the SINCERE (Social Interaction Networks, Conversation Entropy Ranking Engine) project, which leverages social science principles in information analysis and computational applications. 
 
+<img src="/img/members/xingfuwu.jpg" class="member-image">
+<span class="member-heading">
+<strong>Xingfu Wu</strong><br>
+Texas A&M University<br>
+<a href="mailto:wuxf@tamu.edu">wuxf@tamu.edu</a><br>
+<a href="http://faculty.cs.tamu.edu/wuxf/">faculty.cs.tamu.edu/wuxf/</a><br>
+Research Interests:</span> High performance computing, performance and power modeling, energy-efficient computing
+
+Xingfu Wu is a TEES Research Associate Professor at Texas A&M University. He is a senior ACM member. His research interests are performance evaluation and modeling, power modeling, parallel and cloud computing, scientific computing, energy-efficient computing, and power and energy analysis in HPC systems. His monograph: Performance Evaluation, Prediction and Visualization of Parallel Systems, was published by Kluwer Academic Publishers (ISBN 0-7923-8462-8) in 1999. He won the best paper award in the 14th IEEE International Conference on Computational Science and Engineering in 2011.
+
+<img src="/img/members/hiroakiyamanaka.jpg" class="member-image">
 <span class="member-heading">
 <strong>Hiroaki Yamanaka</strong><br>
 National Institute of Information and Communications Technology<br>
