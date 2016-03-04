@@ -127,17 +127,6 @@ Research Interests:</span> IoT, visualization, user experience, interdisciplinar
 
 Jason Haga is a Senior Research Scientist in the Information Technology Research Institute of AIST. His past research work involved the design and implementation of applications for grid computing environments and tiled display walls. Jason has over 11 years of collaborative efforts with members of the PRAGMA community and continues to look for opportunities, both within the community and abroad.
 
-<img src="/img/members/kylehale.jpg" class="member-image">
-<span class="member-heading">
-<strong>Kyle Hale</strong><br>
-Northwestern University<br>
-<a href="mailto:kh@u.northwestern.edu@ufl.edu">kh@u.northwestern.edu</a><br>
-<a href="http://halek.co">halek.co</a><br>
-Research Interests:</span> operating systems, high-performance computing, computer architecture
-
-Kyle C. Hale is a PhD candidate in Computer Science at Northwestern University, advised by Professor Peter Dinda. His research interests lie at the intersection of operating systems, parallel computing, and computer architecture, with a focus on building experimental systems. His work ranges from Networks-on-Chip to specialized operating systems and parallel languages. He has held research internships in industry (VMware, Fujitsu) and at Sandia National Labs. He is a major contributor to several open-source codebases, including the Palacios Virtual Machine Monitor, the Nautilus Aerokernel, and Philix, a toolkit for booting and customizing OS kernels on the Xeon Phi. 
-He received his BS in Computer Science from The University of Texas at Austin in 2010,  an MS in Computer Science from Northwestern in 2013, and will receive his PhD in Spring of 2016.
-
 <img src="/img/members/yeniherdi.jpg" class="member-image">
 <span class="member-heading">
 <strong>Yeni Herdiyeni</strong><br>
