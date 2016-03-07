@@ -61,6 +61,7 @@ Research Interests:</span> Urban System, Housing Economics, Energy Application, 
 
 I received Ph.D. from Northwestern University, IL. USA (1993), and is the Distinguished Professor of Urban Planning in NCKU, Taiwan. I served as the department  chair of Urban Planning in NCKU (2005-2008), and also, for more than 20 years, served as the reviewer of research projects for government, MoST, and academic journals.  
 
+<img src="/img/members/reidjcruz.jpg" class="member-image">
 <span class="member-heading">
 <strong>Febus Reidj G. Cruz</strong><br>
 Mapua Institute of Technology (Manila, Philippines)<br>
@@ -145,6 +146,17 @@ Research Interests:</span> big data
 
 I am Weicheng Huang, a local participant from NCHC. My specialty includes parallel processing, grid, cloud and currently big data.
 
+<span class="member-heading">
+<strong>Julio Ibarra</strong><br>
+Florida International University<br>
+<a href="mailto:julio@fiu.edu">julio@fiu.edu</a><br>
+<a href="http://www.ciara.fiu.edu/staff_julio.html">www.ciara.fiu.edu/staff_julio.html</a><br>
+Research Interests:</span> Cyberinfrastructure, Networking, Internet Technologies
+
+As the Assistant Vice President for Technology Augmented Research at FIU, Dr. Julio E. Ibarra is responsible for furthering the mission of the Center for Internet Augmented Research and Assessment (CIARA) – to contribute to the pace and the quality of research at FIU through the application of advanced Cyberinfrastructure. He is responsible for strategic planning and development of advanced research networking services, including the development and management of the AMPATH International Exchange Point for Research and Education networks. He is the Principal Investigator of the Americas Lightpaths (AmLight), an NSF-OCI International Research Networks Connection funded project (#OCI-0963053), which involves planning and implementation of high-performance international network connections to enhance U.S. e-science initiatives in Latin America. He has been PI and Co-PI on several other NSF grants to broaden participation in science and engineering research and education through the application of Information and Communications Technology.
+
+Dr. Ibarra has been active in initiatives to advance networking and Internet technologies for the State of Florida. He is a board member of the Florida Lambda Rail, LLC – Florida’s research and education network initiative. He served on the Governor’s IT Florida Task Force subcommittee on Infrastructure and Technology Development, as a subject matter expert. He is co-author of the policy recommendation for the development of a Network Access Point (NAP) in South Florida to enhance the State’s e-Commerce opportunities with Latin America."
+
 <img src="/img/members/koheiichikawa.png" class="member-image">
 <span class="member-heading">
 <strong>Kohei Ichikawa</strong><br>
@@ -167,6 +179,14 @@ Shantenu is an Associate Professor of Computer Engineering at Rutgers
 University. His research interests lie at the triple point of High-performance distributed computing, Computational Science and Cyberinfrastructure; more details can be found at http://radical.rutgers.edu. Shantenu leads the RADICAL-Cybertools (http://radical-cybertools.github.com) project which are a suite of
 standards-driven and abstractions-based tools used to support
 large-scale science and engineering applications. He has won several awards at leading supercomputing conferences for the application of high-performance distributed computing to computational science. His research is supported by the US DOE and NSF, including the CAREER Award. He was appointed a Rutgers Chancellor Scholar in 2015. Away from work, Jha indulges in middle-distance running and the quest for the perfect bad joke!
+
+<span class="member-heading">
+<strong>Shih-Chung Jessy Kang</strong><br>
+College<br>
+<a href="mailto:sckang@ntu.edu.tw">sckang@ntu.edu.tw</a><br>
+Research Interests:</span> Data Visualization, Disaster Informatics, Engineering Education, Visualization and Simulation, Automation and Robotics
+
+Prof. Shih-Chung Jessy Kang, Ph.D. of Stanford University, is currently a professor in department of civil engineering in National Taiwan University. His research focuses on the advanced visual and robotics tools for engineering purposes. He developed multiple methods on the automation and simulation for crane operations.  He is now the editor-in-chief of Visualization in Engineering. He edited multiple special issues on the topics related to the visualization and robotics applications. Prof. Kang is also an active researcher on innovative engineering education. He offers courses on engineering graphics, game development, data visualization and robotics and was award as NTU excellent teacher. His coursera course on engineering graphic was ranked top 2% MOOCs among Chinese learners. 
 
 <img src="/img/members/eijikawai.jpg" class="member-image">
 <span class="member-heading">
@@ -222,6 +242,14 @@ Research Interests:</span> Modeling and simulation, computer networking, paralle
 Dr. Jason Liu is an Associate Professor at the School of Computing and Information Sciences at Florida International University. His research focuses on parallel discrete-event simulation and high-performance modeling and simulation of computer networks and computer systems, funded by NSF, DHS, DOD, and DOE. Dr. Liu is an NSF CAREER Award recipient and an ACM Distinguished Scientist. He served as general chairs and program chairs for several conferences, and on the technical committees for many  system and network modeling and simulation conferences. He is currently a Steering Committee member for ACM SIGSIM-PADS, and is on the editorial board for ACM TOMACS and SCS SIMULATION.
 
 <span class="member-heading">
+<strong>Rene Mendoza</strong><br>
+Advanced Science and Technology Institute<br>
+<a href="mailto:rene@asti.dost.gov.ph">rene@asti.dost.gov.ph</a><br>
+Research Interests:</span> HPC, IoT, Cloud Computing, Smart Cities
+
+I am currently the Knowledge Management Division Chief of the Advanced Science and Technology Institute.  I graduated from the University of the Philippines (Diliman) where I took my bachelor's degree in Electronics and Communications Engineering and Master's degree in Electrical Engineering. Two years ago, we started implementing the CoARE (Computing and Archiving Research Environment) Project where we offer general purpose virtual machines, HPC and storage services to local researchers. This year, I will be proposing a new project that deals in the areas of Big Data Analytics, IoT and Smart Cities.  As this will be a new area for us, our organization is very much open for international collaboration in the above topics. 
+
+<span class="member-heading">
 <strong>Toshiyuki Miyachi</strong><br>
 NICT<br>
 <a href="mailto:miyachi@nict.go.jp">miyachi@nict.go.jp</a><br>
@@ -229,6 +257,7 @@ Research Interests:</span> Network Testbed
 
 Toshiyuki Miyachi is the director of Hokuriku StarBED technology center, National Institute of Information and Communications Technology(NICT). He received his M.Sc. and Ph.D. degrees from Information Science at Japan Advanced Institute of Science and Technology(JAIST) in 2002 and 2007 respectively. He and his research group focused on several topics on network testbed especially by utilizing StarBED; network architecture of testbed; reproduction of disaster situation & building platform to evaluate disaster recovery technologies; educational use of network testbed; IoT testbed and so forth.
 
+<img src="/img/members/akihironakao.jpg" class="member-image">
 <span class="member-heading">
 <strong>Akihiro Nakao</strong><br>
 The University of Tokyo<br>
@@ -254,6 +283,21 @@ University of Virginia<br>
 Research Interests:</span> cyber-physical systems, environmental sensing, cyberinfrastructure, resiliency, large-scale system modeling
 
 Tho Nguyen is the Managing Director of the Center for Automata Processing (CAP) and Senior Research Program Officer in the Computer Science Department at the University of Virginia. Tho is primarily responsible for project and program development .  Tho obtained his PhD from the Department of Electrical Engineering (Systems, Controls & Robotics) at the University of Washington in 2009.  His past work focused on sensing, modeling, and application of controls for large-scale environmental systems.  Tho’s current research interest is in extending cyber-physical systems theory and technologies to mitigate the impact of disruptions to large scale systems (i.e., resiliency). Tho has had extensive international research experience and was previously funded by NSF and USAID. Prior to joining UVa, Tho served as a AAAS Fellow appointed to the National Science Foundation, where he worked on the Cyber-Physical Systems Program (2013-2015).  He is also a former J. William Fulbright Fellow to Vietnam. 
+
+<span class="member-heading">
+<strong>Philip Papadopoulos</strong><br>
+University of California, San Diego<br>
+<a href="mailto:ppapadopoulos@ucsd.edu">ppapadopoulos@ucsd.edu</a><br>
+Research Interests:</span> Distrubuted Systems, network, application-specific software stacks, distributed computing, cloud computing
+
+Dr. Papadopoulos received his PhD in 1993 from UC Santa Barbara in Electrical Engineering.   He is currently the Chief Technology Officer at the San Diego Supercomputer Center (SDSC).  He is the architect  of the NSF-funded Comet Cluster which will support high-performance virtual clusters.   In addition to duties at SDSC,  his research interests revolve around distributed, clustered, and
+cloud-based systems and how they can be used more effectively in an
+ expanding bandwidth-rich environment.  Dr. Papadopoulos is a key
+investigator for key research projects at UCSD including the The National
+Biomedical Computation Resource(NBCR) and the Pacific Rim Applications and Grid Middlware Assembly (PRAGMA, OCI-1234983)  He is well known for leading the development of the open-source, NSF-funded Rocks Cluster toolkit (OCI-0721623).  He is also the principal investigator for the Prism@UCSD A Researcher Defined 10 and 40Gbit/s Campus Scale Data Carrier (NSF:ACI-1246396).  Prism is deployed at UCSD and serves about one dozen data intensive labs on the UCSD campus.
+
+In his spare time, Phil hikes.  And likes to say "I think I can climb that".
+
 
 <span class="member-heading">
 <strong>Frederick Kin Hing Phoa</strong><br>
@@ -388,6 +432,14 @@ Institute of Statistical Science, Academia Sinica, Taiwan<br>
 Research Interests:</span> Social Networks, Spatial Statistics, Design of Experiments
 
 Tai-Chi Wang received the Ph.D. degree in Statistics at National Chengchi University, Taiwan in 2013. Currently, he is a postdoctoral research fellow in the Institute of Statistical Science, Academia Sinica, Taiwan. Recently, he focuses on recognizing the community and centrality patterns in social networks.
+
+<span class="member-heading">
+<strong>Yasuhiro Watashiba</strong><br>
+Nara Institute of Science and Technology<br>
+<a href="mailto:watashiba@is.naist.jp">watashiba@is.naist.jp</a><br>
+Research Interests:</span> Resource Management, Software Defined Networking
+
+Yasuhiro Watashiba is an Assistant Professor in the Graduate School of Information Science at Nara Institute of Science and Technology, Japan. He received his Ph.D. degrees from Osaka University in 2015. His current research interests include Resource Management on computing environment and related information technologies. 
 
 <img src="/img/members/nadyawilliams.png" class="member-image">
 <span class="member-heading">
