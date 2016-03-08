@@ -14,7 +14,7 @@ Join the CENTRA Kickoff Meeting [Forum Discussions](https://groups.google.com/fo
 
 ## Kickoff meeting attendees
 
-<img src="/img/members/alejandroballado.png" class="member-image">
+<img src="/img/members/alejandroballado.jpg" class="member-image">
 <span class="member-heading">
 <strong>Alejandro H. Ballado, Jr.</strong><br>
 Mapua Institute of Technology<br>
@@ -35,13 +35,16 @@ Research Interests:</span> biological museum data processing, biodiversity model
 
 I originally trained as a tree breeding systems biologist and studied in a Costa Rican rainforest. In the mid-1980s, I shifted career direction to the emerging field of biodiversity informatics with an emphasis on museum collection computerization and networked data communications. Today, I guide a biodiversity software engineering group within the University of Kansas Biodiversity Institute.  We produce and support open-source 'Specify' software for computerizing biological collections (specifysoftware.org).  I also direct the Lifemapper Project which includes a high-performance computation platform and web services for species distribution and macroecological modeling, and for metacommunity phylogenetics (lifemapper.org).
 
+<img src="/img/members/linhuangchang.jpg" class="member-image">
 <span class="member-heading">
 <strong>Lin-huang Chang</strong><br>
 National Taichung Univ.<br>
 <a href="mailto:lchang@mail.ntcu.edu.tw">lchang@mail.ntcu.edu.tw</a><br>
 Research Interests:</span> Software-defined networking
 
-my researches are in SDN, Wireless sensor networks
+my researches are in SDN, Wireless sensor networks 
+
+<p> &nbsp;</p>
 
 <img src="/img/members/lingjyhchen.jpg" class="member-image">
 <span class="member-heading">
@@ -53,6 +56,7 @@ Research Interests:</span> participatory urban sensing; networked sensing system
 
 Dr. Ling-Jyh Chen received the B.Ed. degree in information and computer education from National Taiwan Normal University in 1998, and the M.S. and Ph.D. degrees in computer science from University of California at Los Angeles in 2002 and 2005 respectively. He joined the Institute of Information Science of Academia Sinica as Assistant Research Fellow in 2005, and became an Associate Research Fellow in 2011. His research interests are networked sensing systems, wireless and mobile networks, mobile computing, and social computing. His current research projects are comfort measuring system (CMS) of Taipei bus systems and micro-air pollution sensing systems (MAPS).
 
+<img src="/img/members/yjchen.jpg" class="member-image">
 <span class="member-heading">
 <strong>Yen-Jong Chen (陳彥仲)</strong><br>
 National Cheng Kung University (成功大學), Taiwan<br>
@@ -110,6 +114,7 @@ ACIS, University of Florida<br>
 
 I am a computer scientist and engineer teaching at the University of Florida. I am also the Director of the Advanced Computing and Information Systems (ACIS) lab. My research interests are in the areas of distributed computing, autonomic computing, computer architecture, parallel processing and fault-tolerant computing. I have also worked extensively in the development of e-science cyberinfrastructures, including PUNCH, Nanohub, FutureGrid and iDigBio. Currently, I am particularly interested in all aspects of software-defined systems and how they introduce new questions in the above-listed areas. Transnational contexts are of particular interest to me because they bring out the need for collaborative autonomics across software stacks that are deep and/or distributed among different administrative domains.
 
+<img src="/img/members/mingtaiha.jpg" class="member-image">
 <span class="member-heading">
 <strong>Ming Tai Ha</strong><br>
 Rutgers University<br>
@@ -138,6 +143,7 @@ Research Interests:</span> Computer vision, image processing, pattern recognitio
 
 I am a lecturer in Department of Computer Science, Faculty of Mathematics and Natural Sciences, Bogor Agricultural University (Institut Pertanian Bogor – IPB), West Java, Indonesia. My research research areas are digital image processing, computer vision, pattern recognition, computational intelligence and biodiversity informatics. Now I am head of Computational Intelligence laboratory and Computer Vision Research Group at Department of Computer Science IPB. Currently,  I have been working on Biodiversity Informatics (IPBiotics) development in IPB.
 
+<img src="/img/members/weichenghuang.jpg" class="member-image">
 <span class="member-heading">
 <strong>Weicheng Huang</strong><br>
 NCHC<br>
@@ -146,6 +152,7 @@ Research Interests:</span> big data
 
 I am Weicheng Huang, a local participant from NCHC. My specialty includes parallel processing, grid, cloud and currently big data.
 
+<img src="/img/members/julioibarra.jpg" class="member-image">
 <span class="member-heading">
 <strong>Julio Ibarra</strong><br>
 Florida International University<br>
@@ -157,7 +164,7 @@ As the Assistant Vice President for Technology Augmented Research at FIU, Dr. Ju
 
 Dr. Ibarra has been active in initiatives to advance networking and Internet technologies for the State of Florida. He is a board member of the Florida Lambda Rail, LLC – Florida’s research and education network initiative. He served on the Governor’s IT Florida Task Force subcommittee on Infrastructure and Technology Development, as a subject matter expert. He is co-author of the policy recommendation for the development of a Network Access Point (NAP) in South Florida to enhance the State’s e-Commerce opportunities with Latin America."
 
-<img src="/img/members/koheiichikawa.png" class="member-image">
+<img src="/img/members/koheiichikawa.jpg" class="member-image">
 <span class="member-heading">
 <strong>Kohei Ichikawa</strong><br>
 Nara Institute of Science and Technology<br>
@@ -167,7 +174,7 @@ Research Interests:</span> Distributed systems, Virtualization, Software Defined
 
 Kohei Ichikawa is an Associate Professor in the Graduate School of Information Science at Nara Institute of Science and Technology, Japan. His past research work involved the design and development of middleware and applications for Grid, virtualized infrastructures and Software Defined Network testbed. He currently works on the PRAGMA project, developing an international Software Defined Networking Testbed for use by the PRAGMA researchers.
 
-<img src="/img/members/shantenujha.png" class="member-image">
+<img src="/img/members/shantenujha.jpg" class="member-image">
 <span class="member-heading">
 <strong>Shantenu Jha</strong><br>
 Rutgers University<br>
@@ -180,6 +187,7 @@ University. His research interests lie at the triple point of High-performance d
 standards-driven and abstractions-based tools used to support
 large-scale science and engineering applications. He has won several awards at leading supercomputing conferences for the application of high-performance distributed computing to computational science. His research is supported by the US DOE and NSF, including the CAREER Award. He was appointed a Rutgers Chancellor Scholar in 2015. Away from work, Jha indulges in middle-distance running and the quest for the perfect bad joke!
 
+<img src="/img/members/shihchungjessykang.jpg" class="member-image">
 <span class="member-heading">
 <strong>Shih-Chung Jessy Kang</strong><br>
 College<br>
@@ -198,6 +206,7 @@ Research Interests:</span> SDI, testbed, IoT
 
 Eiji Kawai joined NICT in 2009 and has been conducting research on advanced networking technologies for Future Internet as director of Network Testbed R&D Laboratory. He is now interested in deployment of SDN/SDI technologies on large-scale network infrastructure for IoT applications.
 
+<img src="/img/members/yoshiyukikido.jpg" class="member-image">
 <span class="member-heading">
 <strong>Yoshiyuki Kido</strong><br>
 Osaka University<br>
@@ -212,7 +221,7 @@ He worked in RIKEN, the HPCI Program for Computational Life Science from 2012 to
 
 His research field is computer science with bioscience and his current research interests include visualization, software defined networking, high-performance computing and related information technologies.
 
-<img src="/img/members/jasonleigh.png" class="member-image">
+<img src="/img/members/jasonleigh.jpg" class="member-image">
 <span class="member-heading">
 <strong>Jason Leigh</strong><br>
 University of Hawaii at Manoa<br>
@@ -222,7 +231,7 @@ Research Interests:</span> data visualization, virtual reality, collaboration te
 
 I am a professor of Computer Science, Director of the Laboratory for Advanced Visualization and Applications (in Hawaii) and Director Emeritus of the Electronic Visualization Lab (at the University of Illinois at Chicago). My interest is in cyber-infrastructure hardware and software technologies for collaborative data visualization in science, engineering as well as in the arts and humanities. Some of my recent projects  include: the CAVE2 hybrid reality environment, SAGE and SAGE2 - Scalable Amplified Group Environment, NetSage - the network monitoring and visualization platform for National Science Foundation's International Research Network Connections program, and Articulate - an automated way to translate natural language into visualizations.
 
-<img src="/img/members/fangpanglin.png" class="member-image">
+<img src="/img/members/fangpanglin.jpg" class="member-image">
 <span class="member-heading">
 <strong>Fang-Pang Lin</strong><br>
 National Center for High-Performance Computing<br>
@@ -249,6 +258,7 @@ Research Interests:</span> HPC, IoT, Cloud Computing, Smart Cities
 
 I am currently the Knowledge Management Division Chief of the Advanced Science and Technology Institute.  I graduated from the University of the Philippines (Diliman) where I took my bachelor's degree in Electronics and Communications Engineering and Master's degree in Electrical Engineering. Two years ago, we started implementing the CoARE (Computing and Archiving Research Environment) Project where we offer general purpose virtual machines, HPC and storage services to local researchers. This year, I will be proposing a new project that deals in the areas of Big Data Analytics, IoT and Smart Cities.  As this will be a new area for us, our organization is very much open for international collaboration in the above topics. 
 
+<img src="/img/members/toshiyukimiyachi.jpg" class="member-image">
 <span class="member-heading">
 <strong>Toshiyuki Miyachi</strong><br>
 NICT<br>
@@ -298,7 +308,7 @@ Biomedical Computation Resource(NBCR) and the Pacific Rim Applications and Grid 
 
 In his spare time, Phil hikes.  And likes to say "I think I can climb that".
 
-
+<img src="/img/members/frederickkinhingphoa.jpg" class="member-image">
 <span class="member-heading">
 <strong>Frederick Kin Hing Phoa</strong><br>
 Academia Sinica<br>
@@ -328,6 +338,7 @@ Research Interests:</span> Smart cities, local (edge) clouds, IoT, Metropolitan 
 
 Glenn Ricart is founder and CTO of US Ignite, a nonprofit creating an ecosystem of innovative applications and services in smart gigabit communities enabled by software-driven infrastructure.  US Ignite brings together corporations, cities and regions, government, nonprofits, and academic to make and deploy these innovative applications and services.   Dr. Ricart is also Adjunct Professor in the School of Computing at the University of Utah. Previously, Glenn was CEO of National LambdaRail, Managing Director of PricewaterhouseCoopers, Executive Vice President and CTO of Novell during its heyday, Program Manager at DARPA, and Assistant Vice Chancellor of Academic Affairs and academic CIO at the University of Maryland.  Dr. Ricart was inducted into the Internet Hall of Fame as an Internet Pioneer in 2013. He is also the founder or co-founder of five startups raising a combined total of $190M.
 
+<img src="/img/members/cekuenshieh.jpg" class="member-image">
 <span class="member-heading">
 <strong>Ce-Kuen Shieh</strong><br>
 National Cheng-Kung University, National Center for High-performance Computing<br>
@@ -404,7 +415,7 @@ Research Interests:</span> Remote sensing, land use and land cover change, clima
 
 Hui Ping Tsai received the Ph.D. degree in geography from the University of Florida in 2012. Currently, she is a Postdoctoral Fellow with the Center for Environmental Restoration and Disaster Reduction in NCHU. Recently, she work on investigating vegetation (using NDVI as a surrogate) and climate variabilities in Taiwan and would like to assess associations between them.  
 
-<img src="/img/members/wheyfonetsai.png" class="member-image">
+<img src="/img/members/wheyfonetsai.jpg" class="member-image">
 <span class="member-heading">
 <strong>Whey-Fone Tsai</strong><br>
 National Center for High-performance Computing, National Applied Research Laboratories, Taiwan<br>
@@ -441,7 +452,7 @@ Research Interests:</span> Resource Management, Software Defined Networking
 
 Yasuhiro Watashiba is an Assistant Professor in the Graduate School of Information Science at Nara Institute of Science and Technology, Japan. He received his Ph.D. degrees from Osaka University in 2015. His current research interests include Resource Management on computing environment and related information technologies. 
 
-<img src="/img/members/nadyawilliams.png" class="member-image">
+<img src="/img/members/nadyawilliams.jpg" class="member-image">
 <span class="member-heading">
 <strong>Nadya Williams</strong><br>
 UCSD<br>
@@ -479,6 +490,7 @@ Research Interests:</span> SDN, virtualization, Edge computing, IoT
 
 Hiroaki Yamanaka received M.E. and Ph.D from Osaka University in 2008 and 2011, respectively. From 2011, he is a researcher at Network Testbed R&D Laboratory of National Institute of Information and Communications Technology (NICT). His current research work is focusing on network virtualization and OpenFlow.
 
+<img src="/img/members/mingderyang.jpg" class="member-image">
 <span class="member-heading">
 <strong>Ming-Der Yang</strong><br>
 National Chung Hsing University<br>
