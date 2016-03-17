@@ -250,6 +250,17 @@ Research Interests:</span> Modeling and simulation, computer networking, paralle
 
 Dr. Jason Liu is an Associate Professor at the School of Computing and Information Sciences at Florida International University. His research focuses on parallel discrete-event simulation and high-performance modeling and simulation of computer networks and computer systems, funded by NSF, DHS, DOD, and DOE. Dr. Liu is an NSF CAREER Award recipient and an ACM Distinguished Scientist. He served as general chairs and program chairs for several conferences, and on the technical committees for many  system and network modeling and simulation conferences. He is currently a Steering Committee member for ACM SIGSIM-PADS, and is on the editorial board for ACM TOMACS and SCS SIMULATION.
 
+<img src="/img/members/gracehong.jpg" class="member-image">
+<span class="member-heading">
+<strong>Grace S. Hong</strong><br>
+ACIS, University of Florida<br>
+<a href="mailto:g.s.hong@alumni.lse.ac.uk">g.s.hong@alumni.lse.ac.uk</a><br>
+Research Interests:</span> group dynamics in scientific social networks; team processes; virtual organization
+
+Grace Hong has recently joined ACIS Lab as a Research Programs Coordinator for international collaborative initiatives, in particular CENTRA. She received her MSc in Organizational & Social Psychology from London School of Economics and Political Science in 2008. Grace has been involved in facilitating grassroots scientific community development such as PRAGMA and GLEON (Global Lake Ecological Observatory Network) for data & resources sharing, people and sensor/e-Science networks building as 'learning organizations' since 2003.   
+
+Grace is experienced in participatory decision-making facilitation, team science leadership skills & cross-cultural sensitivity training for early-career scientists, projects and events management, meeting designs & evaluation, and social media communications for scientific community development & outreach. She is also a Post-it notes enthusiast.
+
 <img src="/img/members/renemendoza.jpg" class="member-image">
 <span class="member-heading">
 <strong>Rene Mendoza</strong><br>
