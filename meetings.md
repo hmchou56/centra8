@@ -65,6 +65,24 @@ Research Interests:</span> Urban System, Housing Economics, Energy Application, 
 
 I received Ph.D. from Northwestern University, IL. USA (1993), and is the Distinguished Professor of Urban Planning in NCKU, Taiwan. I served as the department  chair of Urban Planning in NCKU (2005-2008), and also, for more than 20 years, served as the reviewer of research projects for government, MoST, and academic journals.  
 
+<img src="/img/members/hsiumeichou.jpg" class="member-image">
+<span class="member-heading">
+<strong>Hsiu-Mei Chou</strong><br>
+National Center for High-performance Computing<br>
+<a href="mailto:hmchou@nchc.narl.org.tw">hmchou@nchc.narl.org.tw</a><br>
+Research Interests:</span> large scale scientific data management,  data visualization, user experience
+
+Hsiu-Mei Chou is an associate research scientist at National Center for High-performance Computing.  Her research is mainly focus on data resources management and sharing. Hsiu-Mei has been working with scientific community  such as GLEON (Global Lake Ecological  Observatory Network) for building data sharing infrastructure since 2013. 
+
+<span class="member-heading">
+<strong>HoneJay Chu</strong><br>
+National Cheng Kung University<br>
+<a href="mailto:honejaychu@gmail.com">honejaychu@gmail.com</a><br>
+<a href="http://www1.geomatics.ncku.edu.tw/staff-1.php?view=honejayChu">www1.geomatics.ncku.edu.tw/staff-1.php?view=honejayChu</a><br>
+Research Interests:</span> Environmental management
+
+During his post-doc (2008-2011), Dr. Chu worked with Prof. YP Lin on the issue of understanding the pros and cons for the spatial environmental monitoring. They have extended their research goal to improve the performance of the land use change model. From 2011, he works at the Department of Geomatics, National Cheng Kung University. His works includes aiming to spatial information for cases such as air pollution, rainfall spatial estimation, LiDAR-based DEM, and GIS applications.
+
 <img src="/img/members/reidjcruz.jpg" class="member-image">
 <span class="member-heading">
 <strong>Febus Reidj G. Cruz</strong><br>
@@ -221,6 +239,22 @@ He worked in RIKEN, the HPCI Program for Computational Life Science from 2012 to
 
 His research field is computer science with bioscience and his current research interests include visualization, software defined networking, high-performance computing and related information technologies.
 
+<span class="member-heading">
+<strong>Li-Chi Ku</strong><br>
+National Center for High-performance Computing<br>
+<a href="mailto:lku@narlabs.org.tw">lku@narlabs.org.tw</a><br>
+Research Interests:</span> Software Defined Network
+
+Li-Chi Ku is an NCHC engineer working for Taiwan Advanced Research and Education Network (TWAREN). His research interests focus on technologies of Software Defined Network (SDN) testbeds  and multi-domain network control. He takes it as a mission to bring network technology to more possible domestic and international applications and collaborations.
+
+<span class="member-heading">
+<strong>I-En Liao</strong><br>
+National Chung Hsing University<br>
+<a href="mailto:ieliao@nchu.edu.tw">ieliao@nchu.edu.tw</a><br>
+Research Interests:</span> data mining, XML database, big data analytics, information security
+
+I-En Liao is currently a professor and chair in the Department of Computer Science and Engineering at National Chung-Hsing University, Taiwan. His research interests are in data mining, XML database, big data analytics and information security. He is a member of the ACM and the IEEE Computer Society.
+
 <img src="/img/members/jasonleigh.jpg" class="member-image">
 <span class="member-heading">
 <strong>Jason Leigh</strong><br>
@@ -260,6 +294,12 @@ Research Interests:</span> group dynamics in scientific social networks; team pr
 Grace Hong has recently joined ACIS Lab as a Research Programs Coordinator for international collaborative initiatives, in particular CENTRA. She received her MSc in Organizational & Social Psychology from London School of Economics and Political Science in 2008. Grace has been involved in facilitating grassroots scientific community development such as PRAGMA and GLEON (Global Lake Ecological Observatory Network) for data & resources sharing, people and sensor/e-Science networks building as 'learning organizations' since 2003.   
 
 Grace is experienced in participatory decision-making facilitation, team science leadership skills & cross-cultural sensitivity training for early-career scientists, projects and events management, meeting designs & evaluation, and social media communications for scientific community development & outreach. She is also a Post-it notes enthusiast.
+
+<span class="member-heading">
+<strong>ChungI Huang</strong><br>
+NCHC<br>
+<a href="mailto:schumi@nchc.org.tw">schumi@nchc.org.tw</a><br>
+Research Interests:</span> computer vision, image processing
 
 <img src="/img/members/renemendoza.jpg" class="member-image">
 <span class="member-heading">
