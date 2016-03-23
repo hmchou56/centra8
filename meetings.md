@@ -295,11 +295,16 @@ Grace Hong has recently joined ACIS Lab as a Research Programs Coordinator for i
 
 Grace is experienced in participatory decision-making facilitation, team science leadership skills & cross-cultural sensitivity training for early-career scientists, projects and events management, meeting designs & evaluation, and social media communications for scientific community development & outreach. She is also a Post-it notes enthusiast.
 
+<img src="/img/members/chungihuang.jpg" class="member-image">
 <span class="member-heading">
 <strong>ChungI Huang</strong><br>
-NCHC<br>
+National Center for High-Performance Computing<br>
 <a href="mailto:schumi@nchc.org.tw">schumi@nchc.org.tw</a><br>
 Research Interests:</span> computer vision, image processing
+
+Dr. Chung-I Huang received the M.S. degree in computer science and information engineering from National Taiwan Normal University in 2002 and the Ph.D. degree in computer science and information engineering from National Cheng Kung University, Tainan, Taiwan in 2011. 
+He is an assistant research scientist at National Center for High-performance Computing. 
+His research is mainly focus on image processing and computer vision.
 
 <img src="/img/members/renemendoza.jpg" class="member-image">
 <span class="member-heading">
