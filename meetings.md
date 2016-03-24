@@ -306,15 +306,6 @@ Dr. Chung-I Huang received the M.S. degree in computer science and information e
 He is an assistant research scientist at National Center for High-performance Computing. 
 His research is mainly focus on image processing and computer vision.
 
-<span class="member-heading">
-<strong>Hock Beng Lim</strong><br>
-Singapore University of Technology and Design<br>
-<a href="mailto:hockbeng_lim@sutd.edu.sg">hockbeng_lim@sutd.edu.sg</a><br>
-<a href="http://www.ntu.edu.sg/home/limhb/">http://www.ntu.edu.sg/home/limhb/</a><br>
-Research Interests:</span> IoT, Middleware and Cyberinfrastructure, Data Management and Analytics, Smart Cities
-
-Hock Beng Lim is the Co-Director of the Center for Smart Systems (CS2) at the Singapore University of Technology and Design, and the Director of Research and Development of the Intelligent Systems Center (IntelliSys) at Nanyang Technological University, Singapore. He received his BS in Computer Engineering, MS in Electrical Engineering, and PhD in Electrical and Computer Engineering from the University of Illinois at Urbana-Champaign, and his MS in Management Science and Engineering from Stanford University. His research interests include sensor networks and middleware, cyber-physical systems, wireless and mobile networks, participatory and urban sensing, cloud computing, smart cyberinfrastructure, and data management and analytics.
-
 <img src="/img/members/renemendoza.jpg" class="member-image">
 <span class="member-heading">
 <strong>Rene Mendoza</strong><br>
