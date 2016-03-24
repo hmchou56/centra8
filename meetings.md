@@ -212,7 +212,7 @@ As the Assistant Vice President for Technology Augmented Research at FIU, Dr. Ju
 
 Dr. Ibarra has been active in initiatives to advance networking and Internet technologies for the State of Florida. He is a board member of the Florida Lambda Rail, LLC – Florida’s research and education network initiative. He served on the Governor’s IT Florida Task Force subcommittee on Infrastructure and Technology Development, as a subject matter expert. He is co-author of the policy recommendation for the development of a Network Access Point (NAP) in South Florida to enhance the State’s e-Commerce opportunities with Latin America."
 
-<img src="/img/members/koheiichikawa.jpg" class="member-image">
+<img src="/img/members/koheikawa.jpg" class="member-image">
 <span class="member-heading">
 <strong>Kohei Ichikawa</strong><br>
 Nara Institute of Science and Technology<br>
@@ -269,6 +269,7 @@ He worked in RIKEN, the HPCI Program for Computational Life Science from 2012 to
 
 His research field is computer science with bioscience and his current research interests include visualization, software defined networking, high-performance computing and related information technologies.
 
+<img src="/img/members/lichiku.jpg" class="member-image">
 <span class="member-heading">
 <strong>Li-Chi Ku</strong><br>
 National Center for High-performance Computing<br>
