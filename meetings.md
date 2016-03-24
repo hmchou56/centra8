@@ -8,7 +8,7 @@ published: true
 
 # Future Meetings
 
-The CENTRA project kick-off meeting will be held March 30, 31 and April 1st in Taiwan.
+The CENTRA project kick-off meeting will be held March 30, 31 and April 1st in Taiwan.  The [Agenda](http://event.nchc.org.tw/2016/CECEA/index.php?CONTENT_ID=20) is now available.
 
 Join the CENTRA Kickoff Meeting [Forum Discussions](https://groups.google.com/forum/#!forum/centrakickoff)
 
