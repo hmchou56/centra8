@@ -63,13 +63,13 @@ To be announced.
 
 # Collaborators
 
-CENTRA engages international entities in collaborative research activities in several ways. Institutional members provide access to facilities and testbeds to host researchers and enable experimental work. Individual researchers who belong to member institutions, or are invited by these institutions, can participate in CENTRA projects. Current institutional members are the Advanced Computing and Information Systems (ACIS) laboratory of the University of Florida, the Center of Excellence for Cyber-Enablement of Applications (CECEA) in Taiwan and the National Institute of Information and Communications Technologies (NICT) in Japan. Researchers who have accepted invitations of interest in participation in CENTRA activities are from a growing number of countries which include the following: Indonesia, Japan, Philippines, Malaysia, Myanmar, Taiwan, Thailand, Singapore, Vietnam and USA.
+CENTRA engages international entities in collaborative research activities in several ways. Institutional members provide access to facilities and testbeds to host researchers and enable experimental work. Individual researchers who belong to member institutions, or are invited by these institutions, can participate in CENTRA projects. Current institutional members are the Advanced Computing and Information Systems (ACIS) laboratory of the University of Florida, the Center of Excellence for Cyber-Enablement of Applications (<a href="http://cecea.nchc.org.tw/">CECEA</A>) in Taiwan and the National Institute of Information and Communications Technologies (NICT) in Japan. Researchers who have accepted invitations of interest in participation in CENTRA activities are from a growing number of countries which include the following: Indonesia, Japan, Philippines, Malaysia, Myanmar, Taiwan, Thailand, Singapore, Vietnam and USA.
 
 # Funding
 
 CENTRA is funded in the USA by the US National Science Foundation (NSF). CENTRA 
 partners include the Center of Excellence for Cyber-Enablement of Applications 
-(CECEA) in Taiwan funded by the Ministry of Science and Technology (MOST) of 
+(<a href="http://cecea.nchc.org.tw/">CECEA</A>) in Taiwan funded by the Ministry of Science and Technology (MOST) of 
 Taiwan, and the National Institute of Information and Communications Technologies (NICT), Japan.
 
 # Contact
