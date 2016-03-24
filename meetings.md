@@ -161,6 +161,36 @@ Research Interests:</span> Computer vision, image processing, pattern recognitio
 
 I am a lecturer in Department of Computer Science, Faculty of Mathematics and Natural Sciences, Bogor Agricultural University (Institut Pertanian Bogor – IPB), West Java, Indonesia. My research research areas are digital image processing, computer vision, pattern recognition, computational intelligence and biodiversity informatics. Now I am head of Computational Intelligence laboratory and Computer Vision Research Group at Department of Computer Science IPB. Currently,  I have been working on Biodiversity Informatics (IPBiotics) development in IPB.
 
+<img src="/img/members/gracehong.jpg" class="member-image">
+<span class="member-heading">
+<strong>Grace S. Hong</strong><br>
+ACIS, University of Florida<br>
+<a href="mailto:g.s.hong@alumni.lse.ac.uk">g.s.hong@alumni.lse.ac.uk</a><br>
+Research Interests:</span> group dynamics in scientific social networks; team processes; virtual organization
+
+Grace Hong has recently joined ACIS Lab as a Research Programs Coordinator for international collaborative initiatives, in particular CENTRA. She received her MSc in Organizational & Social Psychology from London School of Economics and Political Science in 2008. Grace has been involved in facilitating grassroots scientific community development such as PRAGMA and GLEON (Global Lake Ecological Observatory Network) for data & resources sharing, people and sensor/e-Science networks building as 'learning organizations' since 2003.   
+
+Grace is experienced in participatory decision-making facilitation, team science leadership skills & cross-cultural sensitivity training for early-career scientists, projects and events management, meeting designs & evaluation, and social media communications for scientific community development & outreach. She is also a Post-it notes enthusiast.
+
+<img src="/img/members/chungihuang.jpg" class="member-image">
+<span class="member-heading">
+<strong>ChungI Huang</strong><br>
+National Center for High-Performance Computing<br>
+<a href="mailto:schumi@nchc.org.tw">schumi@nchc.org.tw</a><br>
+Research Interests:</span> computer vision, image processing
+
+Dr. Chung-I Huang received the M.S. degree in computer science and information engineering from National Taiwan Normal University in 2002 and the Ph.D. degree in computer science and information engineering from National Cheng Kung University, Tainan, Taiwan in 2011. 
+He is an assistant research scientist at National Center for High-performance Computing. 
+His research is mainly focus on image processing and computer vision.
+
+<span class="member-heading">
+<strong>Jen-Wei Huang</strong><br>
+National Cheng Kung University<br>
+<a href="mailto:jwhuang@mail.ncku.edu.tw">jwhuang@mail.ncku.edu.tw</a><br>
+Research Interests:</span> data mining
+
+Jen-Wei Huang majors in computer science and is familiar with data mining. His research interests include data mining, mobile computing, and bioinformatics. Among these, social network analysis, progressive mining, mining time series, and multimedia data mining are his special interests. In addition, some of his research are on data broadcasting, privacy preserving data mining, e-learning and bioinformatics.
+
 <img src="/img/members/weichenghuang.jpg" class="member-image">
 <span class="member-heading">
 <strong>Weicheng Huang</strong><br>
@@ -283,28 +313,6 @@ Florida International University<br>
 Research Interests:</span> Modeling and simulation, computer networking, parallel computing, computer systems
 
 Dr. Jason Liu is an Associate Professor at the School of Computing and Information Sciences at Florida International University. His research focuses on parallel discrete-event simulation and high-performance modeling and simulation of computer networks and computer systems, funded by NSF, DHS, DOD, and DOE. Dr. Liu is an NSF CAREER Award recipient and an ACM Distinguished Scientist. He served as general chairs and program chairs for several conferences, and on the technical committees for many  system and network modeling and simulation conferences. He is currently a Steering Committee member for ACM SIGSIM-PADS, and is on the editorial board for ACM TOMACS and SCS SIMULATION.
-
-<img src="/img/members/gracehong.jpg" class="member-image">
-<span class="member-heading">
-<strong>Grace S. Hong</strong><br>
-ACIS, University of Florida<br>
-<a href="mailto:g.s.hong@alumni.lse.ac.uk">g.s.hong@alumni.lse.ac.uk</a><br>
-Research Interests:</span> group dynamics in scientific social networks; team processes; virtual organization
-
-Grace Hong has recently joined ACIS Lab as a Research Programs Coordinator for international collaborative initiatives, in particular CENTRA. She received her MSc in Organizational & Social Psychology from London School of Economics and Political Science in 2008. Grace has been involved in facilitating grassroots scientific community development such as PRAGMA and GLEON (Global Lake Ecological Observatory Network) for data & resources sharing, people and sensor/e-Science networks building as 'learning organizations' since 2003.   
-
-Grace is experienced in participatory decision-making facilitation, team science leadership skills & cross-cultural sensitivity training for early-career scientists, projects and events management, meeting designs & evaluation, and social media communications for scientific community development & outreach. She is also a Post-it notes enthusiast.
-
-<img src="/img/members/chungihuang.jpg" class="member-image">
-<span class="member-heading">
-<strong>ChungI Huang</strong><br>
-National Center for High-Performance Computing<br>
-<a href="mailto:schumi@nchc.org.tw">schumi@nchc.org.tw</a><br>
-Research Interests:</span> computer vision, image processing
-
-Dr. Chung-I Huang received the M.S. degree in computer science and information engineering from National Taiwan Normal University in 2002 and the Ph.D. degree in computer science and information engineering from National Cheng Kung University, Tainan, Taiwan in 2011. 
-He is an assistant research scientist at National Center for High-performance Computing. 
-His research is mainly focus on image processing and computer vision.
 
 <img src="/img/members/renemendoza.jpg" class="member-image">
 <span class="member-heading">
