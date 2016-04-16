@@ -75,4 +75,4 @@ Taiwan, and the National Institute of Information and Communications Technologie
 # Contact
 
 For more information about CENTRA or to express an interest in collaborating, please
-contact us via email at [CENTRA Kickoff](https://groups.google.com/forum/#!forum/centrakickoff).
+contact us via email at [centra@acis.ufl.edu](mailto:centra@acis.ufl.edu).
