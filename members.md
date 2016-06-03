@@ -23,14 +23,14 @@ Invited researchers who engage and advise junior researchers in CENTRA-related p
 **Name**  | **Position**  | **Interests** |
 Beth Plale          |Professor, School of Informatics and Computing, Indiana Univ.                            |Data science and systems
 Calton Pu     |Professor, John Imlay Jr. Chair in Software, College of Computing, Georgia Tech       |Distributed systems, Internet, data management, disaster management
-Glen Ricart        |Founder and CTO, US Ignite                                             |Smart cities, networking and security
+Glenn Ricart        |Founder and CTO, US Ignite                                             |Smart cities, networking and security
 James Beach        |Assistant Director for Informatics, Biodiversity Institute, U. of Kansas              |Biodiversity informatics, open- source biocollections software
 Jose Fortes        |Professor, AT&T Eminent Scholar, Univ. Florida                              |Distributed software-defined systems
 Katia Obraczka     |Professor, Univ. California Santa Cruz                                 |Networks, distributed/operating systems, Internet, mobile systems 
 Peter Dinda        |Professor, Dep. of Electrical Engineering and Computer Science, Northwestern Univ.         |Virtualization, HPC, emphatic computing, performance models
 Phil Papadopoulos   |Program Director, Computing Syst., SDSC, Univ. California San Diego             |High-Performance Computing, cluster computing, middleware
 Renato Figueiredo   |Professor, Univ. Florida                                              |Peer-to-peer, cloud and autonomic computing, virtualized systems 
-Thomas Harman      |Professor, Univ. California Merced                                     |Environment sensors, soil, aquatic and groundwater systems
+Thomas Harmon      |Professor, Univ. California Merced                                     |Environment sensors, soil, aquatic and groundwater systems
 Valerie Taylor      |Senior Associate Dean for Academic Affairs and Royce E. Wisenbaker Professor, Texas A&M. |HPC, performance modeling of distributed applications, smart cities
 {: class="table"}
 
