@@ -13,7 +13,7 @@ The CENTRA inaugural activities also include a visit to the CTSP (Central Taiwan
 
 Another heightlight at the CENTRA Kickoff is that [PRAGMA] (http://www.pragma-grid.net) (Pacific-Rim Applications and Grid Middleware Assembly) officially joins CENTRA as an Invited Organization. 
 
-The next CENTRA Meeting will be hosted by the [ACIS Lab, University of Florida](https://www.acis.ufl.edu) in Gainesville, Florida on April 10-12, 2017. In conjunction with this CENTRA Meeting, PRAGMA 32 Workshop will also be organized by the ACIS Lab and held at the same venue in University of Florida on April 13-14, 2017.  
+The next CENTRA Meeting will be hosted by the [ACIS Lab, University of Florida](https://www.acis.ufl.edu) in Gainesville, Florida on April 10-12, 2017. In conjunction with this CENTRA Meeting, PRAGMA 32 Workshop will be held at the same venue on April 13-14, 2017.  
 
 Resources from the 2016 CENTRA Kickoff Meeting:
 
