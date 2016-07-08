@@ -16,8 +16,7 @@ CENTRA as a growing framework for sustained global Collaborations to Enable Tran
 The next CENTRA Meeting will be hosted by Jose Fortes, Chair of the CENTRA Steering Committee and Director of ACIS Lab, University of Florida in Gainesville, Florida on April 10-12, 2017. 
 
 Resources from the 2016 CENTRA Kickoff Meeting:
-<ul>
-<li>[Meet the participants & expertise](http://www.globalcentra.org/meetings/kickoff2016.html)
-<li>[Agenda](http://event.nchc.org.tw/2016/CECEA/index.php?CONTENT_ID=22)
-<li>Contact: centra@acis.ufl.edu
-</ul>
+
+*  [Meet the participants & expertise](http://www.globalcentra.org/meetings/kickoff2016.html)
+*  [Agenda](http://event.nchc.org.tw/2016/CECEA/index.php?CONTENT_ID=22)
+*  Contact: centra@acis.ufl.edu
