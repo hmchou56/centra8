@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Grace Hong joined the CENTRA as Research Program Coordinator
-excerpt: Grace Hong joined the CENTRA partnership project as Research Program Coordinator
+excerpt: Grace Hong joined the CENTRA partnership project as Research Program Coordinator to assist the development of CENTRA's international partnerships and collaborative community building.
 ---
 Grace Hong joined the CENTRA project in 2016 as Research Program Coordinator to assist the development of CENTRA's international partnerships and collaborative community building. She is working in concert with CENTRA leadership and members to help define and co-create agendas of CENTRA activities, facilitate the forming of collaborative teams, and is responsible for project reporting, engaging members through content sharing via website, online surveys and social media. Based at the [ACIS Lab, University of Florida](https://www.acis.ufl.edu), Grace will also be supporting ACIS international collaborative efforts besides CENTRA, including organizing conferences and workshops, facilitating interactions of participants and assisting their follow-up activities toward successful outcomes.
 
