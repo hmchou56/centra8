@@ -1,7 +1,7 @@
 ---
 layout: news
-title: CENTRA social media
-excerpt: CENTRA is now on Facebook and Twitter!
+title: CENTRA on Facebook - Follow Us Today
+excerpt: CENTRA is now on [Facebook](www.facebook.com/GlobalCENTRA) and Twitter! Like and follow CENTRA social media so you do not miss out opportunities and community research highlights. Click on 'View Details' if you would like to coordinate social media compaigns for your CENTRA related projects or events:
 ---
 CENTRA is now on social media! Like our CENTRA Facebook page here www.facebook.com/GlobalCENTRA and follow us on Twitter at www.twitter.com/GlobalCENTRA !
 
