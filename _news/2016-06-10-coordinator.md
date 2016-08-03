@@ -9,7 +9,8 @@ Grace brings a wealth of experience in international scientific networks develop
 
 CENTRA is glad to have Grace be part of the CENTRA community and watching over our organizational development processes. She can be reached at gshong@acis.ufl.edu and centra@acis.ufl.edu .  
 
-
+<br /> <br /> <br />
+  
 Previous: [CENTRA Kicks Off in Taiwan, Spring 2016](http://www.globalcentra.org/news/2016-06-08-centrakickoff.html)
 
 Next: [Follow CENTRA on Social Media!](http://www.globalcentra.org/news/2016-06-12-socialmedia.html)
