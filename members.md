@@ -8,7 +8,7 @@ published: true
 
 # Founding Members
 
-The founding members of CENTRA are the Advanced Computing and Information Systems (ACIS) laboratory of the University of Florida with support from the National Science Foundation (NSF) of the USA, the Center of Excellence for Cyber-Enablement of Applications (<a href="http://cecea.nchc.org.tw/">CECEA</A>) of the National Center for High-Performance Computing (NCHC) of Taiwan with support from the Ministry of Science and Technology (MOST) of Taiwan, and the ASEAN International Virtual Organization (IVO) funded by the National Institute of Information and Communications Technologies (NICT), Japan.
+The founding members of CENTRA are the [Advanced Computing and Information Systems (ACIS) Laboratory](https://www.acis.ufl.edu/node) of the University of Florida with support from the National Science Foundation (NSF) of the USA, the Center of Excellence for Cyber-Enablement of Applications (<a href="http://cecea.nchc.org.tw/">CECEA</A>) of the National Center for High-Performance Computing (NCHC) with support from the Ministry of Science and Technology (MOST) of Taiwan, and the [ASEAN International Virtual Organization (IVO)](https://www.nict.go.jp/en/asean_ivo/about_asean_ivo.html) funded by the National Institute of Information and Communications Technologies (NICT), Japan.
 
 Each partner hosts workshops, supports researcher visits to other partners, hosts CENTRA collaborators and provides access to cyberinfrastructure testbeds. In addition to scientific outcomes, CENTRA is developing a framework to coordinate research involving these and other partners in order to achieve scientific progress and engage junior researchers in international activities.
 
