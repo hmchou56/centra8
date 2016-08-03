@@ -34,6 +34,4 @@ Thomas Harmon      |Professor, Univ. California Merced                          
 Valerie Taylor      |Senior Associate Dean for Academic Affairs and Royce E. Wisenbaker Professor, Texas A&M. |HPC, performance modeling of distributed applications, smart cities
 {: class="table"}
 
-# Students
 
-To be announced.
