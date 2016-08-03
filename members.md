@@ -35,6 +35,7 @@ Phil Papadopoulos   |Program Director, Computing Syst., SDSC, Univ. California S
 Renato Figueiredo   |Professor, Univ. Florida                                              |Peer-to-peer, cloud and autonomic computing, virtualized systems 
 Thomas Harmon      |Professor, Univ. California Merced                                     |Environment sensors, soil, aquatic and groundwater systems
 Valerie Taylor      |Senior Associate Dean for Academic Affairs and Royce E. Wisenbaker Professor, Texas A&M. |HPC, performance modeling of distributed applications, smart cities
+Aimee Stewart      |Research Architect, University of Kansas Biodiversity Institute     |Distributed computing, databases 
 {: class="table"}
 
 
