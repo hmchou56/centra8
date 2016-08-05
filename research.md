@@ -14,9 +14,13 @@ The activities of this project aim to advance the scientific understanding of di
 
 The related middleware research seeks solutions for software-defined data sharing, middleware interoperability via software-definition, and coordinated software-definition of distributed IT systems.
 
-# Projects
+# Working Groups and Projects
 
-To be posted after the kickoff meeting.
+* Smart Cities and Connected Communities
+* Biodiversity and Environmental Informatics with Museum as knowledge centers
+* Disaster Management Working Group: JARViS (Jumbo Aseemblage for Related Visualizations in Science)
+* Federated Testbeds
+<br />
 
 # Testbeds and Resources
 
