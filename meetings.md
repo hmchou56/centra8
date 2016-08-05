@@ -8,6 +8,12 @@ published: true
 
 # Meetings
 
+### CENTRA All-Hands 2017 and PRAGMA32 Workshop
+* CENTRA Meeting: April 10 ~ 12, 2017 | PRAGMA32: April 13 ~ 14, with an optional cultural tour on April 15, 2017.
+* Location: Gainesville, Florida
+* Program, travel and accommodation information will be available by early 2017.
+<br />
+
 ### CENTRA Kickoff 2016
 * March 30,31 and April 1 2016 
 * Location: Taichung City, Taiwan
