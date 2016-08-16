@@ -9,7 +9,7 @@ published: true
 # The latest CENTRA events and information
 
 <div>
-{% for news in site.news %}
+{% for news in site.news reversed %}
 <div class="post-teaser">
 	<h2>
 	  <a href="{{ news.url | prepend: site.baseurl }}">
