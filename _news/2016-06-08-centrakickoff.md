@@ -20,9 +20,3 @@ Resources from the 2016 CENTRA Kickoff Meeting:
 *  [Meet the participants & expertise](http://www.globalcentra.org/meetings/kickoff2016.html)
 *  [Agenda](http://event.nchc.org.tw/2016/CECEA/index.php?CONTENT_ID=22)
 *  Contact: centra@acis.ufl.edu
-
-<br /> <br />
-
-Next: [Grace Hong joined CENTRA as Program Coordinator](http://www.globalcentra.org/news/2016-06-10-coordinator.html)
-
-[Back to CENTRA News](http://www.globalcentra.org/news/)
