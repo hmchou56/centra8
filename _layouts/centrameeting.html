@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<div class="container">
+<article {% if page.feature-img %}class="feature-image"{% endif %}>
+  <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+  <p> <br/> </p>
+  </header>
+  
+  <section class="post-content">{% include centramenu.html %}{{ content }}</section>
+</article>
+</div>
