@@ -8,12 +8,18 @@ published: true
 
 # Meetings
 
-### CENTRA All-Hands 2017 and PRAGMA32 Workshop
-* CENTRA Meeting: April 10 ~ 12, 2017 
-* PRAGMA32: April 13 ~ 14, with an optional cultural tour on April 15, 2017
-* Location: Gainesville, Florida
-* Program, travel and accommodation information will be available by early 2017
+### CENTRA 2 All-Hands Meeting and SUNTOWNS Workshop
+* CENTRA Meeting: April 10 ~ 12, 2017 with SUNTOWNS (Smart UNIversity TOWNS) Workshop on April 12, 2017.
+* Location: Gainesville, Florida (Venune: Universiy of Florida Hilton Conference Center)
+* Program, travel and accommodation information will be available in early February 2017
 * Contact: centra@acis.ufl.edu
+<br />
+
+### PRAGMA 32 Workshop 
+* PRAGMA32: April 13 ~ 14, 2017 with an optional cultural learning day on April 15, 2017 
+* Location: Gainesville, Florida (Venune: Universiy of Florida Hilton Conference Center)
+* Program, travel and accommodation information will be available in early February 2017
+* Contact: renato@acis.ufl.edu and gshong@acis.ufl.edu
 <br />
 
 ### CENTRA Kickoff 2016
