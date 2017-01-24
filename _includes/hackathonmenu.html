@@ -1,0 +1,50 @@
+<style type="text/css">
+	
+ul.centra_meeting_menu {
+    float:left;
+    list-style-type: none;
+    margin: 24px 25px 10px 0;
+    padding: 0px;
+    background-color: #7a9806;
+    border-radius: 5px;
+    /*background-color: #ff8d90;*/
+}
+
+li.centra_meeting_menu a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li.centra_meeting_menu_selected a {
+    display: block;
+    color: #fff;
+    padding: 8px 16px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li.centra_meeting_menu a:hover {
+    background-color: #555;
+    color: white;
+}
+
+</style>
+
+{% assign menuitem = 'centra_meeting_menu' %}
+
+<ul class="centra_meeting_menu">
+	<li {% if page.url contains 'welcome.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/hackathon2017/welcome.html">Welcome</a></li>
+	<li {% if page.url contains 'news.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/hackathon2017/news.html">News & Updates</a></li>
+	<li {% if page.url contains 'program.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/hackathon2017/program.html">Program</a></li>
+	<li {% if page.url contains 'centrameeting' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/centrameeting/welcome.html">CENTRA 2 Meeting</a></li>
+	<li {% if page.url contains 'suntowns' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/suntowns/welcome.html">SUNTOWN Workshop</a></li>
+	<li {% if page.url contains 'registration.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/hackathon2017/registration.html">Registration</a></li>
+	<li {% if page.url contains 'venue.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/hackathon2017/venue.html">Venue and Lodging</a></li>
+	<li {% if page.url contains 'travel.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/hackathon2017/travel.html">Travel</a></li>
+	<li {% if page.url contains 'visainfo.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/hackathon2017/visainfo.html">Visa Information</a></li>
+	<li {% if page.url contains 'organizers.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/hackathon2017/organizers.html">Organizers</a></li>
+	<li {% if page.url contains 'sponsorship.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/hackathon2017/sponsorship.html">Sponsorship</a></li>
+</ul>

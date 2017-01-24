@@ -1,13 +1,13 @@
 ---
-layout: suntowns
-title: SUNTOWNS 2017
-permalink: /suntowns/
-"feature-img": img/SUNTOWNS_B.jpg
+layout: centrameeting
+title: CENTRA 2017
+permalink: /centrameeting/news.html
+"feature-img": img/CENTRA2.jpg
 published: true
 hide: true
 ---
 
-# SUNTOWNS 2017
+# CENTRA 2017 News
 
 <p>
 Communication is not possible. The shuttle has no power. Using the gravitational pull of a star to slingshot back in time? We are going to Starbase Montgomery for Engineering consultations prompted by minor read-out anomalies. Probes have recorded unusual levels of geological activity in all five planetary systems. Assemble a team. Look at records of the Drema quadrant. Would these scans detect artificial transmissions as well as natural signals?
