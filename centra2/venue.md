@@ -9,5 +9,5 @@ hide: true
 
 # CENTRA 2017 Venue
 
-{% capture venue %}{% include venue2017.md %}{% endcapture %}
-{{ venue | markdownify }}
+{% capture travel %}{% include travel2017.md %}{% endcapture %}
+{{ travel | markdownify }}
