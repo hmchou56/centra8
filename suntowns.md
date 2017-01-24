@@ -1,7 +1,7 @@
 ---
 layout: suntowns
 title: SUNTOWNS 2017
-permalink: /centrameeting/
+permalink: /suntowns/
 "feature-img": img/SUNTOWNS_B.jpg
 published: true
 hide: true
