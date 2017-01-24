@@ -36,7 +36,7 @@ li.centra_meeting_menu a:hover {
 {% assign menuitem = 'centra_meeting_menu' %}
 
 <ul class="centra_meeting_menu">
-    <li {% if page.url contains 'hackathon' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/hackathon/welcome.html">Centra 2017</a></li>
+    <li {% if page.url contains 'centrameeting' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/centrameeting/welcome.html">Centra 2017</a></li>
     <li {% if page.url contains 'hackathon' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/hackathon/welcome.html">Student Hackathon</a></li>
     <li {% if page.url contains 'suntowns' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/suntowns/welcome.html">SUNTOWN Workshop</a></li>
 	<li {% if page.url contains 'welcome.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/suntowns/welcome.html">Welcome</a></li>
