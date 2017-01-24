@@ -63,7 +63,7 @@ li.centra_meeting_menu_sub > a:hover {
 
 <ul class="centra_meeting_menu">
 	<li {% if page.url contains 'centra2' %} class="{{ topmenuitem | append:'_selected'}}" {% else %} class=" {{ topmenuitem }}" {% endif %}><a href="/centra2/welcome.html">Centra 2017</a></li>
-	<li {% if page.url contains 'hackathon' %} class="{{ topmenuitem | append:'_selected'}}" {% else %} class=" {{ topmenuitem }}" {% endif %}><a href="/hackathon2017/welcome.html">Student Hackathon</a><br>
+	<li {% if page.url contains 'hackathon' %} class="{{ topmenuitem | append:'_selected'}}" {% else %} class=" {{ topmenuitem }}" {% endif %}><a href="/hackathon2017/welcome.html">Student Hackathon</a>
 		<ul class="centra_meeting_menu_sub">
 			<li {% if page.url contains 'welcome.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/hackathon2017/welcome.html">Welcome</a></li>
 			<li {% if page.url contains 'news.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/hackathon2017/news.html">News & Updates</a></li>
