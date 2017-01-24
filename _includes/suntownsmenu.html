@@ -10,14 +10,14 @@ ul.centra_meeting_menu {
 	/*background-color: #ff8d90;*/
 }
 
-li.centra_meeting_menu_sub a {
+li.centra_meeting_menu_sub > a {
 	display: block;
 	color: #000;
 	padding: 8px 16px;
 	text-decoration: none;
 }
 
-li.centra_meeting_menu_sub_selected a {
+li.centra_meeting_menu_sub_selected > a {
 	display: block;
 	color: #fff;
 	padding: 8px 16px;
@@ -26,29 +26,30 @@ li.centra_meeting_menu_sub_selected a {
 }
 
 /* Change the link color on hover */
-li.centra_meeting_menu_sub a:hover {
+li.centra_meeting_menu_sub > a:hover {
 	background-color: #555;
 	color: white;
 }
 
 </style>
 
-{% assign menuitem = 'centra_meeting_menu_sub' %}
+{% assign topmenuitem = 'centra_meeting_menu_top' %}
+{% assign submenuitem = 'centra_meeting_menu_sub' %}
 
 <ul class="centra_meeting_menu">
-	<li {% if page.url contains 'centrameeting' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/centrameeting/welcome.html">Centra 2017</a></li>
-	<li {% if page.url contains 'hackathon' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/hackathon/welcome.html">Student Hackathon</a></li>
-	<li {% if page.url contains 'suntowns' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/suntowns/welcome.html">SUNTOWN Workshop</a>
+	<li {% if page.url contains 'centra2' %} class="{{ topmenuitem | append:'_selected'}}" {% else %} class=" {{ topmenuitem }}" {% endif %}><a href="/centra2/welcome.html">Centra 2017</a></li>
+	<li {% if page.url contains 'hackathon' %} class="{{ topmenuitem | append:'_selected'}}" {% else %} class=" {{ topmenuitem }}" {% endif %}><a href="/hackathon/welcome.html">Student Hackathon</a></li>
+	<li {% if page.url contains 'suntowns' %} class="{{ topmenuitem | append:'_selected'}}" {% else %} class=" {{ topmenuitem }}" {% endif %}><a href="/suntowns/welcome.html">SUNTOWN Workshop</a>
 		<ul class="centra_meeting_menu_sub">
-			<li {% if page.url contains 'welcome.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/suntowns/welcome.html">Welcome</a></li>
-			<li {% if page.url contains 'news.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/suntowns/news.html">News & Updates</a></li>
-			<li {% if page.url contains 'program.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/suntowns/program.html">Program</a></li>
-			<li {% if page.url contains 'registration.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/suntowns/registration.html">Registration</a></li>
-			<li {% if page.url contains 'venue.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/suntowns/venue.html">Venue and Lodging</a></li>
-			<li {% if page.url contains 'travel.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/suntowns/travel.html">Travel</a></li>
-			<li {% if page.url contains 'visainfo.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/suntowns/visainfo.html">Visa Information</a></li>
-			<li {% if page.url contains 'organizers.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/suntowns/organizers.html">Organizers</a></li>
-			<li {% if page.url contains 'sponsorship.html' %} class="{{ menuitem | append:'_selected'}}" {% else %} class=" {{ menuitem }}" {% endif %}><a href="/suntowns/sponsorship.html">Sponsorship</a></li>
+			<li {% if page.url contains 'welcome.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/suntowns/welcome.html">Welcome</a></li>
+			<li {% if page.url contains 'news.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/suntowns/news.html">News & Updates</a></li>
+			<li {% if page.url contains 'program.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/suntowns/program.html">Program</a></li>
+			<li {% if page.url contains 'registration.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/suntowns/registration.html">Registration</a></li>
+			<li {% if page.url contains 'venue.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/suntowns/venue.html">Venue and Lodging</a></li>
+			<li {% if page.url contains 'travel.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/suntowns/travel.html">Travel</a></li>
+			<li {% if page.url contains 'visainfo.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/suntowns/visainfo.html">Visa Information</a></li>
+			<li {% if page.url contains 'organizers.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/suntowns/organizers.html">Organizers</a></li>
+			<li {% if page.url contains 'sponsorship.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/suntowns/sponsorship.html">Sponsorship</a></li>
 		</ul>
 	</li>
 </ul>
