@@ -1,7 +1,7 @@
 ---
 layout: centrameeting
 title: CENTRA 2017
-permalink: /centrameeting/visainfo.html
+permalink: /centra2/visainfo.html
 "feature-img": img/CENTRA2.jpg
 published: true
 hide: true

@@ -1,7 +1,7 @@
 ---
 layout: hackathon
 title: Hackathon 2017
-permalink: /hackathon/venue.html
+permalink: /hackathon2017/venue.html
 "feature-img": img/CENTRA2.jpg
 published: true
 hide: true
