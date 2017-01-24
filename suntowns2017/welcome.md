@@ -1,7 +1,7 @@
 ---
 layout: suntowns
 title: SUNTOWNS 2017
-permalink: /suntowns2017/welcome.html
+permalink: /suntowns2017/
 "feature-img": img/SUNTOWNS_B.jpg
 published: true
 hide: true
