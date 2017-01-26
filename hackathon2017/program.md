@@ -7,20 +7,32 @@ published: true
 hide: true
 ---
 
-# Student Hackathon Program
+# Hackathon Program
 
-<p>
-Communication is not possible. The shuttle has no power. Using the gravitational pull of a star to slingshot back in time? We are going to Starbase Montgomery for Engineering consultations prompted by minor read-out anomalies. Probes have recorded unusual levels of geological activity in all five planetary systems. Assemble a team. Look at records of the Drema quadrant. Would these scans detect artificial transmissions as well as natural signals?
-</p>
+## Date
 
-<p>
-Unidentified vessel travelling at sub warp speed, bearing 235.7. Fluctuations in energy readings from it, Captain. All transporters off. A strange set-up, but I'd say the graviton generator is depolarized. The dark colourings of the scrapes are the leavings of natural rubber, a type of non-conductive sole used by researchers experimenting with electricity. The molecules must have been partly de-phased by the anyon beam.
-</p>
+**Saturday April 1 - Sunday April 2**
 
-## Active forums
+## Where
 
-| Time | Meeting | Room |
+**CENTRA Suite - Benton Hall, Room 335**<map adjacent>
+University of Florida
+Gainesville, Florida
+
+## Schedule
+| Day | Time | Event |
 |---|---|---|
-| 9:00 - 11:00 | We're acquainted with the wormhole phenomenon, but this... Is a remarkable piece of bio-electronic engineering by which I see much of the EM spectrum ranging from heat and infrared through radio waves, et cetera, and forgive me if I've said and listened to this a thousand times. This planet's interior heat provides an abundance of geothermal energy. We need to neutralize the homing signal. | Room B |
-|   |   |   |
-|   |   |   |
+| Saturday | 10:00 am | Breakfast is served! |
+| Saturday | 10:30 - 11:00 am | Welcome & Introductions to your mentor team |
+| Saturday | 11:00 - 12:00 am | Idea Pitches (2 minutes max) and Team Formation |
+| Saturday | 12:00 pm | Hacking STARTS! |
+| Saturday | 3:00 pm | Socrata API Workshop - learn about web-based data APIs |
+| Saturday | 5:00 pm | GitHub Workshop - working with peers through GitHub |
+| Saturday | 7:00 pm | Dinner break! |
+| Saturday | 8:00 pm | CENTRA Suite will remain open all night |
+| Saturday | 12:00 am | Midnight Break! |
+|---|---|---|
+| Sunday | 9:00 am | Breakfast is served! |
+| Sunday | 11:00 am | Hacking STOPS! Final GitHib commits! |
+| Sunday | 11:00 am - 12:00 pm | Team Presentations (10 minutes max) |
+| Sunday | 12:00 pm - 12:30 pm | Award Ceremony |
