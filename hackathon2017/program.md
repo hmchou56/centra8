@@ -15,7 +15,7 @@ hide: true
 
 ## Where
 
-**CENTRA Suite - Benton Hall, Room 335**<map adjacent></br>
+**CENTRA Suite - Room 335 Benton Hall**<map adjacent></br>
 University of Florida<\br>
 Gainesville, Florida
 

@@ -16,11 +16,13 @@ well as to make suggestions about how to approach problems related to your hack.
 
 ## Organizers
 
-* Grace Hong
-* Dina Quinn
+* [Grace Hong](https://www.acis.ufl.edu/people/gshong)
+* [Dina Quinn](https://www.acis.ufl.edu/people/dina74)
 
 ## Mentors
 
-* Matthew Collins
-* Renato Figueiredo
-* Alex Thompson
+* [Matthew Collins](https://www.acis.ufl.edu/people/mjcollin)
+* [Renato Figueiredo](https://www.acis.ufl.edu/people/renatof)
+* [Alex Thompson](https://www.acis.ufl.edu/people/godfoder)
+
+## Judges
