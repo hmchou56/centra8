@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 
-# Visa Information
+## Visa Information
 
 <p>
 Please consult with the U.S. Consulate in your country/region whether you need a <a href="https://travel.state.gov/content/visas/en.html" target="_blank">visa</a> or are eligible for the <a href="https://travel.state.gov/content/visas/en/visit/visa-waiver-program.html" target="_blank">visa-exempt program (then must have a valid ESTA approval prior)</a> to enter the United States.
