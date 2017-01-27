@@ -9,4 +9,5 @@ hide: true
 
 # Student Hackathon Sponsorship
 
-Below is a list of our sponsors. If you are interested in sponsoring, please email ___
+Below is a list of our sponsors. If you are interested in sponsoring, please 
+email [gshong@acis.ufl.edu](mailto://gshong@acis.ufl.edu)

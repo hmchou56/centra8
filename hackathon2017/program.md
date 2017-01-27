@@ -23,9 +23,10 @@ Gainesville, Florida
 
 All events will take place at the CENTRA Suite.
 
+
 | Day | Time | Event |
 |---|---|---|
-| **Wednesday, March 29<sup>th</sup>** | Featured datasets and portals posted to GitHub |
+| **Wednesday, March 29<sup>th</sup>** | 12:00 pm | Featured datasets and portals posted to GitHub |
 | **Saturday** | 10:00 am | Breakfast is served at the CENTRA Suite! |
 | Saturday | 10:30 - 11:00 am | Welcome & Introductions to your mentor team |
 | Saturday | 11:00 - 12:00 am | Idea Pitches (2 minutes max) and Team Formation |
@@ -40,3 +41,4 @@ All events will take place at the CENTRA Suite.
 | Sunday | 11:00 am - 12:00 pm | Team Presentations (10 minutes max) |
 | Sunday | 12:00 pm | Lunch |
 | Sunday | 12:15 pm - 12:30 pm | Award Ceremony |
+
