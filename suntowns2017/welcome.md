@@ -10,19 +10,19 @@ hide: true
 # SUNTOWNS 2017
 
 <p>
-Communication is not possible. The shuttle has no power. Using the gravitational pull of a star to slingshot back in time? We are going to Starbase Montgomery for Engineering consultations prompted by minor read-out anomalies. Probes have recorded unusual levels of geological activity in all five planetary systems. Assemble a team. Look at records of the Drema quadrant. Would these scans detect artificial transmissions as well as natural signals?
+Welcome to the first Smart UNiversity TOWNS (SUNTOWNS) Workshop taking place in Gainesville, a town with a great university, lots of sun and all kinds of smart people, infrastructure, businesses and nature places! The late US Senator Daniel Patrick Moynihan famously said nearly 50 years ago: “If you want to build a world class city, build a great university and wait 200 years.” I believe that a “faster” version of Senator Moynihan’s statement applies to Gainesville and UF. This international workshop hopes to contribute to the acceleration of the Gainesville-UF synergy by providing a forum to exchange ideas and lessons from smart and connected community initiatives in university towns from the US and other countries. 
 </p>
-
 <p>
-Unidentified vessel travelling at sub warp speed, bearing 235.7. Fluctuations in energy readings from it, Captain. All transporters off. A strange set-up, but I'd say the graviton generator is depolarized. The dark colourings of the scrapes are the leavings of natural rubber, a type of non-conductive sole used by researchers experimenting with electricity. The molecules must have been partly de-phased by the anyon beam.
+I encourage speakers and members of the audience to contribute and engage in the workshop activities, which include several invited talks and a panel with speakers from funding agencies, city governments and communities, research organizations, universities, and industry-university consortia. Let us all help forge collaborations and ideas that will lead to research and solutions for the highly interdisciplinary and socio-technical problems faced by university towns.
 </p>
-
-## Active forums
-
 <p>
-We're acquainted with the wormhole phenomenon, but this... Is a remarkable piece of bio-electronic engineering by which I see much of the EM spectrum ranging from heat and infrared through radio waves, et cetera, and forgive me if I've said and listened to this a thousand times. This planet's interior heat provides an abundance of geothermal energy. We need to neutralize the homing signal.
+The SUNTOWNS workshop takes place under the auspices of the NSF-funded projects CENTRA and PRAGMA. CENTRA enables international collaborations on adaptable (software-defined) cyberinfrastructure for environmental modeling, natural disaster management and smart and connected communities. PRAGMA supports collaborative research amongst researchers from Pacific Rim countries on middleware and distributed computing to advance virtual scientific expeditions on, among other topics, lake science, biodiversity and advanced networking. The 2nd annual meeting of CENTRA and the 32nd semiannual meeting of PRAGMA also take place in Gainesville during the two days preceding and the two days following the SUNTOWNS workshop, respectively. SUNTOWNS attendees are welcome to participate in these other meetings. 
 </p>
-
 <p>
-Resistance is futile.
+I want to acknowledge representatives of the City of Gainesville, the University of Florida and the US National Science Foundation for their participation in the SUNTOWNS workshop, and thank the US National Science Foundation and the AT&T Foundation for partially funding the workshop. 
 </p>
+<p>
+Once again, welcome to the SUNTOWNS workshop, to the University of Florida and to the City of Gainesville. I hope you can take some time to enjoy and stroll around the beautiful UF campus and see UF’s mascot, an alligator called Albert E. Gator.
+</p>
+On behalf of the SUNTOWNS Organizing Team,
+José Fortes

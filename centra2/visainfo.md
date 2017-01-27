@@ -7,22 +7,26 @@ published: true
 hide: true
 ---
 
-# CENTRA 2017 Visa Info
+## Visa Information
 
 <p>
-Communication is not possible. The shuttle has no power. Using the gravitational pull of a star to slingshot back in time? We are going to Starbase Montgomery for Engineering consultations prompted by minor read-out anomalies. Probes have recorded unusual levels of geological activity in all five planetary systems. Assemble a team. Look at records of the Drema quadrant. Would these scans detect artificial transmissions as well as natural signals?
+Please consult with the U.S. Consulate in your country/region whether you need a <a href="https://travel.state.gov/content/visas/en.html" target="_blank">visa</a> or are eligible for the <a href="https://travel.state.gov/content/visas/en/visit/visa-waiver-program.html" target="_blank">visa-exempt program (then must have a valid ESTA approval prior)</a> to enter the United States.
+</p>
+
+## Invitation Letter
+
+<p>
+Please contact Grace Hong (gshong [at] acis.ufl.edu) if you need a letter of invitation to support your U.S. visa application. Please provide the information below in your email request: <br />
+<ul type="circle">
+<li>Your full name as appeared in your passport </li>
+<li>Title/Position and name of your organization</li>
+<li>Email, phone number and nationality</li>
+<li>Arrival and departure dates for your stay in the U.S.</li>
+<li>Additional info that needs to be evident in the invitation letter, per requirement by the U.S. Consulate office you are submitting the application to</li>
+<li><strong>If you need the original, signed physical letter posted to you, please provide complete postal address (zip code included, no PO Boxes please) in your email.</strong></li>
+</ul>
 </p>
 
 <p>
-Unidentified vessel travelling at sub warp speed, bearing 235.7. Fluctuations in energy readings from it, Captain. All transporters off. A strange set-up, but I'd say the graviton generator is depolarized. The dark colourings of the scrapes are the leavings of natural rubber, a type of non-conductive sole used by researchers experimenting with electricity. The molecules must have been partly de-phased by the anyon beam.
-</p>
-
-## Active forums
-
-<p>
-We're acquainted with the wormhole phenomenon, but this... Is a remarkable piece of bio-electronic engineering by which I see much of the EM spectrum ranging from heat and infrared through radio waves, et cetera, and forgive me if I've said and listened to this a thousand times. This planet's interior heat provides an abundance of geothermal energy. We need to neutralize the homing signal.
-</p>
-
-<p>
-Resistance is futile.
+The letter of invitation does not financially obligate the hosting organization. Travel expenses incurred to your CENTRA2 All-Hands attendance are the responsibility of the participant. Whether your trip is supported by your institution or CENTRA award via University of Florida, please work with your funding source for financial support documentation should it be required for your U.S. visa application. 
 </p>
