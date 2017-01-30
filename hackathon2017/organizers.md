@@ -9,10 +9,12 @@ hide: true
 
 # Student Hackathon Team
 
-Throughout the Hackathon, the organizing team will be available to help with logistics, UF campus information,
-and technical issues. Our mentor team will be available to help with using technology like Spark or GitHub as
-well as to make suggestions about how to approach problems related to your hack.
-(Information and suggestions provided by mentors will be available to all teams for fairness.)
+Throughout the Hackathon, the organizing team will be available to help with
+logistics, UF campus information, and technical issues. Our mentor team will be
+available to help with using technology like Spark or GitHub as well as to make
+suggestions about how to approach problems related to your hack. (Information
+and suggestions provided by mentors will be available to all teams for
+fairness.)
 
 ## Organizers
 
@@ -25,4 +27,6 @@ well as to make suggestions about how to approach problems related to your hack.
 * [Renato Figueiredo](https://www.acis.ufl.edu/people/renatof)
 * [Alex Thompson](https://www.acis.ufl.edu/people/godfoder)
 
-## Judges
+## Judging panel
+
+To be announced

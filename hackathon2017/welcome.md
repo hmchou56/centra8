@@ -25,16 +25,17 @@ trip to present in Japan**!
 
 ## Topics
 
-The CENTRA Hackathon will focus on analizing data from three existing Smart
-Cities: [Chicago](https://data.cityofchicago.org/),
+We will welcome any hack focused on collecting or analizing data from three
+existing Smart Cities: [Chicago](https://data.cityofchicago.org/),
 [Gainesville](https://data.cityofgainesville.org/), and
 [Taipai](http://data.taipei/), Taiwan. Each city has a public data portal that
 can enable inovative software applications, visualizations, or analyses that can
 improve the life of city residents. Some of this data is collected by
-[IoT](https://en.wikipedia.org/wiki/Internet_of_things) sensors which
+[IoT](https://en.wikipedia.org/wiki/Internet_of_things) sensors. Any other open
+data source can be used as well for information such as weather, economic,
+geographic, etc.
 
-
-Some examples of the types of data availible:
+Some examples of Smart Cities:
 
 * `A web portal to someone's data`
 * [Map](https://airbox.edimaxcloud.com/) of [AirBox](https://www.youtube.com/watch?v=W3-J430gWrk) air quality data
@@ -43,10 +44,13 @@ Some examples of the types of data availible:
 ## Prizes
 
 * **First Prize** - Paid travel & lodging for up to two members of the winning team to 
-polish and present their work at the next [CENTRA](http://www.globalcentra.org)
+present their work at the next [CENTRA](http://www.globalcentra.org)
 meeting September 2017 in Tokyo, Japan
-* **Second Prize** - 
-* **All participants** - T-shirt, certificate, and swag!
+* **Second Prize** - Something cool
+* **All participants** - T-shirts, certificate, and conference swag!
+
+Judging criteria will be availible at the hackathon but will include *wowness*,
+*uniqueness*, and *technical skill*.
 
 ## Teams
 

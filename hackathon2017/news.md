@@ -11,4 +11,4 @@ hide: true
 
 ## February 1, 2017
 
-Registration will be open soon
+Registration will be open February 6th, 2017.
