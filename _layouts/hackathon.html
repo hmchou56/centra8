@@ -4,7 +4,7 @@ layout: default
 <div class="container">
 <article {% if page.feature-img %}class="feature-image"{% endif %}>
   <header>
-    <p><img src="{{ site.baseurl }}/{{ page.feature-img }}"></p>
+    <img src="{{ site.baseurl }}/{{ page.feature-img }}">
   </header>
   
   <section class="post-content">{% include hackathonmenu.html %}{{ content }}</section>
