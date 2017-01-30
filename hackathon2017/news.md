@@ -2,7 +2,7 @@
 layout: hackathon
 title: Hackathon 2017
 permalink: /hackathon2017/news.html
-"feature-img": img/CENTRA2.jpg
+"feature-img": img/hackathon.jpeg
 published: true
 hide: true
 ---
