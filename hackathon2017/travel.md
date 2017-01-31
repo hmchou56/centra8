@@ -9,4 +9,5 @@ hide: true
 
 # Student Hackathon Travel
 
-(See CENTRA travel)
+{% capture travel %}{% include travel2017.md %}{% endcapture %}
+{{ travel | markdownify }}

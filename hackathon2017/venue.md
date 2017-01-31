@@ -9,4 +9,5 @@ hide: true
 
 # Student Hackathon Venue
 
-CENTRA suite pictures
+{% capture venue %}{% include venue2017.md %}{% endcapture %}
+{{ venue | markdownify }}

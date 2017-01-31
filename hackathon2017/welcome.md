@@ -37,7 +37,7 @@ geographic, etc.
 
 Some examples of Smart Cities:
 
-* `A web portal to someone's data`
+* [Analyizing Chicago taxi rides](http://toddwschneider.com/posts/chicago-taxi-data/)
 * [Map](https://airbox.edimaxcloud.com/) of [AirBox](https://www.youtube.com/watch?v=W3-J430gWrk) air quality data
 * [Graphing electricity usage in Gainesville](https://github.com/mjcollin/gnv_data/blob/master/gru_graph.ipynb)
 
@@ -46,8 +46,8 @@ Some examples of Smart Cities:
 * **First Prize** - Paid travel & lodging for up to two members of the winning team to 
 present their work at the next [CENTRA](http://www.globalcentra.org)
 meeting September 2017 in Tokyo, Japan
-* **Second Prize** - Something cool
-* **All participants** - T-shirts, certificate, and conference swag!
+* **Second Prize** - Something cool!
+* **All participants** - Certificate and conference swag!
 
 Judging criteria will be availible at the hackathon but will include *wowness*,
 *uniqueness*, and *technical skill*.
