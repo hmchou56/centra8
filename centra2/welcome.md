@@ -10,11 +10,11 @@ hide: true
 ## CENTRA2 All-Hands Meeting
 
 <p>
-It is with great pleasure that we welcome CENTRA members, friends and visitors to the CENTRA 2 All-hands meeting in Gainesville, Florida. This meeting brings together international CENTRA researchers to review ongoing collaboration projects, or to initiate projects that require contributions from researchers and/or cyberinfrastructure from different countries. It follows the <a href="http://event.nchc.org.tw/2016/CECEA/index.php?CONTENT_ID=22" target="_blank">CENTRA 1 Kickoff meeting</a>, which took place approximately one year ago in Taipei, Taiwan. We look forward to together coming up with new ideas, demonstrating early prototypes, conceptualizing new projects and advancing science and its applications.
+It is with great pleasure that we welcome CENTRA members, friends and visitors to the CENTRA2 All-Hands Meeting in Gainesville, Florida. This meeting brings together international CENTRA researchers to review ongoing collaboration projects, or to initiate projects that require contributions from researchers and/or cyberinfrastructure from different countries. It follows the <a href="http://event.nchc.org.tw/2016/CECEA/index.php?CONTENT_ID=22" target="_blank">CENTRA 1 Kickoff meeting</a>, which took place approximately one year ago in Taipei, Taiwan. We look forward to together coming up with new ideas, demonstrating early prototypes, conceptualizing new projects and advancing science and its applications.
 </p>
 
 <p>
-CENTRA 2 is the first of three meetings taking place in Gainesville during the week of April 10. The Smart University TOWNS (SUNTOWNS) workshop, partially sponsored by CENTRA, takes place on April 12. <a href="http://www.pragma-grid.net/pragma32/" target="_blank">The 32nd PRAGMA Workshop</a> takes place April 13-14, focusing on activities related to the Internet of People and Things. In addition, we have social and technical events during the week, including informal cultural activities on April 15, to further allow for networking amongst the participants of these meetings. We hope you will consider staying beyond CENTRA 2 to participate in both meetings and associated events.
+CENTRA2 All-Hands is the first of three meetings taking place in Gainesville during the week of April 10, 2017. The <a href="http://www.globalcentra.org/suntowns2017" target="_blank">Smart University TOWNS (SUNTOWNS) Workshop</a>, partially sponsored by CENTRA, takes place on April 12. <a href="http://www.pragma-grid.net/pragma32/" target="_blank">The 32nd PRAGMA Workshop</a> starts with a pre-PRAGMA32 Lake Modeling Workshop also on April 12, followed by PRAGMA32 on April 13-14, with a focus on activities related to the Internet of People and Things. In addition, we have social and technical events during the week, including informal cultural activities on April 15, to further allow for networking amongst the participants of these meetings. We hope you will consider staying beyond CENTRA2 to participate in both meetings and associated events.
 </p>
 
 <p>
@@ -22,11 +22,7 @@ CENTRA activities are funded in part by the National Science Foundation (NSF ACI
 </p>
 
 <p>
-Once again, welcome to CENTRA 2, to the University of Florida, to Gainesville, to the State of Florida and to the USA. Enjoy the UF campus and look for Albert and Alberta Gator, the <a href="http://floridagators.com/sports/2015/12/10/_spirit_mascots_history_.aspx" target="_blank">UF mascots (alligators)</a>!
-</p>
-
-<p>
-Once again, welcome to CENTRA 2, to the University of Florida, to Gainesville, to the State of Florida and to the USA!
+Once again, welcome to CENTRA2 All-Hands, to the University of Florida, to Gainesville, to the State of Florida and to the USA. Enjoy the UF campus and look for Albert and Alberta Gator, the <a href="http://floridagators.com/sports/2015/12/10/_spirit_mascots_history_.aspx" target="_blank">UF mascots (alligators)</a>! <br />
 </p>
 
 <p>
