@@ -10,8 +10,8 @@ hide: true
 
 # SUNTOWNS 2017 Sponsorship
 
-<p style="padding-left: 360px;"><strong>Smart University Towns (SUNTOWNS) Workshop </strong></p>
-<p style="padding-left: 300px;"><strong>April 12, 2017, Gainesville, Florida</strong></p>
+<style="padding-left: 330px;"><strong>Smart University Towns (SUNTOWNS) Workshop </strong><br />
+<style="padding-left: 330px;"><strong>Draft/Working Agenda (_v01Feb2017)</strong><br />
 <p style="padding-left: 300px;">Venue: Hilton UF Conference Center Hotel</p>
 <p style="padding-left: 300px;">&nbsp;</p>
 <p style="padding-left: 300px;"><strong><em>8:00 AM</em></strong>: <strong>Registration and Breakfast</strong></p>
