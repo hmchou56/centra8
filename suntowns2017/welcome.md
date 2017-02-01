@@ -22,7 +22,7 @@ The SUNTOWNS Workshop takes place under the auspices of the NSF-funded projects 
 I want to acknowledge representatives of the City of Gainesville, the University of Florida and the US National Science Foundation for their participation in the SUNTOWNS workshop, and thank the US National Science Foundation and the AT&T Foundation for partially funding the workshop. 
 </p>
 <p>
-Once again, welcome to the SUNTOWNS workshop, to the University of Florida and to the <a href="http://www.cityofgainesville.org" target="_blank">City of Gainesville</a>. I hope you can take some time to enjoy and stroll around the beautiful UF campus and see the UF’s official mascots -- <a href="http://floridagators.com/sports/2015/12/10/_spirit_mascots_history_.aspx" target="_blank">Albert and Alberta Gators</a> and real alligators!
+Once again, welcome to the SUNTOWNS workshop, to the University of Florida and to the <a href="http://www.cityofgainesville.org" target="_blank">City of Gainesville</a>. I hope you can take some time to enjoy and stroll around the beautiful UF campus and see the UF’s official mascots -- <a href="http://floridagators.com/sports/2015/12/10/_spirit_mascots_history_.aspx" target="_blank">Albert and Alberta Gator</a> and real alligators!
 </p>
 On behalf of the SUNTOWNS Organizing Team, <br />
 José Fortes
