@@ -9,12 +9,35 @@ hide: true
 
 ## CENTRA-2 All-Hands Program
 
-<p>
-
-</p>
+### Overview of the CENTRA2, SUNTOWNS and PRAGMA32 Joint Programs
 
 <p>
-Unidentified vessel travelling at sub warp speed, bearing 235.7. Fluctuations in energy readings from it, Captain. All transporters off. A strange set-up, but I'd say the graviton generator is depolarized. The dark colourings of the scrapes are the leavings of natural rubber, a type of non-conductive sole used by researchers experimenting with electricity. The molecules must have been partly de-phased by the anyon beam.
+<table class="program32">
+  <tr>
+    <th>Date</th>
+    <th>Activity</th>
+  </tr>
+   <tr>
+    <td>April 1st-2nd</td>
+    <td>CENTRA2 & SUNTOWNS Student Hackathon</td>
+  </tr>
+  <tr>
+    <td>April 10th-11th</td>
+    <td>CENTRA2 All-Hands Meeting</td>
+  </tr>
+  <tr>
+    <td>April 12th</td>
+    <td>SUNTOWNS Workshop</td>
+  </tr>
+  <tr> 
+    <td>April 12th</td>
+    <td>Lake Modeling Workshop</td>
+  </tr>
+  <tr>
+    <td>April 12th</td>
+    <td>CENTRA/PRAGMA Dinner at the Thomas Center</td>
+  </tr>
+</table>
 </p>
 
 ### Monday, April 10th, 2017
@@ -45,3 +68,7 @@ Unidentified vessel travelling at sub warp speed, bearing 235.7. Fluctuations in
 | 16:30-16:50  |**Closing Remarks**   |   | 
 | 17:00-17:40  |CENTRA Steering and Advisorty Committees Meeting (members only)   |   | 
 | 18:30  | *Dinner at UF Hilton*  |   | 
+
+### Wednesday, April 12th, 2017
+
+[SUNTOWNS (Smart UNIversity TOWNS) Workshop and CENTRA Dinner] (http://www.globalcentra.org/suntowns2017/) 
