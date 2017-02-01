@@ -21,6 +21,7 @@ hide: true
 </p>
 
 #### Sunday, April 9th, 2017 
+#### Sunday, April 9th, 2017 test
 <p style="padding-left: 270px;"><span style="font-weight: 400;">Registration and Reception at 6:30 pm.<br /><br /></span></p>
 #### Monday, April 10th, 2017 
 <p style="padding-left: 270px;"><strong>08:00 AM: Registration</strong></p>
