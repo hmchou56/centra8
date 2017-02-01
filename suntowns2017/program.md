@@ -10,8 +10,7 @@ hide: true
 ## SUNTOWNS 2017 Program
 
 <p style="padding-left: 330px;"><strong>Smart University Towns (SUNTOWNS) Workshop </strong></p>
-<p style="padding-left: 270px;"><strong>April 12, 2017, Gainesville, Florida</strong></p>
-<p style="padding-left: 270px;">Venue: Hilton UF Conference Center Hotel</p>
+<p style="padding-left: 350px;"><strong>Draft/Working Agenda_v01Feb2017</strong></p>
 <p style="padding-left: 270px;">&nbsp;</p>
 <p style="padding-left: 270px;"><strong><em>8:00 AM</em></strong>: <strong>Registration and Breakfast</strong></p>
 <p style="padding-left: 270px;"><strong><em>8:30 AM</em></strong>: <strong>Opening Session</strong></p>
