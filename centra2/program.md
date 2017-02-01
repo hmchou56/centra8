@@ -25,6 +25,7 @@ hide: true
 </p>
 <p></p>
 <p></p>
+
 ### Monday, April 10th, 2017 
 
 | Time | Session / Location | People | 
