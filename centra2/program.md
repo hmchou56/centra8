@@ -8,7 +8,8 @@ hide: true
 ---
 
 ## CENTRA-2 All-Hands Program
-<br />
+
+
 ### Overview of the CENTRA2, SUNTOWNS and PRAGMA32 Joint Programs
 
 <p>
@@ -20,7 +21,8 @@ hide: true
   <li>APril 12th: CENTRA/PRAGMA Dinner at the Thomas Center</li>
  </ul>
 </p>
-
+<p></p>
+<p></p>
 ### Monday, April 10th, 2017
 
 | Time | Session / Location | People | 
