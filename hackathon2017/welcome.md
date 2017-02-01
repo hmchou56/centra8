@@ -28,7 +28,7 @@ trip to present in Japan**!
 We will welcome any hack focused on collecting or analizing data from three
 existing Smart Cities: [Chicago](https://data.cityofchicago.org/),
 [Gainesville](https://data.cityofgainesville.org/), and
-[Taipai](http://data.taipei/), Taiwan. Each city has a public data portal that
+[Taipei](http://data.taipei/), Taiwan. Each city has a public data portal that
 can enable inovative software applications, visualizations, or analyses that can
 improve the life of city residents. Some of this data is collected by
 [IoT](https://en.wikipedia.org/wiki/Internet_of_things) sensors. Any other open
@@ -44,8 +44,8 @@ Some examples of Smart Cities:
 ## Prizes
 
 * **First Prize** - Paid travel & lodging for up to two members of the winning team to 
-present their work at the next [CENTRA](http://www.globalcentra.org)
-meeting September 2017 in Tokyo, Japan
+present their work at the next [CENTRA](http://www.globalcentra.org) / [PRAGMA](http://www.pragma-grid.net)
+meeting, tentatively planned to take place in Japan, 2018.
 * **Second Prize** - Something cool!
 * **All participants** - Certificate and conference swag!
 
