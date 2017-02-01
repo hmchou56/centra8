@@ -29,8 +29,8 @@ hide: true
 ### Monday, April 10th, 2017 
 
 | Time | Session / Location | People | 
-| ---- | :-------------------------------------------------------|---|
-| 08:00 | Registration | Room B | test |
+| ---- | :-------------------------------------------------------|
+| 08:00 | Registration | Room B |
 | 08:30-09:30 | **Opening Flyby Session**: Welcome remarks, workshop overview, purpose and introductions <br/> <br />**Presentation**: "CENTRA: Objectives, Partners and Desired outcomes" | Jose Fortes (UF, USA),<br /> Fang-Pang Lin (NCHC, Taiwan) and <br />Shinji Shimojo (OU/NICU, Japan)  |
 | 09:30-10:00 | **Dive-in Session: Report on Ongoing Projects** <br /> **Project review**: The AirBox Project  | L.J. Chen (Academia Sinica, Taiwan)  |
 | 10:00-10:30  |*Break*   |   |   |
