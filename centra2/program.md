@@ -7,10 +7,6 @@ published: true
 hide: true
 ---
 
-## CENTRA-2 All-Hands Program
-
-<p>
-</p>
 
 ### Overview of the CENTRA2, SUNTOWNS and PRAGMA32 Joint Programs
 
@@ -28,33 +24,45 @@ hide: true
 
 ### Monday, April 10th, 2017 
 
-| Time | Session / Location | People | 
-| ---- | :-------------------------------------------------------| --- |
-| 08:00 | Registration | Room B |
-| 08:30-09:30 | **Opening Flyby Session**: Welcome remarks, workshop overview, purpose and introductions <br/> <br />**Presentation**: "CENTRA: Objectives, Partners and Desired outcomes" | Jose Fortes (UF, USA),<br /> Fang-Pang Lin (NCHC, Taiwan) and <br />Shinji Shimojo (OU/NICU, Japan)  |
-| 09:30-10:00 | **Dive-in Session: Report on Ongoing Projects** <br /> **Project review**: The AirBox Project  | L.J. Chen (Academia Sinica, Taiwan)  |
-| 10:00-10:30  |*Break*   |   |   |
-| 10:30-12:00  |**Project review**: The Visualization Alliance <br /> **Project review**: Data Handles and Provenance <br/> **Project review**: ASEAN-IVO: software defined system update <br /> **Project review**: Smar Museum   | Jason Leigh <br /> Beth Plale <br /> Hong Hoe Ong <br /> Jason Haga |
-| 12:00-13:30  |*lunch*   |   |
-| 13:30-15:00  | **Dive-in Session: New (Proposed) Projects**: 15-minute talks on proposed projects and research interests  |   |
-| 15:00-16:45  | *Break* <br /> 15-min talks on proposed projects and research interests <br /> Group formation for new and ongoing projects to do work, team demos, etc. <br />  |   |
-| 16:45-17:00  | **Summary reports**  |   |
-| 17:00-17:30  | **Free Flight Session**: Unscheduled time for informal interactions and other activities  |   |
-| 18:30  | *Dinner at UF Hilton*  |   |
+<p style="padding-left: 270px;"><strong>APRIL 9 </strong></p>
+<p style="padding-left: 270px;"><span style="font-weight: 400;">Registration and Reception at 6:30 pm.<br /><br /></span></p>
+<p style="padding-left: 270px;"><strong>APRIL 10</strong></p>
+<p style="padding-left: 270px;"><strong>08:00 AM: Registration</strong></p>
+<p style="padding-left: 270px;"><strong>08:30 AM: Opening Flyby Session</strong></p>
+<p style="padding-left: 330px;"><span style="font-weight: 400;">Welcome remarks, workshop overview, purpose, and introductions.</span></p>
+<p style="padding-left: 330px;"><strong>Presentation:</strong><span style="font-weight: 400;"> &ldquo;CENTRA: Objectives, Partners and Desired Outcomes&rdquo;, Jose Fortes, (UF, USA); Fang-Pang Lin, (NCHC, Taiwan); Shinji Shimojo, (OU/NICT, Japan.)</span></p>
+<p style="padding-left: 270px;"><strong>09:30 AM: Dive-in Session: Report on Ongoing Projects</strong></p>
+<p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: The Airbox project, L. J. Chen </span></p>
+<p style="padding-left: 270px;"><strong>10:00 AM: Break</strong></p>
+<p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: The Visualization Alliance, J. Leigh</span></p>
+<p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: Data Handles and Provenance, B. Plale </span></p>
+<p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: ASEAN IVO: software defined system update, Hong Ong</span></p>
+<p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: Smart Museum, J. Haga</span></p>
+<p style="padding-left: 270px;"><strong>12:00 PM: Lunch</strong></p>
+<p style="padding-left: 270px;"><strong>01:30 PM: Dive-in Session: New (Proposed) Projects</strong></p>
+<p style="padding-left: 330px;"><span style="font-weight: 400;">15-minute talks on proposed projects and research interests</span></p>
+<p style="padding-left: 270px;"><strong>03:00 PM: Break</strong></p>
+<p style="padding-left: 330px;"><span style="font-weight: 400;">15-minute talks on proposed projects and research interests</span></p>
+<p style="padding-left: 330px;"><span style="font-weight: 400;">Group formation for new and ongoing projects to do work, team demos, etc.</span></p>
+<p style="padding-left: 330px;"><span style="font-weight: 400;">Summary reports (@4:45 pm in plenary session).</span></p>
+<p style="padding-left: 270px;"><strong>05:00 PM</strong><span style="font-weight: 400;">: </span><strong>Free flight Session </strong></p>
+<p style="padding-left: 330px;"><span style="font-weight: 400;">Unscheduled time for informal interactions and other activities. </span></p>
+<p style="padding-left: 270px;"><strong>06:30 PM: Dinner</strong><span style="font-weight: 400;"> at Hilton Gainesville or Museum</span></p>
+<p style="padding-left: 270px;">&nbsp;</p>
 
 ### Tuesday, April 11th, 2017 
+<p style="padding-left: 270px;"><strong>08:30 AM: Catch-a-project-and-group Session </strong></p>
+<p style="padding-left: 330px;"><span style="font-weight: 400;">Project groups meet and work (Concurrent &nbsp;breakout sessions)</span></p>
+<p style="padding-left: 330px;"><span style="font-weight: 400;">Brief workgroup reports (@11:30 am in plenary session)</span></p>
+<p style="padding-left: 270px;"><strong>12:00 PM: Lunch</strong></p>
+<p style="padding-left: 270px;"><strong>01:30 PM: Planning Session </strong></p>
+<p style="padding-left: 330px;"><span style="font-weight: 400;">Project groups meet and work (breakouts)</span></p>
+<p style="padding-left: 270px;"><strong>03:30 PM: Takeway session</strong></p>
+<p style="padding-left: 330px;"><span style="font-weight: 400;">All workgroups report</span></p>
+<p style="padding-left: 270px;"><strong>04:30 PM: Closing remarks</strong></p>
+<p style="padding-left: 270px;"><strong>5:00</strong> <strong>PM</strong><span style="font-weight: 400;">: Meeting CENTRA Steering and Advisory Committees (members only)</span></p>
+<p style="padding-left: 270px;"><strong>6:30 PM:</strong><span style="font-weight: 400;"> Dinner at UF Hilton</span></p>
+<p style="padding-left: 270px;">&nbsp;</p>
 
-| Time | Session / Location | People | 
-| ---- | :-------------------------------------------------------|---|
-| 08:30-11:30 | **Catch-a-project-and-group Session** <br /> Project groups meet and work (Concurrent breakout sessions) <br /> Brief workgroup reports (@11.30am in plenary session) | CENTRA2 participants |
-| 11:30-12:00  |**Brief Workgroup Reportback**   |   | 
-| 12:00-13:30  |*Lunch*   |   | 
-| 13:30-15:30  |**Planning Session**: Project groups meet and work (breakouts)   |   | 
-| 15:30  |**Takeaway Session**: All workgroups report   |   | 
-| 16:30-16:50  |**Closing Remarks**   |   | 
-| 17:00-17:40  |CENTRA Steering and Advisorty Committees Meeting (members only)   |   | 
-| 18:30  | *Dinner at UF Hilton*  |   | 
-
-### Wednesday, April 12th, 2017 
-
+### Wednesday, April 12th, 2017
 <a href="http://www.globalcentra.org/suntowns2017/">SUNTOWNS (Smart UNIversity TOWNS) Workshop and CENTRA Dinner</a>
