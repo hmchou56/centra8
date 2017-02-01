@@ -9,8 +9,8 @@ hide: true
 <p>
 </p>
 
-<p style="padding-left: 330px;"><strong>Smart University Towns (SUNTOWNS) Workshop </strong></p>
-<p style="padding-left: 380px;"><strong>Draft/Working Agenda_v01Feb2017</strong></p>
+<p style="padding-left: 390px;"><strong>Smart University Towns (SUNTOWNS) Workshop </strong></p>
+<p style="padding-left: 440px;"><strong>Draft/Working Agenda_v01Feb2017</strong></p>
 <p style="padding-left: 270px;">&nbsp;</p>
 <p style="padding-left: 270px;"><strong><em>8:00 AM</em></strong>: <strong>Registration and Breakfast</strong></p>
 <p style="padding-left: 270px;"><strong><em>8:30 AM</em></strong>: <strong>Opening Session</strong></p>
