@@ -8,8 +8,8 @@ hide: true
 ---
 
 ## CENTRA-2 All-Hands Program
-
-
+<p>
+</p>
 ### Overview of the CENTRA2, SUNTOWNS and PRAGMA32 Joint Programs
 
 <p>
@@ -54,4 +54,4 @@ hide: true
 
 ### Wednesday, April 12th, 2017
 
-[SUNTOWNS (Smart UNIversity TOWNS) Workshop and CENTRA Dinner] (http://www.globalcentra.org/suntowns2017/) 
+<a href="http://www.globalcentra.org/suntowns2017/">SUNTOWNS (Smart UNIversity TOWNS) Workshop and CENTRA Dinner</a>
