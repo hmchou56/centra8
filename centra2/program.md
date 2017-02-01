@@ -8,8 +8,10 @@ hide: true
 ---
 
 ## CENTRA-2 All-Hands Program
+
 <p>
 </p>
+
 ### Overview of the CENTRA2, SUNTOWNS and PRAGMA32 Joint Programs
 
 <p>
@@ -23,7 +25,7 @@ hide: true
 </p>
 <p></p>
 <p></p>
-### Monday, April 10th, 2017
+### Monday, April 10th, 2017 
 
 | Time | Session / Location | People | 
 | ---- | :-------------------------------------------------------|---|
@@ -39,7 +41,7 @@ hide: true
 | 17:00-17:30  | **Free Flight Session**: Unscheduled time for informal interactions and other activities  |   |
 | 18:30  | *Dinner at UF Hilton*  |   |
 
-### Tuesday, April 11th, 2017
+### Tuesday, April 11th, 2017 
 
 | Time | Session / Location | People | 
 | ---- | :-------------------------------------------------------|---|
@@ -52,6 +54,6 @@ hide: true
 | 17:00-17:40  |CENTRA Steering and Advisorty Committees Meeting (members only)   |   | 
 | 18:30  | *Dinner at UF Hilton*  |   | 
 
-### Wednesday, April 12th, 2017
+### Wednesday, April 12th, 2017 
 
 <a href="http://www.globalcentra.org/suntowns2017/">SUNTOWNS (Smart UNIversity TOWNS) Workshop and CENTRA Dinner</a>
