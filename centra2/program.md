@@ -22,7 +22,7 @@ hide: true
 <p></p>
 <p></p>
 
-### Monday, April 10th, 2017 
+#### Monday, April 10th, 2017 
 
 <p style="padding-left: 270px;"><strong>APRIL 9 </strong></p>
 <p style="padding-left: 270px;"><span style="font-weight: 400;">Registration and Reception at 6:30 pm.<br /><br /></span></p>
@@ -50,7 +50,7 @@ hide: true
 <p style="padding-left: 270px;"><strong>06:30 PM: Dinner</strong><span style="font-weight: 400;"> at Hilton Gainesville or Museum</span></p>
 <p style="padding-left: 270px;">&nbsp;</p>
 
-### Tuesday, April 11th, 2017 
+<p style="padding-left: 270px;">#### Tuesday, April 11th, 2017 <br/>
 <p style="padding-left: 270px;"><strong>08:30 AM: Catch-a-project-and-group Session </strong></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">Project groups meet and work (Concurrent &nbsp;breakout sessions)</span></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">Brief workgroup reports (@11:30 am in plenary session)</span></p>
@@ -64,5 +64,5 @@ hide: true
 <p style="padding-left: 270px;"><strong>6:30 PM:</strong><span style="font-weight: 400;"> Dinner at UF Hilton</span></p>
 <p style="padding-left: 270px;">&nbsp;</p>
 
-### Wednesday, April 12th, 2017
+#### Wednesday, April 12th, 2017
 <a href="http://www.globalcentra.org/suntowns2017/">SUNTOWNS (Smart UNIversity TOWNS) Workshop and CENTRA Dinner</a>
