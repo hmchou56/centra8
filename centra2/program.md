@@ -7,18 +7,8 @@ published: true
 hide: true
 ---
 
-
-### Overview of the CENTRA2, SUNTOWNS and PRAGMA32 Joint Programs
-
-<p>
- <ul type="circle">
-  <li>April 1st-2nd: CENTRA2 & SUNTOWNS Student Hackathon</li>
-  <li>April 10th-11th: CENTRA2 All-Hands Meeting </li>
-  <li>April 12th: SUNTOWNS Workshop</li> 
-  <li>April 12th: Lake Modeling Workshop</li>
-  <li>APril 12th: CENTRA/PRAGMA Dinner at the Thomas Center</li>
- </ul>
-</p>
+### CENTRA2 All-Hands Meeting Overview
+Draft/Working Agenda_v01Feb2017 <br />
 
 <p style="padding-left: 270px;"><strong><i>Sunday, April 9th, 2017</i></strong> </p>
 <p style="padding-left: 270px;"><span style="font-weight: 400;">Registration and Reception at 6:30 pm.<br /><br /></span></p>
