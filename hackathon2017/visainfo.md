@@ -2,7 +2,7 @@
 layout: hackathon
 title: Hackathon 2017
 permalink: /hackathon2017/visainfo.html
-"feature-img": img/hackathon.jpeg
+"feature-img": img/hackathon.png
 published: true
 hide: true
 ---
