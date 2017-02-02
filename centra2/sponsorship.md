@@ -7,18 +7,19 @@ published: true
 hide: true
 ---
 
-## CENTRA 2017 Sponsorship
+## CENTRA 2017 Sponsors and Partnerships
 
 <p>
-Communication is not possible. The shuttle has no power. Using the gravitational pull of a star to slingshot back in time? We are going to Starbase Montgomery for Engineering consultations prompted by minor read-out anomalies. Probes have recorded unusual levels of geological activity in all five planetary systems. Assemble a team. Look at records of the Drema quadrant. Would these scans detect artificial transmissions as well as natural signals?
+<strong>USA </strong> <br />
+U.S. National Science Foundation <br />
+Advanced Computing and Information Systems (ACIS) Laboratory, University of Florida <br />
+Department of Electrical & Computer Engineering (ECE), University of Florida
+</p>
+<p>
+<strong>Taiwan</strong> <br />
+Center of Excellence for Cyber Enablement of Applications (<a href="https://www.cecea.tw/e_index.php" target="_blank">CECEA</a>)
 </p>
 
-<p>
-Unidentified vessel travelling at sub warp speed, bearing 235.7. Fluctuations in energy readings from it, Captain. All transporters off. A strange set-up, but I'd say the graviton generator is depolarized. The dark colourings of the scrapes are the leavings of natural rubber, a type of non-conductive sole used by researchers experimenting with electricity. The molecules must have been partly de-phased by the anyon beam.
-</p>
-
-### Sandbox
-
-<p>
-<img src="/img/Airports_GNV.jpg" alt="connecting airports to Gainesville" style="float:center; padding: 0 0 1em 0;" class="img-responsive">
+<strong>Japan</strong> <br />
+National Institute of Information and Communications Technology (<a href="https://nict.go.jp/en/asean_ivo/index.html" target="_blank">NICT<a/>) 
 
