@@ -20,8 +20,6 @@ All sessions of CENTRA2, SUNTOWNS and PRAGMA32 Workshops will be hosted at Hilto
 <p style="padding-left: 270px;"><strong>CENTRA/PRAGMA room rates</strong>: the following prices are each per room, per night, <strong>before taxes (11.5%)</strong></p>
 <p style="padding-left: 270px;">-- Standard 2 double beds (20 rooms): $89<br />-- Standard 1 queen bed (2 rooms): $99<br />-- Deluxe 2 queen beds (4 rooms): $99<br />-- Business Suite 2 double beds + 1 sleep sofa (2 suites): $109<br />-- Executive Suite (2 suites) 2 queen beds + 1 sleep sofa: $119</p>
 
-<p style="padding-left: 270px;"><strong>CENTRA/PRAGMA room rates</strong>: the following prices are each per room, per night, before taxes (11.5%)</p>
-
 <p style="padding-left: 270px;"><strong>Reservation</strong>: link with CENTRA/PRAGMA group rate code will be available soon </p>
 
 <p style="padding-left: 270px;"><a href="https://goo.gl/AjSyvS" target="_blank">View larger map here</a>
