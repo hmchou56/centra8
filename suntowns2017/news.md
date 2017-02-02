@@ -9,13 +9,8 @@ hide: true
 
 ## Important Dates
 
-<p>
-Information forthcoming. Visit us again in early February!
-</p>
+February 2, 2017: CENTRA2, SUNTOWNS and PRAGMA32 Registration are open.
 
+February 8, 2017: Student Hackaton Registration begins.
 
-## Placeholder
-
-<p>
-We're fired up and ready to go!
-</p>
+March 9, 2017: Last day for all CENTRA2, SUNTOWNS and PRAGMA Registrations and special rate guaranteed <a href="http://www.globalcentra.org/centra2/venue.html" target="_blank">hotel reservation</a>. 
