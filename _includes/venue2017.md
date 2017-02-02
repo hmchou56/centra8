@@ -19,16 +19,8 @@ Address: 1714 SW 34TH Street, Gainesville, Florida 32607, USA. Phone: +1-352-371
 <p style="padding-left: 270px;">-- Standard 2 double beds (20 rooms): $89<br />-- Standard 1 queen bed (2 rooms): $99<br />-- Deluxe 2 queen beds (4 rooms): $99<br />-- Business Suite 2 double beds + 1 sleep sofa (2 suites): $109<br />-- Executive Suite (2 suites) 2 queen beds + 1 sleep sofa: $119</p>
 
 <p style="padding-left: 270px;"><strong>CENTRA/PRAGMA room rates</strong>: the following prices are each per room, per night, before taxes (11.5%)</p>
-<ul>
-<p style="padding-left: 270px;"><li>Standard 2 double beds (20 rooms): $89 </li></p>
-<p style="padding-left: 270px;"><li>Standard 1 queen bed (2 rooms): $99 </li></p>
-<p style="padding-left: 270px;"><li>Deluxe 2 queen beds (4 rooms): $99 </li></p>
-<p style="padding-left: 270px;"><li>Business Suite 2 double beds + 1 sleep sofa (2 suites): $109</li></p>
-<p style="padding-left: 270px;"><li>Executive Suite (2 suites) 2 queen beds + 1 sleep sofa: $119</li></p>
- </ul></p>
 
 <p style="padding-left: 270px;"><strong>Reservation</strong>: link with CENTRA/PRAGMA group rate code will be available soon </p>
 
 <p style="padding-left: 270px;"><a href="https://goo.gl/AjSyvS" target="_blank">View larger map here</a>
 <iframe src="https://www.google.com/maps/d/embed?mid=1y8tewMB7Ku4CbS0yLdHUf7iQ4JU" width="640" height="480"></iframe> </p>
-
