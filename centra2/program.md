@@ -8,7 +8,7 @@ hide: true
 ---
 
 ### CENTRA2 All-Hands Meeting Overview
-Draft/Working Agenda_v01Feb2017 <br />
+<a href="http://www.globalcentra.org/centra2/working_agenda_v01Feb2017.pdf" target="_blank">Draft/Working Agenda_v01Feb2017 (PDF)</a><br />
 
 <p style="padding-left: 270px;"><strong><i>Sunday, April 9th, 2017</i></strong> </p>
 <p style="padding-left: 270px;"><span style="font-weight: 400;">Registration and Reception at 6:30 pm.<br /><br /></span></p>
