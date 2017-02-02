@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 
-
+<br />
 **Before you fill out the registration form, you will need**:
 
 * A profile picture ready for upload (for CENTRA2 e-program book)
