@@ -15,7 +15,7 @@ hide: true
 <ul type="circle">
 <li>April 10-12: <a href="http://www.globalcentra.org/centra2/program.html" target="_blank">CENTRA 2 All-Hands</a></li>
  <li>April 12: SUNTOWNS Workshop</li>
- <li>April 12-15: <a href="http://www.pragma-grid.net/pragma32/" target="_blank">PRAGMA32 & Lake Modeling Workshops</a></li>
+ <li>April 12-14: <a href="http://www.pragma-grid.net/pragma32/" target="_blank">PRAGMA32 & Lake Modeling Workshops</a></li>
  <li>April 15: (optional) cultural tour</li>
 </ul>
 
