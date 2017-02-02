@@ -3,10 +3,9 @@
 
 <strong><i> Hilton University of Florida Conference Center Gainesville</i></strong> (Hilton UF) <br />
 
-Address: 1714 SW 34TH Street, Gainesville, Florida 32607, USA <br />
-Phone: +1-352-371-3600
+Address: 1714 SW 34TH Street, Gainesville, Florida 32607, USA | Phone: +1-352-371-3600
 
-<strong> Room rate</strong>: US$144 plus taxes (11.5% for 2017) per room per night. Majority of the rooms are for double occupancy (two beds in room) and some are for single occupancy (one bed). The room rate is the same with either 1 or 2 guests staying in the room. 
+<strong> CENTRA/PRAGMA room rate</strong>: US$144 plus taxes (11.5% for 2017) per room per night. Majority of the rooms are for double occupancy (two beds in room) and some are for single occupancy (one bed). The room rate is the same with either 1 or 2 guests staying in the room. 
 
 <strong>Reservation</strong>: a dedicated online reservation for Hilton UF will be available soon
 
@@ -14,10 +13,9 @@ Phone: +1-352-371-3600
 
 <strong><i> Reitz Union Hotel</i></strong>
 
-Address: Museum Road at 655 Reitz Union Drive, University of Florida campus, Gainesville, FL 32611 <br />
-Phone: +352--392-2151
+Address: Museum Road at 655 Reitz Union Drive, University of Florida campus, Gainesville, FL 32611 | Phone: +352--392-2151
 
-<strong>Room rates</strong>: the following prices are each per room, per night, before taxes (11.5%)
+<strong>CENTRA/PRAGMA room rates</strong>: the following prices are each per room, per night, before taxes (11.5%)
 * Standard 2 double beds (20 rooms): $89 
 * Standard 1 queen bed (2 rooms): $99
 * Deluxe 2 queen beds (4 rooms): $99
