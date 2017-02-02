@@ -1,9 +1,9 @@
 
 ### Meeting Venue and Lodging-1
 
-<strong><i> Hilton University of Florida Conference Center Gainesville</i></strong> (Hilton UF) <br />
+<strong><i> Hilton University of Florida Conference Center Gainesville</i></strong> (<a href="http://www3.hilton.com/en/hotels/florida/hilton-university-of-florida-conference-center-gainesville-GVNCCHF/index.html" target="_blank">Hilton UF</a>) <br />
 
-All sessions of CENTRA2, SUNTOWNS and PRAGMA32 Workshops here at Hilton UF:
+All sessions of CENTRA2, SUNTOWNS and PRAGMA32 Workshops will be hosted at Hilton UF:
 
 <i>Address</i>: 1714 SW 34TH Street, Gainesville, Florida 32607, USA. <i>Phone</i>: +1-352-371-3600
 
@@ -13,7 +13,7 @@ All sessions of CENTRA2, SUNTOWNS and PRAGMA32 Workshops here at Hilton UF:
 
 ### Lodging-2
 
-<p style="padding-left: 270px;"><strong><i> Reitz Union Hotel</i></strong><p>
+<p style="padding-left: 270px;"><strong><i> Reitz Union Hotel</i></strong><p>(<a href="https://www.union.ufl.edu/UnionHotel" target="_blank">website</a>)
 
 <p style="padding-left: 270px;"><i>Address</i>: Museum Road at 655 Reitz Union Drive, University of Florida campus, Gainesville, FL 32611. <i>Phone</i>: +1-352-392-2151 </p>
 
