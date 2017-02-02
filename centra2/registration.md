@@ -12,7 +12,6 @@ hide: true
 **Before you fill out the registration form, you will need**:
 
 * A profile picture ready for upload (for CENTRA2 e-program book)
-
 * Have a look at the overview of the week of April 10~15 meetings and let us know which meetings you plan to attend:
 <ul type="circle">
  <li>April 10-12: CENTRA 2 All-Hands</li>
