@@ -11,9 +11,12 @@ hide: true
 
 <p>
 <strong>USA </strong> <br />
-U.S. National Science Foundation <br />
-Advanced Computing and Information Systems (ACIS) Laboratory, University of Florida <br />
-Department of Electrical & Computer Engineering (ECE), University of Florida
+National Science Foundation <br />
+University of Florida
+<ul type="circle">
+ <li>Advanced Computing and Information Systems Laboratory (<a href="https://www.acis.ufl.edu">ACIS Lab</a>)</li>
+ <li>Department of Electrical & Computer Engineering (<a href="https://www.ece.ufl.edu" target="_blank">UF ECE</a>)</li>
+</ul>
 </p>
 <p>
 <strong>Taiwan</strong> <br />
