@@ -18,7 +18,7 @@ Each partner hosts workshops, supports researcher visits to other partners, host
 # Partners - Institutional Members
 
 *  [Advanced Computing and Information Systems (ACIS) Laboratory, University of Florida](http://www.acis.ufl.edu/), USA
-*  Center of Excellenece for Cyber-Enablement of Applications (<a href="http://www.cecea.tw/e_index.php" target="_blank">CECEA</A>), Taiwan
+*  Center of Excellence for Cyber-Enablement of Applications (<a href="http://www.cecea.tw/e_index.php" target="_blank">CECEA</A>), Taiwan
 *  ASEAN International Virtual Organization (IVO), National Institute of Information and Communications Technologies (NICT), Japan
 *  Pacific Rim Applications and Grid Middleware Assembly (PRAGMA)
 
