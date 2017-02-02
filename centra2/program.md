@@ -20,10 +20,9 @@ hide: true
  </ul>
 </p>
 
-#### Sunday, April 9th, 2017 
-#### Sunday, April 9th, 2017 test
+<p style="padding-left: 270px;"><strong>Sunday, April 9th, 2017</strong> </p>
 <p style="padding-left: 270px;"><span style="font-weight: 400;">Registration and Reception at 6:30 pm.<br /><br /></span></p>
-#### Monday, April 10th, 2017 
+<p style="padding-left: 270px;"><strong>Tuesday, April 10th, 2017</strong> </p>
 <p style="padding-left: 270px;"><strong>08:00 AM: Registration</strong></p>
 <p style="padding-left: 270px;"><strong>08:30 AM: Opening Flyby Session</strong></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">Welcome remarks, workshop overview, purpose, and introductions.</span></p>
@@ -47,8 +46,7 @@ hide: true
 <p style="padding-left: 270px;"><strong>06:30 PM: Dinner</strong><span style="font-weight: 400;"> at Hilton Gainesville or Museum</span></p>
 <p style="padding-left: 270px;">&nbsp;</p>
 
-<p style="padding-left: 270px;"> 
-#### Tuesday, April 11th, 2017 </p>
+<p style="padding-left: 270px;"><strong>Tuesday, April 11th, 2017</strong> </p>
 <p style="padding-left: 270px;"><strong>08:30 AM: Catch-a-project-and-group Session </strong></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">Project groups meet and work (Concurrent &nbsp;breakout sessions)</span></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">Brief workgroup reports (@11:30 am in plenary session)</span></p>
@@ -63,5 +61,5 @@ hide: true
 <p style="padding-left: 270px;">&nbsp;</p>
 
 
-<p style="padding-left: 270px;"> #### Wednesday, April 12th, 2017 </p>
+<p style="padding-left: 270px;"><strong>Wednesday, April 12th, 2017 </strong></p>
 <a href="http://www.globalcentra.org/suntowns2017/">SUNTOWNS (Smart UNIversity TOWNS) Workshop and CENTRA Dinner</a>
