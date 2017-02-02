@@ -16,11 +16,13 @@ Address: 1714 SW 34TH Street, Gainesville, Florida 32607, USA. Phone: +1-352-371
 Address: Museum Road at 655 Reitz Union Drive, University of Florida campus, Gainesville, FL 32611. Phone: +352--392-2151
 
 <strong>CENTRA/PRAGMA room rates</strong>: the following prices are each per room, per night, before taxes (11.5%)
-* Standard 2 double beds (20 rooms): $89 
-* Standard 1 queen bed (2 rooms): $99
-* Deluxe 2 queen beds (4 rooms): $99
-* Business Suite 2 double beds + 1 sleep sofa (2 suites): $109
-* Executive Suite (2 suites) 2 queen beds + 1 sleep sofa: $119
+ <ul>
+ <li>Standard 2 double beds (20 rooms): $89 </li>
+ <li>Standard 1 queen bed (2 rooms): $99 </li>
+ <li>Deluxe 2 queen beds (4 rooms): $99 </li>
+ <li>Business Suite 2 double beds + 1 sleep sofa (2 suites): $109</li>
+ <li>Executive Suite (2 suites) 2 queen beds + 1 sleep sofa: $119</li>
+ </ul>
 
 <strong>Reservation</strong>: link with CENTRA/PRAGMA group rate code will be available soon
 
