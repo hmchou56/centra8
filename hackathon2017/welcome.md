@@ -20,16 +20,16 @@ things/just- what-is-a-smart-city.html) - using open data and the Internet of
 Things to improve residents' life.
 
 Come join us to **learn** about Smart Cities, open-access data sets,
-colalborative software development, and **meet great people** and **win a paid
+collaborative software development, and **meet great people** and **win a paid
 trip to present in Japan**!
 
 ## Topics
 
-We will welcome any hack focused on collecting or analizing data from three
+We will welcome any hack focused on collecting or analyzing data from three
 existing Smart Cities: [Chicago](https://data.cityofchicago.org/),
 [Gainesville](https://data.cityofgainesville.org/), and
 [Taipei](http://data.taipei/), Taiwan. Each city has a public data portal that
-can enable inovative software applications, visualizations, or analyses that can
+can enable innovative software applications, visualizations, or analyses that can
 improve the life of city residents. Some of this data is collected by
 [IoT](https://en.wikipedia.org/wiki/Internet_of_things) sensors. Any other open
 data source can be used as well for information such as weather, economic,
@@ -37,7 +37,7 @@ geographic, etc.
 
 Some examples of Smart Cities:
 
-* [Analyizing Chicago taxi rides](http://toddwschneider.com/posts/chicago-taxi-data/)
+* [Analyzing Chicago taxi rides](http://toddwschneider.com/posts/chicago-taxi-data/)
 * [Map](https://airbox.edimaxcloud.com/) of [AirBox](https://www.youtube.com/watch?v=W3-J430gWrk) air quality data
 * [Graphing electricity usage in Gainesville](https://github.com/mjcollin/gnv_data/blob/master/gru_graph.ipynb)
 
@@ -49,14 +49,14 @@ meeting, tentatively planned to take place in Japan, 2018.
 * **Second Prize** - Something cool!
 * **All participants** - Certificate and conference swag!
 
-Judging criteria will be availible at the hackathon but will include *wowness*,
+Judging criteria will be available at the hackathon but will include *wowness*,
 *uniqueness*, and *technical skill*.
 
 ## Teams
 
 Participants are encouraged to work in teams of up to 4 students. Don't have a
 team in mind already? The first hour will be focused on introductions and
-forming ideas. This is your opportunity to find others interested in the smae
+forming ideas. This is your opportunity to find others interested in the smart
 hacks as you.
 
 
