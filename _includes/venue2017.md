@@ -3,7 +3,9 @@
 
 <strong><i> Hilton University of Florida Conference Center Gainesville</i></strong> (Hilton UF) <br />
 
-Address: 1714 SW 34TH Street, Gainesville, Florida 32607, USA. Phone: +1-352-371-3600
+All sessions of CENTRA2, SUNTOWNS and PRAGMA32 Workshops here at Hilton UF:
+
+<i>Address</i>: 1714 SW 34TH Street, Gainesville, Florida 32607, USA. <i>Phone</i>: +1-352-371-3600
 
 <strong> CENTRA/PRAGMA room rate</strong>: US$144 plus taxes (11.5% for 2017) per room per night. Majority of the rooms are for double occupancy (two beds in room) and some are for single occupancy (one bed). The room rate is the same with either 1 or 2 guests staying in the room. 
 
