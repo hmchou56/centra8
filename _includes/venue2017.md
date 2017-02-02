@@ -1,5 +1,5 @@
 
-### CENTRA2 Meeting Venue and Accommodation-1
+### Meeting Venue and Lodging-1
 
 <strong><i> Hilton University of Florida Conference Center Gainesville</i></strong> (Hilton UF) <br />
 
@@ -11,7 +11,7 @@ All sessions of CENTRA2, SUNTOWNS and PRAGMA32 Workshops here at Hilton UF:
 
 <strong>Reservation</strong>: a dedicated online reservation for Hilton UF will be available soon
 
-### Accommodation-2
+### Lodging-2
 
 <p style="padding-left: 270px;"><strong><i> Reitz Union Hotel</i></strong><p>
 
