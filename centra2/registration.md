@@ -12,7 +12,7 @@ hide: true
 **Before you fill out the registration form, you will need**:
 
 * A profile picture ready for upload (for CENTRA2 e-program book)
-* Have a look at the overview of the week of April 10~15 meetings and let us know which meetings you plan to attend:
+* Overview of the week of April 10~15 meetings:
 <ul type="circle">
  <li>April 10-12: CENTRA 2 All-Hands</li>
  <li>April 12: SUNTOWNS Workshop</li>
@@ -20,5 +20,5 @@ hide: true
  <li>April 15: (optional) cultural day</li>
 </ul>
 
-**Please complete the registration by Thursday, March 9th, 2017 (no later than 12pm US EST | GMT-5): <a href="https://goo.gl/Brcw5K" target="_blank">https://goo.gl/Brcw5K</a>**.
+**Please complete the registration by Thursday, March 9th, 2017 (no later than 12pm US EST | GMT-5)**: <a href="https://goo.gl/Brcw5K" target="_blank">https://goo.gl/Brcw5K</a> 
 
