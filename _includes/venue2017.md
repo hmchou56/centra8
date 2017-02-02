@@ -24,7 +24,7 @@ Phone: +352--392-2151
 * Business Suite 2 double beds + 1 sleep sofa (2 suites): $109
 * Executive Suite (2 suites) 2 queen beds + 1 sleep sofa: $119
 
-<strong>Reservation</strong>: a dedicated online reservation for Hilton UF will be available soon
+<strong>Reservation</strong>: link with CENTRA/PRAGMA group rate code will be available soon
 
 <a href="https://goo.gl/AjSyvS" target="_blank">View larger map here</a>
 <iframe src="https://www.google.com/maps/d/embed?mid=1y8tewMB7Ku4CbS0yLdHUf7iQ4JU" width="640" height="480"></iframe>
