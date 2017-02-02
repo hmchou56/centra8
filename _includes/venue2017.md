@@ -11,21 +11,21 @@ Address: 1714 SW 34TH Street, Gainesville, Florida 32607, USA. Phone: +1-352-371
 
 ### Accommodation-2
 
-<strong><i> Reitz Union Hotel</i></strong>
+<p style="padding-left: 270px;"><strong><i> Reitz Union Hotel</i></strong><p>
 
-Address: Museum Road at 655 Reitz Union Drive, University of Florida campus, Gainesville, FL 32611. Phone: +352--392-2151
+<p style="padding-left: 270px;"><i>Address</i>: Museum Road at 655 Reitz Union Drive, University of Florida campus, Gainesville, FL 32611. <i>Phone</i>: +1-352-392-2151 </p>
 
-<strong>CENTRA/PRAGMA room rates</strong>: the following prices are each per room, per night, before taxes (11.5%)
- <ul>
+<p style="padding-left: 270px;"><strong>CENTRA/PRAGMA room rates</strong>: the following prices are each per room, per night, before taxes (11.5%)</p>
+ <p style="padding-left: 270px;"><ul>
  <li>Standard 2 double beds (20 rooms): $89 </li>
  <li>Standard 1 queen bed (2 rooms): $99 </li>
  <li>Deluxe 2 queen beds (4 rooms): $99 </li>
  <li>Business Suite 2 double beds + 1 sleep sofa (2 suites): $109</li>
  <li>Executive Suite (2 suites) 2 queen beds + 1 sleep sofa: $119</li>
- </ul>
+ </ul></p>
 
-<strong>Reservation</strong>: link with CENTRA/PRAGMA group rate code will be available soon
+<p style="padding-left: 270px;"><strong>Reservation</strong>: link with CENTRA/PRAGMA group rate code will be available soon </p>
 
-<a href="https://goo.gl/AjSyvS" target="_blank">View larger map here</a>
-<iframe src="https://www.google.com/maps/d/embed?mid=1y8tewMB7Ku4CbS0yLdHUf7iQ4JU" width="640" height="480"></iframe>
+<p style="padding-left: 270px;"><a href="https://goo.gl/AjSyvS" target="_blank">View larger map here</a>
+<iframe src="https://www.google.com/maps/d/embed?mid=1y8tewMB7Ku4CbS0yLdHUf7iQ4JU" width="640" height="480"></iframe> </p>
 
