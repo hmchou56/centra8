@@ -28,5 +28,5 @@ Please contact Grace Hong (gshong [at] acis.ufl.edu) if you need a letter of inv
 </p>
 
 <p>
-The letter of invitation does not financially obligate the hosting organization. Travel expenses incurred to your CENTRA2 All-Hands attendance are the responsibility of the participant. Whether your trip is supported by your institution or CENTRA award via University of Florida, please work with your funding source for financial support documentation should it be required for your U.S. visa application. 
+The letter of invitation does not financially obligate the hosting organization. Travel expenses incurred to your CENTRA2 All-Hands attendance are the responsibility of the participant. Please work with your funding source for financial support documentation should it be required for your U.S. visa application.
 </p>

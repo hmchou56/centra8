@@ -21,4 +21,4 @@ In doubt? Register!
 
 **Registration is not yet open for this event**
 
-Please check back on February 6th.
+Please check back on February 8th.

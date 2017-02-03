@@ -16,7 +16,7 @@ Please consult with the U.S. Consulate in your country/region whether you need a
 ## Invitation Letter
 
 <p>
-Please contact Prof. José Fortes (fortes [at] acis.ufl.edu) if you need a letter of invitation to support your U.S. visa application. Please provide the information below in your email request: <br />
+Please contact Grace Hong (gshong (at) acis (dot) ufl (dot) edu) if you need a letter of invitation to support your U.S. visa application. Please provide the information below in your email request: <br />
 <ul type="circle">
 <li>Your full name as appeared in your passport </li>
 <li>Title/Position and name of your organization</li>
@@ -28,5 +28,5 @@ Please contact Prof. José Fortes (fortes [at] acis.ufl.edu) if you need a lette
 </p>
 
 <p>
-The letter of invitation does not financially obligate the hosting organization. Travel expenses incurred to your CENTRA2 All-Hands attendance are the responsibility of the participant. Whether your trip is supported by your institution or CENTRA award via University of Florida, please work with your funding source for financial support documentation should it be required for your U.S. visa application. 
+The letter of invitation does not financially obligate the hosting organization. Travel expenses incurred to your SUNTOWNS Workshop attendance are the responsibility of the participant. Please work with your funding source for financial support documentation should it be required for your U.S. visa application.
 </p>
