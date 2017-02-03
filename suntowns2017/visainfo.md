@@ -16,7 +16,7 @@ Please consult with the U.S. Consulate in your country/region whether you need a
 ## Invitation Letter
 
 <p>
-Please contact Prof. José Fortes (fortes [at] acis.ufl.edu) if you need a letter of invitation to support your U.S. visa application. Please provide the information below in your email request: <br />
+Please contact Grace Hong (gshong (at) acis (dot) ufl (dot) edu) if you need a letter of invitation to support your U.S. visa application. Please provide the information below in your email request: <br />
 <ul type="circle">
 <li>Your full name as appeared in your passport </li>
 <li>Title/Position and name of your organization</li>
