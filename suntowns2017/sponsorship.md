@@ -14,6 +14,7 @@ hide: true
 
 <p>
 <strong>USA </strong> <br />
+City of Gainesville
 National Science Foundation <br />
 University of Florida
 <ul type="circle">
@@ -22,11 +23,9 @@ University of Florida
 </ul>
 </p>
 <p>
-<strong>Taiwan</strong> <br />
-Center of Excellence for Cyber Enablement of Applications (<a href="https://www.cecea.tw/e_index.php" target="_blank">CECEA</a>)
-</p>
 
 <strong>Japan</strong> <br />
 National Institute of Information and Communications Technology (<a href="https://nict.go.jp/en/asean_ivo/index.html" target="_blank">NICT<a/>) 
 
-
+<strong>Taiwan</strong> <br />
+Center of Excellence for Cyber Enablement of Applications (<a href="https://www.cecea.tw/e_index.php" target="_blank">CECEA</a>)
