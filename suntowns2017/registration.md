@@ -13,10 +13,10 @@ hide: true
 * A profile picture ready for upload (for SUNTOWNS e-program book)
 * Overview of the week of April 10~15 opportunities:
 <ul type="circle">
-<li>April 10-12: <a href="http://www.globalcentra.org/centra2/program.html" target="_blank">CENTRA 2 All-Hands</a></li>
+<li>April 10-11: <a href="http://www.globalcentra.org/centra2/program.html" target="_blank">CENTRA 2 All-Hands</a></li>
  <li>April 12: SUNTOWNS Workshop</li>
- <li>April 12-14: <a href="http://www.pragma-grid.net/pragma32/" target="_blank">PRAGMA32 & Lake Modeling Workshops</a></li>
- <li>April 15: (optional) cultural tour</li>
+ <li>April 12-14: <a href="http://www.pragma-grid.net/pragma32/" target="_blank">PRAGMA 32 & Lake Modeling Workshops</a></li>
+ <li>April 15: (optional) cultural learning day in <a href="https://en.wikipedia.org/wiki/St._Augustine,_Florida" target="_blank">St. Augustine</a></li>
 </ul>
 
-<strong>Please complete the registration by Thursday, March 9th, 2017 (no later than 12pm US EST | GMT-5)<strong>: <a href="https://goo.gl/Brcw5K" target="_blank">https://goo.gl/Brcw5K</a> 
+<strong>Please complete the registration by Thursday, March 9th, 2017 (no later than 12pm US EST | GMT-5)<strong>: <a href="https://goo.gl/yiSVrh" target="_blank">https://goo.gl/yiSVrh</a> 
