@@ -22,7 +22,6 @@ University of Florida
  <li>Department of Electrical & Computer Engineering (<a href="https://www.ece.ufl.edu" target="_blank">UF ECE</a>)</li>
 </ul>
 </p>
-<p>
 
 <strong>Japan</strong> <br />
 National Institute of Information and Communications Technology (<a href="https://nict.go.jp/en/asean_ivo/index.html" target="_blank">NICT<a/>) 
