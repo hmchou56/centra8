@@ -1,6 +1,7 @@
 ### All sessions of CENTRA 2, SUNTOWNS and PRAGMA 32 Workshops will be hosted at the Hilton University of Florida Conference Center Gainesville 
 
-<br />
+<p> </p>
+
 #### Lodging-1
 
 <strong>Hilton University of Florida Conference Center Gainesville</strong> (<a href="http://www3.hilton.com/en/hotels/florida/hilton-university-of-florida-conference-center-gainesville-GVNCCHF/index.html" target="_blank">Hilton UF</a>) <br />
