@@ -14,7 +14,7 @@ hide: true
 
 <p>
 <strong>USA </strong> <br />
-City of Gainesville
+City of Gainesville <br />
 National Science Foundation <br />
 University of Florida
 <ul type="circle">
