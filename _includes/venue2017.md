@@ -1,5 +1,6 @@
 ### All sessions of CENTRA 2, SUNTOWNS and PRAGMA 32 Workshops will be hosted at the Hilton University of Florida Conference Center Gainesville 
 
+
 #### Lodging-1
 
 <strong>Hilton University of Florida Conference Center Gainesville</strong> (<a href="http://www3.hilton.com/en/hotels/florida/hilton-university-of-florida-conference-center-gainesville-GVNCCHF/index.html" target="_blank">Hilton UF</a>) <br />
@@ -17,7 +18,7 @@
 <p style="padding-left: 270px;"><i>Address</i>: Museum Road at 655 Reitz Union Drive, University of Florida campus, Gainesville, FL 32611. <i>Phone</i>: +1-352-392-2151 </p>
 
 <p style="padding-left: 270px;"><i>CENTRA/PRAGMA room rates</i>: the following prices are each per room, per night, <strong>before taxes (11.5%)</strong></p>
-<p style="padding-left: 270px;">-- Standard 2 double beds (20 rooms): $89<br />-- Standard 1 queen bed (2 rooms): $99<br />-- Deluxe 2 queen beds (4 rooms): $99<br />-- Business Suite 2 double beds + 1 sleep sofa (2 suites): $109<br />-- Executive Suite (2 suites) 2 queen beds + 1 sleep sofa: $119</p>
+<p style="padding-left: 300px;">-- Standard 2 double beds (20 rooms): $89<br />-- Standard 1 queen bed (2 rooms): $99<br />-- Deluxe 2 queen beds (4 rooms): $99<br />-- Business Suite 2 double beds + 1 sleep sofa (2 suites): $109<br />-- Executive Suite (2 suites) 2 queen beds + 1 sleep sofa: $119</p>
 
 <p style="padding-left: 270px;"><i>Reservation</i>: link with CENTRA/PRAGMA group rate code will be available soon </p>
 
