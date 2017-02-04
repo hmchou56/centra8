@@ -8,6 +8,8 @@ hide: true
 ---
 
 <br />
+<strong>Please complete the registration by Thursday, March 9th, 2017 (no later than 12pm US EST | GMT-5)<strong>: <a href="https://goo.gl/yiSVrh" target="_blank">https://goo.gl/yiSVrh</a> 
+
 **Before you fill out the registration form, you will need**:
 
 **Overview of the week of April 10~15 opportunities**:
@@ -25,5 +27,3 @@ hide: true
  <li>If you any concerns or questions, please do not hesitate to contact us centra (a) acis (dot) ufl (dot) edu .</li>
 <br />
 </ul>
-
-<strong>Please complete the registration by Thursday, March 9th, 2017 (no later than 12pm US EST | GMT-5)<strong>: <a href="https://goo.gl/yiSVrh" target="_blank">https://goo.gl/yiSVrh</a> 
