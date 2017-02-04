@@ -16,7 +16,7 @@ hide: true
  <li>April 10-11: CENTRA 2 All-Hands</li>
  <li>April 12: SUNTOWNS Workshop</li>
  <li>April 12-15: <a href="http://www.pragma-grid.net/pragma32/" target="_blank">PRAGMA 32 & Lake Modeling Workshops</a></li>
- <li>April 15: (optional) cultural day</li>
+ <li>April 15: (optional) cultural learning day in <a href="https://en.wikipedia.org/wiki/St._Augustine,_Florida" target="_blank">St. Augustine</a></li>
 </ul>
 
 <strong>Please complete the registration by Thursday, March 9th, 2017 (no later than 12pm US EST | GMT-5)<strong>: <a href="https://goo.gl/yiSVrh" target="_blank">https://goo.gl/yiSVrh</a> 
