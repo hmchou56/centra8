@@ -17,7 +17,7 @@ published: true
 <br />
 
 ### PRAGMA32 Workshop 
-* PRAGMA32: April 13 ~ 14, 2017 with an optional cultural learning day on April 15, 2017 
+* PRAGMA 32: April 13 ~ 14, 2017 with an optional cultural learning day on April 15, 2017 
 * Location: Gainesville, Florida (Venue: UF Hilton Conference Center)
 * Program, travel and registration information: <a href="http://www.pragma-grid.net/pragma32/" target="_blank">http://www.pragma-grid.net/pragma32/</a>
 * Contact: renato@acis.ufl.edu and gshong@acis.ufl.edu
