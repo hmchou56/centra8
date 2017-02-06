@@ -12,7 +12,7 @@ hide: true
 
 <p style="padding-left: 270px;"><strong><i>Sunday, April 9th, 2017</i></strong> </p>
 <p style="padding-left: 270px;"><span style="font-weight: 400;">Registration and Reception at 6:30 pm.<br /><br /></span></p>
-<p style="padding-left: 270px;"><strong><i>Tuesday, April 10th, 2017</i></strong> </p>
+<p style="padding-left: 270px;"><strong><i>Monday, April 10th, 2017</i></strong> </p>
 <p style="padding-left: 270px;"><strong>08:00 AM: Registration</strong></p>
 <p style="padding-left: 270px;"><strong>08:30 AM: Opening Flyby Session</strong></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">Welcome remarks, workshop overview, purpose, and introductions.</span></p>
