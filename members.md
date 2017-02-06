@@ -35,10 +35,13 @@ Charlie Catlett        |Senior Computer Scientist, Argonne National Laboratory a
 Peter Dinda        |Professor, Dep. of Electrical Engineering and Computer Science, Northwestern University         |Virtualization, HPC, emphatic computing, performance models
 Renato Figueiredo   |Professor, University of Florida                                              |Peer-to-peer, cloud and autonomic computing, virtualized systems 
 Jose Fortes        |Professor, AT&T Eminent Scholar, University of Florida                              |Distributed software-defined systems
+Ming Tai Ha        |PhD Student, Rutgers University                                                |High-performance computing, distributed computing
 Thomas Harmon      |Professor, University of California at Merced                                     |Environment sensors, soil, aquatic and groundwater systems
 Julio Ibarra       |Assistant Vice President for Technology Augmented Research, Florida International University     |Cyberinfrastructure, Networking, Internet Technologies
 Shantenu Jha        |Professor of Computer Engineering, Rutgers University       |High-performance distributed computing, computational science, cyberinfrastructure
+Jason Leigh        |Professor of Computer Science, University of Hawaii at Manoa       |Data visualization, virtual reality, collaboration technologies
 Jason Liu        |Associate Professor, School of Computing and Information Sciences, Florida International University |Modeling and simulation, computer networking, parallel computing, computer systems
+Tho Nguyen        |Managing Director of the Center for Automata Processing and Senior Research Program Officer, Dept. of Computer Science, University of Virgina | cyber-physical systems, environmental sensing, resiliency, large-scale system modeling
 Katia Obraczka     |Professor, University of California at Santa Cruz                                 |Networks, distributed/operating systems, Internet, mobile systems 
 Phil Papadopoulos   |Chief Technology Officer, San Diego Supercomputer Center, University of California at San Diego             |High-Performance Computing, cluster computing, middleware
 Beth Plale          |Professor, School of Informatics and Computing, Indiana University                            |Data science and systems
@@ -50,6 +53,7 @@ Kensworth Subratie        |PhD Student, University of Florida               |Vir
 Valerie Taylor      |Senior Associate Dean for Academic Affairs and Royce E. Wisenbaker Professor, Texas A&M University |HPC, performance modeling of distributed applications, smart cities
 Ryan Vrecenar      |PhD Student, Texas A&M University        |Reverse engineering, security, binary modeling 
 Nadya Williams        |Systems Application Specialist, San Diego Supercomputer Center, University of California at San Diego     |Software architecture, virtualization
+Shyhtsun Felix Wu        |Professor of Computer Science and Associate Dean of College of Engineering, University of California at Davis   |Cyber security, social computing 
 Xinfu Wu        |Associate Professor, Texas A&M University          |High performance computing, performance and power modeling, energy-efficient computing
 {: class="table"}
 
