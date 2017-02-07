@@ -9,6 +9,6 @@ hide: true
 
 # Student Hackathon News
 
-## February 1, 2017
+## February 7, 2017
 
-Registration will be open February 8th, 2017.
+[Registration is now open](https://goo.gl/5MQikO). Please sign up no later than March 15, 2017. We look forward to meeting you!
