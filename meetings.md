@@ -9,7 +9,7 @@ published: true
 # Meetings
 
 ### CENTRA2 All-Hands Meeting and SUNTOWNS Workshop
-* <a href="http://www.globalcentra.org/hackathon2017">CENTRA and SUNTOWNS Hackathon</a>: April 1 ~ 2, 2017
+* CENTRA and SUNTOWNS <a href="http://www.globalcentra.org/hackathon2017">Hackathon</a>: April 1 ~ 2, 2017
 * <a href="http://www.globalcentra.org/centra2/">CENTRA 2 All-Hands Meeting</a>: April 10 ~ 12, 2017
 * <a href="http://www.globalcentra.org/suntowns2017/">SUNTOWNS (Smart UNIversity TOWNS) Workshop</a>: April 12, 2017
 * Location: Gainesville, Florida (Venue: UF Hilton Conference Center)
