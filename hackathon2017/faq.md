@@ -11,7 +11,7 @@ hide: true
 
 * **How do I register?**
 
-Registration will be open February 8th.
+<a href="https://acislab.wufoo.com/forms/rkg5ct30h8e452/" alt="registration">Registration is now open!</a>
 
 * **Can I sign up if I'm not on a team?**
 
@@ -29,8 +29,16 @@ and we will have a presentation on how to access them and what they contain at
 the beginning of the hackathon. You can also bring your own data or use data
 from any other open source.
 
-We will also provide access to computational resources including large servers
-and virtual machines. 
+We will also provide access to computational resources including:
+
+<div style="text-indent: 20px;">
+<ul>
+    <li><a href="http://spark.apache.org/">Apache Spark</a> cluster with <a href="http://jupyter.org/">Jupyter notebook</a> interface</li>
+    <li>Virtual machines for computation and services with public IPs</li>
+    <li>A few large (256 GB RAM, 64 core) servers</li>
+    <li>Storage space (10 TB)</li>
+</ul>
+</div>
 
 * **What should I bring?**
 
@@ -43,7 +51,7 @@ Remember, we'll all be together in one space for 26 hours.
 Of course! All meals, drinks, coffee, tea, and snacks will be provided from the
 starting breakfast to the ending lunch.
 
-* **What is this GitHub thing?**
+* **What is GitHub?**
 
 [GitHub](https://github.com/) is a web site for writing software and working
 collaboratively with others. We will use it during the hackathon as a place for

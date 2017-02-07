@@ -11,8 +11,8 @@ hide: true
 
 Space in this hackathon limited to 24 people. If we have more applicants, we
 will select those who we think are best prepared to succeed. Please
-complete the questions on the registration form and include either your resume
-and/or a link to a site like LinkedIn or your personal web site so we have
+complete the questions on the registration form and include your CV or resume
+and a link to a site like LinkedIn or your professional web site so we have
 enough information to select excellent students. When evaluating registrations
 we will also try to have participation from as many institutions as possible.
 
@@ -28,7 +28,10 @@ If you wish to register as a team, you will be accepted or not as a whole team.
 
 In addition to the expectations of the University of Florida, this hackathon expects its
 attendees to adhere to the [PYCON code of conduct](https://us.pycon.org/2016/about/code-of-conduct/).
-The short version:
+
+If you feel someone is not meeting the expectations of this code, please email the director of the ACIS Lab, Dr. Jose Fortes at [fortes@acis.ufl.edu](mailto://fortes@acis.ufl.edu).
+
+Overview of the PYCON code of conduct:
 
 >PyCon is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
 
@@ -36,4 +39,3 @@ The short version:
 
 >Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for PyCon.
 
-If you feel someone is not meeting the expectations of this code, please email the director of the ACIS Lab, Dr. Jose Fortes at [fortes@acis.ufl.edu](mailto://fortes@acis.ufl.edu).

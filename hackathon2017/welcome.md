@@ -31,17 +31,18 @@ their hacks, research, and other interests.
 * Meet **developers** and **graduate students** experienced in big data technologies
 * **Workshops** on data APIs, collaborative software development, and big data analysis
 * **Invitations** to the [CENTRA 2 meeting](/centra2/), [SUNTOWNS workshop](suntowns2017/), and [PRAGMA 32 meeting](http://pragma32.pragma-grid.net/) during the week of April 10 - 14
+* Paid opportunity to present your work **in Japan**
 
 
 ## The Hackathon Focus
 
 We will welcome any hack focused on collecting or analysing data from Smart Cities.
-Below are some examples centered around three cities: [Chicago](https://data.cityofchicago.org/),
+Below are some examples from three cities: [Chicago](https://data.cityofchicago.org/),
 [Gainesville](https://data.cityofgainesville.org/), and
 [Taipei](http://data.taipei/), Taiwan. Each city has a public data portal that
-can enable innovative software applications, visualizations, or analyses that can
+can enable software applications, visualizations, or analyses that can
 improve the life of city residents. Any other open
-data source can be used as well for information such as weather, economic,
+data source can be used for information such as weather, economic,
 geographic, etc.
 
 Some examples of Smart Cities:
@@ -52,7 +53,7 @@ Some examples of Smart Cities:
 
 ## Participants
 
-We are inviting students from our [CENTRA](http://www.globalcentra.org) and [PRAGMA](http://www.pragma-grid.net) partner countries including Japan, Taiwan, and Thailand.
+We are inviting students from our [CENTRA](http://www.globalcentra.org) and [PRAGMA](http://www.pragma-grid.net) partner countries including Japan, Taiwan, and Thailand as well as the University of Florida community.
 
 ## Prizes
 
