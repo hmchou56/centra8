@@ -30,7 +30,7 @@ the beginning of the hackathon. You can also bring your own data or use data
 from any other open source.
 
 We will also provide access to computational resources including large servers
-and virtual machines.
+and virtual machines. 
 
 * **What should I bring?**
 
@@ -54,4 +54,4 @@ tutorial](https://guides.github.com/activities/hello-world/).
 * **Where can I sleep?**
 
 The CENTRA suite will remain open all night however you are welcome to return to
-your home or hotel to continue working.
+your home or hotel to continue working. Your entire team must present your work on Sunday so be sure to come back.

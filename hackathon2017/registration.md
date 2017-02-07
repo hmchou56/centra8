@@ -10,15 +10,30 @@ hide: true
 # Student Hackathon Registration
 
 Space in this hackathon limited to 24 people. If we have more applicants, we
-will select those who register who we think are best prepared to succeed. Please
+will select those who we think are best prepared to succeed. Please
 complete the questions on the registration form and include either your resume
 and/or a link to a site like LinkedIn or your personal web site so we have
 enough information to select excellent students. When evaluating registrations
 we will also try to have participation from as many institutions as possible.
 
-In doubt? Register!
+<p style="text-align: center; font-size: 1.5em;">
+<a href="https://acislab.wufoo.com/forms/rkg5ct30h8e452/" alt="registration"><strong>Register For the Hackathon On Wufoo</strong></a>
+</p>
 
+## Team Registration
 
-**Registration is not yet open for this event**
+If you wish to register as a team, you will be accepted or not as a whole team. 
 
-Please check back on February 8th.
+## Code of Conduct
+
+In addition to the expectations of the University of Florida, this hackathon expects its
+attendees to adhere to the [PYCON code of conduct](https://us.pycon.org/2016/about/code-of-conduct/).
+The short version:
+
+>PyCon is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
+
+>All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
+
+>Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for PyCon.
+
+If you feel someone is not meeting the expectations of this code, please email the director of the ACIS Lab, Dr. Jose Fortes at [fortes@acis.ufl.edu](mailto://fortes@acis.ufl.edu).

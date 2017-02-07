@@ -23,6 +23,7 @@ University of Florida, in Gainesville, Florida
 
 All events will take place at the CENTRA Suite.
 
+Detailed schedule:
 
 | Day | Time | Event |
 |---|---|---|
@@ -36,6 +37,7 @@ All events will take place at the CENTRA Suite.
 | Saturday | 7:00 pm | Dinner is served! |
 | Saturday | 8:00 pm | CENTRA Suite will remain open all night |
 | Saturday | 12:00 am | Midnight Snack! |
+| Saturday | 1:00 am | Surprise Workshop |
 | **Sunday** | 9:00 am | Breakfast is served! |
 | Sunday | 11:00 am | Hacking STOPS! Final GitHib commits! |
 | Sunday | 11:00 am - 12:00 pm | Team Presentations (5 minutes max each) |
