@@ -58,7 +58,7 @@ CENTRA's mission is to
 # Advisory Board
 
 * Maxine Brown, Director of UIC Electronic Visualization Laboratory
-* Charlie Catlett, Director of Urban Center for Computation and Data, The Computation Institute
+* Charlie Catlett, Senior Computer Scientist at Argonne National Laboratory and the University of Chicago
 * William Chang, Special Advisor for the Asia Pacific Program, Office of the Vice President for Research and Innovation, University of Hawaii System
 * Julio Ibarra, Assistant Vice President for Technology Augmented Research, Florida International University
 * Glenn Ricart, Founder and CEO of US Ignite
