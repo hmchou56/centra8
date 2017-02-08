@@ -46,7 +46,7 @@ hide: true
 <p style="padding-left: 270px;"><strong><em>3:30 PM</em></strong>:</p>
 <p style="padding-left: 300px;"><strong>Invited Talk:</strong> Developing a transportation testbed in Gainesville, Florida: From concept to implementation</p>
 <p style="padding-left: 300px;"><strong>Speaker: </strong>Lily Elefteriadou, Ph.D., Director of the UF Transportation Institute, and Professor of Civil Engineering, University of Florida, USA.</p>
-<p style="padding-left: 270px;"><strong><em>4:30 PM</em></strong>:</p>
+<p style="padding-left: 270px;"><strong><em>4:00 PM</em></strong>:</p>
 <p style="padding-left: 300px;"><strong>Panel Presentations and Discussion: </strong>Smart University Towns: Challenges and Opportunities</p>
 <p style="padding-left: 270px;"><strong><em>5:00 PM: </em>Closing Remarks</strong></p>
 <p style="padding-left: 270px;"><strong>6:30 PM</strong>: <strong>Dinner</strong> (Location: Thomas Center)</p>
