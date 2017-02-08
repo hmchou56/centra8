@@ -10,7 +10,7 @@ hide: true
 </p>
 
 <p style="padding-left: 390px;"><strong>Smart University Towns (SUNTOWNS) Workshop </strong></p>
-<p style="padding-left: 440px;"><a href="www.globalcentra.org/suntowns2017/Smart University Towns working agenda_Feb_8.pdf" target="_blank">Draft/Working Agenda_v01Feb2017(PDF)</a></p>
+<p style="padding-left: 440px;"><a href="www.globalcentra.org/suntowns2017/SUNTOWNS_working_agenda_Feb_8.pdf" target="_blank">Draft/Working Agenda_v08Feb2017(PDF)</a></p>
 <p style="padding-left: 270px;">&nbsp;</p>
 <p style="padding-left: 270px;"><strong><em>8:00 AM</em></strong>: <strong>Registration and Breakfast</strong></p>
 <p style="padding-left: 270px;"><strong><em>8:30 AM</em></strong>: <strong>Opening Session</strong></p>
