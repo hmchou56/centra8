@@ -9,7 +9,6 @@ published: true
 # Meetings
 
 <img src="/img/AprilEventsBanners_all_640px.gif" alt="CENTRA PRAGMA" style="float:center; padding: 0 0 1em 0;" class="img-responsive">
-<br />
 
 ### CENTRA2 All-Hands Meeting and SUNTOWNS Workshop
 * CENTRA and SUNTOWNS <a href="http://www.globalcentra.org/hackathon2017">Hackathon</a>: April 1 ~ 2, 2017
