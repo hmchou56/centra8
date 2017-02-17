@@ -90,3 +90,9 @@
 		{
 			float:left; padding: .5em 1em 1em 0;
 		}
+
+		#sponsors img {
+			display: inline-block;
+			height: 75px;
+			padding: 5px;
+		}
