@@ -6,7 +6,7 @@ NSF_footer_text: "CENTRA is funded in part by a grant (NSF ACI 1550126) from the
 site_naivation_logo: <img src="/img/centra-logo.jpg" align="left">
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+centra:
   # Meta
   title: Global CENTRA
   avatar: avatar.png

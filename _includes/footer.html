@@ -4,13 +4,13 @@
 		<span class="NSF_footer_text">{{ site.NSF_footer_text }}</span>
 	</p>
 
-{% if site.theme.katex %}
+{% if site.centra.katex %}
 <script src="{{ "/js/katex_init.js" | prepend: site.baseurl }}"></script>
 {% endif %}
 
-{% if site.theme.footer_text %}
+{% if site.centra.footer_text %}
 <div class="site-footer">
-	<p>{{ site.theme.footer_text }}</p>
+	<p>{{ site.centra.footer_text }}</p>
 </div>
 {% endif %}
 

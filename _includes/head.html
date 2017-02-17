@@ -2,8 +2,8 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme.title }}</title>
-	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme.description }}{% endif %}">
+	<title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.centra.title }}</title>
+	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.centra.description }}{% endif %}">
 
 	<meta http-equiv="X-Frame-Options" content="SAMEORIGIN">
 	<meta http-equiv="Content-Security-Policy" content="style-src 'self' 'unsafe-inline' https://maxcdn.bootstrapcdn.com http://ajax.googleapis.com https://fonts.googleapis.com https://oss.maxcdn.com http://www.google-analytics.com; child-src 'unsafe-inline' https://www.google.com/maps/; object-src 'none'">
@@ -20,7 +20,7 @@
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
 	<!-- RSS -->
-	<link rel="alternate" type="application/atom+xml" title="{{ site.theme.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+	<link rel="alternate" type="application/atom+xml" title="{{ site.centra.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
 	<!-- Font Awesome -->
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
@@ -35,25 +35,25 @@
     <![endif]-->
 
 	<!-- Google Fonts -->
-	{% if site.theme.google_fonts %}
-	<link href="https://fonts.googleapis.com/css?family={{ site.theme.google_fonts }}" rel="stylesheet" type="text/css">
+	{% if site.centra.google_fonts %}
+	<link href="https://fonts.googleapis.com/css?family={{ site.centra.google_fonts }}" rel="stylesheet" type="text/css">
 	{% endif %}
 
 	<!-- KaTeX -->
-	{% if site.theme.katex %}
+	{% if site.centra.katex %}
 	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.css">
 	<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.js"></script>
 	{% endif %}
 
 	<!-- Google Analytics -->
-	{% if site.theme.google_analytics %}
+	{% if site.centra.google_analytics %}
 	<script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	ga('create', '{{ site.theme.google_analytics }}', 'auto');
+	ga('create', '{{ site.centra.google_analytics }}', 'auto');
 	ga('send', 'pageview');
 	</script>
 	{% endif %}

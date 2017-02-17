@@ -22,7 +22,7 @@ published: true
   <div class="excerpt">
 	<p>{{ news.excerpt }}</p>
 	<a class="btn btn-default" href="{{ news.url | prepend: site.baseurl }}">
-	  {{ site.theme.str_continue_reading }}
+	  {{ site.centra.str_continue_reading }}
 	</a>
   </div>
 </div>
