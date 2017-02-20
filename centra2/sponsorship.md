@@ -13,7 +13,7 @@ hide: true
 <i>*We are still adding names and logos to the list of sponsors as the program develops.</i> <br />
 <p>
 <strong>USA </strong> <br />
-AT&T Foundation
+AT&T Foundation <br />
 National Science Foundation <br />
 University of Florida
 <ul type="circle">
