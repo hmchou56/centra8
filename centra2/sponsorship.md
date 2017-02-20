@@ -28,12 +28,4 @@ Center of Excellence for Cyber Enablement of Applications (<a href="https://www.
 <strong>Japan</strong> <br />
 National Institute of Information and Communications Technology (<a href="https://nict.go.jp/en/asean_ivo/index.html" target="_blank">NICT<a/>) 
 
-<div id="sponsors">
-    <img src="/img/acis_signature_blue02.jpg" />
-    <img src="/img/A_T_T.png" />
-    <img src="/img/CECEA_LOGO_v.jpg" />
-    <img src="/img/ece.jpg" />
-    <img src="/img/2_logo-nict-en.png" />
-    <img src="/img/nsf1_for_web.jpg" />
-    <img src="/img/UF.png" />
-</div>
+{% include sponsors.html %}

@@ -32,3 +32,5 @@ our research faculty in sponsoring and supporting institutions.
 #### Japan
 
 [National Institute of Information and Communications Technology](https://www.cecea.tw/e_index.php) (NICT)
+
+{% include sponsors.html %}

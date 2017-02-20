@@ -30,3 +30,5 @@ National Institute of Information and Communications Technology (<a href="https:
 
 <strong>Taiwan</strong> <br />
 Center of Excellence for Cyber Enablement of Applications (<a href="https://www.cecea.tw/e_index.php" target="_blank">CECEA</a>)
+
+{% include sponsors.html %}
