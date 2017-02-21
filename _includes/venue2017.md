@@ -10,7 +10,7 @@
 
 <i> CENTRA/PRAGMA room rate</i>: US$144 plus taxes (11.5%) per room per night. Majority of the rooms are for double occupancy (two beds in room) and some are for single occupancy (one bed). The room rate is the same with either 1 or 2 guests staying in the room. 
 
-**<i><a href=" http://www.hilton.com/en/hi/groups/personalized/G/GVNCCHF-PRA417-20170409/index.jhtml?WT.mc_id=POG" target="_blank">Reservation by March 9th, 2017</a></i>**: The group code <strong>PRA417</strong> is by default already applied in the online reservation. A credit card number is required to confirm the room booking but it will *not* be charged. You will pay the room bill when you check out Hilton UF. The "PRAGMA-CENTRA All Hands 2017" group rate and rooms block are guaranteed only until March 10th, 2017. 
+**<i><a href=" http://www.hilton.com/en/hi/groups/personalized/G/GVNCCHF-PRA417-20170409/index.jhtml?WT.mc_id=POG" target="_blank">Reservation by March 9th, 2017</a></i>**: The website may take a while to load and you will see "PRAGMA-CENTRA All Hands 2017" as our group events name on the landing page. You should see the group code <strong>PRA417</strong> is already applied after you click on "Book a Room" and are led to Step 1 of 5 in the online reservation. A credit card number is required to complete the room booking in Step 4 of 5 but the card will *not* be charged. You will pay the room bill when you check out Hilton UF. The "PRAGMA-CENTRA All Hands 2017" group rate and rooms block are guaranteed only until March 10th, 2017. 
 
 #### Lodging-2
 
