@@ -10,7 +10,7 @@
 
 <i> CENTRA/PRAGMA room rate</i>: US$144 plus taxes (11.5%) per room per night. Majority of the rooms are for double occupancy (two beds in room) and some are for single occupancy (one bed). The room rate is the same with either 1 or 2 guests staying in the room. 
 
-<i>Reservation</i>: link with CENTRA/PRAGMA group rate code will be available soon
+**<i>Reservation by March 9th, 2017</i>**: http://www.hilton.com/en/hi/groups/personalized/G/GVNCCHF-PRA417-20170409/index.jhtml?WT.mc_id=POG The group code <strong>PRA417</strong> is by default already applied in the online reservation. A credit card number is required to confirm the room booking but it will *not* be charged. You will pay the room bill when you check out Hilton UF. The "PRAGMA-CENTRA All Hands 2017" group rate and rooms block are guaranteed only until March 10th, 2017. 
 
 #### Lodging-2
 
@@ -21,7 +21,7 @@
 <p style="padding-left: 270px;"><i>CENTRA/PRAGMA room rates</i>: the following prices are each per room, per night, <strong>before taxes (11.5%)</strong></p>
 <p style="padding-left: 300px;">-- Standard 2 double beds (20 rooms): $89<br />-- Standard 1 queen bed (2 rooms): $99<br />-- Deluxe 2 queen beds (4 rooms): $99<br />-- Business Suite 2 double beds + 1 sleep sofa (2 suites): $109<br />-- Executive Suite (2 suites) 2 queen beds + 1 sleep sofa: $119</p>
 
-<p style="padding-left: 270px;"><i><a href="https://www.union.ufl.edu/UnionHotel/OnlineReservationsandAvailability" target="_blank">Reservation</a></i>: Please enter your planned arrival and departure dates and group code "CENTRA17" before clicking on "Check availability" to make reservation. You will be asked to register/create an account. This allows you to modify and cacnel your room reservation online when needed. Credit card information is required to secure the reservation but your card will **not** be charged until you check out the hotel. If you wish to pay with a different card or in cash upon check-out, please let the reception know directly upon both check-in and check-out of Reitz Union Hotel.  </p>
+<p style="padding-left: 270px;"><strong><i><a href="https://www.union.ufl.edu/UnionHotel/OnlineReservationsandAvailability" target="_blank">Reservation by March 9th, 2017</a></i></strong>: Please enter your planned arrival and departure dates and group code <strong>CENTRA17</strong> ( before clicking on "Check availability" to make reservation. You will be asked to register/create an account. This allows you to modify and cacnel your room reservation online when needed. Credit card information is required to secure the reservation but your card will **not** be charged until you check out the hotel. If you wish to pay with a different card or in cash upon check-out, please let the reception know directly upon both check-in and check-out of Reitz Union Hotel.  </p>
 <p style="padding-left: 270px;"><i>Tips</i>: If you wish to check in on April 8th or earlier, or check on on April 17th or later, the online reservation may not work for you. Please call Reitz Union Hotel at +1-352-392-2151 (24 hrs/day, 7 days/week) directly and mention the group code "CENTRA17" to complete your room reservation by phone.</p>
 
 <p style="padding-left: 270px;"><a href="https://goo.gl/AjSyvS" target="_blank">View larger map here</a>
