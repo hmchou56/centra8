@@ -2,7 +2,7 @@
 
 <p> </p>
 
-#### Lodging-1
+#### Lodging-A
 
 <strong>Hilton University of Florida Conference Center Gainesville</strong> (<a href="http://www3.hilton.com/en/hotels/florida/hilton-university-of-florida-conference-center-gainesville-GVNCCHF/index.html" target="_blank">webiste</a>) <br />
 
@@ -22,7 +22,7 @@
 <p>
 </p>
 
-#### Lodging-2
+#### Lodging-B
 
 <strong><i> Reitz Union Hotel</i></strong> (<a href="https://www.union.ufl.edu/UnionHotel" target="_blank">website</a>)
 
