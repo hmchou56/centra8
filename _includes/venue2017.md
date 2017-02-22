@@ -18,7 +18,7 @@
 
 2. If you need to modify or cancel your Hilton UF reservation, **please follow the link in the Confirmation e-mail. It is embeded toward the end of the confirmation message in the dark text box *below* RATE RULES AND CANCELLATION POLICY. [Click here](http://www.globalcentra.org/img/Hilton_modify_cancel.png) to view an example screenshot of that link location at the end of your Confirmation email from Hilton.**
 
-3. If you wish to check in on April 8th or earlier, or check out on April 19th or later, the online reservation may not work for you. Please call Hilton University of Florida Conference Center at +1-352-371-3600 directly and mention the group code "PRAGMA-CENTRA All Hands 2017" to complete your room reservation by phone. If any issues please contact gshong (at) acis (dot) ufl (dot) edu as soon as possible.
+3. If you wish to check in on April 8th or earlier, or check out on April 19th or later, the online reservation may not work for you. Please call Hilton University of Florida Conference Center at +1-352-371-3600 directly and mention the group "PRAGMA-CENTRA All Hands 2017" and group code "PRA417" to complete your room reservation by phone. If any issues please contact gshong (at) acis (dot) ufl (dot) edu as soon as possible.
 <p>
 </p>
 
