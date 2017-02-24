@@ -52,3 +52,8 @@ hide: true
 
 <p style="padding-left: 270px;"><strong><i>Wednesday, April 12th, 2017 </i></strong></p>
 <p style="padding-left: 270px;"><a href="http://www.globalcentra.org/suntowns2017/">SUNTOWNS (Smart UNIversity TOWNS) Workshop and CENTRA Dinner</a></p>
+<p style="padding-left: 270px;"><strong><i>Thursday, April 13th, 2017 </i></strong></p>
+<p style="padding-left: 270px;">9:30 AM - 4.30 PM Group meetings for CENTRA Visualization Alliance and Data Provence and Identifiers Project; CENTRA Advisory Board Meeting</p>
+
+<p style="padding-left: 270px;"><strong><i>Friday, April 14th, 2017 </i></strong></p>
+<p style="padding-left: 270px;">9:30 AM - 4.30 PM Group meetings for CENTRA Visualization Alliance and Data Provence and Identifiers Project</p>
