@@ -40,13 +40,13 @@ hide: true
 <p style="padding-left: 270px;"><strong>08:30 AM: Catch-a-project-and-group Session </strong></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">Project groups meet and work (Concurrent &nbsp;breakout sessions)</span></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">Brief workgroup reports (@11:30 am in plenary session)</span></p>
-<p style="padding-left: 270px;"><strong>12:00 PM: Lunch</strong></p>
+<p style="padding-left: 270px;"><strong>12:00 PM: Lunch</strong> | Steering Committee and Advisory Board Meeting (members only)</p>
 <p style="padding-left: 270px;"><strong>01:30 PM: Planning Session </strong></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">Project groups meet and work (breakouts)</span></p>
 <p style="padding-left: 270px;"><strong>03:30 PM: Takeway session</strong></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">All workgroups report</span></p>
 <p style="padding-left: 270px;"><strong>04:30 PM: Closing remarks</strong></p>
-<p style="padding-left: 270px;"><strong>5:00</strong> <strong>PM</strong><span style="font-weight: 400;">: CENTRA Steering and Advisory Committees meeting (members only)</span></p>
+<p style="padding-left: 270px;"><strong>5:00</strong> <strong>PM</strong><span style="font-weight: 400;">: Tentative: CENTRA Steering and Advisory Committees meeting (members only)</span></p>
 <p style="padding-left: 270px;"><strong>6:30 PM:</strong><span style="font-weight: 400;"> Dinner at UF Hilton</span></p>
 <p style="padding-left: 270px;">&nbsp;</p>
 
