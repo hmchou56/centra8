@@ -36,7 +36,7 @@ their hacks, research, and other interests.
 
 ## The Hackathon Focus
 
-We will welcome any hack focused on collecting or analysing data from Smart Cities.
+We will welcome any hack focused on collecting or analyzing data from Smart Cities.
 Below are some examples from three cities: [Chicago](https://data.cityofchicago.org/),
 [Gainesville](https://data.cityofgainesville.org/), and
 [Taipei](http://data.taipei/), Taiwan. Each city has a public data portal that
