@@ -57,3 +57,6 @@ hide: true
 
 <p style="padding-left: 270px;"><strong><i>Friday, April 14th, 2017 </i></strong></p>
 <p style="padding-left: 270px;">9:30 AM - 4.30 PM Group meetings for CENTRA Visualization Alliance and Data Provence and Identifiers Project</p>
+
+<p style="padding-left: 270px;"><strong><i>Saturday, April 15th, 2017 </i></strong></p>
+<p style="padding-left: 270px;">8:30 AM - 3.30 PM Group meetings for CENTRA Visualization Alliance and Data Provence and Identifiers Project / Joint session with PRAGMA 32 participants</p>
