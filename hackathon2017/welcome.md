@@ -27,7 +27,7 @@ their hacks, research, and other interests.
 **Participation gets you**
 
 * 23 hours of **hands-on hacking** with Smart Cities data
-* Hack with students from **three countries**
+* Hack with our international students from **Thailand**
 * Meet **developers** and **graduate students** experienced in big data technologies
 * **Workshops** on data APIs, collaborative software development, and big data analysis
 * **Invitations** to the [CENTRA 2 meeting](/centra2/), [SUNTOWNS workshop](suntowns2017/), and [PRAGMA 32 meeting](http://pragma32.pragma-grid.net/) during the week of April 10 - 14
