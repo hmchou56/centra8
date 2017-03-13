@@ -26,4 +26,4 @@ hide: true
 <br />
 </ul>
 
-<strong>Please complete the registration by Thursday, March 9th, 2017 (no later than 12pm US EST | GMT-5)<strong>: <a href="https://goo.gl/yiSVrh" target="_blank">https://goo.gl/yiSVrh</a> 
+<strong>Please complete the registration by Thursday, March 14th, 2017 (no later than the end of your day in your time zone)<strong>: <a href="https://goo.gl/yiSVrh" target="_blank">https://goo.gl/yiSVrh</a> 
