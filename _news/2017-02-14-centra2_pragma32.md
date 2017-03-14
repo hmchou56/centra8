@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Registration now open for CENTRA 2 All-Hands and co-located Workshops (April 1-2 and April 10-15, 2017)
-excerpt: The second annual all-hands meeting of CENTRA, PRAGMA 32 Workshop, SUNTOWNS (Smart UNIversity TOWNS) and Student Hackathon Registrations are now open until March 9, 2017!
+excerpt: The second annual all-hands meeting of CENTRA, PRAGMA 32 Workshop, SUNTOWNS (Smart UNIversity TOWNS) and Student Hackathon Registrations are now open until March 14, 2017!
 ---
 
 The UF ACIS Lab is pleased to announce and invite your registration to the following events we are hosting in Gainesville, Florida in April 2017:
