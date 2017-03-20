@@ -22,8 +22,8 @@ AT&T Foundation <br/>
 [National Science Foundation](https://www.nsf.gov/) <br /> 
 [Advanced Computing Information Systems Laboratory](https://www.acis.ufl.edu/) (ACIS), University of Florida <br />
 [Department of Electrical & Computing](https://www.ece.ufl.edu/) (UF ECE), University of Florida <br />
-[City of Gainesville](http://www.cityofgainesville.org), Florida <br />
-[Code for Gainesville](http://c4gnv.com), Florida <br />
+[City of Gainesville](http://www.cityofgainesville.org) <br />
+[Code for Gainesville](http://c4gnv.com) <br />
 
 
 ### Supporters
