@@ -11,4 +11,4 @@ hide: true
 
 ## February 7, 2017
 
-[Registration is now open](https://goo.gl/5MQikO). Please sign up no later than March 22, 2017. We look forward to meeting you!
+[Registration is now open](https://goo.gl/5MQikO). Please sign up no later than March 24, 2017 (by 11.59pm US EDT). We look forward to meeting you!
