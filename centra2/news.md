@@ -19,5 +19,5 @@ CENTRA Smart Cities Student Hackathon Registration begins
 March 14, 2017 <br />
 Last day for all CENTRA 2, SUNTOWNS and PRAGMA 32 Registrations and special rate guaranteed <a href="http://www.globalcentra.org/centra2/venue.html" target="_blank">hotel reservation</a>. 
 
-March 22, 2017 <br />
+March 24, 2017 <br />
 [CENTRA Smart Cities Student Hackathon registration](http://www.globalcentra.org/hackathon2017/) closes at midnight US Eastern Daylight Savings Time. 
