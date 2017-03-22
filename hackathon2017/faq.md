@@ -48,8 +48,7 @@ Remember, we'll all be together in one space for 26 hours.
 
 * **Will there be food?**
 
-Of course! All meals, drinks, coffee, tea, and snacks will be provided from the
-starting breakfast to the ending lunch.
+Of course! Meals, beverages and snacks will be provided :-)
 
 * **What is GitHub?**
 
