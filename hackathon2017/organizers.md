@@ -18,9 +18,11 @@ fairness.)
 
 ## Mentors
 
-* [Matthew Collins](https://www.acis.ufl.edu/people/mjcollin)
-* [Renato Figueiredo](https://www.acis.ufl.edu/people/renatof)
-* [Alex Thompson](https://www.acis.ufl.edu/people/godfoder)
+* [Matthew Collins](https://www.acis.ufl.edu/people/mjcollin), ACIS Lab Operations Manager
+* [Dr. Renato Figueiredo](https://www.acis.ufl.edu/people/renatof), ACIS Lab
+* [Dave Stanton](http://davestanton.com/), [Code for Gainesville](https://github.com/c4gnv)
+* [Alex Thompson](https://www.acis.ufl.edu/people/godfoder), ACIS Lab Software Products Lead
+* [Samantha Wolfe](https://www.linkedin.com/in/samantha-wolfe-328b8612), City of Gainesville Senior Analyst
 
 
 ## Organizers
@@ -31,4 +33,5 @@ fairness.)
 
 ## Judging panel
 
-To be announced
+* Dr. Jose Fortes
+* City of Gainesville Management
