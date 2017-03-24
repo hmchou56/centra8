@@ -19,6 +19,7 @@ fairness.)
 ## Mentors
 
 * [Matthew Collins](https://www.acis.ufl.edu/people/mjcollin), ACIS Lab Operations Manager
+* [Andrew Crites](https://www.linkedin.com/in/andrew-crites-a1441846), Mobiquity
 * [Dr. Renato Figueiredo](https://www.acis.ufl.edu/people/renatof), ACIS Lab
 * [Dave Stanton](http://davestanton.com/), [Code for Gainesville](https://github.com/c4gnv)
 * [Alex Thompson](https://www.acis.ufl.edu/people/godfoder), ACIS Lab Software Products Lead
