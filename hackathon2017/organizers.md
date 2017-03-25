@@ -24,6 +24,7 @@ fairness.)
 * [Dave Stanton](http://davestanton.com/), [Code for Gainesville](https://github.com/c4gnv)
 * [Alex Thompson](https://www.acis.ufl.edu/people/godfoder), ACIS Lab Software Products Lead
 * [Samantha Wolfe](https://www.linkedin.com/in/samantha-wolfe-328b8612), City of Gainesville Senior Analyst
+* [Richard J. Garand](https://www.acis.ufl.edu/people/rjgarand), ACIS Lab Portal Developer
 
 
 ## Organizers
