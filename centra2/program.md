@@ -11,7 +11,7 @@ hide: true
 <a href="http://www.globalcentra.org/centra2/working_agenda_v03Mar17.pdf" target="_blank">Draft/Working Agenda_v03Mar2017 (PDF)</a><br />
 
 <p style="padding-left: 270px;"><strong><i>Sunday, April 9th, 2017</i></strong> </p>
-<p style="padding-left: 270px;"><span style="font-weight: 400;">Registration and Reception at 6:30 pm.<br /><br /></span></p>
+<p style="padding-left: 270px;"><span style="font-weight: 400;">Travel Day<br /><br /></span></p>
 <p style="padding-left: 270px;"><strong><i>Monday, April 10th, 2017</i></strong> </p>
 <p style="padding-left: 270px;"><strong>08:00 AM: Registration</strong></p>
 <p style="padding-left: 270px;"><strong>08:30 AM: Opening Flyby Session</strong></p>
@@ -22,10 +22,12 @@ hide: true
 <p style="padding-left: 270px;"><strong>10:00 AM: Break</strong></p>
 <p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: The Visualization Alliance, Jason Leigh</span></p>
 <p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: Data Handles and Provenance, Beth Plale </span></p>
-<p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: ASEAN IVO: software defined system update, Hong Hoe Ong</span></p>
-<p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: Smart Museum, J. Haga</span></p>
+<p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: New Directions for the Biodiversity Group, Jim Beach</span></p>
+<p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: Smart Museum, Jason Haga</span></p>
+<p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: ASEAN IVO: Software Defined System Update, Hong Hoe Ong (tentative)</span></p>
 <p style="padding-left: 270px;"><strong>12:00 PM: Lunch</strong></p>
 <p style="padding-left: 270px;"><strong>01:30 PM: Dive-in Session: New (Proposed) Projects</strong></p>
+<p style="padding-left: 330px;"><span style="font-weight: 400;">US Ignite and Smart and Connected Communities, Glenn Ricart</span></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">15-minute talks on proposed projects and research interests</span></p>
 <p style="padding-left: 270px;"><strong>03:00 PM: Break</strong></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">15-minute talks on proposed projects and research interests</span></p>
@@ -33,7 +35,7 @@ hide: true
 <p style="padding-left: 330px;"><span style="font-weight: 400;">Summary reports (@4:45 pm in plenary session).</span></p>
 <p style="padding-left: 270px;"><strong>05:00 PM</strong><span style="font-weight: 400;">: </span><strong>Free flight Session </strong></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">Unscheduled time for informal interactions and other activities. </span></p>
-<p style="padding-left: 270px;"><strong>06:30 PM: Dinner</strong><span style="font-weight: 400;"> at UF Hilton</span></p>
+<p style="padding-left: 270px;"><strong>06:30 PM: Dinner</strong><span style="font-weight: 400;"> at Hilton University of Florida Conference Center Gainesville</span></p>
 <p style="padding-left: 270px;">&nbsp;</p>
 
 <p style="padding-left: 270px;"><strong><i>Tuesday, April 11th, 2017</i></strong> </p>
@@ -46,8 +48,8 @@ hide: true
 <p style="padding-left: 270px;"><strong>03:30 PM: Takeway session</strong></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">All workgroups report</span></p>
 <p style="padding-left: 270px;"><strong>04:30 PM: Closing remarks</strong></p>
-<p style="padding-left: 270px;"><strong>5:00</strong> <strong>PM</strong><span style="font-weight: 400;">: Tentative: CENTRA Steering and Advisory Committees meeting (members only)</span></p>
-<p style="padding-left: 270px;"><strong>6:30 PM:</strong><span style="font-weight: 400;"> Dinner at UF Hilton</span></p>
+<p style="padding-left: 270px;"><strong>5:00</strong> <strong>PM</strong><span style="font-weight: 400;">: CENTRA Steering Committee and Advisory Board meeting (members only)</span></p>
+<p style="padding-left: 270px;"><strong>6:30 PM:</strong><span style="font-weight: 400;"> Dinner at Hilton University of Florida Conference Center Gainesville</span></p>
 <p style="padding-left: 270px;">&nbsp;</p>
 
 <p style="padding-left: 270px;"><strong><i>Wednesday, April 12th, 2017 </i></strong></p>
@@ -59,4 +61,4 @@ hide: true
 <p style="padding-left: 270px;">9:30 AM - 4.30 PM Group meetings for CENTRA Visualization Alliance and Data Provence and Identifiers Project</p>
 
 <p style="padding-left: 270px;"><strong><i>Saturday, April 15th, 2017 </i></strong></p>
-<p style="padding-left: 270px;">8:30 AM - 3.30 PM Group meetings for CENTRA Visualization Alliance and Data Provence and Identifiers Project / Joint session with PRAGMA 32 participants</p>
+<p style="padding-left: 270px;">8:30 AM - 4.30 PM Group meetings for CENTRA Visualization Alliance and Data Provence and Identifiers and other project groups; CENTRA Advisory Board Meeting (possibly with PRAGMA members)</p>
