@@ -11,7 +11,7 @@ hide: true
 
 ## March 27, 2017
 
-Detailed participation instructions, github organization, sample datasets, and Slack team are comming on Wednesday. Watch your emails!
+Detailed participation instructions, github organization, sample datasets, and Slack team are comming on Wednesday, March 29. Watch your emails!
 
 ## March 26, 2017
 
