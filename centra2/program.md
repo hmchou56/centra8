@@ -8,7 +8,7 @@ hide: true
 ---
 
 ### CENTRA 2 All-Hands Meeting Overview
-<a href="http://www.globalcentra.org/centra2/working_agenda_v03Mar17.pdf" target="_blank">Draft/Working Agenda_v03Mar2017 (PDF)</a><br />
+<a href="http://www.globalcentra.org/centra2/working_agenda_v27Mar17.pdf" target="_blank">Draft/Working Agenda_v27Mar2017 (PDF)</a><br />
 
 <p style="padding-left: 270px;"><strong><i>Sunday, April 9th, 2017</i></strong> </p>
 <p style="padding-left: 270px;"><span style="font-weight: 400;">Travel Day<br /><br /></span></p>
