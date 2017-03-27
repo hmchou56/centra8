@@ -16,9 +16,13 @@ and a link to a site like LinkedIn or your professional web site so we have
 enough information to select excellent students. When evaluating registrations
 we will also try to have participation from as many institutions as possible.
 
+<!--
 <p style="text-align: center; font-size: 1.5em;">
 <a href="https://acislab.wufoo.com/forms/rkg5ct30h8e452/" alt="registration"><strong>Register For the Hackathon Here by March 24th, 2017</strong></a>
 </p>
+-->
+
+**Registration for this event is now closed**
 
 ## Team Registration
 
