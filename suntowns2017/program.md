@@ -10,7 +10,7 @@ hide: true
 </p>
 
 <p style="padding-left: 390px;"><strong>Smart University Towns (SUNTOWNS) Workshop </strong></p>
-<p style="padding-left: 440px;"><a href="http://www.globalcentra.org/suntowns2017/SUNTOWNS_working_agenda_Feb_8.pdf" target="_blank">Draft/Working Agenda_v08Feb2017(PDF)</a></p>
+<p style="padding-left: 440px;"><a href="http://www.globalcentra.org/suntowns2017/working_agenda_v25Mar17.pdf" target="_blank">Working Agenda_v25Mar2017(PDF)</a></p>
 <p style="padding-left: 270px;">&nbsp;</p>
 <p style="padding-left: 270px;"><strong><em>8:00 AM</em></strong>: <strong>Registration and Breakfast</strong></p>
 <p style="padding-left: 270px;"><strong><em>8:30 AM</em></strong>: <strong>Opening Session</strong></p>
@@ -33,6 +33,7 @@ hide: true
 <p style="padding-left: 300px;"><strong>Invited Talk:</strong> The Messiness of Innovation: How emerging technology infrastructure demands new types of civic order</p>
 <p style="padding-left: 300px;"><strong>Speaker: </strong>Aaron Deacon, Founder and Managing Director of Kansas City Digital Drive, USA.</p>
 <p style="padding-left: 270px;"><strong><em>12:00 PM</em></strong> &ndash; <strong>Lunch</strong> and presentation on UF-Gainesville joint development plan</p>
+<p style="padding-left: 270px;"><strong><em>12:00 PM</em></strong> &ndash; <strong>Speakers:</strong> Anthony Lyons, Manager of City of Gainesville and Charlie Lane, Senior Vice President and COO of the University of Florida</p>
 <p style="padding-left: 270px;"><strong><em>1:30 PM</em></strong>:</p>
 <p style="padding-left: 300px;"><strong>Invited Talk:</strong> A Resiliency Based Approach to Architecting a Smart Community</p>
 <p style="padding-left: 300px;"><strong>Speaker: </strong>Matthew E. Delcambre, Director, Center for Business and Information Technology (CBIT), Informatics Research Institute, University of Louisiana at Lafayette, USA.</p>
