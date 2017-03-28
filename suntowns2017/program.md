@@ -10,7 +10,7 @@ hide: true
 </p>
 
 <p style="padding-left: 390px;"><strong>Smart University Towns (SUNTOWNS) Workshop </strong></p>
-<p style="padding-left: 440px;"><a href="http://www.globalcentra.org/suntowns2017/working_agenda_v25Mar17.pdf" target="_blank">Working Agenda_v25Mar2017(PDF)</a></p>
+<p style="padding-left: 440px;"><a href="http://www.globalcentra.org/suntowns2017/working_agenda_v27Mar2017.pdf" target="_blank">Working Agenda_v27Mar2017(PDF)</a></p>
 <p style="padding-left: 270px;">&nbsp;</p>
 <p style="padding-left: 270px;"><strong><em>8:00 AM</em></strong>: <strong>Registration and Breakfast</strong></p>
 <p style="padding-left: 270px;"><strong><em>8:30 AM</em></strong>: <strong>Opening Session</strong></p>
@@ -18,7 +18,7 @@ hide: true
 <p style="padding-left: 270px;"><strong><em>8:40 AM</em></strong>: <strong>Group Photo</strong></p>
 <p style="padding-left: 270px;"><strong><em>8:45 AM</em></strong>:</p>
 <p style="padding-left: 300px;"><strong>Invited Talk</strong>: NSF Initiatives in Smart and Connected Communities</p>
-<p style="padding-left: 300px;"><strong>Speaker:</strong> David Corman, Program Director, National Science Foundation, USA.</p>
+<p style="padding-left: 300px;"><strong>Speaker:</strong> Meghan Houghton, Staff Associate, National Science Foundation, USA.</p>
 <p style="padding-left: 270px;"><strong><em>9:30 AM</em></strong>:</p>
 <p style="padding-left: 300px;"><strong>Invited Talk</strong>: Top 10 Signs of a Smart Community</p>
 <p style="padding-left: 300px;"><strong>Speaker:</strong> Glenn Ricart, Founder and CTO of US Ignite, USA.</p>
@@ -49,5 +49,6 @@ hide: true
 <p style="padding-left: 300px;"><strong>Speaker: </strong>Lily Elefteriadou, Ph.D., Director of the UF Transportation Institute, and Professor of Civil Engineering, University of Florida, USA.</p>
 <p style="padding-left: 270px;"><strong><em>4:00 PM</em></strong>:</p>
 <p style="padding-left: 300px;"><strong>Panel Presentations and Discussion: </strong>Smart University Towns: Challenges and Opportunities</p>
-<p style="padding-left: 270px;"><strong><em>5:00 PM: </em>Closing Remarks</strong></p>
+<p style="padding-left: 270px;"><strong><em>5:00 PM: </em>CENTRA Smart Cities Hackathon Winners Presentations</strong></p>
+<p style="padding-left: 270px;"><strong><em>5:20 PM: </em>Closing Remarks</strong></p>
 <p style="padding-left: 270px;"><strong>6:30 PM</strong>: <strong>Dinner</strong> (Location: Thomas Center)</p>
