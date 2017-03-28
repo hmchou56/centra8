@@ -23,10 +23,10 @@ hide: true
 <p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: The Visualization Alliance, Jason Leigh</span></p>
 <p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: Data Handles and Provenance, Beth Plale </span></p>
 <p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: New Directions for the Biodiversity Group, Jim Beach</span></p>
-<p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: Smart Museum, Jason Haga</span></p>
-<p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: ASEAN IVO: Software Defined System Update, Hong Hoe Ong (tentative)</span></p>
+<p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: IT for Natural Disaster Management, Jason Haga</span></p>
 <p style="padding-left: 270px;"><strong>12:00 PM: Lunch</strong></p>
 <p style="padding-left: 270px;"><strong>01:30 PM: Dive-in Session: New (Proposed) Projects</strong></p>
+<p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: ASEAN IVO -- Software Defined System update, Hong Hoe Ong (tentative)</span></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">US Ignite and Smart and Connected Communities, Glenn Ricart</span></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">15-minute talks on proposed projects and research interests</span></p>
 <p style="padding-left: 270px;"><strong>03:00 PM: Break</strong></p>
