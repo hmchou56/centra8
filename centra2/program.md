@@ -27,8 +27,9 @@ hide: true
 <p style="padding-left: 270px;"><strong>12:00 PM: Lunch</strong></p>
 <p style="padding-left: 270px;"><strong>01:30 PM: Dive-in Session: New (Proposed) Projects</strong></p>
 <p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: ASEAN IVO -- Software Defined System update, Hong Hoe Ong (tentative)</span></p>
-<p style="padding-left: 330px;"><span style="font-weight: 400;">US Ignite and Smart and Connected Communities, Glenn Ricart</span></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">15-minute talks on proposed projects and research interests</span></p>
+<p style="padding-left: 330px;"><span style="font-weight: 400;">US Ignite and Smart and Connected Communities, Glenn Ricart</span></p>
+<p style="padding-left: 330px;"><span style="font-weight: 400;">Science FreeWay: High Performance Data Transfer for Science Big Data in Korea, Woojin Seok</span></p>
 <p style="padding-left: 270px;"><strong>03:00 PM: Break</strong></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">15-minute talks on proposed projects and research interests</span></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">Group formation for new and ongoing projects to do work, team demos, etc.</span></p>
