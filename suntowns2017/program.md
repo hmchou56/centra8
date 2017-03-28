@@ -18,7 +18,7 @@ hide: true
 <p style="padding-left: 270px;"><strong><em>8:40 AM</em></strong>: <strong>Group Photo</strong></p>
 <p style="padding-left: 270px;"><strong><em>8:45 AM</em></strong>:</p>
 <p style="padding-left: 300px;"><strong>Invited Talk</strong>: NSF Initiatives in Smart and Connected Communities</p>
-<p style="padding-left: 300px;"><strong>Speaker:</strong> Meghan Houghton, Staff Associate, National Science Foundation, USA.</p>
+<p style="padding-left: 300px;"><strong>Speaker:</strong> Meghan Houghton, Staff Associate in the CISE Office of the Assistant Director, National Science Foundation, and co-chair of the Network and Information Technology Research and Development (NITRD) Smart Cities and Communities Task Group, USA.</p>
 <p style="padding-left: 270px;"><strong><em>9:30 AM</em></strong>:</p>
 <p style="padding-left: 300px;"><strong>Invited Talk</strong>: Top 10 Signs of a Smart Community</p>
 <p style="padding-left: 300px;"><strong>Speaker:</strong> Glenn Ricart, Founder and CTO of US Ignite, USA.</p>
