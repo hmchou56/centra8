@@ -65,9 +65,7 @@ your home or hotel to continue working. We will have some bean bags and chairs a
 
 * **What presentation do I need to make?**
 
-When the hackathon ends at 11:00 am Sunday, each team will have 3 minutes to present their hack to the entire group and the judges. There will be an opportunity for the judges to ask up to two questions. We encourage you to not use slides for your presentaion. Please show your code running or your application in use. If you chose to do a data analysis, then slides may be appropriate for showing graphs and results.
-
-**All team members must be present at the presentation to be eligible to win**
+When the hackathon ends at 11:00 am Sunday, each team will have 3 minutes to present their hack to the entire group and the judges. There will be an opportunity for the judges to ask up to two questions. We encourage you to not use slides for your presentaion. Please show your code running or your application in use. If you chose to do a data analysis, then slides may be appropriate for showing graphs and results. **All team members must be present at the presentation to be eligible to win**
 
 * **What are the judging expectations?**
 
@@ -99,7 +97,15 @@ Basically, you'll be judged on the creativity and quality of the work you did th
 
 * **If I win, where do I get to go?**
 
+The best two hacks will be able to do their hack presentation again at closing session of the SUNTOWNS (Smart University Towns) workshop on Wednesday April 12 at the Hilton University conference center. This workshop will feature talks and panels by community members and international researchers in the Smart Cities domain including Dr. Kent Fuch, persident of UF; Anthony Lyons, Gainesville city manager; and Glenn Ricart, Founder and CTO of US Ignite. The full program is below. Note that the group photo is at 8:40 am so if you want your picture taken with everyone, please come for the whole day!
+
+http://www.globalcentra.org/suntowns2017/program.html
+
 * **Even if I don't win, what events can I attend the week of April 10 - 14?**
+
+
+
+The [SUNTOWNS (Smart University Towns) workshop](http://www.globalcentra.org/suntowns2017/) on Wednesday April 12 at the Hilton University conference center is open to everyone who attends the hackathon and will feature talks and panels by community members and international researchers in the Smart Cities domain.
 
 * **How do I register?**
 
