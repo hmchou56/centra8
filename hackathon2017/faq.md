@@ -9,15 +9,15 @@ hide: true
 
 # Student Hackathon Frequently Asked Questions
 
-* **How do I register?**
+* **How can I communicate with everyone?**
 
-<a href="https://acislab.wufoo.com/forms/rkg5ct30h8e452/" alt="registration">Registration is now open!</a>
+There is a GitHub organization:
 
-* **Can I sign up if I'm not on a team?**
+[https://github.com/centrahackathon2017](https://github.com/centrahackathon2017)
 
-Absolutely. Before hacking starts we will have time for everyone to discuss
-their ideas and have opportunities for participants to work with people
-interested in the same hacks. Or on their own hacks, it's up to you.
+And a Slack team:
+
+[https://centrahackathon2017.slack.com/](https://centrahackathon2017.slack.com/)
 
 * **What will be provided?**
 
@@ -61,4 +61,26 @@ tutorial](https://guides.github.com/activities/hello-world/).
 * **Where can I sleep?**
 
 The CENTRA suite will remain open all night however you are welcome to return to
-your home or hotel to continue working. Your entire team must present your work on Sunday so be sure to come back.
+your home or hotel to continue working. We will have some bean bags and chairs availible if you want something more comfortable than an office chair to rest in. Your entire team must present your work on Sunday so be sure to come back.
+
+* **What presentation do I need to make?**
+
+* **What are the judging expectations?**
+
+* **If I win, where do I get to go?**
+
+* **Even if I don't win, what events can I attend the week of April 10 - 14?**
+
+* **How do I register?**
+
+<!--
+<a href="https://acislab.wufoo.com/forms/rkg5ct30h8e452/" alt="registration">Registration is now open!</a>
+-->
+Registration has ended.
+
+* **Can I sign up if I'm not on a team?**
+
+Absolutely. Before hacking starts we will have time for everyone to discuss
+their ideas and have opportunities for participants to work with people
+interested in the same hacks. Or on their own hacks, it's up to you.
+
