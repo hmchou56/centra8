@@ -97,13 +97,13 @@ Basically, you'll be judged on the creativity and quality of the work you did th
 
 * **If I win, where do I get to go?**
 
-The best two hacks will be able to do their hack presentation again at closing session of the SUNTOWNS (Smart University Towns) workshop on Wednesday April 12 at the Hilton University conference center. This workshop will feature talks and panels by community members and international researchers in the Smart Cities domain including Dr. Kent Fuch, persident of UF; Anthony Lyons, Gainesville city manager; and Glenn Ricart, Founder and CTO of US Ignite. The full program is below. Note that the group photo is at 8:40 am so if you want your picture taken with everyone, please come for the whole day!
+The best two hacks will be able to do their hack presentation again at closing session of the SUNTOWNS (Smart University Towns) workshop on Wednesday April 12 at the Hilton University conference center. This workshop will feature talks and panels by community members and international researchers in the Smart Cities domain including Dr. Kent Fuch, persident of UF; Anthony Lyons, Gainesville city manager; and Glenn Ricart, Founder and CTO of US Ignite. The [full program is here](http://www.globalcentra.org/suntowns2017/program.html). Note that the group photo is at 8:40 am so if you want your picture taken with everyone, please come for the whole day!
 
-http://www.globalcentra.org/suntowns2017/program.html
+For the best hack, two members of the team will have travel and lodging paid for to attend next year's CENTRA meeting in Japan. The date has not been set yet but it will be in the spring of 2018 near Tokyo. You will be expected to make a presentation about your research or related project at this meeting and the ACIS lab is happy to provide you with support during the year to help you prepare. Attending this year's [CENTRA workshop](http://www.globalcentra.org/centra2/) on Monday April 10th will let you meet the people and learn about CENTRA projects.
 
 * **Even if I don't win, what events can I attend the week of April 10 - 14?**
 
-The [CENTRA workshop](http://www.globalcentra.org/centra2/) on Monday and Tuesday April 10 - 11 at the Hilton University conference center is open to anyone interested in participating in international collaborative research. You are welcome to attend the first day, Monday, to hear overviews of on-going research projects supported by CENTRA that are seaking researchers.
+The [CENTRA workshop](http://www.globalcentra.org/centra2/) on Monday and Tuesday April 10 - 11 at the Hilton University conference center is open to anyone interested in participating in international collaborative research. You are welcome to attend the first day, Monday, to hear overviews of on-going research projects supported by CENTRA that are seeking researchers. CENTRA can also provide funded travel opportunities to US citizens and permenant residents to co-work with other member research institutions in Asia. 
 
 The [SUNTOWNS (Smart University Towns) workshop](http://www.globalcentra.org/suntowns2017/) on Wednesday April 12 at the Hilton University conference center is open to everyone who attends the hackathon and will feature talks and panels by community members and international researchers in the Smart Cities domain.
 
