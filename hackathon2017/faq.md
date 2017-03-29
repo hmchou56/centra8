@@ -65,7 +65,7 @@ your home or hotel to continue working. We will have some bean bags and chairs a
 
 * **What presentation do I need to make?**
 
-When the hackathon ends at 11:00 am Sunday, each team will have 3 minutes to present their hack to the entire group and the judges. There will be an opportunity for the judges to ask up to two questions. We encourage you to not use slides for your presentaion. Please show your code running or your application in use. If you chose to do a data analysis, then slides may be appropriate for showing graphs and results. **All team members must be present at the presentation to be eligible to win**
+When the hackathon ends at 11:00 am Sunday, each team will have 3 minutes to present their hack to the entire group and the judges. There will be an opportunity for the judges to ask up to two questions. We encourage you to not use slides for your presentaion. Please show your code running or your application in use. If you chose to do a data analysis, then slides may be appropriate for showing graphs and results. *All team members must be present at the presentation to be eligible to win.*
 
 * **What are the judging expectations?**
 
@@ -103,9 +103,11 @@ http://www.globalcentra.org/suntowns2017/program.html
 
 * **Even if I don't win, what events can I attend the week of April 10 - 14?**
 
-
+The [CENTRA workshop](http://www.globalcentra.org/centra2/) on Monday and Tuesday April 10 - 11 at the Hilton University conference center is open to anyone interested in participating in international collaborative research. You are welcome to attend the first day, Monday, to hear overviews of on-going research projects supported by CENTRA that are seaking researchers.
 
 The [SUNTOWNS (Smart University Towns) workshop](http://www.globalcentra.org/suntowns2017/) on Wednesday April 12 at the Hilton University conference center is open to everyone who attends the hackathon and will feature talks and panels by community members and international researchers in the Smart Cities domain.
+
+*If you plan to attend any of these events, please let us know. Registration is officially closed but we are happy to add you to our attendee lists if you ask.*
 
 * **How do I register?**
 
