@@ -65,7 +65,37 @@ your home or hotel to continue working. We will have some bean bags and chairs a
 
 * **What presentation do I need to make?**
 
+When the hackathon ends at 11:00 am Sunday, each team will have 3 minutes to present their hack to the entire group and the judges. There will be an opportunity for the judges to ask up to two questions. We encourage you to not use slides for your presentaion. Please show your code running or your application in use. If you chose to do a data analysis, then slides may be appropriate for showing graphs and results.
+
+**All team members must be present at the presentation to be eligible to win**
+
 * **What are the judging expectations?**
+
+Our judging panel will review your presentation and hack based on:
+
+<div style="text-indent: 20px;">
+<ol>
+    <li>Wowness and creativity of the hack</li>
+    <li>Consideration paid to improving communities</li>
+    <li>Ability for the hack to become a research project</li>
+    <li>Technical, artistic, organizational, etc skills requried to do the hack</li>
+    <li>How well the presentation conveys the work you did</li>
+</ol>
+</div>
+
+We will **not** be using any of these criteria for judging:
+
+<div style="text-indent: 20px;">
+<ul>
+    <li>Public speaking skills</li>
+    <li>Immediate applicability of the hack</li>
+    <li>Ability for the hack to become a research project</li>
+    <li>Marketability or comercial value of the hack</li>
+    <li>Previous work done on the hack outside the hackathon</li>
+</ul>
+</div>
+
+Basically, you'll be judged on the creativity and quality of the work you did this weekend.
 
 * **If I win, where do I get to go?**
 
