@@ -8,7 +8,7 @@ hide: true
 ---
 
 ### CENTRA 2 All-Hands Meeting Overview
-<a href="http://www.globalcentra.org/centra2/working_agenda_v27Mar17.pdf" target="_blank">Draft/Working Agenda_v27Mar2017 (PDF)</a><br />
+<a href="http://www.globalcentra.org/centra2/working_agenda_v28Mar17.pdf" target="_blank">Draft/Working Agenda_v27Mar2017 (PDF)</a><br />
 
 <p style="padding-left: 270px;"><strong><i>Sunday, April 9th, 2017</i></strong> </p>
 <p style="padding-left: 270px;"><span style="font-weight: 400;">Travel Day<br /><br /></span></p>
@@ -29,6 +29,7 @@ hide: true
 <p style="padding-left: 330px;"><strong>Project review</strong><span style="font-weight: 400;">: ASEAN IVO -- Software Defined System update, Hong Hoe Ong (tentative)</span></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">15-minute talks on proposed projects and research interests</span></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">US Ignite and Smart and Connected Communities, Glenn Ricart</span></p>
+<p style="padding-left: 330px;"><span style="font-weight: 400;">Dynamically Aggregating Smart Community Sensors, Edge and Cloud Resources with Overlay VPNs, Renato Figueiredo</span></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">Science FreeWay: High Performance Data Transfer for Science Big Data in Korea, Woojin Seok</span></p>
 <p style="padding-left: 270px;"><strong>03:00 PM: Break</strong></p>
 <p style="padding-left: 330px;"><span style="font-weight: 400;">15-minute talks on proposed projects and research interests</span></p>
