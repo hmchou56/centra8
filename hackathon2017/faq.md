@@ -75,7 +75,6 @@ Our judging panel will review your presentation and hack based on:
 <ol>
     <li>Wowness and creativity of the hack</li>
     <li>Consideration paid to improving communities</li>
-    <li>Ability for the hack to become a research project</li>
     <li>Technical, artistic, organizational, etc skills requried to do the hack</li>
     <li>How well the presentation conveys the work you did</li>
 </ol>
