@@ -26,4 +26,4 @@ hide: true
 <br />
 </ul>
 
-<strong>Please complete the registration by Thursday, March 14th, 2017 (no later than the end of your day in your time zone)<strong>: <a href="https://goo.gl/yiSVrh" target="_blank">https://goo.gl/yiSVrh</a> 
+<strong>Registration has closed on the extended due day on March 27th, 2017. If you receive an invitation from Prof. Jose Fortes, please contact fortes (at) acis (dot) ufl (dot) edu to access registration:<strong>: <a href="https://goo.gl/yiSVrh" target="_blank">https://goo.gl/yiSVrh</a> 
