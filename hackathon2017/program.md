@@ -39,7 +39,7 @@ Detailed schedule:
 | Saturday | 7:00 pm | Dinner is served! |
 | Saturday | 8:00 pm | CENTRA Suite will remain open all night |
 | Saturday | 12:00 am | Midnight Snack! |
-| Saturday | 1:00 am | Using ACIS's Spark infrastructure for big data analysis |
+| Saturday | 1:00 am | Workshop - Using ACIS's Spark infrastructure for big data analysis |
 | **Sunday, April 2<sup>nd</sup>** | 9:00 am | Breakfast is served! |
 | Sunday | 11:00 am | Hacking STOPS! Final GitHub commits! |
 | Sunday | 11:00 am - 12:00 pm | Team Presentations (3 minutes max each, 2 minutes questions) |
