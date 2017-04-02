@@ -73,10 +73,10 @@ hide: true
 <h3>4:00 PM:</h3>
 <p><strong>Panel Presentations and Discussion: </strong>Smart University Towns: Challenges and Opportunities</p>
 
-<h3>5:00 PM: CENTRA Smart Cities Hackathon Winners Presentations</strong></p>
+<h3>5:00 PM: CENTRA Smart Cities Hackathon Winners Presentations</h3>
 
-<h3>5:20 PM: Closing Remarks</strong></p>
+<h3>5:20 PM: Closing Remarks</h3>
 
-<h3>6:30 PM: Dinner (Location: Thomas Center)</p>
+<h3>6:30 PM: Dinner (Location: Thomas Center)</h3>
 
 </div>
