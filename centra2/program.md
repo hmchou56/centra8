@@ -49,8 +49,8 @@ Travel Day
 
 <p><strong>Project review</strong>: "The Visualization Alliance", Jason Leigh</p>
 <p><strong>Project review</strong>: "Data Handles and Provenance", Beth Plale</p>
-<p><strong>Project review</strong>: New Directions for the Biodiversity Group, Jim Beach</p>
-<p><strong>Project review</strong>: IT for Natural Disaster Management, Jason Haga</p>
+<p><strong>Project review</strong>: "New Directions for the Biodiversity Group", Jim Beach</p>
+<p><strong>Project review</strong>: "IT for Natural Disaster Management", Jason Haga</p>
 
 <h3>12:00 PM: Lunch at UF Hilton Albert's restaurant.</h3>
 
