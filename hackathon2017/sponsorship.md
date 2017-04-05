@@ -34,6 +34,13 @@ AT&T Foundation <br/>
 
 #### Japan
 
-[National Institute of Information and Communications Technology](https://www.cecea.tw/e_index.php) (NICT)
+[National Institute of Information and Communications Technology](https://www.cecea.tw/e_index.php) (NICT) <br />
+[Nara Institute of Science and Technology](http://www.naist.jp/en/) (NAIST)
+
+#### Thailand
+[Department of Computer Science, Thammasat University](http://www.cs.tu.ac.th/)
+
+#### USA
+[CordaRoy's](https://cordaroys.com/)
 
 {% include sponsors.html %}
