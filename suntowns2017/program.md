@@ -22,10 +22,10 @@ hide: true
 
 <h3>7:30 AM: Registration and Breakfast</h3>
 
+<h3>8:15 AM: Group Photo</h3>
+
 <h3>8:30 AM: Opening Session</h3>
 <p>Welcome by José Fortes and UF President W. K. Fuchs.</p>
-
-<h3>8:40 AM: Group Photo</h3>
 
 <h3>8:45 AM:</h3>
 <p><strong>Invited Talk</strong>: NSF Initiatives in Smart and Connected Communities</p>
