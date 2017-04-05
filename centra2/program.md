@@ -28,7 +28,7 @@ Travel Day
 
 
 <br /><br />
-<h3><u>APRIL 11</u></h3>
+<h3><u>APRIL 10</u></h3>
 
 <h3>08:00 AM: Registration and Breakfast</h3>
 
