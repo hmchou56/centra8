@@ -77,6 +77,8 @@ hide: true
 
 <h3>5:20 PM: Closing Remarks</h3>
 
+<h3>6:00 PM: Departure from UF Hilton to dinner location.</h3>
+
 <h3>6:30 PM: Dinner (Location: Thomas Center)</h3>
 
 </div>
