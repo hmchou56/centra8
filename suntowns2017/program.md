@@ -18,7 +18,7 @@ hide: true
 <h1>April 12, 2017, Gainesville, Florida</h1>
 <h3 style="text-align: center">Venue: Hilton University of Florida Conference Center.</h3>
 
-<p style="text-align:center"><a href="http://www.globalcentra.org/suntowns2017/working_agenda_v01APR2017.pdf" target="_blank">Working Agenda v01Apr2017 (PDF)</a></p>
+<p style="text-align:center"><a href="http://www.globalcentra.org/suntowns2017/working_agenda_v01APR2017.pdf" target="_blank">Final Agenda v01Apr2017 (PDF)</a></p>
 
 <h3>7:30 AM: Registration and Breakfast</h3>
 
