@@ -20,7 +20,7 @@ hide: true
 <h3 style="text-align: center">All events take place at UF Hilton, except Dinner on April 12 which takes place at Thomas Center.
 Plenary sessions are held in the Century Ballroom. Breakout sessions are held in the Century Ballroom and in the following rooms: Dogwood, Live Oak and Hawthorne.</h3>
 
-<p style="text-align:center"><a href="http://www.globalcentra.org/centra2/working_agenda_v01APR17.pdf" target="_blank">Draft/Working Agenda v01Apr2017 (PDF)</a></p>
+<p style="text-align:center"><a href="http://www.globalcentra.org/centra2/working_agenda_v01APR17.pdf" target="_blank">Final Agenda v01Apr2017 (PDF)</a></p>
 
 
 <h3><u>APRIL 9</u></h3>
