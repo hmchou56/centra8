@@ -22,6 +22,7 @@ Plenary sessions are held in the Century Ballroom. Breakout sessions are held in
 
 <p style="text-align:center"><a href="http://www.globalcentra.org/centra2/working_agenda_v01APR17.pdf" target="_blank">Final Agenda v01Apr2017 (PDF)</a></p>
 
+<p style="text-align:center"><a href="http://www.globalcentra.org/program2017.pdf" target="_blank">Conference Program (PDF)</a></p>
 
 <h3><u>APRIL 9</u></h3>
 Travel Day
