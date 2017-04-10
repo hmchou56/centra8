@@ -20,7 +20,7 @@ hide: true
 
 <p style="text-align:center"><a href="http://www.globalcentra.org/suntowns2017/working_agenda_v01APR2017.pdf" target="_blank">Final Agenda v01Apr2017 (PDF)</a></p>
 
-<p style="text-align:center"><a href="http://www.globalcentra.org/program2017.pdf" target="_blank">Conference Program (PDF)</a></p>
+<p style="text-align:center"><a href="http://www.globalcentra.org/program2017.pdf" target="_blank">SUNTOWNS Program (PDF)</a></p>
 
 <h3>7:30 AM: Registration and Breakfast</h3>
 
