@@ -16,7 +16,7 @@ hide: true
 
 <h1>Smart University Towns (SUNTOWNS) Workshop</h1>
 <h1>April 12, 2017, Gainesville, Florida</h1>
-<h3 style="text-align: center">Venue: Hilton University of Florida Conference Center.</h3>
+<h3 style="text-align:center">Venue: Hilton University of Florida Conference Center.</h3>
 
 <p style="text-align:center"><a href="http://www.globalcentra.org/suntowns2017/working_agenda_v01APR2017.pdf" target="_blank">Final Agenda v01Apr2017 (PDF)</a></p>
 
@@ -28,54 +28,70 @@ hide: true
 
 <h3>8:30 AM: Opening Session</h3>
 <p>Welcome by José Fortes and UF President W. K. Fuchs.</p>
+<p><strong><a href="https://goo.gl/Rjsazu" target="_blank">On Demand Video</a></strong> (Jose Fortes) starts at 0:00:00</p>
+<p><strong><a href="https://goo.gl/Rjsazu" target="_blank">On Demand Video</a></strong> (President Kent Fuchs) starts at 0:00:50</p>
 
 <h3>8:45 AM:</h3>
 <p><strong>Invited Talk</strong>: NSF Initiatives in Smart and Connected Communities</p>
 <p><strong>Speaker:</strong> Meghan Houghton, Staff Associate in the CISE Office of the Assistant Director, National Science Foundation, and co-chair of the Network and Information Technology Research and Development (NITRD) Smart Cities and Communities Task Group, USA.</p>
+<p><strong><a href="https://goo.gl/Rjsazu" target="_blank">On Demand Video</a></strong> starts at 7:18</p>
+
 
 <h3>9:30 AM:</h3>
 <p><strong>Invited Talk</strong>: Top 10 Signs of a Smart Community</p>
 <p><strong>Speaker:</strong> Glenn Ricart, Founder and CTO of US Ignite, USA.</p>
+<p><strong><a href="https://goo.gl/Rjsazu" target="_blank">On Demand Video</a></strong> starts at 0:54:16</p>
 
 <h3>10:00 AM: Break</h3>
 
 <h3>10:30 AM:</h3>
 <p><strong>Invited Talk</strong>: Data Analytics and Embedded Systems for Understanding Cities</p>
 <p><strong>Speaker:</strong> Charlie Catlett, Senior Computer Scientist, Argonne National Laboratory and the University of Chicago, USA.</p>
+<p><strong><a href="https://goo.gl/Rjsazu" target="_blank">On Demand Video</a></strong> starts at 1:28:39</p>
 
 <h3>11:00 AM:</h3>
 <p><strong>Invited Talk:</strong> Smart University Initiative in Osaka University</p>
 <p><strong>Speaker: </strong>Shinji Shimojo, Professor and Director of Cybermedia Center, Osaka University and National Institute of Information and Communications Technology, Japan.</p>
+<p><strong><a href="https://goo.gl/Rjsazu" target="_blank">On Demand Video</a></strong> starts at 2:07:01</p>
 
 <h3>11:30 AM:</h3>
 <p><strong>Invited Talk:</strong> The Messiness of Innovation: How emerging technology infrastructure demands new types of civic order.</p>
 <p><strong>Speaker: </strong>Aaron Deacon, Founder and Managing Director of Kansas City Digital Drive, USA.</p>
+<p><strong><a href="https://goo.gl/Rjsazu" target="_blank">On Demand Video</a></strong> starts at 2:32:32</p>
 
 <h3>12:00 PM - Lunch and presentation on UF-Gainesville joint development plan</h3>
 <p><strong>Speakers:</strong> Anthony Lyons, Manager of City of Gainesville and Charlie Lane, Senior Vice President and COO of the University of Florida</p>
+<p><strong><a href="https://goo.gl/PQux3B" target="_blank">On Demand Video</a></strong> (Charlie Lane) starts at 0:01:49</p>
+<p><strong><a href="https://goo.gl/PQux3B" target="_blank">On Demand Video</a></strong> (Anthony Lyons) starts at 0:17:18</p>
 
 <h3>1:30 PM:</h3>
 <p><strong>Invited Talk:</strong> A Resiliency Based Approach to Architecting a Smart Community</p>
 <p><strong>Speaker: </strong>Matthew E. Delcambre, Director, Center for Business and Information Technology (CBIT), Informatics Research Institute, University of Louisiana at Lafayette, USA.</p>
+<p><strong><a href="https://mediasite.video.ufl.edu/Mediasite/Play/8af3644b7d4b47b689c050038e5f6c1e1d" target="_blank">On Demand Video</a></strong> starts at 0:01:36</p>
 
 <h3>2:00 PM:</h3>
 <p><strong>Invited Talk:</strong> Porto: A Living Lab for Future Smarter Cities</p>
 <p><strong>Speaker: </strong>Rui Oliveira, Associate Professor at the Informatics Department of University of Minho and Member of the Administration Board of INESC TEC, Porto, Portugal.</p>
+<p><strong><a href="https://mediasite.video.ufl.edu/Mediasite/Play/8af3644b7d4b47b689c050038e5f6c1e1d" target="_blank">On Demand Video</a></strong> starts at 0:31:26</p>
 
 <h3>2:30 PM:</h3>
 <p><strong>Invited Talk:</strong> Experiences and Opportunities of Smart and Connected Communities in Taiwan</p>
 <p><strong>Speaker: </strong>Fang-Pang Lin, National Center for High-performance Computing, National Applied Research Laboratories, Taiwan.</p>
+<p><strong><a href="https://mediasite.video.ufl.edu/Mediasite/Play/8af3644b7d4b47b689c050038e5f6c1e1d" target="_blank">On Demand Video</a></strong> starts at 0:50:39</p>
 
 <h3>3:00 PM - Break</h3>
 
 <h3>3:30 PM:</h3>
 <p><strong>Invited Talk:</strong> Developing a transportation testbed in Gainesville, Florida: From concept to implementation</p>
 <p><strong>Speaker: </strong>Lily Elefteriadou, Ph.D., Director of the UF Transportation Institute, and Professor of Civil Engineering, University of Florida, USA.</p>
+<p><strong><a href="https://mediasite.video.ufl.edu/Mediasite/Play/8af3644b7d4b47b689c050038e5f6c1e1d" target="_blank">On Demand Video</a></strong> starts at 1:22:53</p>
 
 <h3>4:00 PM:</h3>
 <p><strong>Panel Presentations and Discussion: </strong>Smart University Towns: Challenges and Opportunities</p>
+<p><strong><a href="https://mediasite.video.ufl.edu/Mediasite/Play/8af3644b7d4b47b689c050038e5f6c1e1d" target="_blank">On Demand Video</a></strong> starts at 1:47:00</p>
 
 <h3>5:00 PM: CENTRA Smart Cities Hackathon Winners Presentations</h3>
+<p><strong><a href="https://mediasite.video.ufl.edu/Mediasite/Play/8af3644b7d4b47b689c050038e5f6c1e1d" target="_blank">On Demand Video</a></strong> starts at 2:56:53</p>
 
 <h3>5:20 PM: Closing Remarks</h3>
 
