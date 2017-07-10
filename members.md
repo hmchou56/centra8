@@ -18,15 +18,16 @@ Each partner hosts workshops, supports researcher visits to other partners, host
 # Partners - Institutional Members
 
 *  [Advanced Computing and Information Systems (ACIS) Laboratory, University of Florida](http://www.acis.ufl.edu/), USA
-*  Center of Excellence for Cyber-Enablement of Applications (<a href="http://www.cecea.tw/e_index.php" target="_blank">CECEA</a>), Taiwan
-*  ASEAN International Virtual Organization (IVO), National Institute of Information and Communications Technologies (NICT), Japan
+*  ASEAN International Virtual Organization [(ASEAN IVO)](https://www.nict.go.jp/en/asean_ivo/about_asean_ivo.html), National Institute of Information and Communications Technologies (NICT), Japan
+*  Center of Excellence for Cyber-Enablement of Applications [(CECEA)](http://www.cecea.tw/e_index.php), Taiwan
+*  The Institute for Systems and Computer Engineering, Technology and Science [(INESC TEC)](https://inesctec.pt/), Portugal
 *  Pacific Rim Applications and Grid Middleware Assembly (PRAGMA)
 
 <div id="researchers"> </div>
 
 # Researchers
 
-Invited researchers who engage and advise junior researchers in CENTRA-related projects include the following:
+Member researchers who engage and advise junior researchers in CENTRA-related projects include the following:
 
 **Name**  | **Position**  | **Interests** |
 James Beach        |Assistant Director for Informatics, Biodiversity Institute, University of Kansas              |Biodiversity informatics, open-source biocollections software
@@ -38,7 +39,22 @@ Jose Fortes        |Professor, AT&T Eminent Scholar, University of Florida      
 Thomas Harmon      |Professor, University of California at Merced                                     |Environment sensors, soil, aquatic and groundwater systems
 Julio Ibarra       |Assistant Vice President for Technology Augmented Research, Florida International University     |Cyberinfrastructure, Networking, Internet Technologies
 Shantenu Jha        |Professor of Computer Engineering, Rutgers University       |High-performance distributed computing, computational science, cyberinfrastructure
+Ken-Hsuan Chang       |Researcher, National Museum of Marine Science & Technology, Taiwan    |
+Ling-huang Chang       |Professor, National Taichung University, Taiwan     |Software-defined networking, wireless sensor networks
+Yi-Chun Chang       |Researcher, National Museum of Marine Science & Technology, Taiwan    |
+Ling-Jyh Chen       |Associate Researcher, Academia Sinica, Taiwan      |
+Yen-Jong Chen       |Professor, National Cheng Kung University, Taiwan     |Urban systems, housing economics, energy application, green city
+Hsiu-Mei Chou       |Associate Researcher, National Center for High-performance Computing, Taiwan     |Large-scale scientific data management, data visualization, user experience
+Tung-Yun (Tony) Fan       |Researcher, National Museum of Marine Biology and Aquarium, Taiwan      |
+Tung-Ju Hsieh       |CECEA Lecturer and Associate Professor, National Taipei University of Technology, Taiwan     |
+Chung-I Huang       |Associate Researcher, National Center for High-performance Computing, Taiwan     |Computer vision, image processing
+Weicheng Huang      |Senior Researcher, National Center for High-performance Computing, Taiwan      |Big data
+Chih-Yu Kou       |CECEA Lecturer and Researcher, Academia Sinica, Taiwan        |
+Li-chi Ku       |Engineer, National Center for High-performance computing, Taiwan       |Software defined network
+Jen-Gaw Lee       |Associate Researcher, National Center for High-performance computing, Taiwan       |
 Jason Leigh        |Professor of Computer Science, University of Hawaii at Manoa       |Data visualization, virtual reality, collaboration technologies
+I-En (Ian) Liao       |Professor, National Chung Hsing University, Taiwan     |Data mining, XML database, big data analytics, information security
+Fang-Pang Lin       |Division Director, National Center for High-performance Computing, Taiwan      |Could computing, sensor network, disaster management, smart cities
 Jason Liu        |Associate Professor, School of Computing and Information Sciences, Florida International University |Modeling and simulation, computer networking, parallel computing, computer systems
 Tho Nguyen        |Managing Director of the Center for Automata Processing and Senior Research Program Officer, Dept. of Computer Science, University of Virgina | Cyber-physical systems, environmental sensing, resiliency, large-scale system modeling
 Katia Obraczka     |Professor, University of California at Santa Cruz                                 |Networks, distributed/operating systems, Internet, mobile systems 
