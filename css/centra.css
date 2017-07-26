@@ -15,7 +15,6 @@
 		    padding-bottom: 1px;
 		    margin-bottom: 1em;
 		    border-radius: 4px;
-		    font
 		}
 		.banner
 		{
@@ -61,11 +60,6 @@
             color:  white;
             padding: .7em;
 		}
-
-		.navbar
-		{
-		    /*padding: 5px 10px 5px 5px; */
-		}
 		.highlight-nav-link
 		{
 			background-color:#7a9806; 
@@ -90,6 +84,11 @@
 		{
 			float:left; padding: .5em 1em 1em 0;
 		}
+		.gallery-thumb{
+			padding: 15px; 
+			margin: 10px; 
+			background: #ccc;
+    	}
 
 		#sponsors img {
 			display: inline-block;
