@@ -62,7 +62,8 @@ Eiji Kawai       |Laboratory Director, National Institute of Information and Com
 Myat Thiri Khine      |Assistant Lecturuer, University of Computer Studies, Myanmar      |
 Yoshiyuki Kido       |Associate Professor, Osaka University, Japan       |Tile-Display Wall, software-defined network
 Chih-Yu Kou       |CECEA Lecturer and Researcher, Academia Sinica, Taiwan        |
-Li-Chi Ku       |Engineer, National Center for High-performance computing, Taiwan       |Software defined network
+Li-Chi Ku       |Engineer, National Center for High-performance computing, Taiwan       |Software defined network 
+Hyuk-Jae Lee       |Professor, Dept. of Electrical and Computer Engineering, Seoul National University, Seoul, Korea     |Smart sensors, high-performance computing, image processing 
 Jen-Gaw Lee       |Associate Researcher, National Center for High-performance computing, Taiwan       |
 Jason Leigh        |Professor of Computer Science, University of Hawaii at Manoa       |Data visualization, virtual reality, collaboration technologies
 I-En (Ian) Liao       |Professor, National Chung Hsing University, Taiwan     |Data mining, XML database, big data analytics, information security
@@ -75,7 +76,8 @@ Ikuo Nagawa       |Associate Professor, Osaka University, Japan     |
 Akihiro Nakao       |Professor, The University of Tokyo, Japan      |Software-defined network
 Tho Nguyen        |Managing Director of the Center for Automata Processing and Senior Research Program Officer, Dept. of Computer Science, University of Virgina |Cyber-physical systems, environmental sensing, resiliency, large-scale system modeling
 Rong-Rong (Delphia) Nien       |Research Assistant, National Center for High-performance Computing, Taiwan       |Sensor automation, GUI programming
-Katia Obraczka     |Professor, University of California at Santa Cruz      |Networks, distributed/operating systems, Internet, mobile systems 
+Katia Obraczka     |Professor, University of California at Santa Cruz      |Networks, distributed/operating systems, Internet, mobile systems
+Rui Oliveira       |Associate Professor and Director of HASLab, INESTEC, Portugal     |Distributed systems
 Hong Hoe Ong       |Senior Director, MIMOS Berhad, Malaysia     |
 Phil Papadopoulos   |Chief Technology Officer, San Diego Supercomputer Center, University of California at San Diego             |High-Performance Computing, cluster computing, middleware
 Frederick Kin Hing Phoa       |Associate Research Fellow, Academia Sinica, Taiwan       |Social network analysis, nature-inspired evolutionary algorithm, paralle computer, big data
