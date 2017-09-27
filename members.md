@@ -115,7 +115,7 @@ Saumitra Aditya      |PhD Student, University of Florida       |Networked system
 Adam Grupa       |PhD Student, The Ohio State University       |Autonomic computing, distributed computing, artificial intelligence, neural networks
 Ming Tai Ha        |PhD Student, Rutgers University        |High-performance computing, distributed computing
 Dylan Kobayashi       |PhD Student, University of Hawaii at Manoa       |SAGE2 development, data visualization, multiple tiled displays
-Srivattsan Sridharan       |PhD Student, University of Florida       |Autonomic computing, distributed computing, software-defined systems, model definition for information networks
+Srivattsan Sridharan       |PhD Student, University of Florida       |Autonomic computing, distributed computing, software-defined systems, model definition for information systems
 Kensworth Subratie        |PhD Student, University of Florida        |Virtual networks, distributed storage and resource access control
 Hsin-Hung Tseng       |Student, National Chung Hsing University, Taiwan       |HI-VISION
 Pongsakorn U-chupala       |PhD Student, NAIST, Japan       |Software-defined network, high-performance computing
