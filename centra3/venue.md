@@ -25,8 +25,8 @@ The venue is located in the center of Tokyo (Marunouchi area) and adjacent to Im
 
 The venue has direct access from Otemachi Metro Station (Exit **D6**) on the underground passage.
 
-* **From Otemachi Metro Station** (Mita Line (I09), Chiyoda Line (C18), Hanzomon Line (Z08), Tozai Line (T09) and Maruonouchi Line (M18)): only a few minutes. (Exit **D6**)
-* **From JR Tokyo Station**: approximately 10-minute walk from Marunouchi North Exit.
+<p style="padding-left: 270px;"> * <b>From Otemachi Metro Station</b> (Mita Line (I09), Chiyoda Line (C18), Hanzomon Line (Z08), Tozai Line (T09) and Maruonouchi Line (M18)): only a few minutes. (Exit <b>D6</b>)</p>
+<p style="padding-left: 270px;"> * <b>From JR Tokyo Station</b>: approximately 10-minute walk from Marunouchi North Exit.</p>
 
 <img src="/img/centra3_venue_access.png" alt="CENTRA3 venue access" style="margin-right: auto;margin-left: auto;" class="img-responsive">
 
