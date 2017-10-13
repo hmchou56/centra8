@@ -33,7 +33,7 @@ To obtain the invitation letter for Japanese visa application, please send an em
 <li>Title/Position and name of your organization</li>
 <li>Email, phone number</li>
 <li>Arrival and departure dates for your stay in Japan</li>
-<li>Postal address to receive the original invitation letter (No PO Boxes please)</li> </p>
+<li>Postal address to receive the original invitation letter (No PO Boxes please)</li>
 
 <p>
 Please be aware that the letter of invitation does not imply any financial support. Travel expenses incurred to your CENTRA 3 All-Hands Meeting are the responsibility of the participant. Please work with your funding source for financial support documentation should it be required for your Japanese visa application.
