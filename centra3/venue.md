@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 
-## CENTRA 2018 Venue
+## CENTRA 2018 Venue and Hotels
 
 ### Venue
 
