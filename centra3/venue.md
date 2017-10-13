@@ -14,6 +14,7 @@ hide: true
 CENTRA 3 All-Hands Meeting will be held at **AP Tokyo Marunouchi** ([Map and Direction](https://www.google.co.jp/maps/place/%E3%82%B3%E3%83%B3%E3%83%99%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0AP%E6%9D%B1%E4%BA%AC%E4%B8%B8%E3%81%AE%E5%86%85/@35.6844264,139.7600255,17z/data=!3m1!4b1!4m5!3m4!1s0x60188c08100a5399:0x4deb54a0081cf594!8m2!3d35.6844264!4d139.7622142?dcr=0))
 
 ### Location
+
 #### [AP Tokyo Marunouchi](https://www.tc-forum.co.jp/kanto-area/ap-marunouchi/)
 
 Address: 3rd Floor, Mihon Seimei Garden Tower, 1-1-3 Marunouchi, Chiyoda-ku Tokyo 100-0005 Japan
@@ -23,8 +24,8 @@ Phone: +81 3 5224 5109
 The venue is located in the center of Tokyo (Marunouchi area) and adjacent to Imperial Palace Gardens.
 
 The venue has direct access from Otemachi Metro Station (Exit **D6**) on the underground passage.
-* **From Otemachi Metro Station** (Mita Line (I09), Chiyoda Line (C18), Hanzomon Line (Z08), Tozai Line (T09) and Maruonouchi Line (M18)): only a few minutes. (Exit **D6**)
 
+* **From Otemachi Metro Station** (Mita Line (I09), Chiyoda Line (C18), Hanzomon Line (Z08), Tozai Line (T09) and Maruonouchi Line (M18)): only a few minutes. (Exit **D6**)
 * **From JR Tokyo Station**: approximately 10-minute walk from Marunouchi North Exit.
 
 <img src="/img/centra3_venue_access.png" alt="CENTRA3 venue access" style="margin-right: auto;margin-left: auto;" class="img-responsive">
