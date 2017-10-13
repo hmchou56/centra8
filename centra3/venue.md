@@ -13,6 +13,8 @@ hide: true
 
 CENTRA 3 All-Hands Meeting will be held at **AP Tokyo Marunouchi** ([Map and Direction](https://www.google.co.jp/maps/place/%E3%82%B3%E3%83%B3%E3%83%99%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0AP%E6%9D%B1%E4%BA%AC%E4%B8%B8%E3%81%AE%E5%86%85/@35.6844264,139.7600255,17z/data=!3m1!4b1!4m5!3m4!1s0x60188c08100a5399:0x4deb54a0081cf594!8m2!3d35.6844264!4d139.7622142?dcr=0))
 
+<img src="/img/centra3_venue_access.png" alt="CENTRA3 venue access" style="margin-right: auto;margin-left: auto;" class="img-responsive">
+
 ### Location
 #### [AP Tokyo Marunouchi](https://www.tc-forum.co.jp/kanto-area/ap-marunouchi/)
 
