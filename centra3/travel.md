@@ -21,11 +21,11 @@ Narita Airport is located about 60 kilometers east from central Tokyo and most o
 
 #### Public Transportation Options from Narita Airport 
 
-* [*JR Narita Express*](http://www.jreast.co.jp/e/nex/index.html?src=t_info): JR East’s Narita Express(NEX) has direct access from Narita Airport to Tokyo Station and other major urban stations. 
+[*JR Narita Express*](http://www.jreast.co.jp/e/nex/index.html?src=t_info): JR East’s Narita Express(NEX) has direct access from Narita Airport to Tokyo Station and other major urban stations. 
 
-* [*Keisei Line*](http://www.keisei.co.jp/keisei/tetudou/skyliner/us/index.php): Keisei Line offers several options connecting Narita Airport to central Tokyo include, Skyliner, Keisei Main Line, and Access Express. Skyliner and Keisei Main Line connect to Ueno and Access Express connect to Oshiage, Nihombashi and Higashi-Ginza. 
+[*Keisei Line*](http://www.keisei.co.jp/keisei/tetudou/skyliner/us/index.php): Keisei Line offers several options connecting Narita Airport to central Tokyo include, Skyliner, Keisei Main Line, and Access Express. Skyliner and Keisei Main Line connect to Ueno and Access Express connect to Oshiage, Nihombashi and Higashi-Ginza. 
 
-* [*Airport Limnousine Bus*](https://www.limousinebus.co.jp/en/): Airport Limousine bus can take you directly to major hotels in central Tokyo.
+[*Airport Limnousine Bus*](https://www.limousinebus.co.jp/en/): Airport Limousine bus can take you directly to major hotels in central Tokyo.
 
 <p style="padding-left: 270px;"><img src="/img/Narita Airport to venue.png" alt="Narita Airport to venue" style="margin-right: auto;margin-left: auto;" class="img-responsive"></p>
 
@@ -35,11 +35,11 @@ Haneda Airport is located closer to central Tokyo than Narita Airport. The dista
 
 #### Public Transportation Options from Haneda Airport
 
-* [Keikyu Line](http://www.haneda-tokyo-access.com/en/): Keikyu Line directly connect Haneda Airport to central Tokyo destination such as Shinagawa, Higashi-Ginza and Asakusa with little under 700 yen. 
+[*Keikyu Line*](http://www.haneda-tokyo-access.com/en/): Keikyu Line directly connect Haneda Airport to central Tokyo destination such as Shinagawa, Higashi-Ginza and Asakusa with little under 700 yen. 
 
-* [Tokyo Monorail](http://www.tokyo-monorail.co.jp/english/): Tokyo Monorail connects Haneda Airport to Hamamatsucho station in 15 to 20 minutes. Transfer to JR Yamanote Line and Oedo Subway Line at Hamamatsucyo station provide quick access to central Tokyo.
+[*Tokyo Monorail*](http://www.tokyo-monorail.co.jp/english/): Tokyo Monorail connects Haneda Airport to Hamamatsucho station in 15 to 20 minutes. Transfer to JR Yamanote Line and Oedo Subway Line at Hamamatsucyo station provide quick access to central Tokyo.
 
-* [Airport Limnousine Bus](https://www.limousinebus.co.jp/en/): Haneda Airport Limousine Bus also take you directly to major hotels in central Tokyo.
+[*Airport Limnousine Bus*](https://www.limousinebus.co.jp/en/): Haneda Airport Limousine Bus also take you directly to major hotels in central Tokyo.
 
 <p style="padding-left: 270px;"><img src="/img/Haneda Airport to venue.png" alt="Haneda Airport to venue" style="margin-right: auto;margin-left: auto;" class="img-responsive">
 </p>
