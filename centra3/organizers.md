@@ -19,5 +19,5 @@ hide: true
 ## Local Organizing Committee
 
 <p>
-Advanced Computing and Information Systems <a href="https://www.acis.ufl.edu/" target="_blank">(ACIS)</a> Laboratory, University of Florida: Matt J. Collins, Renato Figueiredo, Richard J. Garand, Grace S. Hong, Dina R. Quinn, Alex Thompson
+National Institute of Information and Communications Technology <a href="https://www.nict.go.jp/en/" target="_blank">(NICT)</a>: Kazuhiro Fujinuma, Masanori Goto, Eiji Kawai, Masako Yoshida and team. (Please note that the list of Local Organizing Committee is not yet complete.)
 </p>
