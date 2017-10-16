@@ -9,6 +9,8 @@ hide: true
 
 # Kickoff Meeting 2016 Attendees
 
+<hr class="clear-both" />
+
 <img src="/img/members/alejandroballado.jpg" class="member-image">
 <span class="member-heading">
 <strong>Alejandro H. Ballado, Jr.</strong><br>
@@ -18,6 +20,8 @@ Mapua Institute of Technology<br>
 Research Interests:</span> Wireless Systems, RF and Microwaves, IoT, Smart Sytems
 
 I am currently the Dean of the School of Electrical, Electronics, and Computer Engineering in Mapua. I have completed all the course work and working on my PhD dissertation at the De La Salle University. I have published papers in local and international publications. I have attended various training and internships in Japan, Australia, Germany, and France. I am also a registered Patent Agent in the Philippines.
+
+<hr class="clear-both" />
 
 <span class="member-heading">
 <img src="/img/members/jamesbeach.jpg" class="member-image">
@@ -30,6 +34,8 @@ Research Interests:</span> biological museum data processing, biodiversity model
 
 I originally trained as a tree breeding systems biologist and studied in a Costa Rican rainforest. In the mid-1980s, I shifted career direction to the emerging field of biodiversity informatics with an emphasis on museum collection computerization and networked data communications. Today, I guide a biodiversity software engineering group within the University of Kansas Biodiversity Institute.  We produce and support open-source 'Specify' software for computerizing biological collections (specifysoftware.org).  I also direct the Lifemapper Project which includes a high-performance computation platform and web services for species distribution and macroecological modeling, and for metacommunity phylogenetics (lifemapper.org).
 
+<hr class="clear-both" />
+
 <img src="/img/members/linhuangchang.jpg" class="member-image">
 <span class="member-heading">
 <strong>Lin-huang Chang</strong><br>
@@ -41,6 +47,8 @@ my researches are in SDN, Wireless sensor networks
 
 <p> &nbsp;</p>
 
+<hr class="clear-both" />
+
 <img src="/img/members/lingjyhchen.jpg" class="member-image">
 <span class="member-heading">
 <strong>Ling-Jyh Chen</strong><br>
@@ -51,6 +59,8 @@ Research Interests:</span> participatory urban sensing; networked sensing system
 
 Dr. Ling-Jyh Chen received the B.Ed. degree in information and computer education from National Taiwan Normal University in 1998, and the M.S. and Ph.D. degrees in computer science from University of California at Los Angeles in 2002 and 2005 respectively. He joined the Institute of Information Science of Academia Sinica as Assistant Research Fellow in 2005, and became an Associate Research Fellow in 2011. His research interests are networked sensing systems, wireless and mobile networks, mobile computing, and social computing. His current research projects are comfort measuring system (CMS) of Taipei bus systems and micro-air pollution sensing systems (MAPS).
 
+<hr class="clear-both" />
+
 <img src="/img/members/yjchen.jpg" class="member-image">
 <span class="member-heading">
 <strong>Yen-Jong Chen (陳彥仲)</strong><br>
@@ -59,6 +69,8 @@ National Cheng Kung University (成功大學), Taiwan<br>
 Research Interests:</span> Urban System, Housing Economics, Energy Application, Green City
 
 I received Ph.D. from Northwestern University, IL. USA (1993), and is the Distinguished Professor of Urban Planning in NCKU, Taiwan. I served as the department  chair of Urban Planning in NCKU (2005-2008), and also, for more than 20 years, served as the reviewer of research projects for government, MoST, and academic journals.  
+
+<hr class="clear-both" />
 
 <img src="/img/members/hsiumeichou.jpg" class="member-image">
 <span class="member-heading">
