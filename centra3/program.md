@@ -10,3 +10,6 @@ hide: true
 ## CENTRA 2018 Program
 
 More information will be added as the program develops. Please stay tuned.
+
+In the meantime, for your reference: *CENTRA 2 All Hands Meeting Overview and Full Program Book* can be viewed and download [here](http://www.globalcentra.org/centra2/program.html). 
+
