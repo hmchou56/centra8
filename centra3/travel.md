@@ -27,7 +27,7 @@ Narita Airport is located about 60 kilometers east from central Tokyo and most o
 
 [*Airport Limousine Bus*](https://www.limousinebus.co.jp/en/): Airport Limousine bus can take you directly to major hotels in central Tokyo.
 
-<p style="padding-left: 270px;"><img src="/img/Narita Airport to venue.png" alt="Narita Airport to venue" style="margin-right: auto;margin-left: auto;" class="img-responsive"></p>
+<img src="/img/Narita Airport to venue.png" alt="Narita Airport to venue" style="margin-right: auto;margin-left: auto;" class="img-responsive">
 
 #### From Haneda Airport
 
@@ -41,5 +41,5 @@ Haneda Airport is located closer to central Tokyo than Narita Airport. The dista
 
 [*Airport Limousine Bus*](https://www.limousinebus.co.jp/en/): Haneda Airport Limousine Bus also take you directly to major hotels in central Tokyo.
 
-<p style="padding-left: 270px;"><img src="/img/Haneda Airport to venue.png" alt="Haneda Airport to venue" style="margin-right: auto;margin-left: auto;" class="img-responsive">
-</p>
+<img src="/img/Haneda Airport to venue.png" alt="Haneda Airport to venue" style="margin-right: auto;margin-left: auto;" class="img-responsive">
+
