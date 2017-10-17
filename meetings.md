@@ -8,6 +8,16 @@ published: true
 
 # Meetings
 
+<img src="/img/centra3 banner small.png" alt="CENTRA 3 All-Hands" style="float:center; padding: 0 0 1em 0;" class="img-responsive">
+
+### CENTRA 3 All-Hands Meeting
+
+* Date: May 14 ~ 15, 2018 
+* Location: Tokyo, Japan 
+* [Website](http://www.globalcentra.org/centra3)  
+* Contact: centra3_sec (at) ml.nict.go.jp 
+<br /> 
+
 <img src="/img/AprilEventsBanners_all_640px.gif" alt="CENTRA PRAGMA" style="float:center; padding: 0 0 1em 0;" class="img-responsive">
 
 ### CENTRA2 All-Hands Meeting and SUNTOWNS Workshop
