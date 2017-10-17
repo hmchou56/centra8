@@ -8,9 +8,9 @@ published: true
 
 # Meetings
 
-<img src="/img/centra3 banner small.png" alt="CENTRA 3 All-Hands" style="float:center; padding: 0 0 1em 0;" class="img-responsive">
-
 ### CENTRA 3 All-Hands Meeting
+
+<img src="/img/centra3 banner small.png" alt="CENTRA 3 All-Hands" style="float:center; padding: 0 0 1em 0;" class="img-responsive">
 
 * Date: May 14 ~ 15, 2018 
 * Location: Tokyo, Japan (Venue: AP Tokyo Marunouchi)
@@ -18,8 +18,6 @@ published: true
 * Contact: centra3_sec (at) ml.nict.go.jp 
 <br /> 
 <br />
-
-<img src="/img/AprilEventsBanners_all_640px.gif" alt="CENTRA PRAGMA" style="float:center; padding: 0 0 1em 0;" class="img-responsive">
 
 ### CENTRA2 All-Hands Meeting and SUNTOWNS Workshop
 * CENTRA and SUNTOWNS <a href="http://www.globalcentra.org/hackathon2017">Hackathon</a>: April 1 ~ 2, 2017
@@ -36,6 +34,9 @@ published: true
 * Program, travel and registration information: <a href="http://www.pragma-grid.net/pragma32/" target="_blank">http://www.pragma-grid.net/pragma32/</a>
 * Contact: renato@acis.ufl.edu and gshong@acis.ufl.edu
 <br />
+<img src="/img/AprilEventsBanners_all_640px.gif" alt="CENTRA PRAGMA" style="float:center; padding: 0 0 1em 0;" class="img-responsive">
+
+
 
 ### CENTRA Kickoff 2016
 * March 30, 31 and April 1 2016 
