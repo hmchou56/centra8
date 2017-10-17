@@ -17,6 +17,7 @@ published: true
 * [Website](https://goo.gl/GJi2Bc)   
 * Contact: centra3_sec (at) ml.nict.go.jp 
 <br /> 
+<br />
 
 <img src="/img/AprilEventsBanners_all_640px.gif" alt="CENTRA PRAGMA" style="float:center; padding: 0 0 1em 0;" class="img-responsive">
 
