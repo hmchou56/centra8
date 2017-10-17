@@ -19,5 +19,5 @@ hide: true
 ## Local Organizing Committee
 
 <p>
-National Institute of Information and Communications Technology <a href="https://www.nict.go.jp/en/" target="_blank">(NICT)</a>: Kazuhiro Fujinuma, Masanori Goto, Eiji Kawai, Masako Yoshida and team. (Please note that the list of Local Organizing Committee is not yet complete.)
+National Institute of Information and Communications Technology <a href="https://www.nict.go.jp/en/" target="_blank">(NICT)</a>: Koichi Fujinuma, Masanori Goto, Eiji Kawai, Masako Yoshida and team. (Please note that the list of Local Organizing Committee is not yet complete. More information will be added as the planning develops.)
 </p>
