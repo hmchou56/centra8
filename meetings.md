@@ -8,9 +8,9 @@ published: true
 
 # Meetings
 
-### CENTRA 3 All-Hands Meeting
-
 <img src="/img/centra3 banner small.png" alt="CENTRA 3 All-Hands" style="float:center; padding: 0 0 1em 0;" class="img-responsive">
+
+### CENTRA 3 All-Hands Meeting
 
 * Date: May 14 ~ 15, 2018 
 * Location: Tokyo, Japan (Venue: AP Tokyo Marunouchi)
@@ -33,7 +33,8 @@ published: true
 * Location: Gainesville, Florida (Venue: UF Hilton Conference Center)
 * Program, travel and registration information: <a href="http://www.pragma-grid.net/pragma32/" target="_blank">http://www.pragma-grid.net/pragma32/</a>
 * Contact: renato@acis.ufl.edu and gshong@acis.ufl.edu
-<br />
+
+
 <img src="/img/AprilEventsBanners_all_640px.gif" alt="CENTRA PRAGMA" style="float:center; padding: 0 0 1em 0;" class="img-responsive">
 
 
