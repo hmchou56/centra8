@@ -13,8 +13,8 @@ published: true
 ### CENTRA 3 All-Hands Meeting
 
 * Date: May 14 ~ 15, 2018 
-* Location: Tokyo, Japan 
-* [Website](http://www.globalcentra.org/centra3)  
+* Location: Tokyo, Japan (Venue: AP Tokyo Marunouchi)
+* [Website](https://goo.gl/GJi2Bc)   
 * Contact: centra3_sec (at) ml.nict.go.jp 
 <br /> 
 
