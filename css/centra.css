@@ -101,6 +101,5 @@
 		}
 table {
 	table-layout: auto;
-	overflow-x: visible;
+	overflow-x: visible !important;
 }
-
