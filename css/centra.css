@@ -100,5 +100,7 @@
 			clear: both;
 		}
 table {
-    table-layout: auto;
+	table-layout: auto;
+	overflow-x: visible;
 }
+
