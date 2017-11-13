@@ -99,3 +99,6 @@
 		.clear-both {
 			clear: both;
 		}
+table {
+    table-layout: auto;
+}
