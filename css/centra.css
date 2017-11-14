@@ -99,7 +99,17 @@
 		.clear-both {
 			clear: both;
 		}
+
 table {
-	table-layout: auto;
-	overflow-x: visible !important;
+  table-layout:auto;
+  @media (max-width: 1100px) {
+    overflow-x: visible;
+  }
+}
+
+td,
+th {
+  @media (max-width: 1100px) {
+    min-width: 200px;
+  }
 }
