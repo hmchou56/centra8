@@ -1,0 +1,67 @@
+---
+layout: page
+title: Spring 2018 Webinars
+permalink: /spring2018webinars/
+"feature-img": img/header-nologo.jpg
+published: true
+---
+
+[This page is under construction. Webinar times and dates are still subject to change until further confirmation with presenters in Decmeber 2017.]
+
+## Spring 2018 Global CENTRA Webinar Series
+
+Global CENTRA invites you to attend the following webinars to learn about ongoing and proposed CENTRA collaborative research. The purpose of these webinars is also to engage international researchers in transnational collaborations. Webinar presentations will include descriptions of specific areas or questions where collaborations are desirable and attendees will have the opportunity to follow up with presenters on their interest in engaging in such collaborations. On this page you will find information about the webinar times, dates, speakers and registrations pages that link to the abstract of each presentation:
+
+
+**2018/01/09 @18:00 US EST**  
+**Development and Opportunities in the New Digital Society**  
+By Dr. Shuo-Yan Chou, Center for Internet of Things Innovation, National Taiwan University of Science and Technology, Taiwan   
+[Register here for this webinar](https://goo.gl/A1SHp8) 
+  
+**2018/01/16 @18:00 US EST**  
+**PRAGMA-ENT: An International SDN testbed for cyberinfrastructure in the Pacific Rim**  
+By Dr. Kohei Ichikawa, Nara Institute of Science and Technology, Japan  
+[Register here for this webinar](https://goo.gl/F5tXre)  
+   
+**2018/01/24 @18:00 US EST**  
+**Edge Computing for Autonomous Systems**  
+By Dr. Christopher Stewart, The Ohio State University, USA  
+[Register here for this webinar](https://goo.gl/7UXfMF)  
+  
+**2018/02/07 @18:00 US EST**  
+**Implementation of a Transnational Testbed with Layer 3 SDX**  
+By Dr. Te-Lung Liu, National Center for High-performance Computing, Taiwan  
+[Register here for this webinar](https://goo.gl/hrksLr)  
+  
+**2018/02/13 @18:00 US EST**  
+**Dynamic Information Flow for IoT in Hardware**  
+By Dr. Daniela Oliveira, University of Florida, USA  
+[Register here for this webinar](https://goo.gl/nvi61N)  
+  
+**2018/02/28 @18:00 US EST**  
+**Beyond Databases: Rethinking New Approaches to Virtual Collaboration and Data-sharing**  
+[Register here for this webinar](https://goo.gl/UUD1gn)  
+  
+**2018/03/13 @18:00 US EST**  
+**Effective Use of Image Sensors for Autonomous Vehicle Control**  
+By Dr. Hyuk-Jae Lee, Seoul National University, South Korea  
+[Register here for this webinar](https://goo.gl/MuADia)  
+  
+**2018/03/28 @18:00 US EST**  
+**SafeFS: Secure Software-Defined Storage**  
+By Dr. João Paulo, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal  
+[Register here for this webinar](https://goo.gl/zWR9g7)  
+  
+**2018/04/10 @18:00 US EST**  
+SafeDB: Secure Database Processing  
+By Dr. Francisco Maia, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal  
+[Register here for this webinar](https://goo.gl/kM68SF)  
+  
+**2018/04/25 @18:00 US EST**  
+**Analyzing Online Social Interactions for Cyber Security, Framing, and Network Interference**  
+By Dr. Shyhtsun Felix Wu, University of California at Davis, USA  
+[Register here for this webinar](https://goo.gl/5D5XuX)  
+  
+  
+Inquiries: CENTRA Program Coordinator Grace S Hong (gshong at acis.ufl.edu) 
+
