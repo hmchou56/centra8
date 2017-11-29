@@ -43,22 +43,24 @@ By Dr. Daniela Oliveira, University of Florida, USA
 By Dr. Tho Nguyen, University of Virginia, USA
 [Register here for this webinar](https://goo.gl/UUD1gn)  
   
-**2018/03/13 @18:00 US EST**  
+**2018/03/13 @18:00 US EDT**  
 **Effective Use of Image Sensors for Autonomous Vehicle Control**  
 By Dr. Hyuk-Jae Lee, Seoul National University, South Korea  
 [Register here for this webinar](https://goo.gl/MuADia)  
   
-**2018/03/28 @18:00 US EST**  
+**2018/03/28 @18:00 US EDT**  
+*03/28 at 1200 noon Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
+*03/29 at 0500 Indomesia/Myanmar/Thailand/Vietnam | 0600 Taiwan/Malaysia/The Philippines | 0700 Japan/S. Korea*  
 **SafeFS: Secure Software-Defined Storage**  
 By Dr. João Paulo, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal  
 [Register here for this webinar](https://goo.gl/zWR9g7)  
   
-**2018/04/10 @18:00 US EST**  
+**2018/04/10 @18:00 US EDT**  
 SafeDB: Secure Database Processing  
 By Dr. Francisco Maia, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal  
 [Register here for this webinar](https://goo.gl/kM68SF)  
   
-**2018/04/25 @18:00 US EST**  
+**2018/04/25 @18:00 US EDT**  
 **Analyzing Online Social Interactions for Cyber Security, Framing, and Network Interference**  
 By Dr. Shyhtsun Felix Wu, University of California at Davis, USA  
 [Register here for this webinar](https://goo.gl/5D5XuX)  
