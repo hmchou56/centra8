@@ -6,7 +6,7 @@ permalink: /spring2018webinars/
 published: true
 ---
 
-[This page is under construction. Webinar times and dates are still subject to change until further confirmation with presenters in Decmeber 2017.]
+[This page is under construction. Webinar times and dates are still subject to change until further confirmation with presenters in December 2017.]
 
 ## Spring 2018 Global CENTRA Webinar Series
 
@@ -39,7 +39,8 @@ By Dr. Daniela Oliveira, University of Florida, USA
 [Register here for this webinar](https://goo.gl/nvi61N)  
   
 **2018/02/28 @18:00 US EST**  
-**Beyond Databases: Rethinking New Approaches to Virtual Collaboration and Data-sharing**  
+**Beyond Databases: Rethinking New Approaches to Virtual Collaboration and Data-sharing** 
+By Dr. Tho Nguyen, University of Virginia, USA
 [Register here for this webinar](https://goo.gl/UUD1gn)  
   
 **2018/03/13 @18:00 US EST**  
