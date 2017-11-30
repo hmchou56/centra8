@@ -51,7 +51,7 @@ By Dr. Daniela Oliveira, University of Florida, USA
 **2018/02/28 @18:00 US EST**  
 **Beyond Databases: Rethinking New Approaches to Virtual Collaboration and Data-sharing**  
 *02/28 at 1300 Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
-*02/29 at 0600 Indonesia/Myanmar/Thailand/Vietnam | 0700 Taiwan/Malaysia/The Philippines | 0800 Japan/S. Korea*
+*02/29 at 0600 Indonesia/Myanmar/Thailand/Vietnam | 0700 Taiwan/Malaysia/The Philippines | 0800 Japan/S. Korea*  
 By Dr. Tho Nguyen, University of Virginia, USA
 [Register here for this webinar](https://goo.gl/UUD1gn)  
   
