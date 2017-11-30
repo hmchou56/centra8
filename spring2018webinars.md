@@ -14,9 +14,11 @@ Global CENTRA invites you to attend the following webinars to learn about ongoin
 
 
 **2018/01/09 @18:00 US EST**  
+*01/09 at 1200 noon Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
+*01/10 at 0600 Indonesia/Myanmar/Thailand/Vietnam | 0700 Taiwan/Malaysia/The Philippines | 0800 Japan/S. Korea*  
 **Development and Opportunities in the New Digital Society**  
 By Dr. Shuo-Yan Chou, Center for Internet of Things Innovation, National Taiwan University of Science and Technology, Taiwan   
-[Register here for this webinar](https://goo.gl/A1SHp8) 
+[View abstract and register here for this webinar](https://goo.gl/A1SHp8) 
   
 **2018/01/16 @18:00 US EST**  
 **PRAGMA-ENT: An International SDN testbed for cyberinfrastructure in the Pacific Rim**  
@@ -50,7 +52,7 @@ By Dr. Hyuk-Jae Lee, Seoul National University, South Korea
   
 **2018/03/28 @18:00 US EDT**  
 *03/28 at 1200 noon Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
-*03/29 at 0500 Indomesia/Myanmar/Thailand/Vietnam | 0600 Taiwan/Malaysia/The Philippines | 0700 Japan/S. Korea*  
+*03/29 at 0500 Indonesia/Myanmar/Thailand/Vietnam | 0600 Taiwan/Malaysia/The Philippines | 0700 Japan/S. Korea*  
 **SafeFS: Secure Software-Defined Storage**  
 By Dr. João Paulo, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal  
 [Register here for this webinar](https://goo.gl/zWR9g7)  
