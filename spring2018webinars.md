@@ -55,7 +55,7 @@ By Dr. Daniela Oliveira, University of Florida, USA
 By Dr. Tho Nguyen, University of Virginia, USA
 [Register here for this webinar](https://goo.gl/UUD1gn)  
   
-**2018/03/13 @19:00 US EDT**  
+**2018/03/13 <span class="underline">@19:00</span> US EDT**  
 *03/13 at 1300 Hawaii | 1600 US Pacific | 1700 US Mountain | 2300 Portugal*  
 *03/14 at 0600 Indonesia/Myanmar/Thailand/Vietnam | 0700 Taiwan/Malaysia/The Philippines | 0800 Japan/S. Korea*  
 **Effective Use of Image Sensors for Autonomous Vehicle Control**  
@@ -81,4 +81,3 @@ By Dr. Shyhtsun Felix Wu, University of California at Davis, USA
   
   
 Inquiries: CENTRA Program Coordinator Grace S Hong (gshong at acis.ufl.edu) 
-
