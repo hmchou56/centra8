@@ -99,3 +99,6 @@
 		.clear-both {
 			clear: both;
 		}
+		.underline {
+			text-decoration: underline;
+		}
