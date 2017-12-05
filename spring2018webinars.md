@@ -62,14 +62,14 @@ By Dr. Tho Nguyen, University of Virginia, USA
 By Dr. Hyuk-Jae Lee, Seoul National University, South Korea  
 [View abstract and register here for this webinar](https://goo.gl/MuADia)  
   
-**2018/03/28 @18:00 US EDT**  (or 10:00 EDT, to be confirmed)  
+**2018/03/28 @18:00 US EDT**    
 *03/28 at 1200 noon Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
 *03/29 at 0500 Indonesia/Thailand/Vietnam | 0600 Taiwan/Malaysia/The Philippines | 0700 Japan/S. Korea*  
 **SafeFS: Secure Software-Defined Storage**  
 By Dr. João Paulo, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal  
 [View abstract and register here for this webinar](https://goo.gl/zWR9g7)  
   
-**2018/04/10 @18:00 US EDT**  (or 10:00 EDT, to be confirmed)  
+**2018/04/10 @18:00 US EDT**   
 *04/10 at 1200 noon Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
 *04/11 at 0500 Indonesia/Thailand/Vietnam | 0600 Taiwan/Malaysia/The Philippines | 0700 Japan/S. Korea*  
 **SafeDB: Secure Database Processing**  
