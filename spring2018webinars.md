@@ -6,7 +6,7 @@ permalink: /spring2018webinars/
 published: true
 ---
 
-[Webinar times and dates are still subject to change. Registration opening date will be announced here in early December 2017] 
+[Webinar times and dates might be subject to change. Registration for each webinar is available now. Please add no-reply@zoom.us to your safe list so you will not miss registration confirmation and webinar time/link notification emails.] 
 
 ## Spring 2018 Global CENTRA Webinar Series
 
