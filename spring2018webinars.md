@@ -69,7 +69,7 @@ By Dr. Hyuk-Jae Lee, Seoul National University, South Korea
 By Dr. João Paulo, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal  
 [View abstract and register here for this webinar](https://goo.gl/zWR9g7)  
   
-**2018/04/10 @18:00 US EDT**   
+**2018/04/10 <span class="underline">@10:00</span> US EDT**   
 *04/10 at 0400 Hawaii | 0700 US Pacific | 0800 US Mountain | 1500 Portugal*  
 *04/10 at 2000 Indonesia/Thailand/Vietnam | 2100 Taiwan/Malaysia/The Philippines | 2200 Japan/S. Korea*  
 **SafeDB: Secure Database Processing**  
