@@ -16,11 +16,8 @@ The related middleware research seeks solutions for software-defined data sharin
 
 # Working Groups and Projects
 
-* Smart Cities and Connected Communities
-* Biodiversity and Environmental Informatics with Museum as knowledge centers
-* Disaster Management Working Group: JARViS (Jumbo Aseemblage for Related Visualizations in Science)
-* Federated Testbeds
-<br />
+Click [here](/projects.html) to know about projects and working groups. 
+
 
 # Testbeds and Resources
 
