@@ -6,7 +6,7 @@ permalink: /meetings/
 published: true
 ---
 
-# Meetings
+# Upcoming Events
 
 <img src="/img/centra3 banner small.png" alt="CENTRA 3 All-Hands" style="float:center; padding: 0 0 1em 0;" class="img-responsive">
 
@@ -19,22 +19,24 @@ published: true
 <br /> 
 <br />
 
-### CENTRA2 All-Hands Meeting and SUNTOWNS Workshop
-* CENTRA and SUNTOWNS <a href="http://www.globalcentra.org/hackathon2017">Hackathon</a>: April 1 ~ 2, 2017
-* <a href="http://www.globalcentra.org/centra2/">CENTRA 2 All-Hands Meeting</a>: April 10 ~ 12, 2017
-* <a href="http://www.globalcentra.org/suntowns2017/">SUNTOWNS (Smart UNIversity TOWNS) Workshop</a>: April 12, 2017
-* Location: Gainesville, Florida (Venue: UF Hilton Conference Center)
-* <a href="https://acislab.wufoo.com/forms/centra2-suntowns-pragma32-registration/" target="_blank">Registration</a>: now open until March 14, 2017 @12pm noon US EST
-* Contact: centra@acis.ufl.edu 
+# Past Meetings  
+  
+### CENTRA2 All-Hands Meeting and SUNTOWNS Workshop  
+* CENTRA and SUNTOWNS <a href="http://www.globalcentra.org/hackathon2017">Smart Cities Hackathon</a>: April 1 ~ 2, 2017
+* [CENTRA 2 All-Hands Meeting and Presentations](http://www.globalcentra.org/centra2/): April 10 ~ 12, 2017  
+* [SUNTOWNS (Smart UNIversity TOWNS) Workshop and video recordings of presentations](http://www.globalcentra.org/suntowns2017/program.html): April 12, 2017  
+* Location: Gainesville, Florida (Venue: UF Hilton Conference Center)  
+
+
 <br />
 
 ### PRAGMA32 Workshop 
 * PRAGMA 32: April 12 ~ 14, 2017 with an optional cultural learning day on April 15, 2017 
 * Location: Gainesville, Florida (Venue: UF Hilton Conference Center)
-* Program, travel and registration information: <a href="http://www.pragma-grid.net/pragma32/" target="_blank">http://www.pragma-grid.net/pragma32/</a>
-* Contact: renato@acis.ufl.edu and gshong@acis.ufl.edu
+* [Full Program and Presentations](http://www.pragma-grid.net/meetings/pragma-32/)   
+* Website: <a href="http://www.pragma-grid.net/pragma32/" target="_blank">http://www.pragma-grid.net/pragma32/</a>  
 
-
+  
 <img src="/img/AprilEventsBanners_all_640px.gif" alt="CENTRA PRAGMA" style="float:center; padding: 0 0 1em 0;" class="img-responsive">
 
 
