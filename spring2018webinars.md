@@ -34,9 +34,9 @@ By Dr. Kohei Ichikawa, Nara Institute of Science and Technology, Japan
 By Dr. Christopher Stewart, The Ohio State University, USA  
 [View abstract and register here for this webinar](https://goo.gl/7UXfMF)  
   
-**2018/02/06 @18:00 US EST**  
-*02/06 at 1300 Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
-*02/07 at 0600 Indonesia/Thailand/Vietnam | 0700 Taiwan/Malaysia/The Philippines | 0800 Japan/S. Korea*  
+**2018/02/07 @08:00 US EST**  
+*02/07 at 0300 Hawaii | 0500 US Pacific | 0600 US Mountain | 1300 Portugal*  
+*02/07 at 2000 Indonesia/Thailand/Vietnam | 2100 Taiwan/Malaysia/The Philippines | 2200 Japan/S. Korea*  
 **Implementation of a Transnational Testbed with Layer 3 SDX**  
 By Dr. Te-Lung Liu, National Center for High-performance Computing, Taiwan  
 [View abstract and register here for this webinar](https://goo.gl/hrksLr)  
