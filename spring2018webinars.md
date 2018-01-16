@@ -30,7 +30,7 @@ By Dr. Shuo-Yan Chou, Center for Internet of Things Innovation, National Taiwan 
 By Dr. Kohei Ichikawa, Nara Institute of Science and Technology, Japan  
 [View abstract and register here for this webinar](https://goo.gl/F5tXre)  
    
-**2018/01/24 @08:00 US EST** (start time may be subject to change, as of 2018/01/08) 
+**2018/01/24 @08:00 US EST**
 *01/24 at 0300 Hawaii | 0500 US Pacific | 0600 US Mountain | 1300 Portugal*  
 *01/24 at 2000 Indonesia/Thailand/Vietnam | 2100 Taiwan/Malaysia/The Philippines | 2200 Japan/S. Korea*  
 **Edge Computing for Autonomous Systems**  
