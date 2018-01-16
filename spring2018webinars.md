@@ -6,8 +6,11 @@ permalink: /spring2018webinars/
 published: true
 ---
 
-[Webinar times and dates might be subject to change. Registration for each webinar is available now. Please add no-reply@zoom.us to your safe list so you will not miss registration confirmation and webinar time/link notification emails.] 
+[Webinar times and dates might be subject to change. Registration for each webinar is available now. Please add no-reply@zoom.us to your safe list so you will not miss registration confirmation and webinar time/link notification emails.]   
 
+### *2016-2017 webinars recordings are available for viewing on [CENTRA's Vimeo Channel](www.vimeo.com/globalcentra)* 
+  
+   
 ## Spring 2018 Global CENTRA Webinar Series
 
 Global CENTRA invites you to attend the following webinars to learn about ongoing and proposed CENTRA collaborative research. The purpose of these webinars is also to engage international researchers in transnational collaborations. Webinar presentations will include descriptions of specific areas or questions where collaborations are desirable and attendees will have the opportunity to follow up with presenters on their interest in engaging in such collaborations. On this page you will find information about the webinar times, dates, speakers and registrations pages that link to the abstract of each presentation:
@@ -18,7 +21,7 @@ Global CENTRA invites you to attend the following webinars to learn about ongoin
 *01/10 at 0600 Indonesia/Thailand/Vietnam | 0700 Taiwan/Malaysia/The Philippines | 0800 Japan/S. Korea*  
 **Development and Opportunities in the New Digital Society**  
 By Dr. Shuo-Yan Chou, Center for Internet of Things Innovation, National Taiwan University of Science and Technology, Taiwan   
-[View abstract and register here for this webinar](https://goo.gl/A1SHp8) 
+[Webinar Recording on Vimeo](https://goo.gl/S29GAW)    
   
 **2018/01/16 @18:00 US EST**  
 *01/16 at 1300 Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
