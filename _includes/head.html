@@ -1,4 +1,5 @@
 <head>
+
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -6,9 +7,12 @@
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.centra.description }}{% endif %}">
 
 	<meta http-equiv="X-Frame-Options" content="SAMEORIGIN">
-	<meta http-equiv="Content-Security-Policy" content="style-src 'self' 'unsafe-inline' https://maxcdn.bootstrapcdn.com http://ajax.googleapis.com https://fonts.googleapis.com https://oss.maxcdn.com http://www.google-analytics.com; child-src 'unsafe-inline' https://www.google.com/maps/; object-src 'none'">
+	<!-- <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' http://www.google.com"> -->
+
+	<meta http-equiv="Content-Security-Policy" content="style-src 'self' 'unsafe-inline' https://maxcdn.bootstrapcdn.com http://www.google.com http://ajax.googleapis.com https://fonts.googleapis.com https://oss.maxcdn.com http://www.google-analytics.com; child-src 'unsafe-inline' https://www.google.com/maps/ https://player.vimeo.com/video/; object-src 'none'">
 	<meta http-equiv="X-Xss-Protection" content="1; mode=block">
 	<meta http-equiv="X-Content-Type-Options" content="nosniff">
+
 
     <!-- Bootstrap core CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
