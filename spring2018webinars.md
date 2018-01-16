@@ -51,7 +51,7 @@ By Dr. Te-Lung Liu, National Center for High-performance Computing, Taiwan
 By Dr. Daniela Oliveira, University of Florida, USA  
 [View abstract and register here for this webinar](https://goo.gl/nvi61N)  
   
-**2018/02/28 @18:00 US EST**  (the webinar hour is subject to change- TBC)
+**2018/02/28 @18:00 US EST**  (the webinar hour is subject to change- TBC)  
 **Beyond Databases: Rethinking New Approaches to Virtual Collaboration and Data-sharing**  
 *02/28 at 1300 Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
 *03/01 at 0600 Indonesia/Thailand/Vietnam | 0700 Taiwan/Malaysia/The Philippines | 0800 Japan/S. Korea*  
