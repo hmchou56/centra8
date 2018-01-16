@@ -5,15 +5,15 @@ permalink: /spring2018webinars/
 "feature-img": img/header-nologo.jpg
 published: true
 ---
-
-[Webinar times and dates might be subject to change. Registration for each webinar is available now. Please add no-reply@zoom.us to your safe list so you will not miss registration confirmation and webinar time/link notification emails.]   
-
-### *2016-2017 webinars recordings are available for viewing on [CENTRA's Vimeo Channel](www.vimeo.com/globalcentra)* 
   
+<p align="center">
+2016-2018 webinars recordings are available for viewing on <a href="https://goo.gl/nUjf6F" target="_blank">CENTRA's Vimeo channel</a> 
+</p>
+<br>   
    
 ## Spring 2018 Global CENTRA Webinar Series
 
-Global CENTRA invites you to attend the following webinars to learn about ongoing and proposed CENTRA collaborative research. The purpose of these webinars is also to engage international researchers in transnational collaborations. Webinar presentations will include descriptions of specific areas or questions where collaborations are desirable and attendees will have the opportunity to follow up with presenters on their interest in engaging in such collaborations. On this page you will find information about the webinar times, dates, speakers and registrations pages that link to the abstract of each presentation:
+Global CENTRA invites you to attend the following webinars to learn about ongoing and proposed CENTRA collaborative research. The purpose of these webinars is also to engage international researchers in transnational collaborations. Webinar presentations will include descriptions of specific areas or questions where collaborations are desirable and attendees will have the opportunity to follow up with presenters on their interest in engaging in such collaborations. On this page you will find information about the webinar times, dates, speakers and registrations pages that link to the abstract of each presentation *(webinar times and dates might be subject to change)* :
 
 
 **2018/01/09 @18:00 US EST**  
