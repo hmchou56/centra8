@@ -20,17 +20,17 @@ Global CENTRA invites you to attend the following webinars to learn about ongoin
 *01/09 at 1300 Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
 *01/10 at 0600 Indonesia/Thailand/Vietnam | 0700 Taiwan/Malaysia/The Philippines | 0800 Japan/S. Korea*  
 **Development and Opportunities in the New Digital Society**  
-By Dr. Shuo-Yan Chou, Center for Internet of Things Innovation, National Taiwan University of Science and Technology, Taiwan   
-[Webinar Recording on Vimeo](https://goo.gl/S29GAW)    
-  
+By Dr. Shuo-Yan Chou, Center for Internet of Things Innovation, National Taiwan University of Science and Technology, Taiwan  
+[Webinar Recording on Vimeo](https://goo.gl/S29GAW)  |  [Abstract and Registration](https://goo.gl/A1SHp8)    
+   
 **2018/01/16 @18:00 US EST**  
 *01/16 at 1300 Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
 *01/17 at 0600 Indonesia/Thailand/Vietnam | 0700 Taiwan/Malaysia/The Philippines | 0800 Japan/S. Korea*  
 **PRAGMA-ENT: An International SDN testbed for cyberinfrastructure in the Pacific Rim**  
 By Dr. Kohei Ichikawa, Nara Institute of Science and Technology, Japan  
-[View abstract and register here for this webinar](https://goo.gl/F5tXre)  
-   
-**2018/01/24 @08:00 US EST**
+[Webinar Recording on Vimeo](https://goo.gl/7EhEzX)  |  [Abstract and Registration](https://goo.gl/F5tXre)   
+    
+**2018/01/24 @08:00 US EST**  
 *01/24 at 0300 Hawaii | 0500 US Pacific | 0600 US Mountain | 1300 Portugal*  
 *01/24 at 2000 Indonesia/Thailand/Vietnam | 2100 Taiwan/Malaysia/The Philippines | 2200 Japan/S. Korea*  
 **Edge Computing for Autonomous Systems**  
@@ -79,7 +79,7 @@ By Dr. João Paulo, Institute for Systems and Computer Engineering, Technology a
 By Dr. Francisco Maia, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal  
 [View abstract and register here for this webinar](https://goo.gl/kM68SF)  
   
-**2018/04/25 @18:00 US EDT**  
+**2018/04/25 @18:00 US EDT**  (the webinar hour is subject to change- TBC)  
 *04/25 at 1200 noon Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
 *04/26 at 0500 Indonesia/Thailand/Vietnam | 0600 Taiwan/Malaysia/The Philippines | 0700 Japan/S. Korea*  
 **Analyzing Online Social Interactions for Cyber Security, Framing, and Network Interference**  
@@ -87,4 +87,4 @@ By Dr. Shyhtsun Felix Wu, University of California at Davis, USA
 [View abstract and register here for this webinar](https://goo.gl/5D5XuX)  
   
   
-Inquiries: CENTRA Program Coordinator Grace S Hong (gshong at acis.ufl.edu) 
+Inquiries: CENTRA Program Coordinator Grace S Hong (gshong at acis.ufl.edu)  
