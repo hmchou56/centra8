@@ -35,7 +35,7 @@ By Dr. Kohei Ichikawa, Nara Institute of Science and Technology, Japan
 *01/24 at 2000 Indonesia/Thailand/Vietnam | 2100 Taiwan/Malaysia/The Philippines | 2200 Japan/S. Korea*  
 **Edge Computing for Autonomous Systems**  
 By Dr. Christopher Stewart, The Ohio State University, USA  
-[View abstract and register here for this webinar](https://goo.gl/7UXfMF)  
+[Webinar Recording on Vimeo](https://vimeo.com/globalcentra/edgecomputing)  |  [Abstract and Speaker Bio](https://goo.gl/7UXfMF)  
   
 **2018/02/07 @08:00 US EST**  
 *02/07 at 0300 Hawaii | 0500 US Pacific | 0600 US Mountain | 1300 Portugal*  
@@ -79,9 +79,9 @@ By Dr. João Paulo, Institute for Systems and Computer Engineering, Technology a
 By Dr. Francisco Maia, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal  
 [View abstract and register here for this webinar](https://goo.gl/kM68SF)  
   
-**2018/04/25 @18:00 US EDT**  (the webinar hour is subject to change- TBC)  
-*04/25 at 1200 noon Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
-*04/26 at 0500 Indonesia/Thailand/Vietnam | 0600 Taiwan/Malaysia/The Philippines | 0700 Japan/S. Korea*  
+**2018/04/25 <span class="underline">@21:00</span> US EDT**    
+*04/25 at 100 Hawaii | 1800 US Pacific | 1900 US Mountain | *04/26 at 0200 Portugal  
+*04/26 at 0800 Indonesia/Thailand/Vietnam | 0900 Taiwan/Malaysia/The Philippines | 1000 Japan/S. Korea*  
 **Analyzing Online Social Interactions for Cyber Security, Framing, and Network Interference**  
 By Dr. Shyhtsun Felix Wu, University of California at Davis, USA  
 [View abstract and register here for this webinar](https://goo.gl/5D5XuX)  
