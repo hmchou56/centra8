@@ -14,7 +14,7 @@ It is with great pleasure that we welcome CENTRA members, friends and visitors t
 </p>
 
 <p>
-The CENTRA 3 All-Hands meeting follows the PRAGMA 34 Workshop held at Akihabara, Tokyo from May 10 through 11.  The PRAGMA 34 technical program and social activities in the intervening weekend also provide CENTRA attendees with additional opportunities for professional interactions and networking. 
+The CENTRA 3 All-Hands Meeting on May 14 through 16, follows the PRAGMA 34 Workshop held at Akihabara, Tokyo from May 10 through 11.  The PRAGMA 34 technical program and social activities in the intervening weekend also provide CENTRA attendees with additional opportunities for professional interactions and networking. 
 </p>
 
 <p>
