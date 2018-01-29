@@ -2,7 +2,7 @@
 layout: centrameeting3
 title: CENTRA 2017
 permalink: /centra3/news.html
-"feature-img": img/centra3-banner.jpg
+"feature-img": img/centra3.png
 published: true
 hide: true
 ---

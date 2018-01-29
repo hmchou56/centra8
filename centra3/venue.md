@@ -2,7 +2,7 @@
 layout: centrameeting3
 title: CENTRA 2018
 permalink: /centra3/venue.html
-"feature-img": img/centra3-banner.jpg
+"feature-img": img/centra3.png
 published: true
 hide: true
 ---
