@@ -83,7 +83,7 @@ Frederick Kin Hing Phoa       |Associate Research Fellow, Academia Sinica, Taiwa
 Beth Plale          |Professor, School of Informatics and Computing, Indiana University                            |Data science and systems
 Calton Pu     |Professor, John Imlay Jr. Chair in Software, College of Computing, Georgia Tech       |Distributed systems, Internet, data management, disaster management
 Glenn Ricart        |Founder and CTO, US Ignite         |Smart cities, networking and security
-Myint Myint Sein       |Assistant Professor, University of Computer Studies, Myanmar       |
+Myint Myint Sein       |Assistant Professor, University of Computer Studies, Myanmar       |GIS, Image Processing, Optical Character Recognition, 3D reconstruction 
 Steven Shiau       |Researcher, National Center for High-performance Computing, Taiwan       |Parallel processing, open source development, cloud and big data
 Ce-Kuen Shieh       |Director, National Center for High-performance Computing, Taiwan        |Distributed and parallel processing, internet and wireless communication, micro-computer system, operation system
 Shinji Shimojo       |NICT and Osaka University, Japan       |IoT, software-defined system, commons, smart cities
