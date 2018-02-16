@@ -8,33 +8,12 @@ hide: true
 ---
 
 ## CENTRA 2018 Visa Information
+  
+If you need to obtain a Japanese visa, please contact the secretariat at visa_pc_sec@ml.nict.go.jp as soon as possible. The secretariat will provide the necessary documents for your visa application.  
 
-### Visa Exemption
+If you are not sure, please click here to check whether nationals of your country are required to obtain a visa to enter Japan. Nationals and citizens of those countries and regions shown in the list are not required to obtain visas to enter Japan when their periods of stay are short-term and visits are for tourism, commerce, conferences, visiting relatives/ acquaintances, etc.  
 
-As of July 2017, Japan has taken measures concerning the Visa Exemption Arrangements with 68 countries and regions as shown in <a href="http://www.mofa.go.jp/j_info/visit/visa/short/novisa.html" target="_blank">the List of Countries and Regions for Visa Exemption</a>.
+Please note that it may take more than a month for visa issuance. The time required between visa application and issuance varies by country. We therefore suggest that you contact the Consular Section of the Embassy or Consulate General of Japan [http://www.mofa.go.jp/about/emb_cons/mofaserv.html](http://www.mofa.go.jp/about/emb_cons/mofaserv.html) nearest to you for more information and advice, and apply for visa well in advance.  
 
-Participants of these countries and regions shown on the list are not required to obtain visas to enter Japan when their visits are tourism, commerce, and conferences.
+Please be aware that providing necessary documents for your visa application do not imply any financial support. Travel expenses incurred to your participation in the PRAGMA / CENTRA Japan Meeting 2018 are the responsibility of the participant himself/herself. Please work with your funding source for financial support documentation should it be required for your Japanese visa application.  
 
-For more details, please see <a href="http://www.mofa.go.jp/j_info/visit/visa/index.html" target="_blank">the Ministry of Foreign Affairs of Japan webiste</a>.
-
-Participants who need to obtain Japanese visa, please contact <a href="http://www.mofa.go.jp/about/emb_cons/mofaserv.html" target="_blank">the counsular Section of the Embassy or Consulate General of Japan</a> nearest to you for more information and advice.
-
-
-### Invitation Letter
-
-<p>
-To obtain the invitation letter for Japanese visa application, please send an email request to centra3_sec@ml.nict.go.jp AND please include the following information in your request: <br />
-<ul type="circle">
-<li>Your full name as appeared in your passport </li>
-<li>Date of birth and your gender </li>
-<li>Country of citizenship (country which issued your passport)</li>
-<li>Passport number</li>
-<li>Date of Issue and Date of Expiry of your passport</i>
-<li>Title/Position and name of your organization</li>
-<li>Email, phone number</li>
-<li>Arrival and departure dates for your stay in Japan</li>
-<li>Postal address to receive the original invitation letter (No PO Boxes please)</li>
-
-<p>
-Please be aware that the letter of invitation does not imply any financial support. Travel expenses incurred to your CENTRA 3 All-Hands Meeting are the responsibility of the participant. Please work with your funding source for financial support documentation should it be required for your Japanese visa application.
-</p>
