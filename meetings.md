@@ -10,12 +10,26 @@ published: false
 
 <img src="/img/centra3 banner small.png" alt="CENTRA 3 All-Hands" style="float:center; padding: 0 0 1em 0;" class="img-responsive">
 
-### CENTRA 3 All-Hands Meeting
+### PRAGMA/CENTRA Japan Meeting 2018  
 
-* Date: May 14 ~ 15, 2018 
-* Location: Tokyo, Japan (Venue: AP Tokyo Marunouchi)
+* PRAGMA 34 Pre-Workshop  
+    - Date: May 9, 2018
+    - Location: Tokyo, Japan (Venue: Akihabara Convention Hall and Kashiwa Campus)  
+* PRAGMA 34 Workshop  
+    - Dates: May 10 ~ 11, 2018  
+    - Location: Tokyo, Japan (Venue: Akihabara Convention Hall)  
+* CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science  
+    - Dates: May 14 ~ 15, 2018  
+    - Location: Tokyo, Japan (Venue: AP Tokyo Marunouchi)  
+* CENTRA 3 Post-Workshop ABCI (AIST) Visit  
+    - May 16, 2018  
+    - Location: Tokyo, Japan (Venue: NICT Otemachi and Kashiwa Campus)  
+* ASEAN IVO Software Defined System on Disaster Mitigation and Smart Cites Meeting  
+    - Date: May 14 ~ 15, 2018
+    - Location: Tokyo, Japan (Venue: NICT Otemachi)  
+    - Members Only  
 * [Website](https://goo.gl/GJi2Bc)   
-* Contact: centra3_sec (at) ml.nict.go.jp 
+* Contact email: pragma_centra (a) ml.nict.go.jp 
 <br /> 
 <br />
 
