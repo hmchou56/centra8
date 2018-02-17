@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 
-## CENTRA 2018 Program
+## CENTRA 2018 Program: Smart Cyberinfrastructure for Transnational Science
 
 More information will be added as the program develops. Please stay tuned.
 
