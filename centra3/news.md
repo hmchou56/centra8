@@ -20,27 +20,27 @@ March 30, 2018: Registration deadline. See more details described on the [Regist
 
 ## Outline of PRAGMA / CENTRA Japan Meetings 2018 
 
-PRAGMA 34 Pre-Workshop  
+**PRAGMA 34 Pre-Workshop**  
 * Date: May 9, 2018  
 * Location: Tokyo, Japan (Venue: Akihabara Convention Hall and Kashiwa Campus)  
 
-PRAGMA 34 Workshop  
+**PRAGMA 34 Workshop**  
 * Dates: May 10 ~ 11, 2018  
 * Location: Tokyo, Japan (Venue: Akihabara Convention Hall)  
 
-CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science  
+**CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science**  
 * Dates: May 14 ~ 15, 2018  
 * Location: Tokyo, Japan (Venue: AP Tokyo Marunouchi)  
 
-CENTRA 3 Post-Workshop ABCI (AIST) Visit  
+**CENTRA 3 Post-Workshop ABCI (AIST) Visit**  
 * May 16, 2018
 * Location: Tokyo, Japan (Venue: NICT Otemachi and Kashiwa Campus)  
 
-ASEAN IVO Software Defined System on Disaster Mitigation and Smart Cites Meeting  
-* Date: May 14 ~ 15, 2018
-* Location: Tokyo, Japan (Venue: NICT Otemachi)
-* Members Only
+**ASEAN IVO Software Defined System on Disaster Mitigation and Smart Cites Meeting**  
+* Date: May 14 ~ 15, 2018  
+* Location: Tokyo, Japan (Venue: NICT Otemachi)  
+* Members Only  
 
-*Questions about the meetings above, please contact: pragma_centra (a) ml.nict.go.jp 
+*If any questions about the meetings above, please contact: pragma_centra (a) ml.nict.go.jp 
 
 More information will be updated as the program and registration timeline develop. 
