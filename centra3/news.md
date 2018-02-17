@@ -33,14 +33,14 @@ CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science
 * Location: Tokyo, Japan (Venue: AP Tokyo Marunouchi)  
 
 CENTRA 3 Post-Workshop ABCI (AIST) Visit  
-* May 16, 2018 
+* May 16, 2018
 * Location: Tokyo, Japan (Venue: NICT Otemachi and Kashiwa Campus)  
 
 ASEAN IVO Software Defined System on Disaster Mitigation and Smart Cites Meeting  
-* Date: May 14 ~ 15, 2018  
-* Location: Tokyo, Japan (Venue: NICT Otemachi)  
-* Members Only  
+* Date: May 14 ~ 15, 2018
+* Location: Tokyo, Japan (Venue: NICT Otemachi)
+* Members Only
 
-* Contact email: pragma_centra (a) ml.nict.go.jp 
+*Questions about the meetings above, please contact: pragma_centra (a) ml.nict.go.jp 
 
 More information will be updated as the program and registration timeline develop. 
