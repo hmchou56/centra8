@@ -42,16 +42,16 @@ By Dr. Christopher Stewart, The Ohio State University, USA
 *02/07 at 2000 Indonesia/Thailand/Vietnam | 2100 Taiwan/Malaysia/The Philippines | 2200 Japan/S. Korea*  
 **Implementation of a Transnational Testbed with Layer 3 SDX**  
 By Dr. Te-Lung Liu, National Center for High-performance Computing, Taiwan  
-[View abstract and register here for this webinar](https://goo.gl/hrksLr)  
+[Webinar Recording on Vimeo](https://vimeo.com/255599894)  |  [Abstract and Speaker Bio](https://goo.gl/hrksLr)  
   
 **2018/02/13 @18:00 US EST**  
 *02/13 at 1300 Hawaii | 1500 US Pacific | 1600 US Mountain | 2300 Portugal*  
 *02/14 at 0600 Indonesia/Thailand/Vietnam | 0700 Taiwan/Malaysia/The Philippines | 0800 Japan/S. Korea*  
 **Dynamic Information Flow for IoT in Hardware**   
 By Dr. Daniela Oliveira, University of Florida, USA  
-[View abstract and register here for this webinar](https://goo.gl/nvi61N)  
+[Webinar Recording on Vimeo](https://vimeo.com/255664003)  | [Abstract and Speaker Bio](https://goo.gl/nvi61N)  
   
-**2018/02/28 @20:00 US EST**  (the webinar hour might be subject to change- TBC)  
+**2018/02/28 <span class="underline">@20:00</span> US EST**  
 *02/28 at 1500 Hawaii | 1700 US Pacific | 1800 US Mountain | 03/01 at 0200 Portugal*  
 *03/01 at 0800 Indonesia/Thailand/Vietnam | 0900 Taiwan/Malaysia/The Philippines | 1000 Japan/S. Korea*  
 **Beyond Databases: Rethinking New Approaches to Virtual Collaboration and Data-sharing**  
