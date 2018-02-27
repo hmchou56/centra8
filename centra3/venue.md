@@ -41,14 +41,9 @@ Please note that hotels listed below are for information purposes only. The CENT
 
 ＜Luxury Class＞ ★★★★★－★★★★  
 
-* [Palace Hotel](http://en.palacehoteltokyo.com/) (Located next to the venue）    
-
-* The Tokyo Station Hotel (10-minute walk from the venue)  
-   http://www.thetokyostationhotel.jp/rooms.htm  
-
-* Marunouchi Hotel (10-12 minutes’ walk from the venue)  
-   https://www.marunouchi-hotel.co.jp/en/  
-   
+* [Palace Hotel](http://en.palacehoteltokyo.com/) (Located next to the venue)  
+* [The Tokyo Station Hotel](http://www.thetokyostationhotel.jp/rooms.htm) (10-minute walk from the venue)  
+* [Marunouchi Hotel](https://www.marunouchi-hotel.co.jp/en/) (10-12 minutes’ walk from the venue)  
 
 ＜Moderate to Budget Class＞ ★★★－★★  
 
