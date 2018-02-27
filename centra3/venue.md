@@ -48,22 +48,17 @@ Please note that hotels listed below are for information purposes only. The CENT
 ＜Moderate to Budget Class＞ ★★★－★★  
 
 * [Keio Presso Inn Otemachi](http://www.presso-inn.com/english/otemachi.html) (15-minute walk from the venue)  
-
-* [Hotel Villa Fontaine Tokyo Otemachi](https://www.hvf.jp/eng/)(15-minute walk from the venue)    
-
-* [Hotel Ryumeikan Tokyo](https://www.ryumeikan-tokyo.jp/english/) (15-minute walk from the venue)    
-   
+* [Hotel Villa Fontaine Tokyo Otemachi](https://www.hvf.jp/eng/)(15-minute walk from the venue)  
+* [Hotel Ryumeikan Tokyo](https://www.ryumeikan-tokyo.jp/english/) (15-minute walk from the venue)  
 * Super Hotel Lohas Tokyo-eki Yaesu Chuo-guchi[http://www.superhoteljapan.com/en/s-hotels/yaesu/?hid=109&tpl=/yaesu/index.html&ex=0] (15-20 minutes’ walk from the venue)  
-
-* [Hotel Heimat](http://www.hotel-heimat.com/english/english.html) (15-minute walk from the venue)    
+* [Hotel Heimat](http://www.hotel-heimat.com/english/english.html) (15-minute walk from the venue)   
 
 
 #### Hotels near Tokyo Metro Mitsukoshimae Station (One stop from Tokyo Metro Otemachi station by Hanzomon Line)  
 
 ＜Moderate to Budget Class＞ ★★★－★★  
 
-* [Smile Hotel Nihombashi Mitsukoshimae](https://travel.rakuten.com/hotel/info/1990/) (5-minute walk from Mitsukoshimae station)   
-
+* [Smile Hotel Nihombashi Mitsukoshimae](https://travel.rakuten.com/hotel/info/1990/) (5-minute walk from Mitsukoshimae station)  
 * [Toyoko Inn Tokyo Nihombashi Mitsukoshi Mae A4](https://www.toyoko-inn.com/eng/search/detail/00170) (8-minute walk from Mitsukoshimae station)  
     
      
