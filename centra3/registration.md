@@ -10,10 +10,8 @@ hide: true
 
 ## CENTRA 2018 Registration
 
-*Please note that this page is under construction. Registration and PRAGMA 34 Workshop links are not yet linked. They will be available in late February.*  
 
-
-To register for PRAGMA / CENTRA Japan Meetings 2018, please click here and proceed to the registration page.  
+To register for PRAGMA / CENTRA Japan Meetings 2018, please go to: [https://acislab.wufoo.com/forms/pragmacentra-japan-meeting-2018/](https://acislab.wufoo.com/forms/pragmacentra-japan-meeting-2018-copy/)
 
 Please note that PRAGMA 34 Workshop and CENTRA 3 All-Hands Meeting are held at different locations. PRAGMA 34 will be held at Akihabara Convention Hall near JR Akihabara Station and CENTRA 3 All-Hands Meeting will be held at AP Tokyo Marunouchi near JR Tokyo Station. It takes about 4 minutes from JR Akihabara Station to JR Tokyo Station on the JR Yamanote Line.  
 
