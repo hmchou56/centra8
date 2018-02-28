@@ -12,7 +12,7 @@ hide: true
 
 As soon as possible: check [Visa Information](http://www.globalcentra.org/centra3/visainfo.html) and follow up accordingly if you need to obtain a Japanese visa to enter Japan.  
 
-February 21, 2018: PRAGMA / CENTRA Japan Meetings 2018 [Registration](http://www.globalcentra.org/centra3/registration.html) Opens  
+February 27, 2018: PRAGMA / CENTRA Japan Meetings 2018 [Registration](http://www.globalcentra.org/centra3/registration.html) Opens  
 
 March 30, 2018: Registration deadline. See more details described on the [Registration page](http://www.globalcentra.org/centra3/registration.html) on this site   
   
