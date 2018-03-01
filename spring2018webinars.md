@@ -61,7 +61,7 @@ By Dr. Tho Nguyen, University of Virginia, USA
 **2018/03/13 <span class="underline">@19:00</span> US EDT**  
 *03/13 at 1300 Hawaii | 1600 US Pacific | 1700 US Mountain | 2300 Portugal*  
 *03/14 at 0600 Indonesia/Thailand/Vietnam | 0700 Taiwan/Malaysia/The Philippines | 0800 Japan/S. Korea*  
-**Automatic Traffic Control with Surveillance Cameras**  
+**Camera sensor technology and automatic traffic control**  
 By Dr. Hyuk-Jae Lee, Seoul National University, South Korea  
 [View abstract and register here for this webinar](https://goo.gl/MuADia)  
   
