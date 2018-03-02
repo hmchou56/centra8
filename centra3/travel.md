@@ -9,7 +9,7 @@ hide: true
 
 ## CENTRA 2018 Travel Information  
   
-CENTRA 3 All-Hands Meeting will be held at AP Tokyo Marunouchi. The venue is located in the center of Tokyo (Marunouchi district). For those who come to the venue by JR trains, please get off at JR Tokyo Station. For those who use Tokyo Metro or Toei Subway, please get off at Otemachi Station.  
+*CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science* will be held at AP Tokyo Marunouchi. The venue is located in the center of Tokyo (Marunouchi district). For those who come to the venue by JR trains, please get off at JR Tokyo Station. For those who use Tokyo Metro or Toei Subway, please get off at Otemachi Station.  
 
 
 ### Air Travel
