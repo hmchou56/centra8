@@ -58,21 +58,21 @@ By Dr. Daniela Oliveira, University of Florida, USA
 By Dr. Tho Nguyen, University of Virginia, USA  
 [View abstract and register here for this webinar](https://goo.gl/UUD1gn)  
   
-**2018/03/13 <span class="underline">@19:00</span> US EDT**  
-*03/13 at 1300 Hawaii | 1600 US Pacific | 1700 US Mountain | 2300 Portugal*  
-*03/14 at 0600 Indonesia/Thailand/Vietnam | 0700 Taiwan/Malaysia/The Philippines | 0800 Japan/S. Korea*  
+**2018/03/13 <span class="underline">@20:00</span> US EDT**  
+*03/13 at 1400 Hawaii | 1700 US Pacific | 1800 US Mountain | 0000 Midnight Portugal *  
+*03/14 at 0700 Indonesia/Thailand/Vietnam | 0800 Taiwan/Malaysia/The Philippines | 0900 Japan/S. Korea*  
 **Camera sensor technology and automatic traffic control**  
 By Dr. Hyuk-Jae Lee, Seoul National University, South Korea  
 [View abstract and register here for this webinar](https://goo.gl/MuADia)  
   
-**2018/03/28 <span class="underline">@10:00</span> US EDT**    
+**2018/03/28 <span class="underline">@10:00</span> US EDT**  (the webinar hour is still subject to change)    
 *03/28 at 0400 Hawaii | 0700 US Pacific | 0800 US Mountain | 1500 Portugal*  
 *03/28 at 2000 Indonesia/Thailand/Vietnam | 2100 Taiwan/Malaysia/The Philippines | 2200 Japan/S. Korea*  
 **SafeFS: Secure Software-Defined Storage**  
 By Dr. João Paulo, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal  
 [View abstract and register here for this webinar](https://goo.gl/zWR9g7)  
   
-**2018/04/10 <span class="underline">@10:30</span> US EDT**   
+**2018/04/10 <span class="underline">@10:30</span> US EDT** (the webinar hour is still subject to change)     
 *04/10 at 0430 Hawaii | 0730 US Pacific | 0830 US Mountain | 1530 Portugal*  
 *04/10 at 2030 Indonesia/Thailand/Vietnam | 2130 Taiwan/Malaysia/The Philippines | 2230 Japan/S. Korea*  
 **SafeDB: Secure Database Processing**  
