@@ -11,7 +11,7 @@ hide: true
 ## CENTRA 2018 Registration
 
 
-To register for PRAGMA / CENTRA Japan Meetings 2018, please visit: [https://acislab.wufoo.com/forms/pragmacentra-japan-meeting-2018/](https://goo.gl/7EdWVf)
+To register for PRAGMA / CENTRA Japan Meetings 2018, please visit: [https://acislab.wufoo.com/forms/pragmacentra-japan-meeting-2018/](https://goo.gl/v4DikL)
 
 Please note that PRAGMA 34 Workshop and CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science are held at *different* locations. PRAGMA 34 will be held at Akihabara Convention Hall near JR Akihabara Station, and CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science will be held at AP Tokyo Marunouchi near JR Tokyo Station. It takes about 4 minutes from JR Akihabara Station to JR Tokyo Station on the JR Yamanote Line.  
 
