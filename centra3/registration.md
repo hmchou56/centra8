@@ -13,9 +13,9 @@ hide: true
 
 To register for PRAGMA / CENTRA Japan Meetings 2018, please visit: [https://acislab.wufoo.com/forms/pragmacentra-japan-meetings-2018/](https://goo.gl/Ao7r3U)  
 
-**Registration closing date**: we strongly encourage you complete the quick 1-page registration by 17:00, March 30th JST ( = **by 16:00 same day in Taiwan; by 04:00 same day U.S. EDT**).
+**Registration closing date**: we strongly encourage you complete the quick 1-page registration by 17:00, March 30th JST ( = **by 16:00 same day in Taiwan; by 04:00 same day U.S. EDT**).  
 
-If you wish *to make any change to your existing registration / attendance plan*, please *submit a new registration form online no later than 17:00, May 1st JST*. The CENTRA 3 Secretariat will use the your latest registration to prepare meeting meals and Reception (May 14th) accordingly.  
+If you need to change information on a submitted registration or change your plan, please contact PRAGMA / CENTRA Japan Meetings 2018 organizing team by sending an e-mail to pragma_centra@ml.nict.go.jp *no later than 17:00, May 1st JST*. 
 
 Please note that PRAGMA 34 Workshop and CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science are held at *different* locations. PRAGMA 34 will be held at Akihabara Convention Hall near JR Akihabara Station, and CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science will be held at AP Tokyo Marunouchi near JR Tokyo Station. It takes about 4 minutes from JR Akihabara Station to JR Tokyo Station on the JR Yamanote Line.  
 
