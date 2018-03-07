@@ -11,7 +11,7 @@ hide: true
 ## CENTRA 2018 Registration
 
 
-To register for PRAGMA / CENTRA Japan Meetings 2018, please visit: [https://acislab.wufoo.com/forms/pragmacentra-japan-meeting-2018/](https://goo.gl/v4DikL)  
+To register for PRAGMA / CENTRA Japan Meetings 2018, please visit: [https://acislab.wufoo.com/forms/pragmacentra-japan-meeting-2018/](https://goo.gl/Ao7r3U)  
 
 **Registration closing date**: we strongly encourage you complete the quick 1-page registration by 17:00, March 30th JST ( = **by 16:00 same day in Taiwan; by 04:00 same day U.S. EDT**).
 
