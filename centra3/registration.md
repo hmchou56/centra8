@@ -11,7 +11,11 @@ hide: true
 ## CENTRA 2018 Registration
 
 
-To register for PRAGMA / CENTRA Japan Meetings 2018, please visit: [https://acislab.wufoo.com/forms/pragmacentra-japan-meeting-2018/](https://goo.gl/v4DikL)
+To register for PRAGMA / CENTRA Japan Meetings 2018, please visit: [https://acislab.wufoo.com/forms/pragmacentra-japan-meeting-2018/](https://goo.gl/v4DikL)  
+
+**Registration closing date**: we strongly encourage you complete the quick 1-page registration by 17:00, March 30th JST ( = **by 16:00 same day in Taiwan; by 04:00 same day U.S. EDT**).
+
+If you wish *to make any change to your existing registration / attendance plan*, please *submit a new registration form online no later than 17:00, May 1st JST*. The CENTRA 3 Secretariat will use the your latest registration to prepare meeting meals and Reception (May 14th) accordingly.  
 
 Please note that PRAGMA 34 Workshop and CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science are held at *different* locations. PRAGMA 34 will be held at Akihabara Convention Hall near JR Akihabara Station, and CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science will be held at AP Tokyo Marunouchi near JR Tokyo Station. It takes about 4 minutes from JR Akihabara Station to JR Tokyo Station on the JR Yamanote Line.  
 
@@ -33,7 +37,7 @@ Please note that PRAGMA 34 Workshop and CENTRA 3 Meeting: Smart Cyberinfrastruct
 
 * Please prepare a few words about what you do and your profile picture ready for upload before you proceed to the registration page. 
   
-* **Please register by March 30**, if you wish to have your profile and picture included in the participant list in the CENTRA 3 program book.  
+* **Please register by 5 PM, March 30th Japan time**, if you wish to have your profile and picture included in the participant list in the CENTRA 3 program book.  
   
 * We are hoping to help you identify both attendees and expertise quickly by including a brief introduction about yourself and a profile picture in the participant list in the CENTRA 3 e-program book on this website and a limited number of printed copies at the meeting. Please note that due to the production schedule, we are unable to include the information of those who register after March 30 in the participant list in the program book.  
   
