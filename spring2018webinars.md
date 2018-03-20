@@ -67,7 +67,7 @@ By Dr. Hyuk-Jae Lee, Seoul National University, South Korea
   
 **2018/03/28 <span class="underline">@10:00</span> US EDT**     
 *03/28 at 0400 Hawaii | 0700 US Pacific | 0800 US Mountain | 1500 Portugal*  
-*03/28 at 2000 Indonesia/Thailand/Vietnam | 2100 Taiwan/Malaysia/The Philippines | 2200 Japan/S. Korea*  
+*03/28 at 2100 Indonesia/Thailand/Vietnam | 2200 Taiwan/Malaysia/The Philippines | 2300 Japan/S. Korea*  
 **SafeFS: Secure Software-Defined Storage**  
 By Dr. João Paulo, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal  
 [View abstract and register here for this webinar](https://goo.gl/zWR9g7)  
