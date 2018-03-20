@@ -56,16 +56,16 @@ By Dr. Daniela Oliveira, University of Florida, USA
 *03/01 at 0800 Indonesia/Thailand/Vietnam | 0900 Taiwan/Malaysia/The Philippines | 1000 Japan/S. Korea*  
 **Beyond Databases: Rethinking New Approaches to Virtual Collaboration and Data-sharing**  
 By Dr. Tho Nguyen, University of Virginia, USA  
-[View abstract and register here for this webinar](https://goo.gl/UUD1gn)  
+[Webinar Recording on Vimeo](https://vimeo.com/258136880)  | [Abstract and Speaker Bio](https://goo.gl/UUD1gn)  
   
 **2018/03/13 <span class="underline">@20:00</span> US EDT**  
 *03/13 at 1400 Hawaii | 1700 US Pacific | 1800 US Mountain | 0000 Midnight Portugal *  
 *03/14 at 0700 Indonesia/Thailand/Vietnam | 0800 Taiwan/Malaysia/The Philippines | 0900 Japan/S. Korea*  
 **Camera sensor technology and automatic traffic control**  
 By Dr. Hyuk-Jae Lee, Seoul National University, South Korea  
-[View abstract and register here for this webinar](https://goo.gl/MuADia)  
+[Webinar Recording coming soon](https://goo.gl/nUjf6F)  | [Abstract and Speaker Bio](https://goo.gl/MuADia)  
   
-**2018/03/28 <span class="underline">@10:00</span> US EDT**  (the webinar hour is still subject to change)    
+**2018/03/28 <span class="underline">@10:00</span> US EDT**     
 *03/28 at 0400 Hawaii | 0700 US Pacific | 0800 US Mountain | 1500 Portugal*  
 *03/28 at 2000 Indonesia/Thailand/Vietnam | 2100 Taiwan/Malaysia/The Philippines | 2200 Japan/S. Korea*  
 **SafeFS: Secure Software-Defined Storage**  
