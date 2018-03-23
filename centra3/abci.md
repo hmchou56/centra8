@@ -7,7 +7,9 @@ published: true
 hide: true
 ---
 
-## Post-workshop ABCI (AIST) visit: (tentative plan)  
+## CETNRA 3 Post-workshop ABCI (by AIST) visit: (tentative plan)  
+
+ABCI stands for **AI Bridging Cloud Infrastructure**. More information about this supercomputer now being built by AIST (Japan's National Institute of Advanced Industrial Science and Technology) at University of Tokyo with a planned performance of 130 petaFLOPS: [ABCI Wikipedia entry](https://en.wikipedia.org/wiki/AI_Bridging_Cloud_Infrastructure) and [AIST's one-page summary at SC2016](https://www.itri.aist.go.jp/events/sc2016/pdf/P06-ABCI.pdf).  
 
 **Date and time:** 0900 - 1730 on May 16, 2018, some transportation time included
     
@@ -16,6 +18,9 @@ hide: true
 * Venue2: ABCI (AIST) in Kashiwanoha, Kashiwa-shi, The University of Tokyo Kashiwa Campus  
 
 **Program:**
+
+*Please note that the [Pre-Workshop of PRAGMA 34: ABCI Visit](http://www.pragma-grid.net/pragma34-program/) also includes the same ABCI visit itinerary in the afternoon on May 9. If you are a PRAGMA 34 attendee also participating in CENTRA 3 Meeting. While morning program of May 16 (CENTRA 3 Post-Workshop) and that of May 9 (PRAGMA 34 Pre-Workshop) are different. Please expect the afternoon of this day May 16 is touring the same facility - ABCI.AIST organizers suggest you choose one day to attend.*
+
 * 10:00am - 11:00am ABCI presentation by AIST at Venue 1
 * 11:00am - 1:00pm Lunch break (Lunch will not be provided)  
 * 1:00pm - 2:00pm Move to ABCI in Kashiwanoha (train travel)  
