@@ -19,7 +19,7 @@ ABCI stands for **AI Bridging Cloud Infrastructure**. More information about thi
 
 **Program:**
 
-*Please note that the [Pre-Workshop of PRAGMA 34: ABCI Visit](http://www.pragma-grid.net/pragma34-program/) also includes the same ABCI visit itinerary in the afternoon on May 9. If you are a PRAGMA 34 attendee also participating in CENTRA 3 Meeting. While morning program of May 16 (CENTRA 3 Post-Workshop) and that of May 9 (PRAGMA 34 Pre-Workshop) are different. Please expect the afternoon of this day May 16 is touring the same facility - ABCI.AIST organizers suggest you choose one day to attend.*
+*Please note that the [Pre-Workshop of PRAGMA 34: ABCI Visit](http://www.pragma-grid.net/pragma34-program/) also includes the same ABCI visit itinerary in the afternoon on May 9. If you are a PRAGMA 34 attendee also participating in CENTRA 3 Meeting. While morning program of May 16 (CENTRA 3 Post-Workshop) and that of May 9 (PRAGMA 34 Pre-Workshop) are different, please expect the afternoon of this day May 16 is touring the same facility - ABCI. AIST organizers suggest you choose one day to attend.*
 
 * 10:00am - 11:00am ABCI presentation by AIST at Venue 1
 * 11:00am - 1:00pm Lunch break (Lunch will not be provided)  
