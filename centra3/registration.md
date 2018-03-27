@@ -40,9 +40,7 @@ Important notes:
 ## CENTRA 3 Meeting Participants:
 
 * Please prepare a few words about what you do and your profile picture ready for upload before you proceed to the registration page.
-
 * **Please register by 5 PM, March 30th Japan time**, if you wish to have your profile and picture included in the participant list in the CENTRA 3 program book.
-
-* We are hoping to help you identify both attendees and expertise quickly by including a brief introduction about yourself and a profile picture in the participant list in the CENTRA 3 e-program book on this website and a limited number of printed copies at the meeting. Please note that due to the production schedule, we are unable to include the information of those who register after March 30 in the participant list in the program book.  
+* We are hoping to help you identify both attendees and expertise quickly by including a brief introduction about yourself and a profile picture in the participant list in the CENTRA 3 e-program book on this website and a limited number of printed copies at the meeting. Please note that due to the production schedule, we are unable to include the information of those who register after March 30 in the participant list in the program book.
 
 If you have any concerns or questions, please do not hesitate to contact us at pragma_centra@ml.nict.go.jp.  
