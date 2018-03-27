@@ -17,7 +17,11 @@ To register for PRAGMA / CENTRA Japan Meetings 2018, please visit: [https://acis
 
 If you need to change information on a submitted registration or change your plan, please contact PRAGMA / CENTRA Japan Meetings 2018 organizing team by sending an e-mail to pragma_centra@ml.nict.go.jp *no later than 17:00, May 1st JST*. 
 
-Please note that PRAGMA 34 Workshop and CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science are held at *different* locations. PRAGMA 34 will be held at Akihabara Convention Hall near JR Akihabara Station, and CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science will be held at AP Tokyo Marunouchi near JR Tokyo Station. It takes about 4 minutes from JR Akihabara Station to JR Tokyo Station on the JR Yamanote Line.  
+Important notes: 
+
+(1) PRAGMA 34 Workshop and CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science are held at *different* locations. PRAGMA 34 will be held at Akihabara Convention Hall near JR Akihabara Station, and CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science will be held at AP Tokyo Marunouchi near JR Tokyo Station. It takes about 4 minutes from JR Akihabara Station to JR Tokyo Station on the JR Yamanote Line.  
+
+(2) While morning program of May 16 (CENTRA 3 Post-Workshop) and that of May 9 (PRAGMA 34 Pre-Workshop) are different, please expect the afternoon program is the same - touring ABCI facility, on both days. AIST organizers suggest you choose one day to join, i.e. if you are a PRAGMA 34 participant and plan to attend PRAGMA 34 ABCI Pre-Workshp on May 9, it is not necessary to attend CENTRA 3 ABCI Post-Workshop on May 16.
 
 
 **PRAGMA 34 (Akihabara, Tokyo)** 
