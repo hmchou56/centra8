@@ -11,9 +11,9 @@ hide: true
 ## CENTRA 2018 Registration
 
 
-To register for PRAGMA / CENTRA Japan Meetings 2018, please visit: [https://acislab.wufoo.com/forms/pragmacentra-japan-meetings-2018/](https://goo.gl/Ao7r3U)  
+To register for PRAGMA / CENTRA Japan Meetings 2018, please visit: [https://acislab.wufoo.com/forms/updated-pragmacentra-japan-meetings-2018/](https://goo.gl/T2Gh3G)  
 
-**Registration closing date**: we strongly encourage you complete the quick 1-page registration by 17:00, March 30th JST ( = **by 16:00 same day in Taiwan; by 04:00 same day U.S. EDT**).  
+**Registration closing date**: CENTRA 3 Registration is now extended - please complete the online registration ASAP, no later than May 1st JST ( = **by 16:00 same day in Taiwan; by 04:00 same day U.S. EDT**). Please note that [PRAGMA 34](http://www.pragma-grid.net/pragma34/) registration has been closed.  
 
 If you need to change information on a submitted registration or change your plan, please contact PRAGMA / CENTRA Japan Meetings 2018 organizing team by sending an e-mail to pragma_centra@ml.nict.go.jp *no later than 17:00, May 1st JST*. 
 
@@ -25,7 +25,7 @@ Important notes:
 
 (3) Profile picture: please prepare a few words about what you do and your profile picture ready for upload before you proceed to the registration page.
 
-(4) We are hoping to help you identify both attendees and expertise quickly by including a brief introduction about yourself and a profile picture in the participant list in the CENTRA 3 e-program book on this website, in addition to a limited number of printed copies at the meeting. Please note that due to the production schedule, we are unable to include the information of those who register after March 30 in the participant list in the program book.
+(4) We are hoping to help you identify both attendees and expertise quickly by including a brief introduction about yourself and a profile picture in the participant list in the CENTRA 3 e-program book on this website, in addition to a limited number of printed copies at the meeting. *Please note that due to the production schedule, we are unable to include the information of those who register after March 30 in the participant list in the program book.*
 
 
 **[PRAGMA 34 (Akihabara, Tokyo)](http://www.pragma-grid.net/pragma34/)** 
