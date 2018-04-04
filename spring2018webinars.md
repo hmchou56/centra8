@@ -80,7 +80,7 @@ By Dr. Francisco Maia, Institute for Systems and Computer Engineering, Technolog
 [View abstract and register here for this webinar](https://goo.gl/kM68SF)  
   
 **2018/04/25 <span class="underline">@21:00</span> US EDT**    
-*04/25 at 100 Hawaii | 1800 US Pacific | 1900 US Mountain | *04/26 at 0200 Portugal  
+*04/25 at 1500 Hawaii | 1800 US Pacific | 1900 US Mountain | *04/26 at 0200 Portugal  
 *04/26 at 0800 Indonesia/Thailand/Vietnam | 0900 Taiwan/Malaysia/The Philippines | 1000 Japan/S. Korea*  
 **Analyzing Online Social Interactions for Cyber Security, Framing, and Network Interference**  
 By Dr. Shyhtsun Felix Wu, University of California at Davis, USA  
