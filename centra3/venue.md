@@ -49,6 +49,7 @@ Please note that hotels listed below are for information purposes only. The CENT
 
 * [Keio Presso Inn Otemachi](http://www.presso-inn.com/english/otemachi.html) (15-minute walk from the venue)  
 * [Hotel Villa Fontaine Tokyo Otemachi](https://www.hvf.jp/eng/)(15-minute walk from the venue)  
+* [Mitsui Garden Hotel Kyobashi](https://www.gardenhotels.co.jp/kyobashi/eng/) (about 15-minute walk from the venue)
 * [Hotel Ryumeikan Tokyo](https://www.ryumeikan-tokyo.jp/english/) (15-minute walk from the venue)  
 * [Super Hotel Lohas Tokyo-eki Yaesu Chuo-guchi](http://www.superhoteljapan.com/en/s-hotels/yaesu/?hid=109&tpl=/yaesu/index.html&ex=0)  (15-20 minutes’ walk from the venue)  
 * [Hotel Heimat](http://www.hotel-heimat.com/english/english.html) (15-minute walk from the venue)   
