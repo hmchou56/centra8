@@ -13,9 +13,9 @@ hide: true
 
 To register for PRAGMA / CENTRA Japan Meetings 2018, please visit: [https://acislab.wufoo.com/forms/updated-pragmacentra-japan-meetings-2018/](https://goo.gl/T2Gh3G)  
 
-**Registration closing date**: CENTRA 3 Registration is now extended - please complete the online registration ASAP, no later than May 1st JST ( = **by 16:00 same day in Taiwan; by 04:00 same day U.S. EDT**). Please note that [PRAGMA 34](http://www.pragma-grid.net/pragma34/) registration has been closed.  
+**Registration closing date**: CENTRA 3 Registration will be fully closed soon. Please complete the online registration **ASAP**, no later than Monday, April 16th (by 11:55pm US EDT). Please note that [PRAGMA 34](http://www.pragma-grid.net/pragma34/) registration has been closed.  
 
-If you need to change information on a submitted registration or change your plan, please contact PRAGMA / CENTRA Japan Meetings 2018 organizing team by sending an e-mail to pragma_centra@ml.nict.go.jp *no later than 17:00, May 1st JST*. 
+If you need to change information on a submitted registration or change your plan, please contact PRAGMA / CENTRA Japan Meetings 2018 organizing team by sending an e-mail to both gshong@ufl.edu and pragma_centra@ml.nict.go.jp *no later than 17:00, May 1st JST*. 
 
 Important notes: 
 
