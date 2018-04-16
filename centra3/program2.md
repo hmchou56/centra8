@@ -123,6 +123,3 @@ hide: true
 - CENTRA Advisory Board and Steering Committee meeting 
 
 
-
-In the meantime, to see where we were at CENTRA 2, SUNTOWNS Workshops, for your reference: *CENTRA 2 All Hands Meeting Overview and Full Program Book* can be viewed and download [here](http://www.globalcentra.org/centra2/program.html). 
-
