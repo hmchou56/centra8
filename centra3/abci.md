@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 
-## CETNRA 3 Post-workshop ABCI (by AIST) visit: (tentative plan)  
+## CENTRA 3 Post-workshop ABCI (by AIST) visit: (tentative plan)  
 
 ABCI stands for **AI Bridging Cloud Infrastructure**. More information about this supercomputer now being built by AIST (Japan's National Institute of Advanced Industrial Science and Technology) at University of Tokyo with a planned performance of 130 petaFLOPS: [ABCI Wikipedia entry](https://en.wikipedia.org/wiki/AI_Bridging_Cloud_Infrastructure) and [AIST's one-page summary at SC2016](https://www.itri.aist.go.jp/events/sc2016/pdf/P06-ABCI.pdf).  
 
@@ -28,7 +28,7 @@ ABCI stands for **AI Bridging Cloud Infrastructure**. More information about thi
     
 **This is a tentative plan and the itinerary may change.**   
     
-* Please note that transportation and lunch expenses are *not* covered by the host team. Round-trip train ticket from Tokyo Station to and from Kashiwanoha Campus Station: 1,620yen.  
+* Please note that lunch is *not* provided today. A group bus will take all participants to ABCI facility. 
 <br>
 <br>
 <hr>
