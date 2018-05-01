@@ -28,7 +28,7 @@ ABCI stands for **AI Bridging Cloud Infrastructure**. More information about thi
     
 **This is a tentative plan and the itinerary may change.**   
     
-* Please note that lunch is *not* provided today. A group bus will take all participants to ABCI facility. 
+* Please note that lunch is *not* provided today. A group bus will take registered participants to ABCI facility. 
 <br>
 <br>
 <hr>
