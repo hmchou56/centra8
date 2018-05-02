@@ -18,8 +18,6 @@ April 16, 2018: Registration has now closed. See more details described on the [
 
 April 23, 2018: [Poster and Demo](http://www.globalcentra.org/centra/poster.html) abstracts submission deadline
 
-May 1, 2018: Author notification
-
 May 5, 2018: Full poster PDF or pptx submission to fortes (at) ufl (dot) edu and gshong (at) ufl (dot) edu .
 
 May 5, 2018: Final demo requirements submission to masa.goto (at) nict (dot) go (dot) jp .
