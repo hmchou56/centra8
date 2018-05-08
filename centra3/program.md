@@ -13,7 +13,7 @@ hide: true
 -------------
 # Working Agenda
 
-[CENTRA 3 e-Program is now available for download (PDF)](www.globalcentra.org/centra3/CENTRAprogrambook_08May18.pdf) 
+### [CENTRA 3 e-Program is now available for download here (PDF)](www.globalcentra.org/centra3/CENTRAprogrambook_08May18.pdf) 
 -------------
 
 					Sunday, May 13 
@@ -90,7 +90,7 @@ hide: true
 
 ****
 ### 6:30 PM
-* Reception (Name of restaurant and address)
+* Reception
 
 ****
 							 Tuesday, May 15
