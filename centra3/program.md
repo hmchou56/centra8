@@ -12,6 +12,8 @@ hide: true
 
 -------------
 # Working Agenda
+
+[CENTRA 3 e-Program is now available for download (PDF)](www.globalcentra.org/centra3/CENTRAprogrambook_08May18.pdf) 
 -------------
 
 					Sunday, May 13 
