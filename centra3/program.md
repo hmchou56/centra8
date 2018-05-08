@@ -33,8 +33,8 @@ hide: true
 ### 09:30 – 10:30 AM 
 **Plenary Flyby Session – Opening Communications**
 - Session Chair: Shinji Shimojo, Osaka University and NICT
-- Welcome remarks:  Dr. Fumihiko Tomita (Vice President, NICT)
-- NICT Testbed Center Presentation: Dr. Hiroaki Harai (Director of…., NICT)
+- Welcome remarks:  Dr. Fumihiko Tomita (Vice President, Member of the Board of Directors, NICT)
+- Introducing NICT Testbeds: Dr. Hiroaki Harai (Director General of ICT Testbed Research and Development Promotion Center, NICT)
 - Presentation: “CENTRA 3: Objectives, Partners and Desired Outcomes”, José Fortes, Fang­Pang Lin, Rui Oliveira, and Shinji Shimojo  
 
 
@@ -51,7 +51,7 @@ hide: true
 * Project Review: “IT for Natural Disaster Management & Visualization Alliance”, Jason Haga
 * Project Review: “ASEAN IVO: Software Defined System on Disaster Mitigation and Smart 
 * Cities”, Luke Jing Yuan
-* New CENTRA Member Organization Presentation – KISTI: Kom Won Cho
+* New CENTRA Member Organization Presentation – KISTI: Kum Won Cho
 
 ****
 ### 12:00 – 1:00 PM: 
