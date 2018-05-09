@@ -89,11 +89,12 @@ Fang Pang Lin, Rui Oliveira and Shinji Shimojo
 ### 5:15 – 6:00 PM
 **Demo Session**
 Session Chair: Eiji Kawai
-- **Demo 1:** ASEAN-IVO
-- **Demo 2:** An Adaptive Network Testbed based on SDN-IP  
-- **Demo 3:** SafeDB: Secure Database Processing
-- **Demo 4:** An  Island  Overlay  Network  (ION)  Testbed  for  Designing  and  Evaluating  IoT-era Applications
-- **Demo 5 & 6:** to be updated during meeting 
+- **Demo 1:** ASEAN-IVO, Luke Jing Yuan et al. (MIMOS and ASEAN-IVO project members)
+- **Demo 2:** An Adaptive Network Testbed based on SDN-IP, Grace Hui-Lan Lee, Wun-Yuan Huang, Fang Pang Lin, Te-Lung Liu (NCHC) and Yoshihiko Kanaumi, Eiji Kawai, Naomi Terada, Shinji Shimojo (NICT)   
+- **Demo 3:** SafeDB: Secure Database Processing, Joâo Paulo and Rui Oliveira (INESC TEC)
+- **Demo 4:** An Island Overlay Network (ION) Testbed for Designing and Evaluating IoT-era Applications, Kensworth Subratie (University of Florida)
+- **Demo 5:** Linking Applications for Natural Disaster Decision Support: SageRDI, Jason Haga (AIST)
+- **Demo 6:** Secure Data Collaboration Using GFFS, Andrew Grimshaw (University of Virginia)
 
 ***
 ### 6:30 PM
