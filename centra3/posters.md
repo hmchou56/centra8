@@ -28,7 +28,7 @@ All posters must use the A1 format (594 x 841 mm/23.4 x 33.1 in).
 All submissions will be reviewed by CENTRA 3 Program Committee. Decisions and suggestions will be made available via email.  
 Authors are expected to respond to review comments and, if necessary, resubmit their updated poster and abstract.  
 
-All accepted posters will also need to prepare two copies of prints for showcasing at AP Marunouchi Tokyo (main venue, all day on Monday, May 14) and NICT KDDI Otemachi Office Building, as a parallel session to the Demo session (5.10 - 6.00 pm) also on Monday, May 14, 2018. Authors are responsible for poster setup and removal. 
+All accepted posters will also need to prepare **two copies** of prints for showcasing at AP Marunouchi Tokyo (main venue, all day on Monday, May 14) and at NICT KDDI Otemachi Office Building, as a parallel session to the Demo session (5.10 - 6.00 pm) also on Monday, May 14, 2018. Authors are responsible for poster setup and removal. 
 
 
 ### Demo Requirements
