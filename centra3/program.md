@@ -83,11 +83,11 @@ Fang Pang Lin, Rui Oliveira and Shinji Shimojo
 
 ****
 ### 5:00 – 5:10 PM: 
-**Walk from AP Marunouchi to NICT Otemachi Office**
+**Walk from AP Marunouchi to NICT Otemachi Office: KDDI Otemachi Building 16th Floor, 1-8-1 Otemachi, Chiyoda-ku, Tokyo, 100-0004**
 
 ****
 ### 5:15 – 6:00 PM
-**Demo Session**
+**Demo Session at NICT Otemachi (TCR, 16th floor)**
 Session Chair: Eiji Kawai
 - **Demo 1:** ASEAN-IVO, Luke Jing Yuan et al. (MIMOS and ASEAN-IVO project members)
 - **Demo 2:** An Adaptive Network Testbed based on SDN-IP, Grace Hui-Lan Lee, Wun-Yuan Huang, Fang Pang Lin, Te-Lung Liu (NCHC) and Yoshihiko Kanaumi, Eiji Kawai, Naomi Terada, Shinji Shimojo (NICT)   
