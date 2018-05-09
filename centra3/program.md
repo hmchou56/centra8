@@ -54,7 +54,7 @@ Fang Pang Lin, Rui Oliveira and Shinji Shimojo
 - **Project review:** “Dynamically  Aggregating  Smart  Community  Sensors,  Edge  and Cloud Resources with Overlay VPNs,” Renato Figueiredo
 - **Project review:** “SDN-IP Peering for IoT Data Transmission,” Te-Lung Liu
 - **Project review:** “IT for Natural Disaster Management & Visualization Alliance,” Jason  Haga
-- **Project review:** “ASEAN IVO: Software Defined System on Disaster Mitigation and Smart Cities,” Jing Yuan Luke
+- **Project review:** “ASEAN IVO: Software Defined System on Disaster Mitigation and Smart Cities,” Luke Jing Yuan
 - **New CENTRA Member Organization Presentation – KISTI:** Kum Won Cho
 
 ****
