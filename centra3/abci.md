@@ -9,13 +9,15 @@ hide: true
 
 ## CENTRA 3 Post-workshop ABCI (by AIST) visit: (tentative plan)  
 
-ABCI stands for **AI Bridging Cloud Infrastructure**. More information about this supercomputer now being built by AIST (Japan's National Institute of Advanced Industrial Science and Technology) at University of Tokyo with a planned performance of 130 petaFLOPS: [ABCI Wikipedia entry](https://en.wikipedia.org/wiki/AI_Bridging_Cloud_Infrastructure) and [AIST's one-page summary at SC2016](https://www.itri.aist.go.jp/events/sc2016/pdf/P06-ABCI.pdf).  
+ABCI stands for **AI Bridging Cloud Infrastructure**. More information about this supercomputer now being built by AIST (Japan's National Institute of Advanced Industrial Science and Technology) at University of Tokyo with a planned performance of 130 petaFLOPS: [ABCI Wikipedia entry](https://en.wikipedia.org/wiki/AI_Bridging_Cloud_Infrastructure) and [AIST's one-page summary at SC2017](https://www.itri.aist.go.jp/events/sc2017/SC17_AIST_ABCI.pdf).  
 
 **Date and time:** 0900 - 1730 on May 16, 2018, some transportation time included
     
 **Location: Tokyo, Japan**   
 * Venue1: NICT Otemachi Office, KDDI Building, 16th Floor, 1-8-1 Otemachi, Chiyodo-ku, Tokyo, 100-0004
 * Venue2: ABCI (AIST) in Kashiwanoha, Kashiwa-shi, The University of Tokyo Kashiwa Campus  
+
+<img src="/img/centra3_abci_data_center.png" alt="CENTRA3 ABCI map" style="margin-right: auto;margin-left: auto;" class="img-responsive">
 
 **Program:**
 
