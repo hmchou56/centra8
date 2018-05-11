@@ -25,12 +25,12 @@ ABCI stands for **AI Bridging Cloud Infrastructure**. More information about thi
 
 * 10:00am - 11:00am ABCI presentation by AIST at Venue 1
 * 11:00am - 1:00pm Lunch break (Lunch will not be provided)  
-* 1:00pm - 2:00pm Move to ABCI in Kashiwanoha (train travel)  
+* 1:00pm - 2:00pm Move to ABCI in Kashiwanoha (bus travel)  
 * 3:30pm - Move back to Otemachi  
     
 **This is a tentative plan and the itinerary may change.**   
     
-* Please note that lunch is *not* provided today. A group bus will take registered participants to ABCI facility. 
+* Please note that lunch is *not* provided today. A group bus will take registered participants to ABCI facility. The map and directions below including train fare is for your information only (we do not anticipate so, but in the case of overlowing passengers on the pre-arranged bus for registrants, we might guide train travel if needed).
 <br>
 <br>
 <hr>
