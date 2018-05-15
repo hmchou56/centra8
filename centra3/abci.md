@@ -23,9 +23,12 @@ ABCI stands for **AI Bridging Cloud Infrastructure**. More information about thi
 
 *Please note that the [Pre-Workshop of PRAGMA 34: ABCI Visit](http://www.pragma-grid.net/pragma34-program/) also includes the same ABCI visit itinerary in the afternoon on May 9. If you are a PRAGMA 34 attendee also participating in CENTRA 3 Meeting. While morning program of May 16 (CENTRA 3 Post-Workshop) and that of May 9 (PRAGMA 34 Pre-Workshop) are different, please expect the afternoon of this day May 16 is touring the same facility - ABCI. AIST organizers suggest you choose one day to attend.*
 
+* 9:50am - Please arrive at NICT Otemachi Office, KDDI Building, 16th Floor (1-8-1 Otemachi)
 * 10:00am - 11:00am ABCI presentation by AIST at Venue 1
-* 11:00am - 1:00pm Lunch break (Lunch will not be provided)  
+* 11:00am - 12:40pm Lunch break (Lunch will not be provided)  
+* 12:45pm - Please meet back at NICT Otemachi Office, KDDI Building, 16th Floor
 * 1:00pm - 2:00pm Move to ABCI in Kashiwanoha (bus travel)  
+* 2:00pm - 3:00pm AIST ABCI Visit
 * 3:30pm - Move back to Otemachi  
     
 **This is a tentative plan and the itinerary may change.**   
