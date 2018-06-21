@@ -11,7 +11,7 @@ hide: true
   
 ***CENTRA 3 Meeting has concluded. All contact and external links information have expired or been removed. Content on this page is for archival purpose only.***
 
-If you need to obtain a Japanese visa, please contact CENTRA 3 secretariat as soon as possible. The secretariat will provide the necessary documents for your visa application.  
+If you need to obtain a Japanese visa, please contact CENTRA 3 secretariat as soon as possible, no later than April 1st. The secretariat will provide the necessary documents for your visa application.  
 
 If you are not sure, please check the latest Exemption of Visa information on Ministry of Foreign Affairs of Japan official web site, whether nationals of your country are required to obtain a visa to enter Japan. Nationals and citizens of those countries and regions shown in the list are not required to obtain visas to enter Japan when their periods of stay are short-term and visits are for tourism, commerce, conferences, visiting relatives/ acquaintances, etc.  
 
