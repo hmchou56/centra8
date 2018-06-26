@@ -70,7 +70,7 @@ By Dr. Hyuk-Jae Lee, Seoul National University, South Korea
 *03/28 at 2100 Indonesia/Thailand/Vietnam | 2200 Taiwan/Malaysia/The Philippines | 2300 Japan/S. Korea*  
 **SafeFS: Secure Software-Defined Storage**  
 By Dr. João Paulo, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal  
-[Webinar Recording](https://vimeo.com/globalcentra/safefs) | [Abstract and Speaker Bio] (https://goo.gl/zWR9g7)  
+[Webinar Recording](https://vimeo.com/globalcentra/safefs) | [Abstract and Speaker Bio](https://goo.gl/zWR9g7)  
   
 **2018/04/10 <span class="underline">@10:00</span> US EDT**      
 *04/10 at 0400 Hawaii | 0700 US Pacific | 0800 US Mountain | 1500 Portugal*  
@@ -84,7 +84,7 @@ By Dr. Francisco Maia, Institute for Systems and Computer Engineering, Technolog
 *04/26 at 0800 Indonesia/Thailand/Vietnam | 0900 Taiwan/Malaysia/The Philippines | 1000 Japan/S. Korea*  
 **Analyzing Online Social Interactions for Cyber Security, Framing, and Network Interference**  
 By Dr. Shyhtsun Felix Wu, University of California at Davis, USA  
-[Webinar recording coming soon](https://goo.gl/nUjf6F)  |  [Abstract and Speaker Bio](https://goo.gl/5D5XuX)  
+[Webinar Recording](https://vimeo.com/276910482)  |  [Abstract and Speaker Bio](https://goo.gl/5D5XuX)  
   
   
 Inquiries: CENTRA Program Coordinator Grace Hong (gshong at acis(dot)ufl(dot)edu)  
