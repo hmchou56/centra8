@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Meetings
-permalink: /meetingsnew/
-hide: true
+permalink: /meetings/
 "feature-img": img/header-nologo.jpg
 published: true
 ---
