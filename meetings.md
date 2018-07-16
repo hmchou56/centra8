@@ -50,7 +50,7 @@ published: true
 
   <tr>
     <th class="noBorder"><img src="/img/asean.jpg"></th>
-    <th class="noBorder"> ASEAN-IVO Software Defined System on Disaster Mitigation and Smart Cities Meeting, May 14-16, 2018, Tokyo, Japan<br><a href="https://sites.google.com/site/disastermidigationandsds/">Members only Website</a></th>
+    <th class="noBorder"> ASEAN-IVO Software Defined System on Disaster Mitigation and Smart Cities Meeting, May 14-16, 2018, Tokyo, Japan (members-only workshop)<br><a href="https://sites.google.com/site/disastermidigationandsds/">Website</a></th>
   </tr>
 
 
