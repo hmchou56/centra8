@@ -32,7 +32,7 @@ Member researchers who engage and advise junior researchers in CENTRA-related pr
 
 **Name**  | **Role and Institution**  | **Interests** |
 Peter Arzberger       |University of California at San Diego       |
-Corey Baker       |Postdoctoral Researcher, University of California at San Diego      |Cyber physical systems, opportunistic wireless communication for IoT, smart cities, smart homes, mobile health environments
+Corey Baker       |Assistant Professor, University of Kentucky      |Cyber physical systems, opportunistic wireless communication for IoT, smart cities, smart homes, mobile health environments
 James Beach        |Assistant Director for Informatics, Biodiversity Institute, University of Kansas       |Biodiversity informatics, open-source biocollections software
 Maxine Brown       |Director, Electronic Visualization Laboratory University of Illinois at Chicago           |Scientific visualization, collaboration, human-computer interfaces, high-performance computing, international network infrastructure
 Charlie Catlett        |Senior Computer Scientist, Argonne National Laboratory and the University of Chicago  |Urban data science, cyber security and privacy, mobile devices and social networks 
@@ -48,9 +48,10 @@ Susumu Date       |Associate Professor, Osaka University, Japan       |Grid, clo
 Peter Dinda        |Professor, Dep. of Electrical Engineering and Computer Science, Northwestern University      |Virtualization, HPC, emphatic computing, performance models
 Tung-Yun (Tony) Fan       |Researcher, National Museum of Marine Biology and Aquarium, Taiwan      |Integrated coastal zone management research; reproduction, physiology, ecology and cultivation of coral reef organisms
 Renato Figueiredo   |Professor, University of Florida          |Peer-to-peer, cloud and autonomic computing, virtualized systems 
-Jose Fortes        |Professor, AT&T Eminent Scholar, University of Florida          |Distributed software-defined systems
+José Fortes        |Professor, AT&T Eminent Scholar, University of Florida          |Distributed software-defined systems
 Kazutoshi Fujikawa       |Researcher, NARA Institute of Science and Technology (NAIST), Japan       |
 Masanori Goto       |Researcher, National Institute of Information and Communications Technology (NICT), Japan       |Cloud computing, testbed
+Andrew Grimshaw      |Professor, University of Virginia     |Grid computing, high-performance parallel computing, compilers for parallel systems, operating systems
 Jason Haga       |Senior Researcher, National Institute of Advanced Industrial Science and Technology (AIST), Japan      |IoT, visualization, user experience, interdisciplinary collaboration
 Thomas Harmon      |Professor, University of California at Merced      |Environment sensors, soil, aquatic and groundwater systems 
 Julio Ibarra       |Assistant Vice President for Technology Augmented Research, Florida International University     |Cyberinfrastructure, Networking, Internet Technologies
@@ -59,9 +60,11 @@ Shantenu Jha        |Professor of Computer Engineering, Rutgers University      
 Tung-Ju Hsieh       |CECEA Lecturer and Associate Professor, National Taipei University of Technology, Taiwan     |Scientific Visualization, Scientific Visualization, Virtual Reality, Earthquake Engineering 
 Chung-I Huang       |Associate Researcher, National Center for High-performance Computing, Taiwan     |Computer vision, image processing
 Weicheng Huang      |Senior Researcher, National Center for High-performance Computing, Taiwan      |Could, big data
-Eiji Kawai       |Laboratory Director, National Institute of Information and Communications Technology (NICT), Japan      |SDI, tesbed, IoT
+Krishna Kant      |Professor, Temple University     |Communications for disaster response, smart grid security, IoT configuration and security, data center emergy, storage systems
+Eiji Kawai       |Laboratory Director, NICT, Japan      |SDI, tesbed, IoT
 Myat Thiri Khine      |Assistant Lecturuer, University of Computer Studies, Myanmar      |GIS 
 Yoshiyuki Kido       |Associate Professor, Osaka University, Japan       |Tile-Display Wall, software-defined network
+Tae Sung Kim      |Post-Doc Researcher, Seoul National University, South Korea      |Video processing, hardware accelerator, SoC design
 Chih-Yu Kou       |CECEA Lecturer and Researcher, Academia Sinica, Taiwan        |
 Li-Chi Ku       |Engineer, National Center for High-performance computing, Taiwan       |Software defined network 
 Hyuk-Jae Lee       |Professor, Dept. of Electrical and Computer Engineering, Seoul National University, Seoul, Korea     |Smart sensors, high-performance computing, image processing 
@@ -84,7 +87,7 @@ Hong Hoe Ong       |Senior Director, MIMOS Berhad, Malaysia     |Disaster Manage
 Phil Papadopoulos   |Chief Technology Officer, San Diego Supercomputer Center, University of California at San Diego             |High-Performance Computing, cluster computing, middleware
 João Paulo      |Post-Doc Researcher, INESC TEC, Portugal      |Large scale distributed systems, cloud storage security      
 Frederick Kin Hing Phoa       |Associate Research Fellow, Academia Sinica, Taiwan       |Social network analysis, nature-inspired evolutionary algorithm, paralle computer, big data
-Jose Pereia     |Assistant Professor, INESC TEC and Universidade do Minho, Portugal      |Distributed systems, data management 
+José Pereia     |Assistant Professor, INESC TEC and Universidade do Minho, Portugal      |Distributed systems, data management 
 Beth Plale          |Professor, School of Informatics and Computing, Indiana University                            |Data science and systems
 Calton Pu     |Professor, John Imlay Jr. Chair in Software, College of Computing, Georgia Tech       |Distributed systems, Internet, data management, disaster management
 Glenn Ricart        |Founder and CTO, US Ignite         |Smart cities, networking and security
@@ -93,7 +96,7 @@ Woojin Seok      |Researcher, KISTI, South Korea      |Networking, testbed, cybe
 Steven Shiau       |Researcher, National Center for High-performance Computing, Taiwan       |Parallel processing, open source development, cloud and big data
 Ce-Kuen Shieh       |Director, National Center for High-performance Computing, Taiwan        |Distributed and parallel processing, internet and wireless communication, micro-computer system, operation system
 Shinji Shimojo       |NICT and Osaka University, Japan       |IoT, software-defined system, commons, smart cities
-João Rocha Silva      | Researcher, INESC TEC, Portugal      |Research data management, semantic web technologies 
+João Rocha Silva      | Researcher, INESC TEC, Portugal      |Research data management, Dendro development, semantic web technologies 
 Shava Smallen        |Programmer, San Diego Supercomputer Center, University of California at San Diego |Grid computing, parallel tomography
 Aimee Stewart      |Research Architect, University of Kansas Biodiversity Institute          |Distributed computing, databases
 Cheng-Kai (Ceasar) Sun       |Researcher, National Center for High-performance Computing, Taiwan       |HI-VISION
@@ -119,13 +122,21 @@ Chi-Wei Yi       |Professor, National Chiao Tung University       |Sensor networ
 
 **Name** | **Role and Institution** | **Interests**
 Saumitra Aditya | PhD Student, University of Florida | Networked systems, network virtualization, social networks
+Nannapas Banluesombatkul     |Graduate Student,  Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand   |Cloud scheduling, machine learning
+Chiao-Ming Chuang  |Graduate Student, National Chiao Tung University, Taiwan     |Image processing, deep learning
 Adam Grupa | PhD Student, The Ohio State University | Autonomic computing, distributed computing, artificial intelligence, neural networks
 Ming Tai Ha | PhD Student, Rutgers University | High-performance computing, distributed computing
 Dylan Kobayashi | PhD Student, University of Hawaii at Manoa | SAGE2 development, data visualization, multiple tiled displays
+Shu-Wei Lee     | Graduate Student, National Cheng Kung University, Taiwan     |Software-defined network, network function virtualization
+Ming-Hong Lin     |Graduate Student, National Chiao Tung University, Taiwan    |Deep learning, IoT, AI 
+Yu Shao Liu      |Graduate Student, National Chiao Tung University, Taiwan     |Database, image processing
 Srivattsan Sridharan | PhD Student, University of Florida | Autonomic computing, distributed computing, software-defined systems, model definition for information systems
+Sola Park      |Master's Student, Seoul National University, South Korea      |Object detection and tracking, YOLO, autonomous driving
 Kensworth Subratie | PhD Student, University of Florida | Virtual networks, distributed storage and resource access control
+Jyun-Yu Syu     |Graduate Student, National Chiao Tung University, Taiwan     |Wireless technologies, media streaming and management service
 Hsin-Hung Tseng | Undergraduate Student, National Chung Hsing University, Taiwan |HI-VISION
 Pongsakorn U-chupala | PhD Student, NAIST, Japan | Software-defined network, high-performance computing
 Ryan Vrecenar | PhD Student, Texas A&M University | Reverse engineering, security, binary modeling
+Juan Sebastian Aguirre Zarraonandia      |Master's Student, Osaka University, Japan      |Software-defined network, Wide Area Network
 {: class="table"}
 <a href="#founders">Back to top</a>
