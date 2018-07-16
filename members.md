@@ -21,6 +21,7 @@ Each partner hosts workshops, supports researcher visits to other partners, host
 *  ASEAN International Virtual Organization (ASEAN IVO), National Institute of Information and Communications Technologies (NICT), Japan
 *  Center of Excellence for Cyber-Enablement of Applications (CECEA), Taiwan
 *  The Institute for Systems and Computer Engineering, Technology and Science [(INESC TEC)](https://inesctec.pt/), Portugal
+*  Korea Institute of Science and Technology Information [(KISTI)](https://www.kisti.re.kr/eng/), Republic of Korea
 *  Pacific Rim Applications and Grid Middleware Assembly [(PRAGMA)](http://www.pragma-grid.net/)
 
 <div id="researchers"> </div>
@@ -41,6 +42,7 @@ Ling-huang Chang       |Professor, National Taichung University, Taiwan     |Sof
 Yi-Chun Chang       |Researcher, National Museum of Marine Science & Technology, Taiwan    |
 Ling-Jyh Chen       |Associate Researcher, Academia Sinica, Taiwan      |Participatory urban sensing, networked sensing systems, smart cities
 Yen-Jong Chen       |Professor, National Cheng Kung University, Taiwan     |Urban systems, housing economics, energy application, green city
+Kum Won Cho      |Vice President, KISTI, South Korea      |High-performance computing
 Hsiu-Mei Chou       |Associate Researcher, National Center for High-performance Computing, Taiwan     |Large-scale scientific data management, data visualization, user experience
 Susumu Date       |Associate Professor, Osaka University, Japan       |Grid, cloud, software-defined network
 Peter Dinda        |Professor, Dep. of Electrical Engineering and Computer Science, Northwestern University      |Virtualization, HPC, emphatic computing, performance models
@@ -70,23 +72,28 @@ Fang-Pang Lin       |Division Director, National Center for High-performance Com
 Jason Liu        |Associate Professor, School of Computing and Information Sciences, Florida International University |Modeling and simulation, computer networking, parallel computing, computer systems
 Te-Lung Liu        |Research Fellow, National Center for High-performance Computing, Taiwan        |High-speed communication network, fiber internet, network planning and management, design and planning for future platform
 Jing Yuan Luke      |Senior Staff, MIMOS Berhad, Malaysia      |Disaster Management, Software-Defined Network
+Francisco Maia      |Post-Doc Researcher, INESC TEC, Portugal, and CEO of SafeCloud Technologies Sàrl      |Large-scale data management and privacy, non-relational databases, cloud computing and distributed coordination
 Toshiyuki Miyachi       |Director of Hokuriku StarBED Technology Center, NICT, Japan      |Network testbed
 Ikuo Nakagawa       |Associate Professor, Osaka University, Japan     |Wide-area virtualized environment, Software-Defined Network 
 Akihiro Nakao       |Professor, The University of Tokyo, Japan      |Software-defined network
 Tho Nguyen        |Managing Director of the Center for Automata Processing and Senior Research Program Officer, Dept. of Computer Science, University of Virgina |Cyber-physical systems, environmental sensing, resiliency, large-scale system modeling
 Rong-Rong (Delphia) Nien       |Research Assistant, National Center for High-performance Computing, Taiwan       |Sensor automation, GUI programming
 Katia Obraczka     |Professor, University of California at Santa Cruz      |Networks, distributed/operating systems, Internet, mobile systems
-Rui Oliveira       |Associate Professor and Director of HASLab, INESTEC, Portugal     |Distributed systems
+Rui Oliveira       |Associate Professor and Director of HASLab, INESC TEC, Portugal     |Distributed systems
 Hong Hoe Ong       |Senior Director, MIMOS Berhad, Malaysia     |Disaster Management, Software-Defined Networking
 Phil Papadopoulos   |Chief Technology Officer, San Diego Supercomputer Center, University of California at San Diego             |High-Performance Computing, cluster computing, middleware
+João Paulo      |Post-Doc Researcher, INESC TEC, Portugal      |Large scale distributed systems, cloud storage security      
 Frederick Kin Hing Phoa       |Associate Research Fellow, Academia Sinica, Taiwan       |Social network analysis, nature-inspired evolutionary algorithm, paralle computer, big data
+Jose Pereia     |Assistant Professor, INESC TEC and Universidade do Minho, Portugal      |Distributed systems, data management 
 Beth Plale          |Professor, School of Informatics and Computing, Indiana University                            |Data science and systems
 Calton Pu     |Professor, John Imlay Jr. Chair in Software, College of Computing, Georgia Tech       |Distributed systems, Internet, data management, disaster management
 Glenn Ricart        |Founder and CTO, US Ignite         |Smart cities, networking and security
 Myint Myint Sein       |Assistant Professor, University of Computer Studies, Myanmar       |GIS, Image Processing, Optical Character Recognition, 3D reconstruction 
+Woojin Seok      |Researcher, KISTI, South Korea      |Networking, testbed, cyberinfrastructure for climate services 
 Steven Shiau       |Researcher, National Center for High-performance Computing, Taiwan       |Parallel processing, open source development, cloud and big data
 Ce-Kuen Shieh       |Director, National Center for High-performance Computing, Taiwan        |Distributed and parallel processing, internet and wireless communication, micro-computer system, operation system
 Shinji Shimojo       |NICT and Osaka University, Japan       |IoT, software-defined system, commons, smart cities
+João Rocha Silva      | Researcher, INESC TEC, Portugal      |Research data management, semantic web technologies 
 Shava Smallen        |Programmer, San Diego Supercomputer Center, University of California at San Diego |Grid computing, parallel tomography
 Aimee Stewart      |Research Architect, University of Kansas Biodiversity Institute          |Distributed computing, databases
 Cheng-Kai (Ceasar) Sun       |Researcher, National Center for High-performance Computing, Taiwan       |HI-VISION
@@ -95,6 +102,7 @@ Tso-Chung Sung       |Assistant Researcher, National Museum of Marine Science an
 Ryousei Takano       |Group Leader, AIST, Japan       |Operating systems, high performance networking, distributed parallel computing
 Yoshio Tanaka       |Director of Information Technology Research Institute, AIST, Japan       |Distributed computing, cyber physical systems, security
 Valerie Taylor      |Senior Associate Dean for Academic Affairs and Royce E. Wisenbaker Professor, Texas A&M University |HPC, performance modeling of distributed applications, smart cities
+Naomi Terada      |Technical Expert, Network Testbed Planning & Deployment Labratory, NICT, Japan      |Software-defined network testbed, multimedia streaming, visualization of social data
 Hui Ping Tsai       |Postdoctoral Fellow, National Chung Hsing University, Taiwan       |Remote sensing, land use and land cover change, climate variability
 Whey-Fone Tsai       |Senior Researcher, National Center for High-performance Computing, Taiwan       |Environmental modeling, disaster management, big data application, geo-spatial application
 Nadya Williams        |Systems Application Specialist, San Diego Supercomputer Center, University of California at San Diego     |Software architecture, virtualization
@@ -104,7 +112,7 @@ Xinfu Wu        |Associate Professor, Texas A&M University          |High perfor
 Hiroaki Yamanaka      |Researcher, NICT, Japan   |Software-defined network, virtualization, edge computing, IoT       |
 Ming-Der Yang       |Professor, National Chung Hsing University       |Image processing, remote sensing, GIS, environmental modeling, disaster management
 Chu-Sing Yang       |Professor, National Cheng Kung University, Taiwan      |Internet technology, pervasive computing, surveillance system, SDN-OpenFlow
-Chi-Wei Yi       |Professor, National Chiao Tung University       |sensor networks, intelligent transportation systems, mobile sensing, data mining
+Chi-Wei Yi       |Professor, National Chiao Tung University       |Sensor networks, intelligent transportation systems, mobile sensing, data mining
 {: class="table"}
 
 # Students
