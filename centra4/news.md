@@ -7,21 +7,21 @@ published: true
 hide: true
 ---
 
-* *All text on this page is placeholder only. To be updated* *
+*All text on this page is placeholder only. To be updated*
   
 ## Important Dates
 
 As soon as possible: check [Visa Information](http://www.globalcentra.org/centra4/visainfo.html) and follow up accordingly if you need to obtain a Japanese visa to enter Japan.  
 
-February 27, 2018: PRAGMA / CENTRA Japan Meetings 2018 [Registration](http://www.globalcentra.org/centra3/registration.html) Opens  
+January XX, 2019: CENTRA 4 Meeting [Registration](http://www.globalcentra.org/centra4/registration.html) Opens (*Note: If you are also attending PRAGMA 36, you can sign up in the same registration form.)  
 
-April 16, 2018: Registration has now closed. See more details described on the [Registration page](http://www.globalcentra.org/centra3/registration.html) on this site   
+March or April XX, 2019 by midnight Korea time (UTC+9): Registration closes. See more details described on the [Registration page](http://www.globalcentra.org/centra4/registration.html) on this site   
 
-April 23, 2018: [Poster and Demo](http://www.globalcentra.org/centra/poster.html) abstracts submission deadline
+March/April X, 2019: [Poster and Demo](http://www.globalcentra.org/centra4/poster.html) abstracts submission deadline
 
-May 5, 2018: Full poster PDF or pptx submission to fortes (at) ufl (dot) edu and gshong (at) ufl (dot) edu .
+April X, 2019: Full poster PDF or pptx submission to:
 
-May 5, 2018: Final demo requirements submission to masa.goto (at) nict (dot) go (dot) jp .
+April X, 2019: Final demo requirements submission to:
   
     
 
