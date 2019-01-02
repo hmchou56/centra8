@@ -12,26 +12,24 @@ hide: true
 
 -------------
 # Working Agenda
-<h2><strong><u><a href="http://www.globalcentra.org/centra3/CENTRAprogrambook_08May18.pdf" > CENTRA 3 e-Program for download here (PDF)</a> </u></strong> </h2>
+<h3><strong><u><a href="http://www.globalcentra.org/centra3/CENTRAprogrambook_08May18.pdf" > CENTRA 3 e-Program for download here (PDF)</a> </u></strong> </h3>
 
 
 -------------
 
-					Sunday, May 13 
+					Sunday, April 21, 2019 
 
 <br>
-**CENTRA Steering Committee Meeting**
+Travel Day. Arrival in Jeju.
 <br>
 <br>
 
 
 *** 
-					Monday, May 14 
+					Monday, April 22, 2019  
 
 ### 09:00 AM 
 **Registration and Poster Setup** 
-<br>
-<br>
 <br>
 <br>
 
@@ -39,10 +37,9 @@ hide: true
 ### 9:30 – 10:30 AM
 **Plenary Flyby Session: Opening Communications**
 - Session Chair: Shinji Shimojo
-- **Welcome remarks:** Dr. Fumihiko Tomita (Vice President, Member of the Board of Directors, NICT)
-- **Introducing NICT Testbeds:** Dr. Hiroaki Harai (Director General of ICT Testbed Research and Development Promotion Center, NICT)
-- **Presentation: “CENTRA 3:** Objectives, Partners and Desired Outcomes,” José Fortes, 
-Fang Pang Lin, Rui Oliveira and Shinji Shimojo  
+- **Welcome remarks:** Dr. Kum Won Cho (Vice President, KISTI) 
+- **... KREONET :** 
+- **Presentation: “CENTRA 4:** Objectives, Partners and Desired Outcomes,” José Fortes, Kum Won Cho, Fang Pang Lin, Rui Oliveira and Shinji Shimojo  
 
 ****
 ### 10:30 – 10:45 AM 
@@ -99,11 +96,11 @@ Session Chair: Eiji Kawai
 
 ***
 ### 6:30 PM
-**Reception**
-- (UOMAN DINING: Nihon Seimei Marunouchi Garden Tower B1, 1-1-3 Marunouchi, Chiyoda-ku)
+**Reception or Dinner**
+- (Location)
 
 ****
-							 Tuesday, May 15
+							 Tuesday, April 23, 2019
 
 ### 09:00 – 09:15 AM 
 **Plenary Presentation “Toward the Global Reseach Platform,” Nadya Williams**
@@ -140,3 +137,10 @@ Session Chair: Eiji Kawai
 - **CENTRA Advisory Board and Steering Committee Meeting**
 
 ****
+***
+### 6:30 PM
+**Reception or Dinner**
+- (Location)
+							 Wednesday, April 24, 2019
+
+### 09:00 – 09:15 AM 
