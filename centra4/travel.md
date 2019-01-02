@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 
-* *text on this page is a placeholder only. to be updated* *
+*text on this page is a placeholder only. to be updated*
   
 ## CENTRA 2019 Travel Information  
   
@@ -21,10 +21,10 @@ Jeju International Airport (CJU) (*please add any description here for clarity f
 
 Jeju Airport is located about xx kilometers east from...  and most of the international flight land at this airport. There are many options to reach venue...
 
-*PUBLIC TRANSPORT*
+* *PUBLIC TRANSPORT*:
   
   
-*TAXI*:   
+* *TAXI*:   
 Taxi service can be accessed at ... . Taxi fare between CJU and (venue) one-way is typically KRW xxxxx (/ US$... ).
 
 <img src="/img/Narita Airport to venue.png" alt="Narita Airport to venue" style="margin-right: auto;margin-left: auto;" class="img-responsive">
