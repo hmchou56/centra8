@@ -1,13 +1,15 @@
 ---
-layout: centrameeting3
-title: CENTRA 2018
-permalink: /centra3/venue.html
-"feature-img": img/centra3.png
+layout: centrameeting4
+title: CENTRA 2019
+permalink: /centra4/venue.html
+"feature-img": img/centra4-banner.jpg
 published: true
 hide: true
 ---
 
-## CENTRA 2018 Venue and Hotels
+## CENTRA 2019 Venue and Hotels 
+
+(the text below is a place holder only. to be updated)  
 
 ### Venue
 
