@@ -1,18 +1,18 @@
 ---
-layout: centrameeting3
-title: CENTRA 2018
-permalink: /centra3/program.html
-"feature-img": img/centra3.png
+layout: centrameeting4
+title: CENTRA 2019
+permalink: /centra4/program.html
+"feature-img": img/centra4-banner.jpg
 published: true
 hide: true
 ---
 <!-- 
-## CENTRA 2018: Smart Cyberinfrastructure for Transnational Science
+## CENTRA 2019: Smart Cyberinfrastructure for Transnational Science [theme to be updated]
  -->
 
 -------------
 # Working Agenda
-<h2><strong><u><a href="http://www.globalcentra.org/centra3/CENTRAprogrambook_08May18.pdf" > CENTRA 3 e-Program is now available for download here (PDF)</a> </u></strong> </h2>
+<h2><strong><u><a href="http://www.globalcentra.org/centra3/CENTRAprogrambook_08May18.pdf" > CENTRA 3 e-Program for download here (PDF)</a> </u></strong> </h2>
 
 
 -------------
