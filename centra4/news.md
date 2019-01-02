@@ -1,16 +1,17 @@
 ---
-layout: centrameeting3
-title: CENTRA 2017
-permalink: /centra3/news.html
-"feature-img": img/centra3.png
+layout: centrameeting4
+title: CENTRA 2019
+permalink: /centra4/news.html
+"feature-img": img/centra4-banner.jpg
 published: true
 hide: true
 ---
 
-
+* *All text on this page is placeholder only. To be updated* *
+  
 ## Important Dates
 
-As soon as possible: check [Visa Information](http://www.globalcentra.org/centra3/visainfo.html) and follow up accordingly if you need to obtain a Japanese visa to enter Japan.  
+As soon as possible: check [Visa Information](http://www.globalcentra.org/centra4/visainfo.html) and follow up accordingly if you need to obtain a Japanese visa to enter Japan.  
 
 February 27, 2018: PRAGMA / CENTRA Japan Meetings 2018 [Registration](http://www.globalcentra.org/centra3/registration.html) Opens  
 
@@ -24,28 +25,20 @@ May 5, 2018: Final demo requirements submission to masa.goto (at) nict (dot) go 
   
     
 
-## Outline of PRAGMA / CENTRA Japan Meetings 2018 
+## Outline of CENTRA 4 Meeting 2019 and co-located events 
 
-**PRAGMA 34 Pre-Workshop ABCI Visit**  
-* Date: May 9, 2018  
-* Location: Tokyo, Japan (Venue: Akihabara Convention Hall and Kashiwa Campus)  
+**CENTRA 4 Meeting: ... Cyberinfrastructure for/and... **  
+* Date: Arpil 22-24, 2019  
+* Location: Jeju, Korea (Venue:  )  
 
-**PRAGMA 34 Workshop**  
-* Dates: May 10 ~ 11, 2018  
-* Location: Tokyo, Japan (Venue: Akihabara Convention Hall)  
-
-**CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science**  
-* Dates: May 14 ~ 15, 2018  
-* Location: Tokyo, Japan (Venue: AP Tokyo Marunouchi)  
-
-**CENTRA 3 Post-Workshop ABCI (AIST) Visit**  
-* May 16, 2018
-* Location: Tokyo, Japan (Venue: NICT Otemachi and Kashiwa Campus)  
+**CENTRA 4 xyz event / PRAGMA 36 pre-Workshop**  
+* Dates: April 24, 2019 
+* Location: Jeju, Korea (Venue: )  
 
 **ASEAN IVO Software Defined System on Disaster Mitigation and Smart Cites Meeting**  
-* Date: May 14 ~ 15, 2018  
-* Location: Tokyo, Japan (Venue: NICT Otemachi)  
-* Members and by invitation Only  
+* Date: April 2X, 2019 (*just a placeholder, no planning yet*)
+* Location: 
+* For Members and by invitation Only  
 
-*If any questions about the meetings above, please contact: pragma_centra (a) ml.nict.go.jp 
+*If any questions about the meetings above, please contact: (at) kisti (dot) re (dot) kr*  
 
