@@ -42,7 +42,7 @@ Mostly mild. Warm enough to spend in long-sleeved shirts during the daytime. Lig
 
 2-flat-pin plugs (plug type C and type F) are used in Korea. The standard voltage in Korea is 220 volts at 60 Hertz, and the outlet has two round holes. 
 
-![](/img/centra3-transport1.png)  |  ![](/img/centra3-transport2.png)
+![](/img/type_C.jpg)  |  ![](/img/type_F.jpg)
 
 #### Useful Links 
 
