@@ -27,7 +27,7 @@ April X, 2019: Final demo requirements submission to:
 
 ## Outline of CENTRA 4 Meeting 2019 and co-located events 
 
-**CENTRA 4 Meeting: ... Cyberinfrastructure for/and... **  
+**CENTRA 4 Meeting: ... Cyberinfrastructure for/and...**  
 * Date: Arpil 22-24, 2019  
 * Location: Jeju, Korea (Venue:  )  
 
