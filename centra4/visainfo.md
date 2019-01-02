@@ -1,8 +1,8 @@
 ---
 layout: centrameeting3
-title: CENTRA 2018
-permalink: /centra3/visainfo.html
-"feature-img": img/centra3.png
+title: CENTRA 2019
+permalink: /centra4/visainfo.html
+"feature-img": img/centra4.png
 published: true
 hide: true
 ---
