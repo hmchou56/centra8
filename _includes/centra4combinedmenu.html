@@ -96,31 +96,27 @@ section.post-content {
 	<div class="panel panel-default">
 		<div class="panel-heading" role="tab" id="centraHeading">
 			<h4 class="panel-title">
-				<a role="button" {% if page.url contains 'centra3' %} class="selected" {% endif %} data-toggle="collapse" data-parent="#accordion" href="#centra" aria-expanded="true" aria-controls="centra">
-					Centra 2018
+				<a role="button" {% if page.url contains 'centra4' %} class="selected" {% endif %} data-toggle="collapse" data-parent="#accordion" href="#centra" aria-expanded="true" aria-controls="centra">
+					Centra 2019
 				</a>
 			</h4>
 		</div>
-		<div id="centra" {% if page.url contains 'centra3' %} class="panel-collapse collapse in" {% else %} class="panel-collapse collapse" {% endif %} role="tabpanel" aria-labelledby="centraHeading">
+		<div id="centra" {% if page.url contains 'centra4' %} class="panel-collapse collapse in" {% else %} class="panel-collapse collapse" {% endif %} role="tabpanel" aria-labelledby="centraHeading">
 			<div class="panel-body">
 				<ul class="centra_meeting_menu_sub">
-					<li {% if page.url == '/centra3/' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra3/">Welcome</a></li>
-					<li {% if page.url contains '/centra3/news.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra3/news.html">Important Dates</a></li>
+					<li {% if page.url == '/centra4/' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra4/">Welcome</a></li>
+					<li {% if page.url contains '/centra4/news.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra4/news.html">Important Dates</a></li>
 
-					<li {% if page.url contains '/centra3/program.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra3/program.html">Program</a></li> 
+					<li {% if page.url contains '/centra4/registration.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra4/registration.html">Registration</a></li>
+					
+					<li {% if page.url contains '/centra4/program.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra4/program.html">Program</a></li>
 
-					<li {% if page.url contains '/centra3/presentations.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra3/presentations.html">Presentations</a></li> 
+					<li {% if page.url contains '/centra4/posters.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra4/posters.html">Posters and Demos</a></li> 
 
-					<li {% if page.url contains '/centra3/abci.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra3/abci.html">Post-Workshop: ABCI</a></li> 
-
-					<li {% if page.url contains '/centra3/posters.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra3/posters.html">Posters and Demos</a></li> 
-
-					<li {% if page.url contains '/centra3/registration.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra3/registration.html">Registration</a></li>
-
-					<li {% if page.url contains '/centra3/venue.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra3/venue.html">Venue & Lodging</a></li>
-					<li {% if page.url contains '/centra3/travel.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra3/travel.html">Travel</a></li>
-					<li {% if page.url contains '/centra3/visainfo.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra3/visainfo.html">Visa Information</a></li>
-					<li {% if page.url contains '/centra3/organizers.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra3/organizers.html">Organizers & Sponsors</a></li>
+					<li {% if page.url contains '/centra4/venue.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra4/venue.html">Venue & Lodging</a></li>
+					<li {% if page.url contains '/centra4/travel.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra4/travel.html">Travel</a></li>
+					<li {% if page.url contains '/centra4/visainfo.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra4/visainfo.html">Visa Information</a></li>
+					<li {% if page.url contains '/centra4/organizers_sponsors.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra4/organizers.html">Organizers & Sponsors</a></li>
 				</ul> 
 			</div>
 		</div>
