@@ -11,7 +11,7 @@ hide: true
   
 ## CENTRA 2019 Travel Information  
   
-*CENTRA 4 Meeting: Smart Cyberinfrastructure for Transnational Science (theme to be updated)* will be held at (venue), Jeju Island. The venue is located in (address and/or a general description of where in the city/town and if applicable, with a specific public transportation stop name to indicate which station to get off by bus/tram, etc.). 
+*CENTRA 4 Meeting: Smart Cyberinfrastructure for Transnational Science (<- it is CENTRA 3 theme; for CENTRA 4-  to be updated)* will be held at (venue), Jeju Island. The venue is located in (address and/or a general description of where in the city/town and if applicable, with a specific public transportation stop name to indicate which station to get off by bus/tram, etc.). 
 
 ### Air Travel
 
