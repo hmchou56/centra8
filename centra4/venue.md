@@ -16,7 +16,7 @@ hide: true
 The *CENTRA4-PRAGMA36 Joint Meeting* will be held at *PHOENIX JEJU* on the 2F, Bella Terrace Orange. ([Map](https://goo.gl/maps/zjsYVaFQWW92)).    
 
 Address: 107 Seopji Koji-ro, Seongsan-eup, Seogwipo-si, Jeju, Korea.
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.7201301904047!2d126.92555061519877!3d33.43054018077967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x350d136bd4baf8df%3A0x55580118da31c48e!2z7ZyY64uJ7IqkIOygnOyjvCDshK3sp4DsvZTsp4A!5e0!3m2!1sko!2skr!4v1546909120021" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.7201301904047!2d126.92555061519877!3d33.43054018077967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x350d136bd4baf8df%3A0x55580118da31c48e!2z7ZyY64uJ7IqkIOygnOyjvCDshK3sp4DsvZTsp4A!5e0!3m2!1sko!2skr!4v1546909120021" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 <img src="/img/centra4-venue-1.png" alt="CENTRA4 venue 1" style="margin-right: auto;margin-left: auto;" class="img-responsive">  
