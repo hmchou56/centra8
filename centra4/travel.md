@@ -185,19 +185,19 @@ Jeju Airport is located about 45 kilometers away from Phoenix JEJU. There are ma
 
 <img src="/img/centra4-air-3.png" alt="Ground transportation from airport to venue" style="margin-right: auto;margin-left: auto;" class="img-responsive"><br>
 
-+ *by Bus*: 90 minutes from airport 
 
-Express Bus (101, 111), Boarding at Airport Gate 1(front) <br>
-(Jeju Int’l Airport -> Intercity Bus Terminal -> Use Ilju Ave. Bus Line) 
-<img src="/img/centra4-air-4.png" alt="Ground Transportation by Bus" style="margin-right: auto;margin-left: auto;" class="img-responsive"><br>
-  
-+ *by TAXI*: 50 minutes from airport, one-way is typically KRW 37,000 (/ USD 30~35) 
+- by Bus: 90 minutes from airport 
+  Express Bus (101, 111), Boarding at Airport Gate 1(front)
+  (Jeju Int’l Airport -> Intercity Bus Terminal -> Use Ilju Ave. Bus Line) 
+  <img src="/img/centra4-air-4.png" alt="Ground Transportation by Bus" style="margin-right: auto;margin-left: auto;" class="img-responsive">
 
-  (If you exit through Gate 3 and cross the crosswalk you will be at the taxi stand.) <br>
 
-+ *by Airport Shuttle Service of Phoenix JEJU*: 
+- by TAXI: 50 minutes from airport, one-way is typically KRW 37,000 (/ USD 30~35)
+  (If you exit through Gate 3 and cross the crosswalk you will be at the taxi stand.)
 
-<img src="/img/centra4-air-5.png" alt="Airport Shuttle Service" style="margin-right: auto;margin-left: auto;" class="img-responsive">
+
+- by Airport Shuttle Service of Phoenix JEJU: 
+  <img src="/img/centra4-air-5.png" alt="Airport Shuttle Service" style="margin-right: auto;margin-left: auto;" class="img-responsive">
   - From Jeju Int'l Airport to Phoenix JEJU <br>
     (Suttle stops:  Zone C parking lots 9, 10, 11, Jeju Int'l Airport)
     <img src="/img/centra4-shuttle1.png" alt="Shuttle to venue" style="margin-right: auto;margin-left: auto;" class="img-responsive">
