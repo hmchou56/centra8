@@ -14,7 +14,7 @@ hide: true
 
 ### Air Travel
 
-<img src="/img/centra4-air-1.jpg" alt="Air Travel to Jeju Island" style="max-width: 100%; height: auto; margin-right: auto;margin-left: auto;" class="img-responsive">
+<img src="/img/centra4-air-1.jpg" alt="Air Travel to Jeju Island" style="max-width: 70%; height: auto; margin-right: auto;margin-left: auto;" class="img-responsive">
 
 **A. Direct Int'l Flight to Jeju Int'l Airport**
 <table class="travel" >
