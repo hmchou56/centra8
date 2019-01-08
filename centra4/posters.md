@@ -18,10 +18,9 @@ Network and other requirement if this is a demo abstract
 
 * *text on this page is placeholder only, to be updated* *
   
-Template has been e-mailed to registered participants on/in (date or a time period).
 
 ### Where to Submit
-All CENTRA 4 registered participants are welcome to submit the completed Word template to shimojo (at) cmc (dot) osaka-u (at) ac (at) jp, masa.goto (at) nict (dot) go (dot) jp and cc gshong (at) ufl (dot) edu .
+All CENTRA 4 registered participants are welcome to submit the completed Word template to:
 
 
 ### Poster Requirements
@@ -30,20 +29,20 @@ All posters must use the A1 format (594 x 841 mm/23.4 x 33.1 in).
 All submissions will be reviewed by CENTRA 4 Program Committee. Decisions and suggestions will be made available via email.  
 Authors are expected to respond to review comments and, if necessary, resubmit their updated poster and abstract.  
 
-All accepted posters will also need to prepare **two copies** of prints for showcasing at AP Marunouchi Tokyo (main venue, all day on Monday, May 14) and at NICT KDDI Otemachi Office Building, as a parallel session to the Demo session (5.10 - 6.00 pm) also on Monday, May 14, 2018. Authors are responsible for poster setup and removal. 
+All accepted posters will also need to prepare: . Authors are responsible for poster setup and removal. 
 
 
 ### Demo Requirements
 
-Please contact masa.goto (at) nict (dot) go (dot) jp for what you need at your demo, e.g. network setup or other requirements as soon as possible, no later than May 5, 2018. 
+Please contact (   ) for what you need at your demo, e.g. network setup or other requirements as soon as possible, no later than (deadline).
 
 
 ### Important Dates
-Poster and Demo abstracts submission deadline: April 23, 2018  
-Author notification: May 1, 2018  
-Full poster PDF or pptx submission: May 5, 2018 
-Final demo requirements submission: May 5, 2018  
+Poster and Demo abstracts submission deadline: 
+Author notification: 
+Full poster PDF or pptx submission:  
+Final demo requirements submission:  
 
 
-If you have any questions, please contact CENTRA 3 Poster and Demo Chairs: shimojo (at) cmc (dot) osaka-u (at) ac (at) jp and masa.goto (at) nict (dot) go (dot) jp 
+If you have any questions, please contact CENTRA 4 Poster and Demo Committee:
 
