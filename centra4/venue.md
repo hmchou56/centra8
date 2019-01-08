@@ -9,62 +9,33 @@ hide: true
 
 ## CENTRA 2019 Venue and Hotels 
 
-(the text below is a place holder only. to be updated)  
 
 ### Venue
 
-[**AP Tokyo Marunouchi**](https://www.tc-forum.co.jp/kanto-area/ap-marunouchi/)  
-*CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science* will be held at *AP Tokyo Marunouchi*. The venue is located in the center of Tokyo (Marunouchi District) and adjacent to the Wadakura Fountain Park and Imperial Palace Gardens ([Map](https://www.google.co.jp/maps/place/%E3%82%B3%E3%83%B3%E3%83%99%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0AP%E6%9D%B1%E4%BA%AC%E4%B8%B8%E3%81%AE%E5%86%85/@35.6844264,139.7600255,17z/data=!3m1!4b1!4m5!3m4!1s0x60188c08100a5399:0x4deb54a0081cf594!8m2!3d35.6844264!4d139.7622142?dcr=0)).    
+[**PHOENIX JEJU**](https://phoenixhnr.co.kr/en/page/main/jeju)  
+The *CENTRA4-PRAGMA36 Joint Meeting* will be held at *PHOENIX JEJU* on the 2F, Bella Terrace Orange. ([Map](https://goo.gl/maps/zjsYVaFQWW92)).    
 
-Address: 3rd Floor, Mihon Seimei Garden Tower, 1-1-3 Marunouchi, Chiyoda-ku Tokyo 100-0005 Japan  
-Phone: +81 3 5224 5109
-
-### Access to Venue  
- 
-#### By Tokyo Metro / Toei Subway
-Otemachi Station (Mita Line (I09), Chiyoda Line (C11), Hanzomon Line (Z08), Tozai Line (T09) and Marunouchi Line (M18) provides the most convenient access to AP Tokyo Marunouchi. The venue has direct underground access from Otemachi Station (Exit D6).  
-
-#### By JR Trains
-JR Tokyo Station is the nearest JR station to access to AP Tokyo Marunouchi. It is approximately 10-minute walk from JR Tokyo Station (Marunouchi North Exit).  
-  
-<img src="/img/centra3_venue_access.png" alt="CENTRA3 venue access" style="margin-right: auto;margin-left: auto;" class="img-responsive">  
+Address: 107 Seopji Koji-ro, Seongsan-eup, Seogwipo-si, Jeju, Korea.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.7201301904047!2d126.92555061519877!3d33.43054018077967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x350d136bd4baf8df%3A0x55580118da31c48e!2z7ZyY64uJ7IqkIOygnOyjvCDshK3sp4DsvZTsp4A!5e0!3m2!1sko!2skr!4v1546909120021" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
-### *For PRAGMA 34 Participants*  
-Please note that PRAGMA 34 and CENTRA 3 All-Hands Meeting are held at *different* locations. [PRAGMA 34](http://www.pragma-grid.net/pragma34-venue/) will be held at Akihabara Convention Hall near JR Akihabara Station; CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science will be held at AP Tokyo Marunouchi near JR Tokyo Station. It takes about 4 minutes from JR Akihabara Station to JR Tokyo Station on the JR Yamanote Line bound for Shinagawa:  
-  
-<img src="/img/CENTRA_PRAGMA venues_access.png" alt="CENTRA-PRAGMA venue access" style="margin-right: auto;margin-left: auto;" class="img-responsive">  
-  
+<img src="/img/centra4-venue-1.png" alt="CENTRA4 venue 1" style="margin-right: auto;margin-left: auto;" class="img-responsive">  
+
+<br>
+**Layout:  2F, Bella Terrace Orange**
+
+<img src="/img/centra4-venue-2.jpg" alt="CENTRA4 venue 2" style="margin-right: auto;margin-left: auto;" class="img-responsive">  
+
+
+
 
 ### List of Nearby Hotels  
-Please note that hotels listed below are for information purposes only. The CENTRA 3 secretariat is not responsible for reservations, confirmations, cancellations, etc.  
-  
-#### Hotels within walking distance of the venue  
+Please note that hotels listed below are for information purposes only. The CENTRA 4 secretariat is not responsible for reservations, confirmations, cancellations, etc.  
 
-＜Luxury Class＞ ★★★★★－★★★★  
-
-* [Palace Hotel](http://en.palacehoteltokyo.com/) (Located next to the venue)  
-* [The Tokyo Station Hotel](http://www.thetokyostationhotel.jp/rooms.htm) (10-minute walk from the venue)  
-* [Marunouchi Hotel](https://www.marunouchi-hotel.co.jp/en/) (10-12 minutes’ walk from the venue)  
-
-＜Moderate to Budget Class＞ ★★★－★★  
-
-* [Keio Presso Inn Otemachi](http://www.presso-inn.com/english/otemachi.html) (15-minute walk from the venue)  
-* [Hotel Villa Fontaine Tokyo Otemachi](https://www.hvf.jp/eng/)(15-minute walk from the venue)  
-* [Mitsui Garden Hotel Kyobashi](https://www.gardenhotels.co.jp/kyobashi/eng/) (about 15-minute walk from the venue)
-* [Hotel Ryumeikan Tokyo](https://www.ryumeikan-tokyo.jp/english/) (15-minute walk from the venue)  
-* [Super Hotel Lohas Tokyo-eki Yaesu Chuo-guchi](http://www.superhoteljapan.com/en/s-hotels/yaesu/?hid=109&tpl=/yaesu/index.html&ex=0)  (15-20 minutes’ walk from the venue)  
-* [Hotel Heimat](http://www.hotel-heimat.com/english/english.html) (15-minute walk from the venue)   
-
-
-#### Hotels near Tokyo Metro Mitsukoshimae Station (One stop from Tokyo Metro Otemachi station by Hanzomon Line)  
-
-＜Moderate to Budget Class＞ ★★★－★★  
-
-* [Smile Hotel Nihombashi Mitsukoshimae](https://travel.rakuten.com/hotel/info/1990/) (5-minute walk from Mitsukoshimae station)  
-* [Toyoko Inn Tokyo Nihombashi Mitsukoshi Mae A4](https://www.toyoko-inn.com/eng/search/detail/00170) (8-minute walk from Mitsukoshimae station)  
-    
-<iframe src="https://www.google.com/maps/d/embed?mid=1ejWiaFSa7iaNAnYaKA-XOm5-W-DJM6Hj" width="768" height="576"></iframe>
+* ★★★★★ [Phoenix Jeju] ※ Reservation is available from February 18, 2019. [Booking Form](http://www.myrgst.com/centra4-pragma36/Hotel%20Booking%20Form_Phoenix%20Jeju.docx) (Located next to the venue)
+* ★★★ [Sunrise Hotel Seopjikoji](https://www.hotels.com/ho675747/?as-srs-report=HomePage%7CAutoS%7CHOTEL%7CSunrise%20Hotel%20Seopjikoji%7C0%7C0%7C0%7C1%7C1%7C1%7C675747&q-check-out=2018-11-24&tab=description&q-room-0-adults=2&YGF=1&q-check-in=2018-11-23&MGT=1&WOE=6&WOD=5&ZSX=0&SYE=3&q-room-0-children=0) (20-minute walk from the venue)  
+* ★★★ [Jeju Stay in Seongsan Hotel](https://www.hotels.com/ho617933/?as-srs-report=HomePage%7CAutoS%7CHOTEL%7CJeju%20Stay%20in%20Seongsan%20Hotel%7C0%7C0%7C0%7C1%7C1%7C1%7C617933&q-check-out=2018-11-24&tab=description&q-room-0-adults=2&YGF=1&q-check-in=2018-11-23&MGT=1&WOE=6&WOD=5&ZSX=0&SYE=3&q-room-0-children=0) (25 minutes walk from the venue)
+* ★★ [Thira Hotel](https://www.hotels.com/ho626202848/?pos=HCOM_US&locale=en_US&MGT=c..Jb-ZqR0dTeI.&SYE=c..aM_c5lgGlzg.&WOD=c..K8UJ1BdwwHA.&WOE=c..eo7naQTTJG8.&YGF=c..Jb-ZqR0dTeI.&ZSX=c..Bl5c-QXvGIs.&as-srs-report=c..ikFuCX1wgin6ZOy5XohQ3EFd688EX2OqoTmtq7tIQP9lEFu0j56O_VCPvcB8zl6PhbHpDH1A_qE.&q-check-in=c..nXwIcxCnHTVDOimyVio4Yw..&q-check-out=c..nXwIcxCnHTXWaNBcPdpjoQ..&q-room-0-adults=c..oII3BFxCQ5Y.&q-room-0-children=c..Bl5c-QXvGIs.&tab=c..0oxtl6uEjo5vz5Z-VQJp4w..) (25 minutes walk from the venue)  
 
 <hr>
      
