@@ -9,7 +9,7 @@ hide: true
 
 *text on this page is a placeholder only. to be updated*
   
-## CENTRA 4 Meeting:
+## Welcome to CENTRA 4 Meeting
 
 <p>
 <img src="/img/centra4-president-kisti.png" style="width:150px;" align="right"/>
