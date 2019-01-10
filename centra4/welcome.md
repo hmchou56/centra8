@@ -15,18 +15,11 @@ hide: true
 <img src="/img/centra4-president-kisti.png" style="width:150px;" align="right"/>
 </p>
 
-It is a great honor to host this upcoming joint event of the 4th CENTRA (Collaborations to ENable TRansnational cyberintrastructure Applications) which is colocated with the 36th PRAGMA (Pacific Rim Applications and Grid Middleware Assembly). On behalf of the Organizing Committee, my great colleagues in [KISTI](https://www.kisti.re.kr/eng/) (Korea Institute of Science and Technology Information) and I would like to more than welcome everyone to Korea.
+It is a great honor to host this upcoming joint event of the 4th CENTRA (Collaborations to ENable TRansnational cyberintrastructure Applications) which is co-located with the 36th PRAGMA (Pacific Rim Applications and Grid Middleware Assembly). On behalf of the Organizing Committee, my great colleagues in [KISTI](https://www.kisti.re.kr/eng/) (Korea Institute of Science and Technology Information) and I would like to more than welcome everyone to Korea.
 
-For the past more than 50 years, KISTI has been contributed to many sectors of Korea's science, technology and 
-industry to get great achievements by providing the world-class supercomputing service, the global cooperative 
-ultra-high-speed research network called KREONET (Korea Research Environment Open NETwork), and the largest 
-information arsenal for science and technology in Korea. The KISTI's 5th generation of supercomputer called 
-Nurion was ranked the 13th on Top 500 list at Supercomputing Confernce 2018 as of November 2018.
+For the past more than 50 years, KISTI has been contributed to many sectors of Korea's science, technology and industry to get great achievements by providing the world-class supercomputing service, the global cooperative ultra-high-speed research network called KREONET (Korea Research Environment Open NETwork), and the largest information arsenal for science and technology in Korea. Nurion, the 5th generation supercomputer of KISTI, was ranked the 13th on Top 500 list at Supercomputing Conference 2018 as of November 2018.
 
-These days KISTI is focusing on the various activities of open access to computing and all the scientific data. We hope 
-this joint workshop is beneficial to Korean research communities and also to CENTRA's communities to 
-continue a long-standing efforts for transnational cyberinfrastructure. We also hope to have a productive and 
-wonderful gethering at the Korea's most beautiful Jeju Island.
+These days KISTI is focusing on the various activities of open access to computing and all the scientific data. We hope this joint workshop is beneficial to Korean research communities and also to CENTRA's communities to continue long-standing efforts for transnational cyberinfrastructure. We also hope to have a productive and wonderful gathering at Korea's most beautiful Jeju Island.
 
 We really look forward to seeing you in Jeju on April 22nd - 27th, 2019.
 
