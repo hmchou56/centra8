@@ -7,8 +7,6 @@ published: true
 hide: true
 ---
 
-*text on this page is a placeholder only. to be updated*
-  
 ## Welcome to CENTRA 4 Meeting
 
 <p>
