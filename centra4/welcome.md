@@ -12,26 +12,27 @@ hide: true
 ## CENTRA 4 Meeting:
 
 <p>
-It is with great pleasure that we welcome CENTRA members, friends and visitors to the <i>CENTRA 4 Meeting: (theme to be updated)</i> in Jeju, Korea. This meeting brings together international CENTRA researchers to review ongoing or new collaboration projects that require contributions from researchers and/or cyberinfrastructure from different countries. This is the fourth meeting following the <a href="http://www.globalcentra.org/centra3" target="_blank">CENTRA 3 Meeting: Smart Cyberinfrastructure for Transnational Science</a> in Tokyo, Japan (2018). The focus / goal of CENTRA 4 ... ... ... 
-
-<p>
-CENTRA activities are funded in part by the National Science Foundation (NSF ACI Award 1550126) of the USA, the Ministry of Science and Technology (MOST) of Taiwan, the National Institute of Information and Communications Technologies (NICT) of Japan, the Institute for Systems and Computer Engineering, Technology and Science (INESC TEC) of Portugal [, and KISTI... if applicable.] We are very thankful for the support of all these sponsors.
+<img src="/img/centra4-president-kisti.png" style="width:150px;" align="right"/>
 </p>
 
-<p>
-Welcome to CENTRA 4 Meeting... We... 
- <br />
-</p>
+It is a great honor to host this upcoming joint event of the 4th CENTRA (Collaborations to ENable TRansnational cyberintrastructure Applications) which is colocated with the 36th PRAGMA (Pacific Rim Applications and Grid Middleware Assembly). On behalf of the Organizing Committee, my great colleagues in [KISTI](https://www.kisti.re.kr/eng/) (Korea Institute of Science and Technology Information) and I would like to more than welcome everyone to Korea.
 
-<p>
-On behalf of the CENTRA Steering Committee,
-</p>
+For the past more than 50 years, KISTI has been contributed to many sectors of Korea's science, technology and 
+industry to get great achievements by providing the world-class supercomputing service, the global cooperative 
+ultra-high-speed research network called KREONET (Korea Research Environment Open NETwork), and the largest 
+information arsenal for science and technology in Korea. The KISTI's 5th generation of supercomputer called 
+Nurion was ranked the 13th on Top 500 list at Supercomputing Confernce 2018 as of November 2018.
 
-<p>
-Kum Won Cho, Korea Institute of Science and Technology Information, Korea <br />
-Shinji Shimojo, NICT and Osaka University, Japan <br />
-Fang-Pang Lin, CECEA / NCHC, Taiwan <br />
-Rui Oliveira, INESC TEC, Portugal <br />
-José Fortes, CENTRA Steering Committee Chair and University of Florida, USA <br />
+These days KISTI is focusing on the various activities of open access to computing and all the scientific data. We hope 
+this joint workshop is beneficial to Korean research communities and also to CENTRA's communities to 
+continue a long-standing efforts for transnational cyberinfrastructure. We also hope to have a productive and 
+wonderful gethering at the Korea's most beautiful Jeju Island.
 
-</p>
+We really look forward to seeing you in Jeju on April 22nd - 27th, 2019.
+
+Thank you very much. 
+
+President of KISTI, Hee-Youn Choi
+
+
+<img src="/img/centra4-president-sig.png" style="width:170px;" align="left"/>
