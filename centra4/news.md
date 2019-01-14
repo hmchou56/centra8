@@ -25,7 +25,7 @@ April 12, 2019: Final demo requirements submission deadline
 
 ## Outline of CENTRA 4 Meeting 2019 and co-located events 
 
-**CENTRA 4 Meeting: Connecting Data, Applications and People in Smart Cyberinfrastructure and IoT  **  
+**CENTRA 4 Meeting: Connecting Data, Applications and People in Smart Cyberinfrastructure and IoT**  
 * Date: April 22(Mon)-23(Tue), 2019  
 * Location: Jeju, Korea (Venue: Phoenix JEJU)  
 
