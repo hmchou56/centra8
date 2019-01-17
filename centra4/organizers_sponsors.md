@@ -22,5 +22,5 @@ hide: true
 ## Local Organizing Committee
 
 <p>
-Korea Institute of Science and Technology Information (<a href="https://www.kisti.re.kr/eng/" target="_blank">KISTI</a>): Woojin Seok, Ki-hyeon Kim and team. (Please note that the list of Local Organizing Committee is not yet complete. More information will be added as the planning develops.)
+Korea Institute of Science and Technology Information (<a href="https://www.kisti.re.kr/eng/" target="_blank">KISTI</a>): Woojin Seok, Kiwook Kim and team. (Please note that the list of Local Organizing Committee is not yet complete. More information will be added as the planning develops.)
 </p>
