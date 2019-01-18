@@ -13,7 +13,7 @@ published: true
   <!-- item 1   -->
   <tr>
     <th class="noBorder"><img src="/img/centra4-370x99.jpg"></th>
-    <th class="noBorder">CENTRA 4 Meeting, April 22-24, 2019, Jeju Island, Korea<br><a href="#">Website</a> | <a href="#">Presentations</a></th>
+    <th class="noBorder">CENTRA 4 Meeting, April 22-24, 2019, Jeju Island, Korea <br> <a href="/centra4/">Website</a> | <a href="#">Presentations</a></th>
   </tr>
   
   <tr class="noBorder">
