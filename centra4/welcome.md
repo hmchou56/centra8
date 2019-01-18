@@ -13,7 +13,7 @@ hide: true
 <img src="/img/centra4-president-kisti.png" style="width:150px;" align="right"/>
 </p>
 
-It is a great honor to host this upcoming joint event of **the 4th CENTRA (Collaborations to ENable TRansnational cyberintrastructure Applications) Meeting** which is co-located with the [36th PRAGMA](http://www.pragma-grid.net/pragma36/) (Pacific Rim Applications and Grid Middleware Assembly). On behalf of the Organizing Committee, my great colleagues in [KISTI](https://www.kisti.re.kr/eng/) (Korea Institute of Science and Technology Information) and I would like to more than welcome everyone to Korea.
+It is a great honor to host this upcoming joint event of **the 4th CENTRA (Collaborations to ENable TRansnational cyberintrastructure Applications) Meeting: Connecting Data, Applications and People in Smart Cyberinfrastructure and IoT**, co-located with the [36th PRAGMA](http://www.pragma-grid.net/pragma36/) (Pacific Rim Applications and Grid Middleware Assembly). On behalf of the Organizing Committee, my great colleagues in [KISTI](https://www.kisti.re.kr/eng/) (Korea Institute of Science and Technology Information) and I would like to more than welcome everyone to Korea.
 
 For the past more than 50 years, KISTI has been contributed to many sectors of Korea's science, technology and industry to get great achievements by providing the world-class supercomputing service, the global cooperative ultra-high-speed research network called KREONET ([Korea Research Environment Open NETwork](http://www.kreonet.net)), and the largest information arsenal for science and technology in Korea. Nurion, the 5th generation supercomputer of KISTI, was ranked the 13th on Top 500 list at Supercomputing Conference 2018 as of November 2018.
 
