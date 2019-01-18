@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 
-## Program Committee
+## CENTRA 4 Program Committee
 
 <p><ul type="circle">
   <li>Kum Won Cho, Vice President, Korea Institute of Science and Technology Information (<a href="https://www.kisti.re.kr/eng/" target="_blank">KISTI</a>), Korea </li>  
@@ -16,6 +16,8 @@ hide: true
   <li>Fang-Pang Lin, Senior Research Fellow, Cloud Computing and System Integration Division and Center of Excellence for Cyber Enablement of Applications (<a href="http://www.cecea.tw/e_index.php" target="_blank">CECEA</a>), National Center for High-Performance Computing, Taiwan </li> <br />
   <li>Shinji Shimojo, Professor and Director of <a href="http://www.cmc.osaka-u.ac.jp/?lang=en" target="_blank">Cybermedia Center, Osaka University</a> and National Institute of Information and Communications Technology (<a href="https://www.nict.go.jp/en/" target="_blank">NICT</a>), Japan</li>
   <li>Rui Oliveira, Associate Professor at the Informatics Department of University of Minho and Member of the Administration Board of the Institute for Systems and Computer Engineering, Technology and Science (<a href="https://www.inesctec.pt/en" target="_blank">INESC TEC</a>), Portugal</li>
+  <li>Shava Smallen, Co-Chair of Pacific Rim Applications and Grid Middleware Assembly (<a href="http://www.pragma-grid.net" target="_blank">PRAGMA</a>) Steering Committee; University of California San Diego, USA</li>
+  <li>Peter Arzberger, Former Chair, Pacific Rim Applications and Grid Middleware Assembly (PRAGMA), USA</li>
 </ul>
 </p>
 
