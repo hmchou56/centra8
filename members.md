@@ -87,7 +87,7 @@ Hong Hoe Ong       |Senior Director, MIMOS Berhad, Malaysia     |Disaster Manage
 Phil Papadopoulos   |Chief Technology Officer, San Diego Supercomputer Center, University of California at San Diego             |High-Performance Computing, cluster computing, middleware
 João Paulo      |Post-Doc Researcher, INESC TEC, Portugal      |Large scale distributed systems, cloud storage security      
 Frederick Kin Hing Phoa       |Associate Research Fellow, Academia Sinica, Taiwan       |Social network analysis, nature-inspired evolutionary algorithm, paralle computer, big data
-José Pereia     |Assistant Professor, INESC TEC and Universidade do Minho, Portugal      |Distributed systems, data management 
+José Pereira     |Assistant Professor, INESC TEC and Universidade do Minho, Portugal      |Distributed systems, data management 
 Beth Plale          |Professor, School of Informatics and Computing, Indiana University                            |Data science and systems
 Calton Pu     |Professor, John Imlay Jr. Chair in Software, College of Computing, Georgia Tech       |Distributed systems, Internet, data management, disaster management
 Glenn Ricart        |Founder and CTO, US Ignite         |Smart cities, networking and security
@@ -123,7 +123,8 @@ Chi-Wei Yi       |Professor, National Chiao Tung University       |Sensor networ
 **Name** | **Role and Institution** | **Interests**
 Saumitra Aditya | PhD Student, University of Florida | Networked systems, network virtualization, social networks
 Nannapas Banluesombatkul     |Graduate Student,  Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand   |Cloud scheduling, machine learning
-Chiao-Ming Chuang  |Graduate Student, National Chiao Tung University, Taiwan     |Image processing, deep learning
+Chiao-Ming Chuang  |Graduate Student, National Chiao Tung University, Taiwan     |Image processing, deep learning 
+Michael Elliott  |Graduate Student, University of Florida, USA   | 
 Adam Grupa | PhD Student, The Ohio State University | Autonomic computing, distributed computing, artificial intelligence, neural networks
 Ming Tai Ha | PhD Student, Rutgers University | High-performance computing, distributed computing
 Dylan Kobayashi | PhD Student, University of Hawaii at Manoa | SAGE2 development, data visualization, multiple tiled displays
@@ -132,6 +133,7 @@ Ming-Hong Lin     |Graduate Student, National Chiao Tung University, Taiwan    |
 Yu Shao Liu      |Graduate Student, National Chiao Tung University, Taiwan     |Database, image processing
 Srivattsan Sridharan | PhD Student, University of Florida | Autonomic computing, distributed computing, software-defined systems, model definition for information systems
 Sola Park      |Master's Student, Seoul National University, South Korea      |Object detection and tracking, YOLO, autonomous driving
+Parth Patel    |Undergraduate Student, University of Florida  | 
 Kensworth Subratie | PhD Student, University of Florida | Virtual networks, distributed storage and resource access control
 Jyun-Yu Syu     |Graduate Student, National Chiao Tung University, Taiwan     |Wireless technologies, media streaming and management service
 Hsin-Hung Tseng | Undergraduate Student, National Chung Hsing University, Taiwan |HI-VISION
