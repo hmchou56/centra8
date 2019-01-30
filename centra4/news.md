@@ -13,14 +13,13 @@ As soon as possible: check [Visa Information](http://www.globalcentra.org/centra
 
 February 1, 2019: CENTRA 4 Meeting [Registration](http://www.globalcentra.org/centra4/registration.html) Opens (*Note: If you are also attending PRAGMA 36, you can sign up in the same registration form.)  
 
-April 1, 2019 by midnight Korea time (UTC+9): Registration closes. See more details described on the [Registration page](http://www.globalcentra.org/centra4/registration.html) on this site   
+March 10, 2019: [Poster and Demo](http://www.globalcentra.org/centra4/poster.html) abstracts submission deadline  
 
-March 11, 2019: [Poster and Demo](http://www.globalcentra.org/centra4/poster.html) abstracts submission deadline
+March 10, 2019: Project summaries deadline (per CENTRA Chair Jose Fortes' e-mail invitation and instruction)  
+
+April 1, 2019 by midnight Korea time (UTC+9): Registration closes. See more details described on the [Registration page](http://www.globalcentra.org/centra4/registration.html) on this site    
 
 April 12, 2019: Full poster PDF or pptx submission deadline
-
-April 12, 2019: Final demo requirements submission deadline
-  
     
 
 ## Outline of CENTRA 4 Meeting 2019 and co-located events 
