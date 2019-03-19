@@ -23,14 +23,14 @@ Here is a preview of current scheduled webinars and more potential topics being 
 *01/18 at 0100 Portugal | 0800 Indonesia/Thailand/Vietnam | 0900 Taiwan/Malaysia/The Philippines | 1000 Japan/S. Korea*  
 **Integrating Autonomy into Transportation Systems**  
 By Dr. Cathy Wu, Microsoft Research AI, USA  
-[Video Recording on Vimeo](https://vimeo.com/319636804)
+[Abstract and Video Recording](https://vimeo.com/319636804)
   
 **2019/03/21 @08:00 US EDT**  
 *03/21 at 0300 Hawaii | 0500 US Pacific | 0600 US Mountain | 1200 Portugal*   
 *03/21 at 1900 Indonesia/Thailand/Vietnam | 2000 Taiwan/Malaysia/The Philippines | 2100 Japan/S. Korea*  
 **Machine Learning and Application in Remote Sensing**  
-By Dr. Alina Zare, University of Florida, USA 
-[Abstract and Registration](https://goo.gl/2Y5CMh) 
+By Dr. Alina Zare, University of Florida, USA   
+[Abstract and Registration](https://goo.gl/2Y5CMh)  
   
 **2019/04/10 @20:00 US EDT**  
 *04/10 at 1400 Hawaii | 1700 US Pacific | 1800 US Mountain*   
@@ -39,7 +39,8 @@ By Dr. Alina Zare, University of Florida, USA
 By Dr. Ryuosei Takano, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 Abstract and Registration: available on March 26, 2019 
   
-The following webinar topic scheduling will be announced by late March:  
+  
+The following webinar topics scheduling will be announced by late March:  
 * Collaborative Multi-Party Edge Computing  
 * CRDTs: From Sequential to Concurrent Executions  
 * From SQL to NoSQL and Back  
