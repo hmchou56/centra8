@@ -35,9 +35,9 @@ By Dr. Alina Zare, University of Florida, USA
 **2019/04/10 @20:00 US EDT**  
 *04/10 at 1400 Hawaii | 1700 US Pacific | 1800 US Mountain*   
 *04/11 at 0100 Portugal | 0700 Indonesia/Thailand/Vietnam | 0800 Taiwan/Malaysia/The Philippines | 0900 Japan/S. Korea*  
-**ABCI: An Open Innovation Platform for Advancing AI Research and Deployment**
-By Dr. Ryuosei Takano, National Institute of Advanced Industrial Science and Technology (AIST), Japan
-Abstract and Registration: available on March 26, 2019 
+**ABCI: An Open Innovation Platform for Advancing AI Research and Deployment**   
+By Dr. Ryuosei Takano, National Institute of Advanced Industrial Science and Technology (AIST), Japan   
+Abstract and Registration: available on March 26, 2019   
   
   
 The following webinar topics scheduling will be announced by late March:  
