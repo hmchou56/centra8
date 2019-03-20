@@ -8,41 +8,49 @@ hide: true
 ---
 ## Posters and Demos
 
-Registered participants are invited to submit your Poster or Demo request. The submission should cover the following information: 
+All CENTRA4 attendees are welcomed to submit abstracts to:
+Jeonghoon Moon(jhmoon@kisti.re.kr) , and cc to Kiwook Kim(wowook@kisti.re.kr)
 
-Title of the poster or demo
-Names and institutions
-Student author (Y/N)
-A brief abstract (less than or equal to about 400 words)
-Network and other requirement if this is a demo abstract 
+If you haven’t registered to CENTRA 4 meeting yet, please register your attendee information to:
+https://www.myrgst.com:5007/centra4-pragma36
 
-* *text on this page is placeholder only, to be updated* *
-  
+The abstract should be less than or equal to 450 words and covering the following information:
 
-### Where to Submit
-All CENTRA 4 registered participants are welcome to submit the completed Word template to:
+1) Title of the poster/demo
+2) Names and institutions
+3) Student author (Yes / No)
+4) A brief abstract (less than or equal to 450 words)
+
+We strongly recommend all submissions use the attached word template.
 
 
 ### Poster Requirements
 
-All posters must use the A1 format (594 x 841 mm/23.4 x 33.1 in).  
-All submissions will be reviewed by CENTRA 4 Program Committee. Decisions and suggestions will be made available via email.  
-Authors are expected to respond to review comments and, if necessary, resubmit their updated poster and abstract.  
-
-All accepted posters will also need to prepare: . Authors are responsible for poster setup and removal. 
+- Files must be in PDF format and use the A0 poster size (841 x 1189 mm/33.1 x 46.8 in).
+- All submissions will be reviewed by CENTRA 4 Program Committee. Decisions and suggestions will be made available via email. Authors are expected to respond to review comments and, if necessary, resubmit their updated poster and abstract.
+- We are arranging to have accepted posters printed and available at the venue. Digital file MUST be received by 12th April 2019 to ensure printing. If you miss this deadline you may still participate, however you are responsible for printing and transporting your poster.
+- Authors are responsible for poster setup and removal.
 
 
 ### Demo Requirements
 
-Please contact (   ) for what you need at your demo, e.g. network setup or other requirements as soon as possible, no later than (deadline).
+- All accepted demo submissions will be presented during the CENTRA 4. Each demo will be 15mins with 5min for questions. In order to better document the meeting activities, all presentations will be collected for uploading to the website.
+- Please contact to Kiwook Kim(wowook@kisti.re.kr) for what you need at your demo, e.g. network setup or other requirements as soon as possible, no later than 12th April 2019.
+
 
 
 ### Important Dates
-Poster and Demo abstracts submission deadline: 
-Author notification: 
-Full poster PDF or pptx submission:  
-Final demo requirements submission:  
+Registration opens: Feb. 1st, 2019.
+Abstract poster/demo submission deadline: Mar. 10th, 2019. 
+Abstract deadline extended: Mar.20th, 2019.
+Author notification: Mar.17th, 2019.
+Registration closes: Apr. 1st, 2019.
+Full poster submission deadline: Apr. 12th, 2019.
 
 
-If you have any questions, please contact CENTRA 4 Poster and Demo Committee:
+
+### Contact to
+If you have any questions regarding the abstract submission, please contact to:
+Kiwook Kim (wowook@kisti.re.kr)
+
 
