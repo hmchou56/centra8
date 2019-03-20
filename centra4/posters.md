@@ -16,10 +16,10 @@ https://www.myrgst.com:5007/centra4-pragma36
 
 The abstract should be less than or equal to 450 words and covering the following information:
 
-* 1) Title of the poster/demo
-* 2) Names and institutions
-* 3) Student author (Yes / No)
-* 4) A brief abstract (less than or equal to 450 words)
+- Title of the poster/demo
+- Names and institutions
+- Student author (Yes / No)
+- A brief abstract (less than or equal to 450 words)
 
 We strongly recommend all submissions use the attached [word template](http://www.globalcentra.org/centra4/CENTRA4 abstract template.docx).
 
