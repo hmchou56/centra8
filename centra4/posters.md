@@ -21,7 +21,7 @@ The abstract should be less than or equal to 450 words and covering the followin
 3) Student author (Yes / No)
 4) A brief abstract (less than or equal to 450 words)
 
-We strongly recommend all submissions use the attached word template.
+We strongly recommend all submissions use the attached [word template](http://www.globalcentra.org/centra4/CENTRA4 abstract template.docx).
 
 
 ### Poster Requirements
