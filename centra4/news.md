@@ -15,7 +15,9 @@ February 1, 2019: CENTRA 4 Meeting [Registration](http://www.globalcentra.org/ce
 
 March 10, 2019: [Poster and Demo](http://www.globalcentra.org/centra4/poster.html) abstracts submission deadline  
 
-March 10, 2019: Project summaries deadline (per CENTRA Chair Jose Fortes' e-mail invitation and instruction)  
+March 10, 2019: Project summaries deadline (per CENTRA Chair Jose Fortes' e-mail invitation and instruction)
+
+**March 28, 2019: Poster and Demo abstraction submission deadline (final extension)** 
 
 April 1, 2019 by midnight Korea time (UTC+9): Registration closes. See more details described on the [Registration page](http://www.globalcentra.org/centra4/registration.html) on this site    
 
