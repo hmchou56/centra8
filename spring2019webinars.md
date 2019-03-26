@@ -23,21 +23,21 @@ Here is a preview of current scheduled webinars and more potential topics being 
 *01/18 at 0100 Portugal | 0800 Indonesia/Thailand/Vietnam | 0900 Taiwan/Malaysia/The Philippines | 1000 Japan/S. Korea*  
 **Integrating Autonomy into Transportation Systems**  
 By Dr. Cathy Wu, Microsoft Research AI, USA  
-[Abstract and Video Recording](https://vimeo.com/319636804)
+[Abstract and Video Recording](http://bit.ly/2WsXnIP)
   
 **2019/03/21 @08:00 US EDT**  
 *03/21 at 0300 Hawaii | 0500 US Pacific | 0600 US Mountain | 1200 Portugal*   
 *03/21 at 1900 Indonesia/Thailand/Vietnam | 2000 Taiwan/Malaysia/The Philippines | 2100 Japan/S. Korea*  
 **Machine Learning and Application in Remote Sensing**  
 By Dr. Alina Zare, University of Florida, USA   
-[Abstract and Registration](https://goo.gl/2Y5CMh)  
+[Abstract and Video Recording](https://vimeo.com/325987097)  
   
 **2019/04/10 @20:00 US EDT**  
 *04/10 at 1400 Hawaii | 1700 US Pacific | 1800 US Mountain*   
 *04/11 at 0100 Portugal | 0700 Indonesia/Thailand/Vietnam | 0800 Taiwan/Malaysia/The Philippines | 0900 Japan/S. Korea*  
 **ABCI: An Open Innovation Platform for Advancing AI Research and Deployment**   
 By Dr. Ryuosei Takano, National Institute of Advanced Industrial Science and Technology (AIST), Japan   
-Abstract and Registration: available on March 26, 2019   
+[Abstract and Registration](https://zoom.us/webinar/register/8015536239800/WN_3JZSx2_4Se6iSxqA575W2Q)   
   
   
 The following webinar topics scheduling will be announced by late March:  
