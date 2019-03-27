@@ -36,21 +36,21 @@ We strongly recommend all submissions use the attached [word template](http://ww
 
 - All accepted demo submissions will be presented during the CENTRA 4. Each demo will be 15mins with 5min for questions. In order to better document the meeting activities, all presentations will be collected for uploading to the website.
 
-- Please contact to Kiwook Kim(wowook@kisti.re.kr) for what you need at your demo, e.g. network setup or other requirements as soon as possible, no later than 12th April 2019.
+- Please contact Kiwook Kim(wowook@kisti.re.kr) for what you need at your demo, e.g. network setup or other requirements as soon as possible, no later than 12th April 2019.
 
 
 
 ### Important Dates
  - Registration opens: Feb. 1st, 2019.
- - Abstract poster/demo submission deadline: Mar. 10th, 2019. 
- - **Abstract deadline extended (final): Apr. 1st, 2019 by 11am US Eastern | Midnight Korea time**
+ - Abstract poster/demo submission deadline: Mar. 10th, 2019.
+ -**Abstract deadline extended (final): Apr. 1st, 2019 by 11am US Eastern | Midnight Korea time**
  - Registration closes: Apr. 1st, 2019 by 11am US Eastern | Midnight Korea time.
  - Author notification: Apr. 6th, 2019.
  - Full poster submission deadline: Apr. 12th, 2019 by 11am US Eastern | Midnight Korea time.
 
 
 
-### Contact to
+### Contact
 If you have any questions regarding the poster or demo abstract submission, please contact:
 Kiwook Kim (wowook@kisti.re.kr)
 
