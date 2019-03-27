@@ -17,7 +17,7 @@ March 10, 2019: [Poster and Demo](http://www.globalcentra.org/centra4/poster.htm
 
 March 10, 2019: Project summaries deadline (per CENTRA Chair Jose Fortes' e-mail invitation and instruction)
 
-**March 28, 2019: Poster and Demo abstraction submission deadline (final extension)** 
+**April 1, 2019 by midnight Korea time (by 8 AM US Pacific and 11 AM US Eastern Time Zones): Poster and Demo abstraction submission deadline (final extension)** 
 
 April 1, 2019 by midnight Korea time (UTC+9): Registration closes. See more details described on the [Registration page](http://www.globalcentra.org/centra4/registration.html) on this site    
 
