@@ -43,11 +43,10 @@ We strongly recommend all submissions use the attached [word template](http://ww
 ### Important Dates
  - Registration opens: Feb. 1st, 2019.
  - Abstract poster/demo submission deadline: Mar. 10th, 2019.
- -**Abstract deadline extended (final): Apr. 1st, 2019 by 11am US Eastern | Midnight Korea time**
- - Registration closes: Apr. 1st, 2019 by 11am US Eastern | Midnight Korea time.
+ - **Abstract deadline extended (final): Apr. 1st, 2019 by 11am US Eastern (Midnight Korea time)**
+ - Registration closes: Apr. 1st, 2019 by 11am US Eastern (Midnight Korea time).
  - Author notification: Apr. 6th, 2019.
- - Full poster submission deadline: Apr. 12th, 2019 by 11am US Eastern | Midnight Korea time.
-
+ - Full poster submission deadline: Apr. 12th, 2019 by 11am US Eastern (Midnight Korea time).
 
 
 ### Contact
