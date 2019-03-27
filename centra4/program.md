@@ -12,7 +12,7 @@ hide: true
 
 -------------
 # Working Agenda
-<h3><strong><u><a href="http://www.globalcentra.org/centra3/CENTRAprogrambook_08May18.pdf" > CENTRA 3 e-Program for download here (PDF)</a> </u></strong> </h3>
+<h3><strong><u> CENTRA 4 e-Program will be available in PDF in early April</u></strong> </h3>
 
 
 -------------
@@ -36,7 +36,7 @@ Travel Day. Arrival in Jeju.
 ***
 ### 9:30 – 10:30 AM
 **Plenary Flyby Session: Opening Communications**
-- Session Chair: Shinji Shimojo
+- Session Chair: TBC
 - **Welcome remarks:** Dr. Kum Won Cho (Vice President, KISTI) 
 - **... KREONET :** 
 - **Presentation: “CENTRA 4:** Objectives, Partners and Desired Outcomes,” José Fortes, Kum Won Cho, Fang Pang Lin, Rui Oliveira and Shinji Shimojo  
@@ -48,12 +48,11 @@ Travel Day. Arrival in Jeju.
 ****
 ### 10:45 AM – 12:00 PM
 **Plenary Dive-in Session: Reports on Ongoing Projects**
-- Session Chair: José Fortes
-- **Project review:** “Dynamically  Aggregating  Smart  Community  Sensors,  Edge  and Cloud Resources with Overlay VPNs,” Renato Figueiredo
-- **Project review:** “SDN-IP Peering for IoT Data Transmission,” Te-Lung Liu
-- **Project review:** “IT for Natural Disaster Management & Visualization Alliance,” Jason  Haga
-- **Project review:** “ASEAN IVO: Software Defined System on Disaster Mitigation and Smart Cities,” Luke Jing Yuan
-- **New CENTRA Member Organization Presentation – KISTI:** Kum Won Cho
+- Session Chair: TBC
+- **Project review:** TBC
+- **Project review:** TBC
+- **Project review:** TBC
+- **Project review:** TBC
 
 ****
 ### 12:00 – 1:00 PM: 
@@ -62,14 +61,13 @@ Travel Day. Arrival in Jeju.
 ****
 ### 1:10 – 3:40 PM
 **Plenary Dive-in Session: Reports on Ongoing Projects and Proposed Projects**
-- Session Chair: Rui Oliveira
-- **Project review:** “AirBox: a Participatory Ecosystem for PM2.5 Monitoring,” Ling-Jyh Chen
-- **Project review:** “Distributed Lifemapper,” Aimee Stewart
-- **Proposed project:** “Privacy-preserving Cloud Computing for IoT,” INESC TEC and  KISTI
-- **Proposed project:** “Network Congestion Issues in Disaster Scenarios,” Krishna Kant
-- **Proposed project:** “PADE: Precision Agriculture with Drones and Edge,” Christopher  Stewart
-  “Using UAV Images to Monitoring Rice Paddy with Artificial Intelligence,” Hui-Ping Tsai et al.
-- **Proposed project:** “Secure Data Collaboration Using GFFS,” Andrew Grimshaw
+- Session Chair: RBC
+- **Project review:** TBC
+- **Project review:** TBC
+- **Proposed project:** TBC
+- **Proposed project:** TBC
+- **Proposed project:** TBC
+- **Proposed project:** TBC
 
 ****
 ### 3:40—4:00 PM: 
@@ -80,19 +78,15 @@ Travel Day. Arrival in Jeju.
 **Catch-a-project-and-group Concurrent Breakout Sessions**
 
 ****
-### 5:00 – 5:10 PM: 
-**Walk from AP Marunouchi to NICT Otemachi Office: KDDI Otemachi Building 16th Floor, 1-8-1 Otemachi, Chiyoda-ku, Tokyo, 100-0004**
-
-****
 ### 5:15 – 6:00 PM
-**Demo Session at NICT Otemachi (TCR, 16th floor)**
-Session Chair: Eiji Kawai
-- **Demo 1:** ASEAN-IVO, Luke Jing Yuan et al. (MIMOS and ASEAN-IVO project members)
-- **Demo 2:** An Adaptive Network Testbed based on SDN-IP, Grace Hui-Lan Lee, Wun-Yuan Huang, Fang Pang Lin, Te-Lung Liu (NCHC) and Yoshihiko Kanaumi, Eiji Kawai, Naomi Terada, Shinji Shimojo (NICT)   
-- **Demo 3:** SafeDB: Secure Database Processing, Joâo Paulo and Rui Oliveira (INESC TEC)
-- **Demo 4:** An Island Overlay Network (ION) Testbed for Designing and Evaluating IoT-era Applications, Kensworth Subratie (University of Florida)
-- **Demo 5:** Linking Applications for Natural Disaster Decision Support: SageRDI, Jason Haga (AIST)
-- **Demo 6:** Secure Data Collaboration Using GFFS, Andrew Grimshaw (University of Virginia)
+**Demo Session at Room to be confirmed**
+Session Chair: TBC
+- **Demo 1:** TBC
+- **Demo 2:** TBC  
+- **Demo 3:** TBC
+- **Demo 4:** TBC
+- **Demo 5:** TBC
+- **Demo 6:** TBC
 
 ***
 ### 6:30 PM
@@ -103,12 +97,12 @@ Session Chair: Eiji Kawai
 							 Tuesday, April 23, 2019
 
 ### 09:00 – 09:15 AM 
-**Plenary Presentation “Toward the Global Reseach Platform,” Nadya Williams**
+**TBC**
 
 ****
 ### 09:15 – 09:30 AM
 **Plenary Brief Report back from Each Project**
-- **Session Chair:** Fang-Pang Lin
+- **Session Chair:** TBC
 
 ****
 ### 09:45 AM – 12:00 PM 
@@ -130,17 +124,26 @@ Session Chair: Eiji Kawai
 
 ****
 ### 4:30 – 5:00 PM
-- **Closing Remarks and Announcements for Future CENTRA Events**
+- **TBD**
 
 ****
 ### 5:00—6:00 PM 
-- **CENTRA Advisory Board and Steering Committee Meeting**
+- **TBC: CENTRA Advisory Board and Steering Committee Meeting**
 
 ****
 ***
 ### 6:30 PM
 **Reception or Dinner**
-- (Location)
+- (Location)  
+****
 							 Wednesday, April 24, 2019
 
-### 09:00 – 09:15 AM 
+### 09:00 – 5:00 PM 
+- **Details to be updated. CENTRA 4 final summary report back and closing will be toward the end of the day ~ until 5 PM, tentatively**  
+****
+				            Thursday, April 25 through Saturday, April 27, 2019
+
+###  
+**Please visit the co-located event [PRAGMA 36 Workshop webiste](http://www.pragma-grid.net/pragma36-program/) for agenda details for April 25, 26 and 27. Please note that PRAGMA 36 pre-workshop starts on Wednesday, April 24, 2019**
+
+
