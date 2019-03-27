@@ -28,12 +28,19 @@ April 12, 2019 by midnight Korea time (UTC+9): Full poster PDF or pptx submissio
 
 **CENTRA 4 Meeting: Connecting Data, Applications and People in Smart Cyberinfrastructure and IoT**  
 * Date: April 22(Mon)-24(Wed), 2019  
+* [CENTRA 4 Program](http://www.globalcentra.org/centra4/program.html)  
 * Location: Jeju, Korea (Venue: Phoenix JEJU)  
 
 **PRAGMA 36 Pre-Workshop**  
 * Dates: April 24(Wed), 2019 
 * Location: Jeju, Korea (Venue: Phoenix JEJU)  
-* Please note that this day [CENTRA 4 Program](http://www.globalcentra.org/centra4/program.html) and [PRAGMA 36 Program](http://www.pragma-grid.net/pragma36-program/) run in parallel sessions. 
+* Please note that this day [CENTRA 4 Program](http://www.globalcentra.org/centra4/program.html) and [PRAGMA 36 Program](http://www.pragma-grid.net/pragma36-program/) run in parallel sessions.   
+
+**PRAGMA 36 Workshop**  
+* Dates: April 25(Thu)-26(Fri), 2019 
+* CENTRA is presenting a summary and opportunities to collaborate with PRAGMA on 25th (Thu) morning.  
+* [PRAGMA 36 Program](http://www.pragma-grid.net/pragma36-program/) 
+* Location: Jeju, Korea (Venue: Phoenix JEJU)  
 
 **CENTRA & PRAGMA Networking and Collaboration Day**  
 * Date: April 27(Sat), 2019 
