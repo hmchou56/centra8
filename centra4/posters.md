@@ -12,7 +12,7 @@ All CENTRA4 attendees are welcomed to submit abstracts to:
 **Jeonghoon Moon (jhmoon@kisti.re.kr) , and cc to Kiwook Kim (wowook@kisti.re.kr)**
 
 If you haven’t registered to CENTRA 4 meeting yet, please register your attendee information at:
-http://www.myrgst.com/centra4-pragma36/ as soon as possible by April 1st, 2019 midnight Korea time (*11am* US Eastern time).
+http://www.myrgst.com/centra4-pragma36/ as soon as possible **by April 1st, 2019 midnight Korea time (*11am* US Eastern time)**.
 
 The abstract should be less than or equal to 450 words and covering the following information:
 
