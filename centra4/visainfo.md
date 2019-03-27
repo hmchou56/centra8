@@ -15,6 +15,21 @@ without a visa according to visa-exemption agreements or in accordance with prin
 interest. More information about visa-free entries for foreigners.
 [More Information](https://www.hikorea.go.kr/pt/InfoDetailR_en.pt?categoryId=2&parentId=382&catSeq=&showMenuId=374)
 
+**Letter of Invitation**
+
+If you need a letter of invitation for participating in the CENTRA4-PRAGMA36 Joint Meeting, please email 
+to secretariat at *jongsang.park@connect-comm.net* with the following information.
+
+An official invitation letter will be sent to the all participants, who request them, but you must have 
+registered for the CENTRA or/and PRAGMA meeting.
+
+Your invitation letter request must include the details specified in the 
+[Invitation Letter Request Form](http://www.myrgst.com/centra4-pragma36/Invitation_Letter_Request_Form.docx)
+
+Please be aware that providing necessary documents for your visa application do not imply any financial support. 
+Travel expenses incurred to your participation in the CENTRA4 & PRAGMA36 Joint Meeting are the responsibility 
+of the participant himself/herself. Please work with your funding source for financial support documentation should it be required for your Korean visa application.  
+  
 **Nationals of countries or regions allowed for visa-free entry (46 countries)**
 
 [Find Countries under Visa Waiver Agreements with Korea](http://myrgst.com/centra4-pragma36/centra4-pragma36_visa.pdf)
@@ -106,18 +121,4 @@ interest. More information about visa-free entries for foreigners.
 </table>
 <br>
 
-**Letter of Invitation**
-
-If you need a letter of invitation for participating in the CENTRA4-PRAGMA36 Joint Meeting, please email 
-to secretariat at *jongsang.park@connect-comm.net* with the following information.
-
-An official invitation letter will be sent to the all participants, who request them, but you must have 
-registered for the CENTRA or/and PRAGMA meeting.
-
-Your invitation letter request must include the details specified in the 
-[Invitation Letter Request Form](http://www.myrgst.com/centra4-pragma36/Invitation_Letter_Request_Form.docx)
-
-Please be aware that providing necessary documents for your visa application do not imply any financial support. 
-Travel expenses incurred to your participation in the CENTRA4 & PRAGMA36 Joint Meeting are the responsibility 
-of the participant himself/herself. Please work with your funding source for financial support documentation should it be required for your Korean visa application.
 
