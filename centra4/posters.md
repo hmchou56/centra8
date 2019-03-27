@@ -9,10 +9,10 @@ hide: true
 ## Posters and Demos
 
 All CENTRA4 attendees are welcomed to submit abstracts to:
-**Jeonghoon Moon(jhmoon@kisti.re.kr) , and cc to Kiwook Kim(wowook@kisti.re.kr)**
+**Jeonghoon Moon (jhmoon@kisti.re.kr) , and cc to Kiwook Kim (wowook@kisti.re.kr)**
 
 If you haven’t registered to CENTRA 4 meeting yet, please register your attendee information at:
-http://www.myrgst.com/centra4-pragma36/ as soon as possible by the end of March 31, 2019 your local time.
+http://www.myrgst.com/centra4-pragma36/ as soon as possible by April 1st, 2019 midnight Korea time (*11am* US Eastern time).
 
 The abstract should be less than or equal to 450 words and covering the following information:
 
@@ -44,7 +44,7 @@ We strongly recommend all submissions use the attached [word template](http://ww
  - Abstract poster/demo submission deadline: Mar. 10th, 2019.
  - **Abstract deadline extended (final): Apr. 1st, 2019 by 11am US Eastern (Midnight Korea time)**
  - Registration closes: Apr. 1st, 2019 by 11am US Eastern (Midnight Korea time).
- - Author notification: Apr. 6th, 2019.
+ - Author notification: Apr. 6th-7th, 2019.
  - Full poster submission deadline: Apr. 12th, 2019 by 11am US Eastern (Midnight Korea time).
 
 
