@@ -35,7 +35,6 @@ We strongly recommend all submissions use the attached [word template](http://ww
 ### Demo Requirements
 
 - All accepted demo submissions will be presented during the CENTRA 4. Each demo will be 15mins with 5min for questions. In order to better document the meeting activities, all presentations will be collected for uploading to the website.
-
 - Please contact Kiwook Kim(wowook@kisti.re.kr) for what you need at your demo, e.g. network setup or other requirements as soon as possible, no later than 12th April 2019.
 
 
