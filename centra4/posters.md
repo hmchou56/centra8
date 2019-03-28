@@ -26,7 +26,7 @@ We strongly recommend all submissions use the attached [word template](http://ww
 
 ### Poster Requirements
 
-- Files must be in PDF format and use the A0 poster size (841 x 1189 mm/33.1 x 46.8 in).
+- Files must be in PDF format and use the A1 poster size (594 x 841 mm/23.4 x 33.1 in).
 - All submissions will be reviewed by CENTRA 4 Program Committee. Decisions and suggestions will be made available via email. Authors are expected to respond to review comments and, if necessary, resubmit their updated poster and abstract.
 - We are arranging to have accepted posters printed and available at the venue. Digital file MUST be received **by 12th April 2019, 11am US Eastern Time** to ensure printing locally by KISTI. If you miss this deadline you may still participate, however you are responsible for printing and transporting your poster.
 - Authors are responsible for poster setup and removal.
