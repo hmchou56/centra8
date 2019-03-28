@@ -122,9 +122,11 @@ Chi-Wei Yi       |Professor, National Chiao Tung University       |Sensor networ
 
 **Name** | **Role and Institution** | **Interests**
 Saumitra Aditya | PhD Student, University of Florida | Networked systems, network virtualization, social networks
-Nannapas Banluesombatkul     |Graduate Student,  Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand   |Cloud scheduling, machine learning
+Nannapas Banluesombatkul     |Graduate Student,  Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand   |Cloud scheduling, machine learning 
+Cláudia Brito  | Ph Student, INESC TEC and U. Minho, Portugal  |Machine Learning, Deep Learning, Privacy
 Chiao-Ming Chuang  |Graduate Student, National Chiao Tung University, Taiwan     |Image processing, deep learning 
 Michael Elliott  |Graduate Student, University of Florida, USA   | 
+Tânia Esteves  |PhD Student, INESC TEC and U. Minho, Portugal  |Security, Privacy-preserving storage systems
 Adam Grupa | PhD Student, The Ohio State University | Autonomic computing, distributed computing, artificial intelligence, neural networks
 Ming Tai Ha | PhD Student, Rutgers University | High-performance computing, distributed computing
 Dylan Kobayashi | PhD Student, University of Hawaii at Manoa | SAGE2 development, data visualization, multiple tiled displays
@@ -132,8 +134,10 @@ Shu-Wei Lee     | Graduate Student, National Cheng Kung University, Taiwan     |
 Ming-Hong Lin     |Graduate Student, National Chiao Tung University, Taiwan    |Deep learning, IoT, AI 
 Yu Shao Liu      |Graduate Student, National Chiao Tung University, Taiwan     |Database, image processing
 Srivattsan Sridharan | PhD Student, University of Florida | Autonomic computing, distributed computing, software-defined systems, model definition for information systems
+Ricardo Macedo |PhD Student, INESC TEC and U. Minho  |Storage systems, Software-defined storage
 Sola Park      |Master's Student, Seoul National University, South Korea      |Object detection and tracking, YOLO, autonomous driving
-Parth Patel    |Undergraduate Student, University of Florida  | 
+Parth Patel    |Undergrad Research Student, University of Florida  | 
+Rogério Pontes   |PhD Student, INESC TEC and U. Minho, Portugal  |Security, Privacy-preserving databases and storage, Multi-party computation protocols
 Kensworth Subratie | PhD Student, University of Florida | Virtual networks, distributed storage and resource access control
 Jyun-Yu Syu     |Graduate Student, National Chiao Tung University, Taiwan     |Wireless technologies, media streaming and management service
 Hsin-Hung Tseng | Undergraduate Student, National Chung Hsing University, Taiwan |HI-VISION
