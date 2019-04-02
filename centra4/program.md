@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 <!-- 
-## CENTRA 2019: Smart Cyberinfrastructure for Transnational Science [theme to be updated]
+## CENTRA 2019: Connecting Data, Applications and People in Smart Cyberinfrastructure and IoT
  -->
 
 -------------
@@ -36,10 +36,10 @@ Travel Day. Arrival in Jeju.
 ***
 ### 9:30 – 10:30 AM
 **Plenary Flyby Session: Opening Communications**
-- Session Chair: TBC
-- **Welcome remarks:** Dr. Kum Won Cho (Vice President, KISTI) 
-- **... KREONET :** 
-- **Presentation: “CENTRA 4:** Objectives, Partners and Desired Outcomes,” José Fortes, Kum Won Cho, Fang Pang Lin, Rui Oliveira and Shinji Shimojo  
+- Session Chair: Woojin Seok
+- **Welcome remarks:** Heeyoon Choi (President, KISTI) 
+- **Opening talk /keynote:** TBD
+- **Presentation:** “CENTRA 4: Objectives, Partners and Desired Outcomes,” José Fortes, Kum Won Cho, Fang-Pang Lin, Rui Oliveira and Shinji Shimojo  
 
 ****
 ### 10:30 – 10:45 AM 
@@ -47,35 +47,45 @@ Travel Day. Arrival in Jeju.
 
 ****
 ### 10:45 AM – 12:00 PM
-**Plenary Dive-in Session: Reports on Ongoing Projects**
+**Plenary Dive-in Session 1: Ongoing Projects (15-mins each)**
 - Session Chair: TBC
-- **Project review:** TBC
-- **Project review:** TBC
-- **Project review:** TBC
-- **Project review:** TBC
+- **Project review:** “Dynamically Aggregating Smart Community Sensors, Edge and Cloud Resources with Overlay VPNs”
+- **Project review:** “SDN-IP Peering for IoT Data Transmission"
+- **Project review:** “AVAU Applications for Smart Agriculture”
+- **Project review:** “Edge-Net.org”
+- **Project review:** “IT for Natural Disaster Management & Visualization Alliance”
 
 ****
-### 12:00 – 1:00 PM: 
+### 12:00 – 1:00 PM 
 **Lunch**
 
 ****
-### 1:10 – 3:40 PM
-**Plenary Dive-in Session: Reports on Ongoing Projects and Proposed Projects**
-- Session Chair: RBC
-- **Project review:** TBC
-- **Project review:** TBC
-- **Proposed project:** TBC
-- **Proposed project:** TBC
-- **Proposed project:** TBC
-- **Proposed project:** TBC
+### 1:15 – 2:30 PM
+**Plenary Dive-in Session 2: Ongoing Projects and New Projects (15-mins each)**
+- Session Chair: TBC
+- **Project review:** “AirBox: an participatory ecosystem for PM2.5 monitoring”
+- **Project review:** “Collaborative Lifemapper”
+- **Project review:** “Privacy-preserving Cloud Computing for IoT”
+- **Proposed project:** “ScienceLoRa: The Wireless IoT Network & Service in KREONET for IoT Applications in Science”
+- **Proposed project:** “Semi-Automated Emergency Response Systems”
 
 ****
-### 3:40—4:00 PM: 
+### 2:30—3:00 PM 
+**Tea break and Posters**
+
+****
+### 3:00 – 4:15 PM
+**Plenary Dive-in Session 3: New Projects (15-mins each)**
+- Session Chair: TBC
+- **Proposed project:** “Development of a low-cost camera system for object recognition/tracking and its applications”
+- **Proposed project:** “Smart and Connected Communities Testbed”
+- **Proposed project:** “HPC Demand Response”
+- **Proposed project:** “SCALE3:A resilient IoT data gathering and real-time data processing for safe community alerting”
+- **Proposed project:** “Secure Data Collaborations Using GFFS”
+
+****
+### 4:15—5:00 PM: 
 **Tea break and Group formation for Ongoing and New Projects**
-
-****
-### 4:00 – 5:00 PM: 
-**Catch-a-project-and-group Concurrent Breakout Sessions**
 
 ****
 ### 5:15 – 6:00 PM
