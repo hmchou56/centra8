@@ -38,7 +38,7 @@ Travel Day. Arrival in Jeju.
 **Plenary Flyby Session: Opening Communications**
 - Session Chair: Woojin Seok
 - **Welcome remarks:** Heeyoon Choi (President, KISTI) 
-- **Opening talk /keynote:** TBD
+- **Opening talk /keynote:** Hyun Wook Park (Professor, KAIST)
 - **Presentation:** “CENTRA 4: Objectives, Partners and Desired Outcomes,” José Fortes, Kum Won Cho, Fang-Pang Lin, Rui Oliveira and Shinji Shimojo  
 
 ****
