@@ -90,7 +90,7 @@ Travel Day. Arrival in Jeju.
 ****
 ### 5:15 – 6:00 PM
 **Demo Session at Room to be confirmed**
-Session Chair: TBC
+- Session Chair: TBC
 - **Demo 1:** TBC
 - **Demo 2:** TBC  
 - **Demo 3:** TBC
@@ -106,42 +106,43 @@ Session Chair: TBC
 ****
 							 Tuesday, April 23, 2019
 
-### 09:00 – 09:15 AM 
-**TBC**
+### 08:30 – 10:00 AM 
+**Panel talk:** What is good about CENTRA and how to make it better
 
 ****
-### 09:15 – 09:30 AM
-**Plenary Brief Report back from Each Project**
-- **Session Chair:** TBC
+### 10:00 – 10:15 AM
+**Break**
 
 ****
-### 09:45 AM – 12:00 PM 
-- **Catch-a-project-and-group Concurrent Breakout Sessions**
-- (10:00 AM – 12:00 PM: Refreshments available)
+### 10:15 AM – 12:00 PM 
+**Catch-a-project-and-group Concurrent Breakout Sessions**
 
 ****
 ### 12:00 – 1:00 PM
-- **Lunch** 
+**Lunch** 
 
 ****
-### 1:30 – 3:00 PM
-- **Planning Session for Each Project - Concurrent Breakout Sessions**
-- (2:00 – 3:30 PM: Refreshments available)
+### 1:15 – 2:30 PM
+**Concurrent Group Breakout Sessions**
 
 ****
-### 3:30 – 4:30 PM
-- **Plenary – Take-away Session**
+### 2:30 – 3:30 PM
+**Group reports (3-mins each)**
+- Session Chair: TBC
 
 ****
-### 4:30 – 5:00 PM
-- **TBD**
+### 3:30 – 3:45 PM
+**Break**
 
 ****
-### 5:00—6:00 PM 
+### 3:45—5:00 PM 
+- **Panel talk:** Sustaining and growing CENTRA towards CENTRA 10
+
+****
+### 5:00—6:30 PM 
 - **TBC: CENTRA Advisory Board and Steering Committee Meeting**
 
 ****
-***
 ### 6:30 PM
 **Reception or Dinner**
 - (Location)  
