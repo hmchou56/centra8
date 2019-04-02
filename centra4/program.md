@@ -145,12 +145,14 @@ Travel Day. Arrival in Jeju.
 ****
 ### 6:30 PM
 **Reception or Dinner**
-- (Location)  
+- (Location) 
+
 ****
 							 Wednesday, April 24, 2019
 
 ### 09:00 – 5:00 PM 
 **Details to be updated. CENTRA 4 final summary report back and closing will be toward the end of the day ~ until 5 PM, tentatively**  
+
 ****
 				            Thursday, April 25 through Saturday, April 27, 2019
 
