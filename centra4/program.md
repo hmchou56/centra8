@@ -136,11 +136,11 @@ Travel Day. Arrival in Jeju.
 
 ****
 ### 3:45—5:00 PM 
-- **Panel talk:** Sustaining and growing CENTRA towards CENTRA 10
+**Panel talk:** Sustaining and growing CENTRA towards CENTRA 10
 
 ****
 ### 5:00—6:30 PM 
-- **TBC: CENTRA Advisory Board and Steering Committee Meeting**
+**TBC: CENTRA Advisory Board and Steering Committee Meeting**
 
 ****
 ### 6:30 PM
@@ -150,7 +150,7 @@ Travel Day. Arrival in Jeju.
 							 Wednesday, April 24, 2019
 
 ### 09:00 – 5:00 PM 
-- **Details to be updated. CENTRA 4 final summary report back and closing will be toward the end of the day ~ until 5 PM, tentatively**  
+**Details to be updated. CENTRA 4 final summary report back and closing will be toward the end of the day ~ until 5 PM, tentatively**  
 ****
 				            Thursday, April 25 through Saturday, April 27, 2019
 
