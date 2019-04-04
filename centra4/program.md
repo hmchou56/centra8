@@ -73,7 +73,7 @@ Travel Day. Arrival in Jeju.
 ****
 ### 2:30—3:00 PM 
 **Tea break and Posters**
-- *Posters will be on display for viewing by attendees and presentation by their authors
+- *Posters will be on display for viewing by attendees and presentation by their authors*
 
 ****
 ### 3:00 – 4:30 PM
@@ -89,7 +89,7 @@ Travel Day. Arrival in Jeju.
 ****
 ### 4:30—5:00 PM: 
 **Tea break and Group formation for Ongoing and New Projects**
-- *Attendees interact and declare intention to join existing and/or new projects. Writing boards are provided for researchers to write their names under the proposed projects.  Project elaborations, planning and discussions by the resulting collaboration groups take place in the second and third day of the agenda.
+- *Attendees interact and declare intention to join existing and/or new projects. Writing boards are provided for researchers to write their names under the proposed projects.  Project elaborations, planning and discussions by the resulting collaboration groups take place in the second and third day of the agenda.*
 
 ***
 ### 5:30 PM
@@ -111,7 +111,7 @@ Travel Day. Arrival in Jeju.
 ****
 ### 10:30 AM – 12:00 PM 
 **Catch-a-project-and-group Concurrent Breakout Sessions**
-- *Participants of different projects gather in distributed rooms to continue the formulation and advancement of collaborations around existing and proposed projects.
+- *Participants of different projects gather in distributed rooms to continue the formulation and advancement of collaborations around existing and proposed projects*
 
 ****
 ### 12:00 – 1:00 PM
@@ -120,13 +120,13 @@ Travel Day. Arrival in Jeju.
 ****
 ### 1:15 – 2:30 PM
 **Concurrent Group Breakout Sessions**
-- *Participants of different projects gather in distributed rooms to continue the formulation and advancement of collaborations around existing and proposed projects
+- *Participants of different projects gather in distributed rooms to continue the formulation and advancement of collaborations around existing and proposed projects*
 
 ****
 ### 2:30 – 3:30 PM
 **Group reports (3-mins each)**
 - Session Chair: Fang-Pang Lin
-- *Plenary session with three-minute reports by each project leader.
+- *Plenary session with three-minute reports by each project leader*
 
 ****
 ### 3:30 – 3:45 PM
@@ -155,7 +155,7 @@ Travel Day. Arrival in Jeju.
 ****
 ### 10:30 AM – 12:00 PM
 **Catch-a-project-and-group Concurrent Breakout Sessions**
-- *Participants of different projects gather in distributed rooms to continue the formulation and advancement of collaborations around existing and proposed projects
+- *Participants of different projects gather in distributed rooms to continue the formulation and advancement of collaborations around existing and proposed projects*
 
 ****
 ### 12:00 – 1:00 PM
@@ -164,12 +164,12 @@ Travel Day. Arrival in Jeju.
 ****
 ### 1:30 – 3:00 PM
 **Concurrent Planning Sessions for Each Project**
-- *Participants of different projects gather in distributed rooms to identify and plan technical tasks, deliverables, outcomes and meetings to accomplish before CENTRA 5
+- *Participants of different projects gather in distributed rooms to identify and plan technical tasks, deliverables, outcomes and meetings to accomplish before CENTRA 5*
 
 ****
 ### 3:30 – 4:30 PM
 **Plenary Take-away session**
-- *Plenary session with three-minute reports by each project leader on plans for follow-up work before CENTRA 5
+- *Plenary session with three-minute reports by each project leader on plans for follow-up work before CENTRA 5*
 
 ****
 ### 4:30 – 5:00 PM
@@ -180,7 +180,7 @@ Travel Day. Arrival in Jeju.
 ****
 ### 5:00 – 6:00 PM
 **CENTRA Advisory Board and Steering Committee meeting**
-*Restricted to members of the CENTRA Advisory Board
+- *Restricted to members of the CENTRA Advisory Board*
 
 ****
 ### 6:30 PM
