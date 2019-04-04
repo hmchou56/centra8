@@ -97,7 +97,7 @@ Travel Day. Arrival in Jeju.
 
 
 ****
-							 Tuesday, April 23, 2019
+					Tuesday, April 23, 2019
 
 ### 08:30 – 10:00 AM 
 **Panel talk:** What is good about CENTRA and how to make it better
@@ -143,7 +143,7 @@ Travel Day. Arrival in Jeju.
 **Dinner** 
 
 ****
-							 Wednesday, April 24, 2019
+					Wednesday, April 24, 2019
 
 ### 09:30 – 10:00 AM 
 **Invited talk:** TBD
@@ -189,7 +189,7 @@ Travel Day. Arrival in Jeju.
 
 
 ****
-				            Thursday, April 25 through Saturday, April 27, 2019
+			Thursday, April 25 through Saturday, April 27, 2019
 
 **Please visit the co-located event [PRAGMA 36 Workshop webiste](http://www.pragma-grid.net/pragma36-program/) for agenda details for April 25, 26 and 27. Please note that PRAGMA 36 pre-workshop starts on Wednesday, April 24, 2019**
 
