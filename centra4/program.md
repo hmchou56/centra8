@@ -180,7 +180,7 @@ Travel Day. Arrival in Jeju.
 ****
 ### 5:00 – 6:00 PM
 **CENTRA Advisory Board and Steering Committee meeting**
-- *Restricted to members of the CENTRA Advisory Board
+*Restricted to members of the CENTRA Advisory Board
 
 ****
 ### 6:30 PM
@@ -191,7 +191,6 @@ Travel Day. Arrival in Jeju.
 ****
 				            Thursday, April 25 through Saturday, April 27, 2019
 
-###  
 **Please visit the co-located event [PRAGMA 36 Workshop webiste](http://www.pragma-grid.net/pragma36-program/) for agenda details for April 25, 26 and 27. Please note that PRAGMA 36 pre-workshop starts on Wednesday, April 24, 2019**
 
 
