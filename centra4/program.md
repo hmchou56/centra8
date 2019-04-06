@@ -100,7 +100,7 @@ Travel Day. Arrival in Jeju.
 					Tuesday, April 23, 2019
 
 ### 08:30 – 10:00 AM 
-**Panel talk:** What is good about CENTRA and how to make it better
+**Panel talk 1:** What is good about CENTRA and how to make it better
 - Panel chair: Renato Figueiredo
 - Panelists: Joobum Kim, João Paulo, Eiji Kawai, Aimee Stewart, Ming-Der Yang, Subratie Kensworth 
 
@@ -134,9 +134,9 @@ Travel Day. Arrival in Jeju.
 
 ****
 ### 3:45 — 5:00 PM 
-**Panel talk:** Sustaining and growing CENTRA towards CENTRA 10
+**Panel talk 2:** Sustaining and growing CENTRA towards CENTRA 10
 - Panel Chair: Beth Plale 
-- Panelists: Minsun Lee, Rui Oliveira, William Chang, Peter Arzberger
+- Panelists: Minsun Lee, Rui Oliveira, William Chang, Peter Arzberger, Hiroaki Harai
 
 ****
 ### 5:30 PM
