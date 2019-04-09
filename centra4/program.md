@@ -155,7 +155,7 @@ Peter Arzberger (U. California San Diego, USA).
 
 ****
 ### 5:00 - 6:00 PM
-**Demo Session"**
+**Demo Session**
 - Demo 1 (10 min): "SAGE2 Visualizer for Edge Computing, Image Processing, and Object Recognition", Michael Elliott (Florida Univ., USA).
 - Demo 2 (10 min): "Virtual Time Machine for Reproducible Network Emulation", Jason Liu (Florida Univ., USA).
 - Demo 3 (10 min): "FPGA Implementation of a Simplified YOLO Algorithm for Real-time Object Detection", Hyuk-Jae Lee (Seoul National Univ., Korea) 
