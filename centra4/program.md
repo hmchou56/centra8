@@ -38,8 +38,13 @@ Travel Day. Arrival in Jeju.
 **Plenary Flyby Session: Opening Communications**
 - Session Chair: Woojin Seok
 - **Welcome remarks:** Heeyoon Choi (President, KISTI) 
-- **Opening talk /keynote:** TBD
-- **Presentation:** “CENTRA 4: Objectives, Partners and Desired Outcomes,” José Fortes, Kum Won Cho, Fang-Pang Lin, Rui Oliveira and Shinji Shimojo  
+- **Opening talk /keynote:** “Current status of P4 Project and its applications”, Sangheon Pack (Korea University, Korea)
+- **Presentation:** “CENTRA 4: Objectives, Partners and Desired Outcomes”, 
+José Fortes (U. Florida, USA),
+Kum Won Cho (KISTI, Korea),
+Fang-Pang Lin (NCHC, Taiwan),
+Rui Oliveira (INESC TEC, Portugal),
+Shinji Shimojo  (NICT, Japan).
 
 ****
 ### 10:30 – 10:45 AM 
