@@ -36,10 +36,10 @@ Travel Day. Arrival in Jeju.
 ***
 ### 9:30 – 10:30 AM
 **Plenary Flyby Session: Opening Communications**
-- Session Chair: Woojin Seok
+- Session Chair: Woojin Seok 
 - **Welcome remarks:** Heeyoon Choi (President, KISTI) 
-- **Opening talk /keynote:** “Current status of P4 Project and its applications”, Sangheon Pack (Korea University, Korea)
-- **Presentation:** “CENTRA 4: Objectives, Partners and Desired Outcomes”, 
+- **Opening talk /keynote:** *“Current status of P4 Project and its applications”*, Sangheon Pack (Korea University, Korea)
+- **Presentation:** *“CENTRA 4: Objectives, Partners and Desired Outcomes”*, 
 José Fortes (U. Florida, USA),
 Kum Won Cho (KISTI, Korea),
 Fang-Pang Lin (NCHC, Taiwan),
@@ -106,8 +106,14 @@ Shinji Shimojo  (NICT, Japan).
 
 ### 08:30 – 10:00 AM 
 **Panel talk 1:** What is good about CENTRA and how to make it better
-- Panel chair: Renato Figueiredo
-- Panelists: Joobum Kim, João Paulo, Eiji Kawai, Aimee Stewart, Ming-Der Yang, Subratie Kensworth 
+- Panel chair: Renato Figueiredo (U. Florida, USA).
+- Panelists: Joobum Kim (KISTI, Korea), 
+João Paulo (INESC TEC), 
+Eiji Kawai (NICT Japan), 
+Aimee Stewart (U. Kansas, USA) 
+Ming-Der Yang (NCHU, Taiwan), 
+Subratie Kensworth (U. Florida, USA). 
+
 
 ****
 ### 10:00 – 10:15 AM
@@ -140,11 +146,22 @@ Shinji Shimojo  (NICT, Japan).
 ****
 ### 3:45 — 5:00 PM 
 **Panel talk 2:** Sustaining and growing CENTRA towards CENTRA 10
-- Panel Chair: Beth Plale 
-- Panelists: Minsun Lee, Rui Oliveira, William Chang, Peter Arzberger, Hiroaki Harai
+- Panel Chair: Beth Plale (Indiana U.).
+- Panelists: Minsun Lee (Chungnam National University, Korea), 
+Hiroaki Harai (NICT, Japan), 
+Rui Oliveira (INESC TEC, Portugal), 
+William Chang (U. Hawaii, USA), 
+Peter Arzberger (U. California San Diego, USA).
 
 ****
-### 5:30 PM
+### 5:00 - 6:00 PM
+**Demo Session"**
+- Demo 1 (10 min): "SAGE2 Visualizer for Edge Computing, Image Processing, and Object Recognition", Michael Elliott (Florida Univ., USA).
+- Demo 2 (10 min): "Virtual Time Machine for Reproducible Network Emulation", Jason Liu (Florida Univ., USA).
+- Demo 3 (10 min): "", Hyuk-Jae Lee (Seoul National Univ., Korea) 
+
+****
+### 6:30 PM
 **Dinner** 
 
 ****
@@ -152,6 +169,7 @@ Shinji Shimojo  (NICT, Japan).
 
 ### 09:30 – 10:00 AM 
 **Invited talk:** TBD
+- Session Chair: Joobum Kim 
 
 ****
 ### 10:00 – 10:30 AM
