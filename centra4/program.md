@@ -94,7 +94,7 @@ Travel Day. Arrival in Jeju.
 &nbsp;&nbsp; Jason Haga (AIST, Japan),  
 &nbsp;&nbsp; Jason Leigh (University of Hawaii, USA),  
 &nbsp;&nbsp; Maxine Brown (University of Illinois, Chicago, USA),  
-&nbsp;&nbsp; Bill Chang (University of Hawaii, USA).  
+&nbsp;&nbsp; William Chang (University of Hawaii, USA).  
 - **Project review:** *“Collaborative Lifemapper”*,  
 &nbsp;&nbsp; James Beach, Aimee Stewart (University of Kansas, USA),
 &nbsp;&nbsp; Hsiu-Mei Chou, Fang-Pang Lin (NCHC, Taiwan),  
@@ -109,11 +109,22 @@ Travel Day. Arrival in Jeju.
 ### 1:15 – 2:30 PM
 **Plenary Dive-in Session 2: Ongoing Projects and New Projects (15-mins each)**
 - Session Chair: Shava Smallen
-- **Project review:** “AirBox: an participatory ecosystem for PM2.5 monitoring”
-- **Project review:** “Privacy-preserving Cloud Computing for IoT”
-- **Proposed project:** “ScienceLoRa: The Wireless IoT Network & Service in KREONET for IoT Applications in Science”
-- **Proposed project:** “Semi-Automated Emergency Response Systems”
-- **Proposed project:** “Data Science Platform for Scaling Collaborative Research”
+- **Project review:** *“AirBox: an participatory ecosystem for PM2.5 monitoring”*,  
+&nbsp;&nbsp; Ling-Jyh Chen (Academia Sinica, Taiwan),  
+&nbsp;&nbsp; Shyhtsun Felix Wu (UC Davis, USA),  
+&nbsp;&nbsp; Shava Smallen (San Diego Supercomputer Center, USA),  
+&nbsp;&nbsp; Lim Hock Beng (Singapore University of Technology and Design, Singapore),  
+&nbsp;&nbsp; Charlie Catlett (Argonne National Laboratory, USA).  
+- **Project review:** *“Privacy-preserving Cloud Computing for IoT”*,  
+&nbsp;&nbsp; João Paulo, Rogério Pontes, Ricardo Macedo, Tânia Esteves (INESC TEC, Portugal),  
+&nbsp;&nbsp; Woojin Seok (KISTI, Korea).  
+- **Proposed project:** *“ScienceLoRa: The Wireless IoT Network & Service in KREONET for IoT Applications in Science”*,  
+&nbsp;&nbsp; Joobum Kim, Woojin Seok, Jaeseung Kwak, Kiwook Kim, Jeonghoon Moon (KISTI, Korea).  
+- **Proposed project:** *“Semi-Automated Emergency Response Systems”*,  
+&nbsp;&nbsp; Tam Chantem, Ryan Gerdes, and Kevin Heaslip (Virginia Tech, Virginia, USA),  
+&nbsp;&nbsp; Pamela Murray Tuite (Clemson University, South Carolina, USA).  
+- **Proposed project:** *“Data Science Platform for Scaling Collaborative Research”*,  
+&nbsp;&nbsp; Alípio Jorge, Susana Barbosa, Nuno Moniz, Helder Oliveira, João Vinagre (INESC TEC, Portugal).  
 
 ****
 ### 2:30—3:00 PM 
@@ -124,12 +135,27 @@ Travel Day. Arrival in Jeju.
 ### 3:00 – 4:30 PM
 **Plenary Dive-in Session 3: New Projects (15-mins each)**
 - Session Chair: Rui Oliveira
-- **Proposed project:** “Development of a low-cost camera system for object recognition/tracking and its applications”
-- **Proposed project:** “Smart and Connected Communities Testbed”
-- **Proposed project:** “HPC Demand Response”
-- **Proposed project:** “SCALE3:A resilient IoT data gathering and real-time data processing for safe community alerting”
-- **Proposed project:** “Secure Data Collaborations Using GFFS”
-- **Proposed project:** “Social-Edge CPS: Social-Cyber-Physical Systems Meet Edge Computing”
+- **Proposed project:** *“Development of a low-cost camera system for object recognition/tracking and its applications”*,  
+&nbsp;&nbsp; Hyuk-Jae Lee (Seoul National University, Korea),  
+&nbsp;&nbsp; Jinsung Kim and Kyujoong Lee (Sunmoon University, Korea).  
+- **Proposed project:** *“Smart and Connected Communities Testbed”*,  
+&nbsp;&nbsp; Glenn Ricart (US Ignite, USA).  
+- **Proposed project:** *“HPC Demand Response”*,  
+&nbsp;&nbsp; Jason Liu (Florida International University, USA),
+&nbsp;&nbsp; Xingfu Wu (University of Chicago, USA).
+- **Proposed project:** *“SCALE3:A resilient IoT data gathering and real-time data processing for safe community alerting”*,  
+&nbsp;&nbsp; Kyungbaek Kim (Chonnam National University, Korea),  
+&nbsp;&nbsp; Nalini Venkatasubramanian (UC Irvine, USA),  
+&nbsp;&nbsp; Cheng-Hsin Hsu (National Tsing Hua University, Taiwan).  
+- **Proposed project:** *“Secure Data Collaborations Using GFFS”*,  
+&nbsp;&nbsp; Courtney Hill, Andrew Grimshaw, Tho Nguyen (University of Virginia, USA),  
+&nbsp;&nbsp; Consortium of Universities for the Advancement of Hydrologic Science, Inc. (CUAHSI, USA),  
+&nbsp;&nbsp; Indiana University, USA;  
+&nbsp;&nbsp; Water Resources University (Vietnam),  
+&nbsp;&nbsp; Vietnam National University – International University (VNUIU, Vietnam),  
+&nbsp;&nbsp; Department of State Mekong Water Data Initiative (USA).  
+- **Proposed project:** *“Social-Edge CPS: Social-Cyber-Physical Systems Meet Edge Computing”*,  
+&nbsp;&nbsp; Hana Khamfroush (U. of Kentucky, USA).  
 
 ****
 ### 4:30—5:00 PM: 
@@ -145,15 +171,9 @@ Travel Day. Arrival in Jeju.
 					Tuesday, April 23, 2019
 
 ### 08:30 – 10:00 AM 
-**Panel talk 1:** What is good about CENTRA and how to make it better
+**Panel 1:** *"What is good about CENTRA and how to make it better"*,
+- Panelists: Joobum Kim (KISTI, Korea), João Paulo (INESC TEC), Eiji Kawai (NICT Japan), Aimee Stewart (U. Kansas, USA) Ming-Der Yang (NCHU, Taiwan), Kensworth Subratie (U. Florida, USA). 
 - Panel chair: Renato Figueiredo (U. Florida, USA).
-- Panelists: Joobum Kim (KISTI, Korea), 
-João Paulo (INESC TEC), 
-Eiji Kawai (NICT Japan), 
-Aimee Stewart (U. Kansas, USA) 
-Ming-Der Yang (NCHU, Taiwan), 
-Subratie Kensworth (U. Florida, USA). 
-
 
 ****
 ### 10:00 – 10:15 AM
@@ -185,20 +205,16 @@ Subratie Kensworth (U. Florida, USA).
 
 ****
 ### 3:45 — 5:00 PM 
-**Panel talk 2:** Sustaining and growing CENTRA towards CENTRA 10
+**Panel talk 2:** *"Sustaining and growing CENTRA towards CENTRA 10"*,
+- Panelists: Minsun Lee (Chungnam National University, Korea), Hiroaki Harai (NICT, Japan), Rui Oliveira (INESC TEC, Portugal), William Chang (U. Hawaii, USA), Peter Arzberger (U. California San Diego, USA).  
 - Panel Chair: Beth Plale (Indiana U.).
-- Panelists: Minsun Lee (Chungnam National University, Korea), 
-Hiroaki Harai (NICT, Japan), 
-Rui Oliveira (INESC TEC, Portugal), 
-William Chang (U. Hawaii, USA), 
-Peter Arzberger (U. California San Diego, USA).
 
 ****
 ### 5:00 - 6:00 PM
 **Demo Session**
-- Demo 1 (10 min): "SAGE2 Visualizer for Edge Computing, Image Processing, and Object Recognition", Michael Elliott (Florida Univ., USA).
-- Demo 2 (10 min): "Virtual Time Machine for Reproducible Network Emulation", Jason Liu (Florida Univ., USA).
-- Demo 3 (10 min): "FPGA Implementation of a Simplified YOLO Algorithm for Real-time Object Detection", Hyuk-Jae Lee (Seoul National Univ., Korea) 
+- Demo 1 (10 min): "SAGE2 Visualizer for Edge Computing, Image Processing, and Object Recognition", Michael Elliott (U. Florida, USA).  
+- Demo 2 (10 min): "Virtual Time Machine for Reproducible Network Emulation", Jason Liu (Florida International U., USA).  
+- Demo 3 (10 min): "FPGA Implementation of a Simplified YOLO Algorithm for Real-time Object Detection", Hyuk-Jae Lee (Seoul National Univ., Korea).    
 
 ****
 ### 6:30 PM
@@ -207,9 +223,10 @@ Peter Arzberger (U. California San Diego, USA).
 ****
 					Wednesday, April 24, 2019
 
-### 09:30 – 10:00 AM 
-**Invited talk:** TBD
+### 09:30 – 10:00 AM
+**Plenary Session** 
 - Session Chair: Joobum Kim 
+- **Invited Talk**: *"Management of Crops Using On-Site Measurements"*, Kwang Soo Kim (Seoul National University, Korea)  
 
 ****
 ### 10:00 – 10:30 AM
@@ -237,13 +254,13 @@ Peter Arzberger (U. California San Diego, USA).
 ****
 ### 4:30 – 5:00 PM
 **Announcements for Future CENTRA Events and Closing Remarks**
-- **CENTRA 5 Announcement:** Rui Oliveira
-- **Closing Remarks:** José Fortes 
+- **CENTRA 5 Announcement:** Rui Oliveira (INESC TEC, Portugal).
+- **Closing Remarks:** José Fortes (U. Florida, USA).  
 
 ****
 ### 5:00 – 6:00 PM
 **CENTRA Advisory Board and Steering Committee meeting**
-- *Restricted to members of the CENTRA Advisory Board*
+- *For invited participants*
 
 ****
 ### 6:30 PM
