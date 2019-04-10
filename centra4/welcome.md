@@ -24,7 +24,7 @@ We really look forward to seeing you in Jeju on April 22nd - 27th, 2019.
 Thank you very much. 
 
 <p align="left">
-President of KISTI, Hee-Youn Choi
+President of KISTI, Hee-yoon Choi
 </p>
 
 <img src="/img/centra4-president-sig.png" style="width:170px;" align="left"/>
