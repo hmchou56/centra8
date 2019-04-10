@@ -41,11 +41,11 @@ Travel Day. Arrival in Jeju.
 - **Opening Talk /Keynote:** *“P4: Its Concept and Applications to Data Science”*, <br>
 &nbsp;&nbsp; Sangheon Pack (Korea University, Korea)
 - **Presentation:** *“CENTRA 4: Objectives, Partners and Desired Outcomes”*, 
-&nbsp;&nbsp; José Fortes (U. Florida, USA), <br>
-&nbsp;&nbsp; Kum Won Cho (KISTI, Korea), <br>
-&nbsp;&nbsp; Fang-Pang Lin (NCHC, Taiwan), <br>
-&nbsp;&nbsp; Rui Oliveira (INESC TEC, Portugal), <br>
-&nbsp;&nbsp; Shinji Shimojo  (NICT, Japan).
+&nbsp;&nbsp;&nbsp; José Fortes (U. Florida, USA), <br>
+&nbsp;&nbsp;&nbsp; Kum Won Cho (KISTI, Korea), <br>
+&nbsp;&nbsp;&nbsp; Fang-Pang Lin (NCHC, Taiwan), <br>
+&nbsp;&nbsp;&nbsp; Rui Oliveira (INESC TEC, Portugal), <br>
+&nbsp;&nbsp;&nbsp; Shinji Shimojo  (NICT & Osaka U., Japan).
 
 ****
 ### 10:30 – 10:45 AM 
