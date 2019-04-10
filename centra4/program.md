@@ -12,7 +12,7 @@ hide: true
 
 -------------
 # Meeting Agenda
-<h3><strong><u> CENTRA 4 e-Program will be available in PDF in early April</u></strong> </h3>
+<h3><strong><u><a href="http://www.globalcentra.org/centra4/centra4/CENTRA 4 Program 4_9_2019.pdf">CENTRA 4 e-Program (PDF)</a></u></strong> </h3>
 
 
 -------------
