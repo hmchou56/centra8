@@ -37,7 +37,7 @@ Travel Day. Arrival in Jeju.
 ### 9:30 – 10:30 AM
 **Plenary Opening and Flyby Session**
 - Session Chair: Woojin Seok 
-- **Welcome remarks:** Hee-Yoon Choi (President, KISTI) 
+- **Welcome remarks:** Heeyoon Choi (President, KISTI) 
 - **Opening Talk /Keynote:** *“P4: Its Concept and Applications to Data Science”*, <br>
 &nbsp;&nbsp; Sangheon Pack (Korea University, Korea)
 - **Presentation:** *“CENTRA 4: Objectives, Partners and Desired Outcomes”*, 
@@ -55,12 +55,31 @@ Travel Day. Arrival in Jeju.
 ### 10:45 AM – 12:15 PM
 **Plenary Dive-in Session 1: Ongoing Projects (15-mins each)**
 - Session Chair: Shinji Shimojo
-- **Project review:** “Dynamically Aggregating Smart Community Sensors, Edge and Cloud Resources with Overlay VPNs”
-- **Project review:** “SDN-IP Peering for IoT Data Transmission"
-- **Project review:** “AVAU Applications for Smart Agriculture”
-- **Project review:** “Edge-Net.org”
-- **Project review:** “IT for Natural Disaster Management & Visualization Alliance”
-- **Project review:** “Collaborative Lifemapper”
+- **Project review:** *“Dynamically Aggregating Smart Community Sensors, Edge and Cloud Resources with Overlay VPNs”*,
+&nbsp;&nbsp; Renato J. Figueiredo, Ken Subratie, Saumitra Aditya, Vahid Daneshmand (Univ. of Florida, USA),
+&nbsp;&nbsp; Eiji Kawai, Hiroaki Yamanaka, Naomi Terada (NICT, Japan), 
+&nbsp;&nbsp; Glenn Ricart (US Ignite, USA),
+&nbsp;&nbsp; Hyuk-Jae Lee (Seoul National University, South Korea),
+&nbsp;&nbsp; Jingtao Sun, Tomoya Tanjo (NII, Japan),
+&nbsp;&nbsp; Kohei Ichikawa (NAIST, Japan),
+&nbsp;&nbsp; Ryousei Takano (AIST, Japan),
+&nbsp;&nbsp; Susumu Date, Takuda Yamada, Yoshiyuki Kido (Osaka University).
+- **Project review:** *“SDN-IP Peering for IoT Data Transmission"*,
+&nbsp;&nbsp; TeLung Liu, Grace HuiLan Lee, JenWei Hu (NCHC/NARLabs, Taiwan),
+&nbsp;&nbsp; Shinji Shimojo, Naomi Terada, Yoshihiko Kanaumi, Eiji Kawai (NICT, Japan),
+&nbsp;&nbsp; Yasuaki Shinzato, Fukumasa Morifuji, Hirofuyu Noguchi (OOL, Japan),
+&nbsp;&nbsp; Chu-Sing Yang (NCKU, Taiwan),
+&nbsp;&nbsp; Chien-Chao Tseng (NCTU, Taiwan),
+&nbsp;&nbsp; Joe Mambretti, Jim Chen, Fei Yeh (iCAIR, USA),
+&nbsp;&nbsp; Jelina Tetangco, Jay Combinido, Peter Banzon, Christian Matira, Jon Perdon (ASTI, Philippines),
+&nbsp;&nbsp; Linh Truong Dieu, Binh Minh Nguyen, Ngo Hong Son (HUST, Vietnam),
+&nbsp;&nbsp; Phạm Dinh Lam (VNU, Vietnam),
+&nbsp;&nbsp; Chalermpol Charnsripinyo (NECTEC, Thailand),
+&nbsp;&nbsp; Luke Jing Yuan (MIMOS, Malaysia).
+- **Project review:** *“AVAU Applications for Smart Agriculture”*,
+- **Project review:** *“Edge-Net.org”*,
+- **Project review:** *“IT for Natural Disaster Management & Visualization Alliance”*,
+- **Project review:** *“Collaborative Lifemapper”*,
 
 ****
 ### 12:15 – 1:15 PM 
