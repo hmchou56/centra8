@@ -12,7 +12,7 @@ hide: true
 
 -------------
 # Meeting Agenda
-<h3><strong><u><a href="http://www.globalcentra.org/centra4/centra4/CENTRA 4 Program 4_9_2019.pdf">CENTRA 4 e-Program (PDF)</a></u></strong> </h3>
+<h3><strong><u><a href="http://www.globalcentra.org/centra4/CENTRA4-PRAGMA36-Booklet-0410-2.pdf">CENTRA 4 e-Program (PDF)</a></u></strong> </h3>
 
 
 -------------
@@ -37,14 +37,14 @@ Travel Day. Arrival in Jeju.
 ### 9:30 – 10:30 AM
 **Plenary Opening and Flyby Session**
 - Session Chair: Woojin Seok 
-- **Welcome remarks:** Heeyoon Choi (President, KISTI) 
-- **Opening Talk /Keynote:** *“P4: Its Concept and Applications to Data Science”*, <br>
+- **Welcome remarks:** Hee-Yoon Choi (President, KISTI) 
+- **Opening Talk /Keynote:** *“P4: Its Concept and Applications to Data Science”*,  
 &nbsp;&nbsp; Sangheon Pack (Korea University, Korea)
 - **Presentation:** *“CENTRA 4: Objectives, Partners and Desired Outcomes”*, 
-&nbsp;&nbsp;&nbsp; José Fortes (U. Florida, USA), <br>
-&nbsp;&nbsp;&nbsp; Kum Won Cho (KISTI, Korea), <br>
-&nbsp;&nbsp;&nbsp; Fang-Pang Lin (NCHC, Taiwan), <br>
-&nbsp;&nbsp;&nbsp; Rui Oliveira (INESC TEC, Portugal), <br>
+&nbsp;&nbsp;&nbsp; José Fortes (U. Florida, USA),   
+&nbsp;&nbsp;&nbsp; Kum Won Cho (KISTI, Korea),   
+&nbsp;&nbsp;&nbsp; Fang-Pang Lin (NCHC, Taiwan),   
+&nbsp;&nbsp;&nbsp; Rui Oliveira (INESC TEC, Portugal),   
 &nbsp;&nbsp;&nbsp; Shinji Shimojo  (NICT & Osaka U., Japan).
 
 ****
@@ -64,7 +64,7 @@ Travel Day. Arrival in Jeju.
 &nbsp;&nbsp; Kohei Ichikawa (NAIST, Japan),  
 &nbsp;&nbsp; Ryousei Takano (AIST, Japan),  
 &nbsp;&nbsp; Susumu Date, Takuda Yamada, Yoshiyuki Kido (Osaka University).  
-- **Project review:** *“SDN-IP Peering for IoT Data Transmission"*,
+- **Project review:** *"SDN-IP Peering for IoT Data Transmission"*,  
 &nbsp;&nbsp; Te-Lung Liu, Grace Hui-Lan Lee, Jen-Wei Hu (NCHC/NARLabs, Taiwan),  
 &nbsp;&nbsp; Shinji Shimojo, Naomi Terada, Yoshihiko Kanaumi, Eiji Kawai (NICT, Japan),  
 &nbsp;&nbsp; Yasuaki Shinzato, Fukumasa Morifuji, Hirofuyu Noguchi (OOL, Japan),  
