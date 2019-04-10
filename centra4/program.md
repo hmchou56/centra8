@@ -11,7 +11,7 @@ hide: true
  -->
 
 -------------
-# Working Agenda
+# Meeting Agenda
 <h3><strong><u> CENTRA 4 e-Program will be available in PDF in early April</u></strong> </h3>
 
 
@@ -35,16 +35,17 @@ Travel Day. Arrival in Jeju.
 
 ***
 ### 9:30 – 10:30 AM
-**Plenary Flyby Session: Opening Communications**
+**Plenary Opening and Flyby Session**
 - Session Chair: Woojin Seok 
-- **Welcome remarks:** Heeyoon Choi (President, KISTI) 
-- **Opening talk /keynote:** *“Current status of P4 Project and its applications”*, Sangheon Pack (Korea University, Korea)
+- **Welcome remarks:** Hee-Yoon Choi (President, KISTI) 
+- **Opening Talk /Keynote:** *“P4: Its Concept and Applications to Data Science”*, <br>
+&nbsp;&nbsp; Sangheon Pack (Korea University, Korea)
 - **Presentation:** *“CENTRA 4: Objectives, Partners and Desired Outcomes”*, 
-José Fortes (U. Florida, USA),
-Kum Won Cho (KISTI, Korea),
-Fang-Pang Lin (NCHC, Taiwan),
-Rui Oliveira (INESC TEC, Portugal),
-Shinji Shimojo  (NICT, Japan).
+&nbsp;&nbsp; José Fortes (U. Florida, USA), <br>
+&nbsp;&nbsp; Kum Won Cho (KISTI, Korea), <br>
+&nbsp;&nbsp; Fang-Pang Lin (NCHC, Taiwan), <br>
+&nbsp;&nbsp; Rui Oliveira (INESC TEC, Portugal), <br>
+&nbsp;&nbsp; Shinji Shimojo  (NICT, Japan).
 
 ****
 ### 10:30 – 10:45 AM 
