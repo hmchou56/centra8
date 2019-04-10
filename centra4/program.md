@@ -12,9 +12,7 @@ hide: true
 
 -------------
 # Meeting Agenda
-<h3><strong><u><a href="http://www.globalcentra.org/centra4/CENTRA4-PRAGMA36-Booklet-0410-2.pdf">CENTRA 4 e-Program (PDF)</a></u></strong> </h3>
-
-
+<h3><strong><u><a href="http://www.globalcentra.org/centra4/CENTRA4_Program_4_9_2019.pdf" > CENTRA 4 e-Program is now available for download here (PDF)</a> </u></strong> </h3>
 -------------
 
 					Sunday, April 21, 2019 
