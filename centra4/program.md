@@ -38,7 +38,7 @@ Travel Day. Arrival in Jeju.
 - **Welcome remarks:** Hee-Yoon Choi (President, KISTI) 
 - **Opening Talk /Keynote:** *“P4: Its Concept and Applications to Data Science”*,  
 &nbsp;&nbsp; Sangheon Pack (Korea University, Korea)
-- **Presentation:** *“CENTRA 4: Objectives, Partners and Desired Outcomes”*, 
+- **Presentation:** *“CENTRA 4: Objectives, Partners and Desired Outcomes”*,  
 &nbsp;&nbsp;&nbsp; José Fortes (University of Florida, USA),   
 &nbsp;&nbsp;&nbsp; Kum Won Cho (KISTI, Korea),   
 &nbsp;&nbsp;&nbsp; Fang-Pang Lin (NCHC, Taiwan),   
@@ -101,7 +101,7 @@ Travel Day. Arrival in Jeju.
 
 ****
 ### 12:15 – 1:15 PM 
-**Lunch**
+**Lunch (Koji, 1f)**
 
 ****
 ### 1:15 – 2:30 PM
@@ -152,7 +152,7 @@ Travel Day. Arrival in Jeju.
 &nbsp;&nbsp; Water Resources University (Vietnam),  
 &nbsp;&nbsp; Vietnam National University – International University (VNUIU, Vietnam),  
 &nbsp;&nbsp; Department of State Mekong Water Data Initiative (USA).  
-- **Proposed project:** *“Social-Edge CPS: Social-Cyber-Physical Systems Meet Edge Computing”*,  
+- **Researcher introduction:** *“Social-Edge CPS: Social-Cyber-Physical Systems Meet Edge Computing”*,  
 &nbsp;&nbsp; Hana Khamfroush (University of Kentucky, USA).  
 
 ****
@@ -162,7 +162,7 @@ Travel Day. Arrival in Jeju.
 
 ***
 ### 5:30 PM
-**Dinner**
+**Welcome Dinner (Koji, 1f)**
 
 
 ****
@@ -170,11 +170,17 @@ Travel Day. Arrival in Jeju.
 
 ### 08:30 – 10:00 AM 
 **Panel 1:** *"What is good about CENTRA and how to make it better"*,
-- Panelists: Joobum Kim (KISTI, Korea), João Paulo (INESC TEC), Eiji Kawai (NICT Japan), Aimee Stewart (University of Kansas, USA) Ming-Der Yang (NCHU, Taiwan), Kensworth Subratie (University of Florida, USA). 
-- Panel chair: Renato Figueiredo (University of Florida, USA).
+- Panelists:  
+&nbsp;&nbsp; Joobum Kim (KISTI, Korea),  
+&nbsp;&nbsp; João Paulo (INESC TEC),   
+&nbsp;&nbsp; Eiji Kawai (NICT Japan),   
+&nbsp;&nbsp; Aimee Stewart (University of Kansas, USA),   
+&nbsp;&nbsp; Ming-Der Yang (NCHU, Taiwan),   
+&nbsp;&nbsp; Kensworth Subratie (University of Florida, USA). 
+- Panel chair: Renato Figueiredo (University of Florida, USA)
 
 ****
-### 10:00 – 10:15 AM
+### 10:00 – 10:30 AM
 **Break**
 
 ****
@@ -184,7 +190,7 @@ Travel Day. Arrival in Jeju.
 
 ****
 ### 12:00 – 1:00 PM
-**Lunch** 
+**Lunch (Koji, 1f)** 
 
 ****
 ### 1:15 – 2:30 PM
@@ -204,19 +210,27 @@ Travel Day. Arrival in Jeju.
 ****
 ### 3:45 — 5:00 PM 
 **Panel talk 2:** *"Sustaining and growing CENTRA towards CENTRA 10"*,
-- Panelists: Minsun Lee (Chungnam National University, Korea), Hiroaki Harai (NICT, Japan), Rui Oliveira (INESC TEC, Portugal), William Chang (University of Hawaii, USA), Peter Arzberger (University of California San Diego, USA).  
-- Panel Chair: Beth Plale (Indiana University).
+- Panelists:   
+&nbsp;&nbsp; Minsun Lee (Chungnam National University, Korea),   
+&nbsp;&nbsp; Hiroaki Harai (NICT, Japan),   
+&nbsp;&nbsp; Rui Oliveira (INESC TEC, Portugal),   
+&nbsp;&nbsp; William Chang (University of Hawaii, USA),   
+&nbsp;&nbsp; Peter Arzberger (University of California San Diego, USA).  
+- Panel Chair: Beth Plale (Indiana University)
 
 ****
 ### 5:00 - 6:00 PM
 **Demo Session**
-- Demo 1 (10 min): "SAGE2 Visualizer for Edge Computing, Image Processing, and Object Recognition", Michael Elliott (University of Florida, USA).  
-- Demo 2 (10 min): "Virtual Time Machine for Reproducible Network Emulation", Jason Liu (Florida International University, USA).  
-- Demo 3 (10 min): "FPGA Implementation of a Simplified YOLO Algorithm for Real-time Object Detection", Hyuk-Jae Lee (Seoul National University, Korea).    
+- Demo 1 (10 min): "SAGE2 Visualizer for Edge Computing, Image Processing, and Object Recognition",   
+&nbsp;&nbsp;&nbsp;&nbsp; Michael Elliott (University of Florida, USA).  
+- Demo 2 (10 min): "Virtual Time Machine for Reproducible Network Emulation",   
+&nbsp;&nbsp;&nbsp;&nbsp; Jason Liu (Florida International University, USA).  
+- Demo 3 (10 min): "FPGA Implementation of a Simplified YOLO Algorithm for Real-time Object Detection",   
+&nbsp;&nbsp;&nbsp;&nbsp; Hyuk-Jae Lee (Seoul National University, Korea).    
 
 ****
 ### 6:30 PM
-**Dinner** 
+**Dinner (Koji, 1f)** 
 
 ****
 					Wednesday, April 24, 2019
@@ -224,7 +238,8 @@ Travel Day. Arrival in Jeju.
 ### 09:30 – 10:00 AM
 **Plenary Session** 
 - Session Chair: Joobum Kim 
-- **Invited Talk**: *"Management of Crops Using On-Site Measurements"*, Kwang Soo Kim (Seoul National University, Korea)  
+- **Invited Talk**: *"Management of Crops Using On-Site Measurements"*,  
+&nbsp;&nbsp; Kwang Soo Kim (Seoul National University, Korea)  
 
 ****
 ### 10:00 – 10:30 AM
@@ -237,7 +252,7 @@ Travel Day. Arrival in Jeju.
 
 ****
 ### 12:00 – 1:00 PM
-**Lunch**
+**Lunch (Koji, 1f)**
 
 ****
 ### 1:30 – 3:00 PM
@@ -262,7 +277,7 @@ Travel Day. Arrival in Jeju.
 
 ****
 ### 6:30 PM
-**CENTRA Farewell & PRAGMA Welcome Dinner**
+**CENTRA Farewell & PRAGMA Welcome Dinner (Bulteok BBQ, Behind Red Bldg(beach))**
 
 
 
