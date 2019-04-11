@@ -221,11 +221,11 @@ Travel Day. Arrival in Jeju.
 ****
 ### 5:00 - 6:00 PM
 **Demo Session**
-- Demo 1 (10 min): "SAGE2 Visualizer for Edge Computing, Image Processing, and Object Recognition",   
+- Demo 1 (10 min): *"SAGE2 Visualizer for Edge Computing, Image Processing, and Object Recognition"*,   
 &nbsp;&nbsp;&nbsp;&nbsp; Michael Elliott (University of Florida, USA).  
-- Demo 2 (10 min): "Virtual Time Machine for Reproducible Network Emulation",   
+- Demo 2 (10 min): *"Virtual Time Machine for Reproducible Network Emulation"*,   
 &nbsp;&nbsp;&nbsp;&nbsp; Jason Liu (Florida International University, USA).  
-- Demo 3 (10 min): "FPGA Implementation of a Simplified YOLO Algorithm for Real-time Object Detection",   
+- Demo 3 (10 min): *"FPGA Implementation of a Simplified YOLO Algorithm for Real-time Object Detection"*,   
 &nbsp;&nbsp;&nbsp;&nbsp; Hyuk-Jae Lee (Seoul National University, Korea).    
 
 ****
@@ -273,7 +273,7 @@ Travel Day. Arrival in Jeju.
 ****
 ### 5:00 – 6:00 PM
 **CENTRA Advisory Board and Steering Committee meeting**
-- *For invited participants*
+- *Restricted to members of the CENTRA Advisory Board*
 
 ****
 ### 6:30 PM
