@@ -24,9 +24,9 @@ hide: true
   <li>Shava Smallen, Co-Chair of Pacific Rim Applications and Grid Middleware Assembly (<a href="http://www.pragma-grid.net" target="_blank">PRAGMA</a>) Steering Committee; University of California San Diego, USA</li>
   <li>Aimee Stewart, Senior Systems Programmer, <a href="https://biodiversity.ku.edu/" target="_blank">Biodiversity Institute and Natural History Museum, The University of Kansas</a>, USA </li>
   <li>Christopher Stewart, Associate Professor, Computer Science & Engineering, The Ohio State University (<a href="http://web.cse.ohio-state.edu/~stewart.962/" target="_blank">ReRout Lab</a>), USA </li>
-
+</p>
 
 ## Local Organizing Committee
-
+<p><ul type="circle">
   <li>Korea Institute of Science and Technology Information (<a href="https://www.kisti.re.kr/eng/" target="_blank">KISTI</a>): Woojin Seok, Kiwook Kim, Joobum Kim and team.  </li>
-</ul></p>
+</p>
