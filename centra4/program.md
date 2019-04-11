@@ -39,11 +39,11 @@ Travel Day. Arrival in Jeju.
 - **Opening Talk /Keynote:** *“P4: Its Concept and Applications to Data Science”*,  
 &nbsp;&nbsp; Sangheon Pack (Korea University, Korea)
 - **Presentation:** *“CENTRA 4: Objectives, Partners and Desired Outcomes”*, 
-&nbsp;&nbsp;&nbsp; José Fortes (U. Florida, USA),   
+&nbsp;&nbsp;&nbsp; José Fortes (University of Florida, USA),   
 &nbsp;&nbsp;&nbsp; Kum Won Cho (KISTI, Korea),   
 &nbsp;&nbsp;&nbsp; Fang-Pang Lin (NCHC, Taiwan),   
 &nbsp;&nbsp;&nbsp; Rui Oliveira (INESC TEC, Portugal),   
-&nbsp;&nbsp;&nbsp; Shinji Shimojo  (NICT & Osaka U., Japan).
+&nbsp;&nbsp;&nbsp; Shinji Shimojo  (NICT & Osaka University, Japan).
 
 ****
 ### 10:30 – 10:45 AM 
@@ -54,7 +54,7 @@ Travel Day. Arrival in Jeju.
 **Plenary Dive-in Session 1: Ongoing Projects (15-mins each)**
 - Session Chair: Shinji Shimojo
 - **Project review:** *“Dynamically Aggregating Smart Community Sensors, Edge and Cloud Resources with Overlay VPNs”*,  
-&nbsp;&nbsp; Renato J. Figueiredo, Kensworth Subratie, Saumitra Aditya, Vahid Daneshmand (Univ. of Florida, USA),  
+&nbsp;&nbsp; Renato J. Figueiredo, Kensworth Subratie, Saumitra Aditya, Vahid Daneshmand (University of Florida, USA),  
 &nbsp;&nbsp; Eiji Kawai, Hiroaki Yamanaka, Naomi Terada (NICT, Japan),  
 &nbsp;&nbsp; Glenn Ricart (US Ignite, USA),  
 &nbsp;&nbsp; Hyuk-Jae Lee (Seoul National University, South Korea),  
@@ -75,7 +75,7 @@ Travel Day. Arrival in Jeju.
 &nbsp;&nbsp; Chalermpol Charnsripinyo (NECTEC, Thailand),  
 &nbsp;&nbsp; Luke Jing Yuan (MIMOS, Malaysia).  
 - **Project review:** *“AVAU Applications for Smart Agriculture”*,  
-&nbsp;&nbsp; Ming-Der Yang, Hui Ping Tsai, Cloud Tseng, Yu-Chun Hsu (National Chung Hsing Univ., Taiwan),  
+&nbsp;&nbsp; Ming-Der Yang, Hui Ping Tsai, Cloud Tseng, Yu-Chun Hsu (National Chung Hsing University, Taiwan),  
 &nbsp;&nbsp; Christopher Stewart (Ohio State University, USA).  
 - **Project review:** *“Edge-Net.org”*,  
 &nbsp;&nbsp; Glenn Ricart, Rick McGeer (US Ignite, USA),  
@@ -84,10 +84,10 @@ Travel Day. Arrival in Jeju.
 &nbsp;&nbsp; Albert Rafetseder (Universität Wien, Austria),  
 &nbsp;&nbsp; Ada Gavrilovska (Georgia Tech, USA),  
 &nbsp;&nbsp; John Kubiatowicz (UC Berkeley, USA),  
-&nbsp;&nbsp; Matt Hemmings (U. Victoria, Canada),  
+&nbsp;&nbsp; Matt Hemmings (University of Victoria, Canada),  
 &nbsp;&nbsp; Bithika Khargharia (US Consultant, USA),  
-&nbsp;&nbsp; Aki Nakao (U. Tokyo, Japan),  
-&nbsp;&nbsp; with inspiration and consultation from Toshio Asai (NICT), Charlie Catlett (Argonne Nat’l Lab), Eiji Kawai (JGNX), Renato Figueiredo (UFL), Jason Haga (AIST), Kensworth Subratie (UFL), Ling-Jyh Chen (Academica Sinica), Matthew Delcambre (UL Lafayette), Maxine Brown (UIC), Felix Wu (UC Davis), Shinji Shimojo (Osaka U.), Tho Nguyen (UVA).  
+&nbsp;&nbsp; Aki Nakao (University of Tokyo, Japan),  
+&nbsp;&nbsp; with inspiration and consultation from Toshio Asai (NICT), Charlie Catlett (Argonne Nat’l Lab), Eiji Kawai (JGN-X), Renato Figueiredo (UFL), Jason Haga (AIST), Kensworth Subratie (UFL), Ling-Jyh Chen (Academica Sinica), Matthew Delcambre (UL Lafayette), Maxine Brown (UIC), Felix Wu (UC Davis), Shinji Shimojo (Osaka University), Tho Nguyen (UVA).  
 - **Project review:** *“IT for Natural Disaster Management & Visualization Alliance”*,  
 &nbsp;&nbsp; Jason Haga (AIST, Japan),  
 &nbsp;&nbsp; Jason Leigh (University of Hawaii, USA),  
@@ -153,7 +153,7 @@ Travel Day. Arrival in Jeju.
 &nbsp;&nbsp; Vietnam National University – International University (VNUIU, Vietnam),  
 &nbsp;&nbsp; Department of State Mekong Water Data Initiative (USA).  
 - **Proposed project:** *“Social-Edge CPS: Social-Cyber-Physical Systems Meet Edge Computing”*,  
-&nbsp;&nbsp; Hana Khamfroush (U. of Kentucky, USA).  
+&nbsp;&nbsp; Hana Khamfroush (University of Kentucky, USA).  
 
 ****
 ### 4:30—5:00 PM: 
@@ -170,8 +170,8 @@ Travel Day. Arrival in Jeju.
 
 ### 08:30 – 10:00 AM 
 **Panel 1:** *"What is good about CENTRA and how to make it better"*,
-- Panelists: Joobum Kim (KISTI, Korea), João Paulo (INESC TEC), Eiji Kawai (NICT Japan), Aimee Stewart (U. Kansas, USA) Ming-Der Yang (NCHU, Taiwan), Kensworth Subratie (U. Florida, USA). 
-- Panel chair: Renato Figueiredo (U. Florida, USA).
+- Panelists: Joobum Kim (KISTI, Korea), João Paulo (INESC TEC), Eiji Kawai (NICT Japan), Aimee Stewart (University of Kansas, USA) Ming-Der Yang (NCHU, Taiwan), Kensworth Subratie (University of Florida, USA). 
+- Panel chair: Renato Figueiredo (University of Florida, USA).
 
 ****
 ### 10:00 – 10:15 AM
@@ -204,15 +204,15 @@ Travel Day. Arrival in Jeju.
 ****
 ### 3:45 — 5:00 PM 
 **Panel talk 2:** *"Sustaining and growing CENTRA towards CENTRA 10"*,
-- Panelists: Minsun Lee (Chungnam National University, Korea), Hiroaki Harai (NICT, Japan), Rui Oliveira (INESC TEC, Portugal), William Chang (U. Hawaii, USA), Peter Arzberger (U. California San Diego, USA).  
-- Panel Chair: Beth Plale (Indiana U.).
+- Panelists: Minsun Lee (Chungnam National University, Korea), Hiroaki Harai (NICT, Japan), Rui Oliveira (INESC TEC, Portugal), William Chang (University of Hawaii, USA), Peter Arzberger (University of California San Diego, USA).  
+- Panel Chair: Beth Plale (Indiana University).
 
 ****
 ### 5:00 - 6:00 PM
 **Demo Session**
-- Demo 1 (10 min): "SAGE2 Visualizer for Edge Computing, Image Processing, and Object Recognition", Michael Elliott (U. Florida, USA).  
-- Demo 2 (10 min): "Virtual Time Machine for Reproducible Network Emulation", Jason Liu (Florida International U., USA).  
-- Demo 3 (10 min): "FPGA Implementation of a Simplified YOLO Algorithm for Real-time Object Detection", Hyuk-Jae Lee (Seoul National Univ., Korea).    
+- Demo 1 (10 min): "SAGE2 Visualizer for Edge Computing, Image Processing, and Object Recognition", Michael Elliott (University of Florida, USA).  
+- Demo 2 (10 min): "Virtual Time Machine for Reproducible Network Emulation", Jason Liu (Florida International University, USA).  
+- Demo 3 (10 min): "FPGA Implementation of a Simplified YOLO Algorithm for Real-time Object Detection", Hyuk-Jae Lee (Seoul National University, Korea).    
 
 ****
 ### 6:30 PM
@@ -253,7 +253,7 @@ Travel Day. Arrival in Jeju.
 ### 4:30 – 5:00 PM
 **Announcements for Future CENTRA Events and Closing Remarks**
 - **CENTRA 5 Announcement:** Rui Oliveira (INESC TEC, Portugal).
-- **Closing Remarks:** José Fortes (U. Florida, USA).  
+- **Closing Remarks:** José Fortes (University of Florida, USA).  
 
 ****
 ### 5:00 – 6:00 PM
