@@ -12,7 +12,7 @@ hide: true
 
 -------------
 # Meeting Agenda
-<h3><strong><u><a href="http://www.globalcentra.org/centra4/CENTRA4_Program_4_9_2019.pdf" > CENTRA 4 e-Program is now available for download here (PDF)</a> </u></strong> </h3>
+<h3><strong><u><a href="http://www.globalcentra.org/centra4/CENTRA4-PRAGMA36-Booklet-final.pdf" > CENTRA 4 e-Program is now available for download here (PDF)</a> </u></strong> </h3>
 -------------
 
 					Sunday, April 21, 2019 
@@ -227,6 +227,9 @@ Travel Day. Arrival in Jeju.
 &nbsp;&nbsp;&nbsp;&nbsp; Jason Liu (Florida International University, USA).  
 - Demo 3 (10 min): *"FPGA Implementation of a Simplified YOLO Algorithm for Real-time Object Detection"*,   
 &nbsp;&nbsp;&nbsp;&nbsp; Hyuk-Jae Lee (Seoul National University, Korea).    
+- Demo 4 (10 min): *"Software Defined Switching on a Structured P2P Overlay Topology using Bounded Flooding"*,  
+&nbsp;&nbsp;&nbsp;&nbsp; Kensworth Subratie (University of Florida, USA).   
+
 
 ****
 ### 6:30 PM
