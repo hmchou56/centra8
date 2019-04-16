@@ -37,15 +37,11 @@ By Dr. Alina Zare, University of Florida, USA
 *04/11 at 0100 Portugal | 0700 Indonesia/Thailand/Vietnam | 0800 Taiwan/Malaysia/The Philippines | 0900 Japan/S. Korea*  
 **ABCI: An Open Innovation Platform for Advancing AI Research and Deployment**   
 By Dr. Ryuosei Takano, National Institute of Advanced Industrial Science and Technology (AIST), Japan   
-[Abstract and Registration](https://zoom.us/webinar/register/8015536239800/WN_3JZSx2_4Se6iSxqA575W2Q)   
+[Abstract and Video Recording](https://vimeo.com/319636804)   
   
   
-The following webinar topics scheduling will be announced by late March:  
-* Collaborative Multi-Party Edge Computing  
-* CRDTs: From Sequential to Concurrent Executions  
-* From SQL to NoSQL and Back  
-* Decision support for monitoring and mitigation of natural disasters via the Cyber-enabled collaboration, analysis, navigation and observation environment 
-* Social Computing 
+  
+Future webinars information will be updated here when available
 
 
 
