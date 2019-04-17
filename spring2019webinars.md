@@ -37,7 +37,7 @@ By Dr. Alina Zare, University of Florida, USA
 *04/11 at 0100 Portugal | 0700 Indonesia/Thailand/Vietnam | 0800 Taiwan/Malaysia/The Philippines | 0900 Japan/S. Korea*  
 **ABCI: An Open Innovation Platform for Advancing AI Research and Deployment**   
 By Dr. Ryuosei Takano, National Institute of Advanced Industrial Science and Technology (AIST), Japan   
-[Abstract and Video Recording](https://vimeo.com/319636804)   
+[Abstract and Video Recording](https://vimeo.com/330841817)   
   
   
   
