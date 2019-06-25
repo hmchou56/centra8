@@ -125,7 +125,7 @@ Saumitra Aditya | PhD Student, University of Florida | Networked systems, networ
 Nannapas Banluesombatkul     |Graduate Student,  Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand   |Cloud scheduling, machine learning 
 Cláudia Brito  | Ph Student, INESC TEC and U. Minho, Portugal  |Machine Learning, Deep Learning, Privacy
 Chiao-Ming Chuang  |Graduate Student, National Chiao Tung University, Taiwan     |Image processing, deep learning 
-Michael Elliott  |Graduate Student, University of Florida, USA   | 
+Michael Elliott  |Graduate Student, University of Florida, USA   | Distributed systems, relational databases, entity recognition, human-machine intelligence, SAGE2 applications
 Tânia Esteves  |PhD Student, INESC TEC and U. Minho, Portugal  |Security, Privacy-preserving storage systems
 Adam Grupa | PhD Student, The Ohio State University | Autonomic computing, distributed computing, artificial intelligence, neural networks
 Ming Tai Ha | PhD Student, Rutgers University | High-performance computing, distributed computing
