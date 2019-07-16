@@ -62,7 +62,8 @@ Chung-I Huang       |Associate Researcher, National Center for High-performance 
 Weicheng Huang      |Senior Researcher, National Center for High-performance Computing, Taiwan      |Could, big data
 Krishna Kant      |Professor, Temple University     |Communications for disaster response, smart grid security, IoT configuration and security, data center emergy, storage systems
 Eiji Kawai       |Laboratory Director, NICT, Japan      |SDI, tesbed, IoT
-Myat Thiri Khine      |Assistant Lecturuer, University of Computer Studies, Myanmar      |GIS 
+Hana Khamfroush      |Assistant Professor, University of Kentucky, USA      |Cyber-physical systems (CPS) and social CPS, edge computing, online social networks, and social computing
+Myat Thiri Khine      |Assistant Lecturer, University of Computer Studies, Myanmar      |GIS 
 Yoshiyuki Kido       |Associate Professor, Osaka University, Japan       |Tile-Display Wall, software-defined network
 Tae Sung Kim      |Post-Doc Researcher, Seoul National University, South Korea      |Video processing, hardware accelerator, SoC design
 Chih-Yu Kou       |CECEA Lecturer and Researcher, Academia Sinica, Taiwan        |
