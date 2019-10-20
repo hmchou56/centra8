@@ -29,20 +29,21 @@ For visits of less than 90 days, a passport valid for at least three months afte
 **Who needs a Visa?**
 
 Citizens from countries not mentioned above need a visa to enter Portugal, which may be requested at the Portuguese Embassy or Consulate of their country for stays of up to 90 days.
-Please refer to the following pages for detailed information on Visas:
-[https://www.vistos.mne.pt/en/short-stay-visas-schengen/general-information/who-needs-a-visa](https://www.vistos.mne.pt/en/short-stay-visas-schengen/general-information/who-needs-a-visa)
-[https://www.vistos.mne.pt/en/short-stay-visas-schengen/general-information/type-of-visas](https://www.vistos.mne.pt/en/short-stay-visas-schengen/general-information/type-of-visas)
 
-On Portuguese consulates around the world - Portugal’s Ministry of Foreign Affairs:
-[http://www.secomunidades.pt/web/guest/PostosConsulares](http://www.secomunidades.pt/web/guest/PostosConsulares)
+Please refer to the following pages for detailed information on Visas:
+
+- [Who needs a Visa](https://www.vistos.mne.pt/en/short-stay-visas-schengen/general-information/who-needs-a-visa)
+
+- [Types of visa](https://www.vistos.mne.pt/en/short-stay-visas-schengen/general-information/type-of-visas)
+
+On Portuguese consulates around the world - [Portugal’s Ministry of Foreign Affairs](http://www.secomunidades.pt/web/guest/PostosConsulares)
 
 
 
 **Letter of Invitation**
 
-If you need an official letter of invitation from the Organization team to initiate your visa application process, you must:
+If you need an official letter of invitation from the Organization Team to initiate your visa application process, you must:
 
-1.	First register for the CENTRA 5 meeting;
-2.	When your registration is confirmed by e-mail, we will get a link to submit your request for an invitation letter;
-3.	Your request will be reviewed and processed within 2-4 business days, and the invitation letter will be sent to your email address. Please, note that you can only apply for a Portugal Schengen visa **3 months before your planned travel**.
-If you have any questions regarding visa letters, please contact *centra@inesctec.pt*.
+1. First register for the CENTRA 5 Meeting;
+2. When your registration is confirmed by e-mail, we you will get a link to submit your request for an invitation letter;
+3. Your request will be reviewed and processed within 2-4 business days, and the invitation letter will be sent to your email address. Please, note that you can only apply for a Portugal Schengen visa **3 months before your planned travel**. If you have any questions regarding visa letters, please contact centra@inesctec.pt

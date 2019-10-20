@@ -10,7 +10,7 @@ hide: true
 ## CENTRA 2020 Venue and Hotels
 
 
-The CENTRA 5 Meeting will be held in   [Crowne Plaza Porto](https://www.crowneplaza.com/hotels/gb/en/porto/opocp/hoteldetail), in Porto, Portugal.
+The CENTRA 5 Meeting will be held at [Crowne Plaza Porto](https://www.crowneplaza.com/hotels/gb/en/porto/opocp/hoteldetail), in Porto, Portugal.
 
 <p>
 <img src="/img/centra5/centra5-venue3.jpg" style="width:300px;height:220px" align="left"/>

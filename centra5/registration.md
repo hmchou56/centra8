@@ -10,4 +10,4 @@ hide: true
 
 ## Registration
 
-Registration will be open on February 3, 2020.
+The registration period starts on February 3, 2020. The registration form will be made available to you by then.
