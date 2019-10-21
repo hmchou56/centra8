@@ -9,9 +9,6 @@ hide: true
 
 ## Important Dates
 
-As soon as possible: check [Visa Information](/centra5/visainfo.html) and follow up accordingly if you need to obtain a visa to enter Portugal.  
-
-
 The CENTRA 5 Meeting will be held on May 13-15 2020 in Porto, but there are a few dates you should be paying attention to in anticipation of the event. Save them in your calendar!
 
 **February 3, 2020**: Opening of the registration period;
