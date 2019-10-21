@@ -45,31 +45,31 @@ __[Crowne Plaza Porto](https://www.crowneplaza.com/hotels/gb/en/porto/opocp/hote
 Address: Avenida da Boavista, 1466, 4100-114 Porto <br>
 Phone number: +351 226 072 500 <br>
 Email: [opocp.info@ihg.com](opocp.info@ihg.com) <br>
-Price: DBL 165€ and SGL 150€ (breakfast incl.) <br>
+<!-- Price: DBL 165€ and SGL 150€ (breakfast incl.) <br> -->
 
 **At this point in time, Crowne Plaza Porto is already fully booked for the 13th of May 2020. The situation is likely to change in the meantime, as some group reservations may be cancelled. The Organization Team will go on updating this section with information about room availability at this hotel.**
 
 __[Sheraton Porto Hotel & Spa](https://www.marriott.com/hotels/travel/oposi-sheraton-porto-hotel-and-spa/)__ (5-minute walking to the venue)<br>
 Address: Rua Tenente Valadim, 146, 4100-476 Porto<br>
 Phone number: +351 220 404 000<br>
-Price: DBL 180€ and SGL 160€ (breakfast incl.)<br>
-15 locked rooms<br>
+<!-- Price: DBL 180€ and SGL 160€ (breakfast incl.)<br>
+15 locked rooms<br> -->
 
 __[Portus Cale Hotel](http://www.portuscalehotel.com/EN/hotel.html?id_referer=ADWORDS&gclid=EAIaIQobChMI67eNrrSb5QIVg4xRCh0JwgCMEAAYASAAEgKaYPD_BwE)__ (5-minute walking to the venue)<br>
 Address: Avenida da Boavista, 1060, 4100-476 Porto<br>
 Phone number: +351 226 083 900<br>
 Email: [reservas@portuscalehotel.com](reservas@portuscalehotel.com)<br>
-Price: DBL 147€ and SGL 138€ (breakfast incl.)<br>
-10 locked rooms<br>
+<!-- Price: DBL 147€ and SGL 138€ (breakfast incl.)<br>
+10 locked rooms<br> -->
 
 __[Hotel da Música](https://www.hoteldamusica.com/)__ (15-minute walking to the venue)<br>
 Address: Mercado do Bom Sucesso Largo Ferreira Lapa 21, 4150-323 Porto<br>
 Phone number: +351 226 076 000<br>
-Email: [res@hoteldamusica.com](res@hoteldamusica.com)<br>
-Price: DBL 93€ and SGL 83€ (breakfast incl.). Double beds only.<br>
+<!-- Email: [res@hoteldamusica.com](res@hoteldamusica.com)<br>
+Price: DBL 93€ and SGL 83€ (breakfast incl.). Double beds only.<br> -->
 
 __[HF Tuela Porto](https://www.hfhotels.com/hotels-en/hf-tuela-porto-en/)__ (15-minute walking to the venue)<br>
 Address: Rua Arquitecto Marques da Silva 200, 4150-483 Porto<br>
 Phone number: +351 226 004 747<br>
 Email: [hftuelaporto@hfhotels.com](hftuelaporto@hfhotels.com)<br>
-Price: 10% off the best value on the hotel website<br>
+<!-- Price: 10% off the best value on the hotel website<br> -->
