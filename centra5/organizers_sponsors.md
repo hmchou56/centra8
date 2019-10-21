@@ -11,6 +11,10 @@ hide: true
 * José Fortes, Professor and Director, Advanced Computing and Information Systems Laboratory (<a href="http://acis.ufl.edu" target="_blank">ACIS Lab</a>), University of Florida, USA <br>
 
 ## Program Committee
+
+TBA
+
+<!--
 * Te-Lung Liu, Senior Researcher, National Center for High-performance Computing (<a href="https://www.nchc.org.tw/en" target="_blank">NCHC</a>), Taiwan
 * Renato Figueiredo, Professor, Advanced Computing and Information Systems Laboratory (<a href="http://acis.ufl.edu" target="_blank">ACIS Lab</a>), University of Florida, USA  
 * Aimee Stewart, Senior Systems Programmer, <a href="https://biodiversity.ku.edu/" target="_blank">Biodiversity Institute and Natural History Museum, The University of Kansas</a>, USA  
@@ -25,6 +29,8 @@ hide: true
 
 ## Demo/Poster Committee
 * Susana Barbosa, Institute for Systems and Computer Engineering, Technology and Science (<a href="https://www.inesctec.pt" target="_blank">INESC TEC</a>), Portugal <br>
+
+-->
 
 ## Local Organizing Committee
 * Andreia Passos, Institute for Systems and Computer Engineering, Technology and Science (<a href="https://www.inesctec.pt" target="_blank">INESC TEC</a>), Portugal <br>
