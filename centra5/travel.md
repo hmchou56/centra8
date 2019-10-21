@@ -14,8 +14,9 @@ The Organization Team is committed to make your travel and stay as smooth and tr
 
 
 ### About Porto, the host city
-
-<img src="/img/centra5/centra5-porto1.jpg" style="width:750px">
+<!--
+<img src="/img/centra5/centra5-porto1.jpg" style="width:750px"> -->
+<img src="/img/centra5/centra5-mosaico.png" style="width:750px">
 
 Since 1996, the Historic Center of Porto is listed as [UNESCO World Heritage](http://whc.unesco.org/en/list/755). Porto was elected three times as the [Best European Destination](https://www.europeanbestdestinations.com/best-of-europe/european-best-destinations-2017/), through the [European Best Destinations](https://www.europeanbestdestinations.com/) initiative (the last of which in 2017, after 2012 and 2014). This year, the city was also voted the [most interesting city in Europe](https://theculturetrip.com/europe/articles/culture-trip-wishlist-destinations-2019/) to visit by the prestigious travel platform [Culture Trip](https://theculturetrip.com/).
 

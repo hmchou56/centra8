@@ -25,3 +25,5 @@ CENTRA activities are funded in part by the National Science Foundation (NSF ACI
 
 José Manuel Mendonça<br>
 President of INESC TEC
+
+<img src="/img/centra5/centra5-porto1.jpg" style="width:1050px">
