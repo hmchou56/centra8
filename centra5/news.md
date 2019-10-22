@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 
-## Important Dates
+## Important dates
 
 The CENTRA 5 Meeting will be held on May 13-15 2020 in Porto, but there are a few dates you should be paying attention to in anticipation of the event. Save them in your calendar!
 
