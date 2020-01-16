@@ -9,67 +9,103 @@ hide: true
 
 ## CENTRA 2020 Venue and Hotels
 
+**Meeting Venue**
 
-The CENTRA 5 Meeting will be held at [Crowne Plaza Porto](https://www.crowneplaza.com/hotels/gb/en/porto/opocp/hoteldetail), in Porto, Portugal.
+The CENTRA 5 Meeting will be held at 5-star [Crowne Plaza Porto](https://www.crowneplaza.com/hotels/gb/en/porto/opocp/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99603195&icdv=99603195&glat=SEAR&qSlH=OPOCP&setPMCookies=true&qSHBrC=CP&qDest=Avenida%20da%20Boavista,%201466,%20Porto,%20PT&dp=true&gclid=Cj0KCQjw0IDtBRC6ARIsAIA5gWucOPW7Z8EVjFeJPhSHs0XeCu_HwkeRdnZheSz_tht79kNktzwLiqEaAqDSEALw_wcB&cid=41468&srb_u=1), in Porto, Portugal. 
+See map.
 
-<p>
-<img src="/img/centra5/centra5-venue3.jpg" style="width:300px;height:220px" align="left"/>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6007.649798317467!2d-8.640673!3d41.160172!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc695ad1f002380ec!2sCrowne%20Plaza%20Porto!5e0!3m2!1sen!2spt!4v1571490924269!5m2!1sen!2spt" width="300" height="220" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-</p>
+![oporto01](../img/centra5/oporto01.png)
 
+​				Photo credit (Crowne Plaza Porto)
 
-<p><img src="/img/centra5/centra5-venue2.jpg" style="width:300px;height:220px">
-<img src="/img/centra5/centra5-venue1.jpg" style="width:300px;height:220px">
-</p>
+The hotel is located right in the heart of one of the city’s main business and shopping districts (*Avenida da Boavista*), served by several bus lines and within 15-minute walking-distance from Casa da Música Metro Station. 
 
-
-The hotel is located right in the heart of one of the city’s main business and shopping districts (*Avenida da Boavista*), served by several bus lines and within 15-minute walking-distance from Casa da Música Metro Station.
-
-The hotel is on the route of one of the hop-on hop-off buses that will take you in a memorable journey to some of the many must-see attractions the city has to offer travelers: the historic center of Porto, the Clérigos Bell Tower, the Serralves Foundation and Casa da Música, two icons of the city’s contemporary architecture, or even the Porto Cruise terminal.
-
-By taxi or Uber, you can easily and conveniently reach **Porto’s historic downtown** or **Porto Airport** in just under 20 minutes.
+![oporto02](../img/centra5/oporto02.png)
 
 
-### Suggested hotels:
+Source: Google Maps
 
-We have selected a number of hotels located either in the vicinity of the meeting venue or closer to Porto’s major tourist attractions if you wish to experience a more immersive stay in the city. The list includes a range of prices and star-ratings in order to cater for all tastes and wallets.
+​		![round_black](../img/centra5/round_black.png)Meeting venue (Crowne Plaza Porto)
 
-INESC TEC has negotiated special rates with these hotels. To benefit from such rates, **you will need to first register for the meeting**. At the time of registration confirmation, you will be given a promo code or a reservation link that you can use at any of the hotels in the list.
+​		![round_blue](../img/centra5/round_blue.png)Porto’s beachfront
+
+​		![round_green](../img/centra5/round_green.png)Porto’s historic center
+
+The hotel is on the route of one of the hops on hops off buses that will take you in a memorable journey to some of the many must-see attractions the city has to offer travelers: the historic center of Oporto, the Clérigos Bell Tower, the Serralves Foundation and Casa da Música, two icons of the city’s contemporary architecture, or even the Porto Cruise terminal.
+
+By taxi or Uber, you can easily and conveniently reach **Porto’s historic downtown** or **Porto Airport** in just under 20 minutes. 
+
+**Accommodation \| List of suggested hotels:** 
+
+We have selected a number of hotel units located either in the vicinity of the meeting venue or closer to Porto’s major tourist attractions if you wish to experience a more immersive stay in the city. The list includes a range of prices and star-ratings in order to cater for all tastes and wallets.  
+
+INESC TEC has negotiated special rates with these hotels. To benefit from such rates, **you will need to first register for the meeting**. At the time of registration confirmation, you will be given a promo code or a reservation link that you can use at any of the hotels in the list.  
 
 Please, note that, in May, Porto is a stage for a vast array of events and attracts many tourist and business travelers. We strongly suggest that you book early your accommodation to avoid disappointment.
 
 The Organization Team of the CENTRA 5 Meeting will be accountable neither for reservations/ confirmations nor cancellations.
 
-__[Crowne Plaza Porto](https://www.crowneplaza.com/hotels/gb/en/porto/opocp/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99603195&icdv=99603195&glat=SEAR&qSlH=OPOCP&setPMCookies=true&qSHBrC=CP&qDest=Avenida%20da%20Boavista,%201466,%20Porto,%20PT&dp=true&gclid=EAIaIQobChMI_-_QgZGc5QIVVZ3VCh0aqg4wEAAYASAAEgJX5PD_BwE&cid=41468&srb_u=1)__ (Venue)
+**Crowne Plaza Porto**, at this point in time, is already fully booked for the 13th of May 2020. The situation is likely to change in the meantime, as some group reservations may be cancelled. The Organization Team will go on updating this section with information about room availability at this hotel. 
 
-Address: Avenida da Boavista, 1466, 4100-114 Porto <br>
-Phone number: +351 226 072 500 <br>
-Email: [opocp.info@ihg.com](opocp.info@ihg.com) <br>
-<!-- Price: DBL 165€ and SGL 150€ (breakfast incl.) <br> -->
+[Crowne Plaza Porto](https://www.crowneplaza.com/hotels/gb/en/porto/opocp/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99603195&icdv=99603195&glat=SEAR&qSlH=OPOCP&setPMCookies=true&qSHBrC=CP&qDest=Avenida%20da%20Boavista,%201466,%20Porto,%20PT&dp=true&gclid=EAIaIQobChMI_-_QgZGc5QIVVZ3VCh0aqg4wEAAYASAAEgJX5PD_BwE&cid=41468&srb_u=1) ★★★★★  
+**Address:** Avenida da Boavista, 1466, Porto | 4100-114 | Portugal   
+**Phone number:** +351 226 072 500;  
+**Email:** opocp.info@ihg.com.  
+**Price:** DBL 165€ and SGL 150€ (breakfast incl.)  
+**Promo code available until room** availability   
 
-**At this point in time, Crowne Plaza Porto is already fully booked for the 13th of May 2020. The situation is likely to change in the meantime, as some group reservations may be cancelled. The Organization Team will go on updating this section with information about room availability at this hotel.**
+- **Hotels in the vicinity of the venue**  
 
-__[Sheraton Porto Hotel & Spa](https://www.marriott.com/hotels/travel/oposi-sheraton-porto-hotel-and-spa/)__ (5 minutes walking to the venue)<br>
-Address: Rua Tenente Valadim, 146, 4100-476 Porto<br>
-Phone number: +351 220 404 000<br>
-<!-- Price: DBL 180€ and SGL 160€ (breakfast incl.)<br>
-15 locked rooms<br> -->
+[Sheraton Porto Hotel & Spa](https://www.marriott.com/hotels/travel/oposi-sheraton-porto-hotel-and-spa/) ★★★★★  
+**Address:** Rua Tenente Valadim, 146 |4100-476 Porto |Portugal  
+**Phone number:** +351 220 404 000  
+**Price:** DBL 180€ and SGL 160€ (breakast incl.) – 15 locked rooms  
+**Link for reservation available until:** April 27, 2020 or room availability  
+**5- minute walking distance to the venue**  
 
-__[Portus Cale Hotel](http://www.portuscalehotel.com/EN/hotel.html?id_referer=ADWORDS&gclid=EAIaIQobChMI67eNrrSb5QIVg4xRCh0JwgCMEAAYASAAEgKaYPD_BwE)__ (5 minutes walking to the venue)<br>
-Address: Avenida da Boavista, 1060, 4100-476 Porto<br>
-Phone number: +351 226 083 900<br>
-Email: [reservas@portuscalehotel.com](reservas@portuscalehotel.com)<br>
-<!-- Price: DBL 147€ and SGL 138€ (breakfast incl.)<br>
-10 locked rooms<br> -->
+[Portus Cale Hotel](http://www.portuscalehotel.com/EN/hotel.html?id_referer=ADWORDS&gclid=EAIaIQobChMI67eNrrSb5QIVg4xRCh0JwgCMEAAYASAAEgKaYPD_BwE) ★★★★  
+**Address:** Avenida da Boavista, 1060 | 04100 Porto | Portugal  
+**Phone number:** +351 226 083 900  
+**Email:** reservas@portuscalehotel.com  
+**Price:** DBL 147€ and SGL 138€ (breakfast incl.) – 10 locked rooms  
+**Form for reservation (to be provided by the Organisation Team) available until:** March 13, 2020 or room availability  
+**5- minute walking distance to the venue**  
 
-__[Hotel da Música](https://www.hoteldamusica.com/)__ (15 minutes walking to the venue)<br>
-Address: Mercado do Bom Sucesso Largo Ferreira Lapa 21, 4150-323 Porto<br>
-Phone number: +351 226 076 000<br>
-<!-- Email: [res@hoteldamusica.com](res@hoteldamusica.com)<br>
-Price: DBL 93€ and SGL 83€ (breakfast incl.). Double beds only.<br> -->
+[Hotel da Música](https://www.hoteldamusica.com/) ★★★★  
+**Address:** Mercado do Bom Sucesso Largo Ferreira Lapa, 21 a 183 | 4150-323 Porto |  Portugal  
+**Phone number:** +351 226 076 000  
+**Email:** res@hoteldamusica.com  
+**Price:** DBL 93€ and SGL 83€ (breakfast incl.). Double beds only.  
+**Promo code available until:** April 13, 2020 or room availability  
+**15-minute walking distance to the venue**  
 
-__[HF Tuela Porto](https://www.hfhotels.com/hotels-en/hf-tuela-porto-en/)__ (15 minutes walking to the venue)<br>
-Address: Rua Arquitecto Marques da Silva 200, 4150-483 Porto<br>
-Phone number: +351 226 004 747<br>
-Email: [hftuelaporto@hfhotels.com](hftuelaporto@hfhotels.com)<br>
-<!-- Price: 10% off the best value on the hotel website<br> -->
+[HF Tuela Porto](https://www.hfhotels.com/hotels-en/hf-tuela-porto-en/) ★★★  
+**Address:** Rua Arquitecto Marques da Silva 200 | 4150-483 Porto | Portugal  
+**Phone number:** +351 226 004 747  
+**Email:** hftuelaporto@hfhotels.com  
+**Price:** 10% off the best value on the hotel website (breakfast incl.)  
+**Promo code available until:** room availability  
+**15-minute walking distance to the venue**  
+
+- **Hotels near tourist attractions (Porto’s downtown– UNESCO World Heritage Site)**  
+
+[Hotel Exe Almada Porto](https://www.exehotels.co.uk/exe-almada-porto.html?td=b10ga02&id_referer=ADWORDS&gclid=EAIaIQobChMIw7H0mrab5QIVgoxRCh38dA2FEAAYASAAEgI93PD_BwE) ★★★★  
+**Address:** Rua do Almada, 361|4050-032 Porto | Portugal   
+**Phone number:** +351 932 087 108  
+**Email:** info@exealmadaporto.com  
+**Price:** DBL 180€ and SGL 170€ (breakfast incl.). Double beds only.   
+**Promo code available until:** March 14 2020 or room availability  
+**15-minute by car to the venue**  
+
+- **Hotels at Porto’s beachfront – Foz do Douro**  
+  
+
+[Hotel Boa-Vista](http://www.hotelboavista.com/en/) ★★★  
+**Address:** Esplanada do Castelo, 58 | 4150-196 Porto| Portugal  
+**Phone number:** +351 225 320 020  
+**Email:** reserva@hotelboavista.com  
+**Price:** DBL 102,60€ and SGL 89,10€ (breakfast incl.)  
+**Promo code available until:** room availability  
+**11-minute by car to the venue**  
+
+Tourist enterprises and local accommodation in Porto will charge a tourist tax of 2.00 € per person per night, up to a maximum of 7 nights for reservation. The tourist tax purpose is to minimize the difficulties that arise from the significant growth of tourism in Porto.  
