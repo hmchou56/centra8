@@ -9,9 +9,8 @@ published: true
 
 
  <table class="noBorder">
-
- <!-- item 1   
- <tr>
+ <!-- item 1  --> 
+ <tr class="noBorder">
    <th class="noBorder"><img src="/img/centra5-banner.png"></th>
    <th class="noBorder">CENTRA 5 Meeting, May 13-15, 2020, Porto, Portugal <br> <a href="/centra5/">Website</a> </th>
  </tr>
@@ -25,7 +24,6 @@ published: true
    <th class="noBorder"></th>
 
  </tr>
--->
 
   <!-- item 2   -->
   <tr>
