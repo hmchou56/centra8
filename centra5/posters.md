@@ -10,7 +10,7 @@ hide: true
 
 **Key Dates:**
 
-**February 3 – March 31:**  Period for submission of summaries of project progress or proposed projects (for poster and / or oral presentations at CENTRA 5 Meeting  )
+**February 3 – March 31:**  Period for submission of summaries of project progress or proposed projects (for poster and / or oral presentations at CENTRA 5 Meeting)  
 **Before February 28:** Templates to be used by presenters for Posters and Oral Presentations uploaded to CENTRA 5 Meeting website  
 **April 15:** Notification of authors with submitted summaries   
 **April 24:**  Registration for CENTRA 5 Meeting closes  
