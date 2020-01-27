@@ -41,10 +41,10 @@ We have selected a number of hotel units located either in the vicinity of the m
 
 IINESC TEC has negotiated with these hotels special conditions (such as special rates or room block) for CENTRA 5 Meeting’s delegates (e.). 
 
-- In order to benefit from such conditions, you will need to first register for the meeting. At the time of registration confirmation, depending on the hotel you would like to stay at, you will be given either a promo code or a reservation link that you can use to book directly with the hotel.
+-		In order to benefit from such conditions, you will need to first register for the meeting. At the time of registration confirmation, depending on the hotel you would like to stay at, you will be given either a promo code or a reservation link that you can use to book directly with the hotel.
 
 
-- Please, note that, in May, Porto is a stage for a vast array of events and attracts many tourist and business travelers. We strongly suggest that you book early your accommodation to avoid disappointment.
+-	Please, note that, in May, Porto is a stage for a vast array of events and attracts many tourist and business travelers. We strongly suggest that you book early your accommodation to avoid disappointment.
 
 
 The Organization Team of the CENTRA 5 Meeting will be accountable neither for reservations/ confirmations nor cancellations.

@@ -32,9 +32,9 @@ Citizens from countries not mentioned above need a visa to enter Portugal, which
 
 Please refer to the following pages for detailed information on Visas:
 
-- [Who needs a Visa](https://www.vistos.mne.pt/en/short-stay-visas-schengen/general-information/who-needs-a-visa)
+-[Who needs a Visa](https://www.vistos.mne.pt/en/short-stay-visas-schengen/general-information/who-needs-a-visa)
 
-- [Types of visa](https://www.vistos.mne.pt/en/short-stay-visas-schengen/general-information/type-of-visas)
+-[Types of visa](https://www.vistos.mne.pt/en/short-stay-visas-schengen/general-information/type-of-visas)
 
 On Portuguese consulates around the world - [Portugal’s Ministry of Foreign Affairs](http://www.secomunidades.pt/web/guest/PostosConsulares)
 
