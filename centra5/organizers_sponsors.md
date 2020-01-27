@@ -8,7 +8,7 @@ hide: true
 ---
 
 ## Program Chair
-* José Fortes, Professor and Director, Advanced Computing and Information Systems Laboratory (<a href="http://acis.ufl.edu" target="_blank">ACIS Lab</a>), University of Florida, USA <br>
+- Rui Oliveira, Member of INESC TEC’s Board of Directors, Associate Professor at University of Minho, Portugal <br>
 
 ## Program Committee
 
@@ -33,7 +33,8 @@ TBA
 -->
 
 ## Local Organizing Committee
-* Andreia Passos, Institute for Systems and Computer Engineering, Technology and Science (<a href="https://www.inesctec.pt" target="_blank">INESC TEC</a>), Portugal <br>
-* Ana Lopes, Institute for Systems and Computer Engineering, Technology and Science (<a href="https://www.inesctec.pt" target="_blank">INESC TEC</a>), Portugal <br>
-* Vera Pinto, Institute for Systems and Computer Engineering, Technology and Science (<a href="https://www.inesctec.pt" target="_blank">INESC TEC</a>), Portugal <br>
-* Bárbara Veloso, Institute for Systems and Computer Engineering, Technology and Science (<a href="https://www.inesctec.pt" target="_blank">INESC TEC</a>), Portugal <br>
+-	Ana Lopes, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal 
+-	Andreia Passos, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal 
+-	Bárbara Veloso, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal (
+-	Daniel Dantas, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal 
+-	Vera Pinto, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal 
