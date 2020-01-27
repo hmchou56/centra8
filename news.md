@@ -24,4 +24,4 @@ These are the key dates leading up to this 3-day event:
 |**Prior to CENTRA 5 Meeting, on May 12th, local host INESC TEC will organize the SAGE 2 Visualization Workshop at its headquarters (More information available in: Program).  
 This CENTRA 5 Meeting’s satellite event will be open to delegates outside CENTRA’s community. CENTRA attendees wishing to participate in the workshop, should use the registration form of CENTRA 5 Meeting.**|  
 
-As soon as possible: check [Visa Information](centra5/visainfo.html) and follow up accordingly if you need to obtain a visa to enter Portugal.  
+As soon as possible: check [Visa Information](visainfo.html) and follow up accordingly if you need to obtain a visa to enter Portugal.  
