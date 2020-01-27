@@ -12,9 +12,9 @@ hide: true
 The CENTRA 5 Meeting will be held on May 13-15 2020 in Porto, but there are a few dates you should be paying attention to in anticipation of the event.   
 
 These are the key dates leading up to this 3-day event:  
-  **February 3: ** Registration opens |  
+  **February 3:** Registration opens   
   **March 31:** Deadline for submission of summaries for posters and/or oral presentations at CENTRA 5 Meeting. For more information see Section Poster and Oral Presentations  
-  **April 15**:  Notification of authors with submitted summaries  
+  **April 15:**  Notification of authors with submitted summaries  
   **April 24:** Registration closes  
   **April 30:** Deadline for submission of final versions of posters and / or PowerPoint presentations referring to accepted summaries of ongoing projects / new projects  
   **May 6:** Deadline for submission of accepted full posters (pdf. file) to be eligible for printing by the Local Organizing Team. More info: Section Poster and Oral Presentations  
