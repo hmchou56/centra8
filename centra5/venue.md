@@ -31,7 +31,7 @@ Source: Google Maps
 
 ​		![round_green](../img/centra5/round_green.png)Porto’s historic center
 
-The hotel is on the route of one of the hops on hops off buses that will take you in a memorable journey to some of the many must-see attractions the city has to offer travelers: the historic center of Oporto, the Clérigos Bell Tower, the Serralves Foundation and Casa da Música, two icons of the city’s contemporary architecture, or even the Porto Cruise terminal.
+The hotel is on the route of one of the hops on hops off buses that will take you in a memorable journey to some of the many must-see attractions the city has to offer travelers: the historic center of Porto, the Clérigos Bell Tower, the Serralves Foundation and Casa da Música, two icons of the city’s contemporary architecture, or even the Porto Cruise terminal.
 
 By taxi or Uber, you can easily and conveniently reach **Porto’s historic downtown** or **Porto Airport** in just under 20 minutes. 
 
@@ -41,11 +41,8 @@ We have selected a number of hotel units located either in the vicinity of the m
 
 IINESC TEC has negotiated with these hotels special conditions (such as special rates or room block) for CENTRA 5 Meeting’s delegates (e.). 
 
--		In order to benefit from such conditions, you will need to first register for the meeting. At the time of registration confirmation, depending on the hotel you would like to stay at, you will be given either a promo code or a reservation link that you can use to book directly with the hotel.
-
-
--	Please, note that, in May, Porto is a stage for a vast array of events and attracts many tourist and business travelers. We strongly suggest that you book early your accommodation to avoid disappointment.
-
+- In order to benefit from such conditions, you will need to first register for the meeting. At the time of registration confirmation, depending on the hotel you would like to stay at, you will be given either a promo code or a reservation link that you can use to book directly with the hotel.
+- Please, note that, in May, Porto is a stage for a vast array of events and attracts many tourist and business travelers. We strongly suggest that you book early your accommodation to avoid disappointment.
 
 The Organization Team of the CENTRA 5 Meeting will be accountable neither for reservations/ confirmations nor cancellations.
 
@@ -64,7 +61,7 @@ Email: opocp.info@ihg.com.
 - **Hotels in the vicinity of the venue**  
 
 [Sheraton Porto Hotel & Spa](https://www.marriott.com/hotels/travel/oposi-sheraton-porto-hotel-and-spa/) ★★★★★  
-**Address:** Rua Tenente Valadim, 146 |4100-476 Porto |Portugal    
+**Address:** Rua Tenente Valadim, 146 | 4100-476 Porto | Portugal    
 **Price:** DBL 180€ and SGL 160€ (breakast incl.)  
 5- minute walking distance to the venue  
 <u>Reservation link to be provided in registration confirmation email</u>  
@@ -101,7 +98,7 @@ Event code to be provided in registration confirmation email
 Phone number: +351 226 004 747  
 Email: hftuelaporto@hfhotels.com  
 
-- **Hotels near tourist attractions (Porto’s downtown– UNESCO World Heritage Site)**  
+- **Hotels near tourist attractions (Porto’s downtown – UNESCO World Heritage Site)**  
 
 [Hotel Exe Almada Porto](https://www.exehotels.co.uk/exe-almada-porto.html?td=b10ga02&id_referer=ADWORDS&gclid=EAIaIQobChMIw7H0mrab5QIVgoxRCh38dA2FEAAYASAAEgI93PD_BwE) ★★★★  
 Address: Rua do Almada, 361|4050-032 Porto | Portugal   
@@ -115,7 +112,7 @@ Email: info@exealmadaporto.com
 - **Hotels at Porto’s beachfront – Foz do Douro**    
 
 [Hotel Boa-Vista](http://www.hotelboavista.com/en/) ★★★  
-Address: Esplanada do Castelo, 58 | 4150-196 Porto| Portugal  
+Address: Esplanada do Castelo, 58 | 4150-196 Porto | Portugal  
 Price: DBL 102,60€ and SGL 89,10€ (breakfast incl.)  
 Within 10 minutes’ drive to the venue 
 <u>Event code to be provided in registration confirmation email </u>
