@@ -8,34 +8,34 @@ hide: true
 ---
 ## Posters and Oral Presentations
 
-**Key Dates:**
+**Key Dates**
 
-**February 3 – March 31:**  Period for submission of summaries of project progress or proposed projects (for poster and / or oral presentations at CENTRA 5 Meeting)  
-**Before February 28:** Templates to be used by presenters for Posters and Oral Presentations uploaded to CENTRA 5 Meeting website  
-**April 15:** Notification of authors with submitted summaries   
-**April 24:**  Registration for CENTRA 5 Meeting closes  
-**April 30:**  Deadline for submission of final versions of posters and / or PowerPoint presentations referring to accepted summaries of ongoing projects / new projects  
-**May 6:** Deadline for submission of accepted full posters (pdf. file) to be eligible for printing by the Local Organizing Team.   
+**February 3 – March 31:**  Period for submission of summaries of project progress or proposed projects (for poster and / or oral presentations at CENTRA 5 Meeting);  
+**Before February 28:** Templates to be used by presenters for Posters and Oral Presentations uploaded to CENTRA 5 Meeting website;  
+**April 15:** Notification of authors with submitted summaries;   
+**April 24:**  Registration for CENTRA 5 Meeting closes;  
+**April 30:**  Deadline for submission of final versions of posters and / or PowerPoint presentations referring to accepted summaries of ongoing projects / new projects;  
+**May 6:** Deadline for submission of accepted full posters (.pdf file) <u>to be eligible for printing by the Local Organizing Team</u>.   
 
-Attending CENTRA 5 Meeting will be a great opportunity to present your project progress to your peers and /or pitch your project proposal in view of bringing CENTRA partners to collaborate with you. This could be done by participating either with a poster or an oral presentation. 
+Attending CENTRA 5 Meeting will be a great opportunity to present your project progress to your peers and / or pitch your project proposal in view of bringing CENTRA partners to collaborate with you. This could be done by participating either with a poster or an oral presentation. 
 
 <table>
-<tr><td>**Delivery Format**</td><td>**Submission – Stage 1 (by March 31)**</td><td>**Submission - Stage 2: for authors of selected outlines only (by April 30)**</td></tr>
-<tr><td>**Poster**</td><td rowspan="2">Outlines of project progress or proposed project
+<tr><td><b>Delivery Format</b></td><td><b>Submission – Stage 1 (by March 31)</b></td><td><b>Submission - Stage 2: for authors of selected outlines only (by April 30)</b></td></tr>
+<tr><td><b>Poster</b></td><td rowspan="2">Outlines of project progress or proposed project
 (according to Word template)</td><td>Final version of posters (according to Poster Template)</td></tr>
-<tr><td>**Oral Presentation (Presentation Slides)**</td><td>Final version of presentation slides</td></tr>
+<tr><td><b>Oral Presentation (Presentation Slides)</b></td><td>Final version of presentation slides (Use of provided template optional)</td></tr>
 </table>  
 
-All CENTRA 5 attendees are welcome to submit posters and/ or oral presentations.
+All CENTRA 5 attendees are welcome to submit posters and / or oral presentations.
 
-Selected posters will be on display for the whole duration of CENTRA 5 Meeting, whereas authors of selected oral presentations will be invited to present their projects to CENTRA5 attendees in sessions specifically designed to stimulate discussion and collect quality feedback on the research being presented.
-Please note that whether you are participating with a poster and/or an oral presentation, you are always required to register for the 3-day event no later than April 24, 2020 by filling in the form available at section “Registration” of this website.
+Selected posters will be on display for the whole duration of CENTRA 5 Meeting, whereas authors of selected oral presentations will be invited to present their projects to CENTRA 5 attendees in sessions specifically designed to stimulate discussion and collect quality feedback on the research being presented.
+Please note that whether you are participating with a poster and/or an oral presentation, you are always required to register for the 3-day event no later than April 24, 2020 by filling in the form available at section [Registration](registration.html) of this website.
 
 **Instructions for preparation and submission of summaries of project progress or proposed projects (valid for posters and oral presentations)** 
 
 1. Use a Word file to create a report that must be no shorter than 2 full pages, single-spaced (Font: Arial, size 11)
 2. Tick the box that indicates the delivery format you would like to use at CENTRA 5 Meeting to present your ongoing project or a new project (poster or oral presentation). 
-3. For ongoing projects, please name the summary as “Progress report of CENTRA project <insert here the name of your project chosen from the list below>”
+3. For ongoing projects, please name the summary as “Progress report of CENTRA project \<insert here the name of your project chosen from the list below\>”
    - AirBox: a Participatory Ecosystem for PM2.5 Monitoring
    - AUAV Applications for Smart Agriculture
    - Collaborative Lifemapper
@@ -53,7 +53,7 @@ Please note that whether you are participating with a poster and/or an oral pres
    - Smart and Connected Communities Testbed
    - SCALE3: A resilient IoT data gathering and real-time data processing for safe community alerting
    - Social-Edge CPS: Social-Cyber-Physical Systems Meet Edge Computing
-1. For new projects, please name the report as “New CENTRA project: <insert here the name of the new project>
+1. For new projects, please name the report as "New CENTRA project" <insert here the name of the new project>
 5.	List authors starting with the project leader/convener’s name, followed by names of active collaborators.
 2.	Please include the following sections: 
        -	Goals and Accomplishments
@@ -61,22 +61,21 @@ Please note that whether you are participating with a poster and/or an oral pres
        -	Outcomes and Current Conclusions
        -	Future Work (include whether project is looking for collaborators and in what areas)
    7. We strongly recommend all submissions to use the attached Word Template.
-8. Please send your summary to Rui Oliveira (rui.oliveira@inesctec.pt) by March 31, 2020, as a Word file (preferably) or a pdf. file. 
-9. Decisions on acceptance or rejection of submissions as well as suggestions and /or instructions for improvement of accepted submissions will be made available to authors by e-mail on April 15, 2020. 
+8. Please send your summary to Rui Oliveira (rui.oliveira@inesctec.pt) by March 31, 2020, as a Word file (preferably) or a .pdf file. 
+9. Decisions on acceptance or rejection of submissions as well as suggestions and / or instructions for improvement of accepted submissions will be made available to authors by e-mail on April 15, 2020. 
 
 **Guidelines for creating a Poster**
 
 -	All posters must be A0 (841 x 1189 mm) with portrait orientation. Authors must use CENTRA 5 Meeting template for posters, which will be made available in this section before February 28, 2020.
--	Authors of summaries selected for poster presentation must send the final version of their posters (pdf. file) to Rui Oliveira (rui.oliveira@inesctec.pt) by April 30, 2020. Posters will be checked and non-conforming authors contacted to amend them.
-      (Please note that to have your poster eligible for printing by the Local Organizing Team you must send a pdf. file with your poster to centra@inesctec.pt by May 6. If you miss this deadline you may still participate, however you are responsible for printing and transporting your poster.
-
+-	Authors of summaries selected for poster presentation must send the final version of their posters (.pdf file) to Rui Oliveira (rui.oliveira@inesctec.pt) by April 30, 2020. Posters will be checked and non-conforming authors contacted to amend them.
+-	Please note that to have your poster eligible for printing by the Local Organizing Team you must send a .pdf file with your poster to centra@inesctec.pt by May 6. If you miss this deadline you may still participate, however you are responsible for printing and transporting your poster.
 -	Authors are responsible for poster setup and removal.
 
-**Guidelines for Oral Presentations (using Power Point)**
+**Guidelines for Oral Presentations (using PowerPoint)**
 
--	A template with the visual identity of the event will be provided in this section. Its use is, however, optional. 
--	Authors of summaries selected for oral presentation must send the final version of their presentations (ppt or pptx. file) to Rui Oliveira (rui.oliveira@inesctec.pt) by April 30, 2020. 
--	Presentations will be checked and non-conforming authors contacted to amend their presentations. 
+- A template with the visual identity of the event will be provided in this section. Its use is, however, optional. 
+- Authors of summaries selected for oral presentation must send the final version of their presentations (.ppt or .pptx. file) to Rui Oliveira (rui.oliveira@inesctec.pt) by April 30, 2020.   
+- Presentations will be checked and non-conforming authors contacted to amend their presentations.   
 
 **Contact**
 
