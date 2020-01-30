@@ -22,9 +22,9 @@ Since 1996, the Historic Center of Porto is listed as [UNESCO World Heritage](ht
 
 
 You can find relevant information about the city of Porto in the following websites:
-- <a href="http://visitporto.travel/Visitar/Paginas/default.aspx">Visit Porto</a>
-- <a href="http://visitporto.travel/Visitar/Paginas/default.aspx">Visit Porto & The North</a>
-- <a href="https://www.introducingporto.com/map">Introducing Porto</a>
+- <a href="http://visitporto.travel/Visitar/Paginas/default.aspx">Visit Porto</a>;
+- <a href="http://visitporto.travel/Visitar/Paginas/default.aspx">Visit Porto & The North</a>;
+- <a href="https://www.introducingporto.com/map">Introducing Porto</a>.
 
 Or by downloading the [Appy Tourist app](http://www.appytourist.pt/). Developed by the Portuguese Association for Consumer’s Right (DECO), this app allows you to enjoy your vacation or business travel to Porto without overlooking your consumer’s rights. Download is free.
 
@@ -39,8 +39,8 @@ The airport is located approximately 7,5 miles / 12 kilometers away from the mee
 
 **Taxi and Uber**: The easiest and fastest way to get from the airport to the meeting venue and /or your hotel is by <a href="http://www.taxis-porto.pt/">taxi</a> or <a href="https://www.uber.com/pt/en/">Uber</a>. These are transport services that are permanently available to travelers at the airport arrivals entrance/exit. Both offer you the possibility to schedule the trip in advance or immediately after your plane lands.
 
-- Average fare with Taxi – one way: 25€
-- Average fare with Uber– one way: 12€
+- Average fare with Taxi – one way: 25€;
+- Average fare with Uber– one way: 12€.
 
 **Metro**: Another possibility to consider, which is cheaper than the taxi, is the metro (single ticket: 2,60 €). The Airport is served by a single line (Line E - purple) that runs every 20 to 30 minutes and will take you to the historic city center (end of line: Trindade station) in the same amount of time. If you wish to go directly to the meeting venue, you will have to get off a few stations before, i.e., at Francos, and then walk up to 15 minutes to reach the Crowne Plaza Porto. See the [map](https://www.google.com/maps/dir/Francos,+Porto/Crowne+Plaza+Porto,+Avenida+da+Boavista,+Porto/@41.1630057,-8.6418303,16z/data=!4m14!4m13!1m5!1m1!1s0xd2465a2edd50b5b:0x30215c822acb978c!2m2!1d-8.636347!2d41.165549!1m5!1m1!1s0xd24659efd4e5e9b:0xc695ad1f002380ec!2m2!1d-8.6406733!2d41.1601724!3e2).
 
