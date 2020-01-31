@@ -9,14 +9,21 @@ hide: true
 ## Posters and Oral Presentations
 
 **Key Dates**
-
+&nbsp;   
+&nbsp;   
 **February 3 – March 31:**  Period for submission of summaries of project progress or proposed projects (for poster and / or oral presentations at CENTRA 5 Meeting);  
+&nbsp;  
 **Before February 28:** Templates to be used by presenters for Posters and Oral Presentations uploaded to CENTRA 5 Meeting website;  
+&nbsp;  
 **April 15:** Notification of authors with submitted summaries;   
+&nbsp;  
 **April 24:**  Registration for CENTRA 5 Meeting closes;  
+&nbsp;  
 **April 30:**  Deadline for submission of final versions of posters and / or PowerPoint presentations referring to accepted summaries of ongoing projects / new projects;  
+&nbsp;  
 **May 6:** Deadline for submission of accepted full posters (.pdf file) <u>to be eligible for printing by the Local Organizing Team</u>.   
-
+&nbsp;  
+&nbsp;     
 Attending CENTRA 5 Meeting will be a great opportunity to present your project progress to your peers and / or pitch your project proposal in view of bringing CENTRA partners to collaborate with you. This could be done by participating either with a poster or an oral presentation. 
 
 <table>
