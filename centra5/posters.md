@@ -40,35 +40,35 @@ Please note that whether you are participating with a poster and/or an oral pres
 
 **Instructions for preparation and submission of summaries of project progress or proposed projects (valid for posters and oral presentations)** 
 
-1. Use a Word file to create a report that must be no shorter than 2 full pages, single-spaced (Font: Arial, size 11)
-2. Tick the box that indicates the delivery format you would like to use at CENTRA 5 Meeting to present your ongoing project or a new project (poster or oral presentation). 
-3. For ongoing projects, please name the summary as “Progress report of CENTRA project \<insert here the name of your project chosen from the list below\>”
-   - AirBox: a Participatory Ecosystem for PM2.5 Monitoring
-   - AUAV Applications for Smart Agriculture
-   - Collaborative Lifemapper
-   - Dynamically Aggregating Smart Community Sensors, Edge and Cloud resources with Overlay VPNs
-   - IT for Natural Disaster Management and Visualization Alliance
-   - SDN-IP Peering for IoT Data Transmission
-   - Privacy-preserving Cloud Computing for IoT
-   - Network Congestion Issues in Disaster Scenarios
-   - Secure Data Collaboration Using GFFS
-   - Edge-Net.org
-   - ScienceLoRa: The Wireless IoT Network & Service in KREONET for IoT Applications in Science
-   - Semi-Automated Emergency Response Systems
-   - Data Science Platform for Scaling Collaborative Research
-   - Development of a low-cost camera system for object   recognition/tracking and its applications
-   - Smart and Connected Communities Testbed
-   - SCALE3: A resilient IoT data gathering and real-time data processing for safe community alerting
-   - Social-Edge CPS: Social-Cyber-Physical Systems Meet Edge Computing
-1. For new projects, please name the report as "New CENTRA project" <insert here the name of the new project>
-5.	List authors starting with the project leader/convener’s name, followed by names of active collaborators.
+1. Use a Word file to create a report that must be no shorter than 2 full pages, single-spaced (Font: Arial, size 11);
+2. Tick the box that indicates the delivery format you would like to use at CENTRA 5 Meeting to present your ongoing project or a new project (poster or oral presentation).;
+3. For ongoing projects, please name the summary as “Progress report of CENTRA project \<insert here the name of your project chosen from the list below\>”;
+   - AirBox: a Participatory Ecosystem for PM2.5 Monitoring;
+   - AUAV Applications for Smart Agriculture;
+   - Collaborative Lifemapper;
+   - Dynamically Aggregating Smart Community Sensors, Edge and Cloud resources with Overlay VPNs;
+   - IT for Natural Disaster Management and Visualization Alliance;
+   - SDN-IP Peering for IoT Data Transmission;
+   - Privacy-preserving Cloud Computing for IoT;
+   - Network Congestion Issues in Disaster Scenarios;
+   - Secure Data Collaboration Using GFFS;
+   - Edge-Net.org;
+   - ScienceLoRa: The Wireless IoT Network & Service in KREONET for IoT Applications in Science;
+   - Semi-Automated Emergency Response Systems;
+   - Data Science Platform for Scaling Collaborative Research;
+   - Development of a low-cost camera system for object   recognition/tracking and its applications;
+   - Smart and Connected Communities Testbed;
+   - SCALE3: A resilient IoT data gathering and real-time data processing for safe community alerting;
+   - Social-Edge CPS: Social-Cyber-Physical Systems Meet Edge Computing;
+1. For new projects, please name the report as "New CENTRA project" \<insert here the name of the new project\>;
+5.	List authors starting with the project leader/convener’s name, followed by names of active collaborators;
 2.	Please include the following sections: 
-       -	Goals and Accomplishments
-       -	Approach and Activities
-       -	Outcomes and Current Conclusions
-       -	Future Work (include whether project is looking for collaborators and in what areas)
-   7. We strongly recommend all submissions to use the attached Word Template.
-8. Please send your summary to Rui Oliveira (rui.oliveira@inesctec.pt) by March 31, 2020, as a Word file (preferably) or a .pdf file. 
+       -	Goals and Accomplishments;
+       -	Approach and Activities;
+       -	Outcomes and Current Conclusions;
+       -	Future Work (include whether project is looking for collaborators and in what areas).
+7. We strongly recommend all submissions to use the attached Word Template;
+8. Please send your summary to Rui Oliveira (rui.oliveira@inesctec.pt) by March 31, 2020, as a Word file (preferably) or a .pdf file;
 9. Decisions on acceptance or rejection of submissions as well as suggestions and / or instructions for improvement of accepted submissions will be made available to authors by e-mail on April 15, 2020. 
 
 **Guidelines for creating a Poster**
