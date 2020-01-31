@@ -22,8 +22,8 @@ Since 1996, the Historic Center of Porto is listed as [UNESCO World Heritage](ht
 
 
 You can find relevant information about the city of Porto in the following websites:
-- <a href="http://visitporto.travel/Visitar/Paginas/default.aspx">Visit Porto</a>;
-- <a href="http://visitporto.travel/Visitar/Paginas/default.aspx">Visit Porto & The North</a>;
+- <a href="https://visitporto.travel/en-GB/home#/">Visit Porto</a>;
+- <a href="http://www.visitportoandnorth.travel/">Visit Porto & The North</a>;
 - <a href="https://www.introducingporto.com/map">Introducing Porto</a>.
 
 Or by downloading the [Appy Tourist app](http://www.appytourist.pt/). Developed by the Portuguese Association for Consumer’s Right (DECO), this app allows you to enjoy your vacation or business travel to Porto without overlooking your consumer’s rights. Download is free.
