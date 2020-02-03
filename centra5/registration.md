@@ -10,5 +10,4 @@ hide: true
 
 ## Registration
 
-The registration period starts on February 3, 2020. The registration form will be made available to you by then.
-
+Registration for CENTRA 5 Meeting and Satellite Event SAGE 2 Visualization Workshop is now open [here](https://forms.gle/Uyd6qZAxJqwipc689).
