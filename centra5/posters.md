@@ -67,7 +67,7 @@ Please note that whether you are participating with a poster and/or an oral pres
        -	Approach and Activities;
        -	Outcomes and Current Conclusions;
        -	Future Work (include whether project is looking for collaborators and in what areas).
-7. We strongly recommend all submissions to use the attached Word Template;
+7. We strongly recommend all submissions to use [this Word Template](Project_Outline_Submission_Template.docx);
 8. Please send your summary to Rui Oliveira (rui.oliveira@inesctec.pt) by March 31, 2020, as a Word file (preferably) or a .pdf file;
 9. Decisions on acceptance or rejection of submissions as well as suggestions and / or instructions for improvement of accepted submissions will be made available to authors by e-mail on April 15, 2020. 
 
