@@ -22,7 +22,7 @@ These are the key dates leading up to this 3-day event:
   **May 13:** Workshop on “Smart cyberinfrastructure Research: 2020 and beyond”;   
   **May 14-15:** “CENTRA 5: HPC and AI Convergence for Smart Connected Communities” (All-Hands Meeting).  
 
-**Centra 6 Meeting Satellite Event (May12)**  
-Prior to CENTRA 5 Meeting, on May 12, local host INESC TEC will organize the SAGE 2 Visualization Workshop at its headquarters (More information available in [Program](program.html)).<br />This CENTRA 5 Meeting’s satellite event will be open to delegates outside CENTRA’s community. CENTRA attendees wishing to participate in the workshop, should use the registration form of CENTRA 5 Meeting.  
+**CENTRA 5 Meeting Satellite Event (May 12)**  
+Prior to CENTRA 5 Meeting, on May 12, local host INESC TEC will organize the SAGE 2 Visualization Workshop at its headquarters (More information available in [Program](program.html)).<BR /><BR />This CENTRA 5 Meeting’s satellite event will be open to delegates outside CENTRA’s community. CENTRA attendees wishing to participate in the workshop, should use the registration form of CENTRA 5 Meeting.  
 
 As soon as possible: check [Visa Information](visainfo.html) and follow up accordingly if you need to obtain a visa to enter Portugal.  
