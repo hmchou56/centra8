@@ -93,7 +93,7 @@ Email: res@hoteldamusica.com
 Address: Rua Arquitecto Marques da Silva 200 | 4150-483 Porto | Portugal  
 Price: 10% off the best value on the hotel website (breakfast incl.)  
 15-minute walking distance to the venue  
-Event code to be provided in registration confirmation email
+<u>Event code to be provided in registration confirmation email</u>
 
 Phone number: +351 226 004 747  
 Email: hftuelaporto@hfhotels.com  
@@ -104,7 +104,7 @@ Email: hftuelaporto@hfhotels.com
 Address: Rua do Almada, 361|4050-032 Porto | Portugal   
 Price: DBL 180€ and SGL 170€ (breakfast incl.). Double beds only.   
 15-minute by car to the venue  
-Event code to be provided in registration confirmation email
+<u>Event code to be provided in registration confirmation email</u>
 
 Phone number: +351 932 087 108  
 Email: info@exealmadaporto.com  
@@ -114,7 +114,7 @@ Email: info@exealmadaporto.com
 [Hotel Boa-Vista](http://www.hotelboavista.com/en/) ★★★  
 Address: Esplanada do Castelo, 58 | 4150-196 Porto | Portugal  
 Price: DBL 102,60€ and SGL 89,10€ (breakfast incl.)  
-Within 10 minutes’ drive to the venue 
+Within 10 minutes’ drive to the venue  
 <u>Event code to be provided in registration confirmation email </u>
 
 Phone number: +351 225 320 020  
