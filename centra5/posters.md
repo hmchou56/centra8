@@ -60,9 +60,9 @@ Please note that whether you are participating with a poster and/or an oral pres
    - Smart and Connected Communities Testbed;
    - SCALE3: A resilient IoT data gathering and real-time data processing for safe community alerting;
    - Social-Edge CPS: Social-Cyber-Physical Systems Meet Edge Computing;
-1. For new projects, please name the report as "New CENTRA project" \<insert here the name of the new project\>;
+4. For new projects, please name the report as "New CENTRA project \<insert here the name of the new project\>";
 5.	List authors starting with the project leader/convener’s name, followed by names of active collaborators;
-2.	Please include the following sections: 
+6.	Please include the following sections: 
        -	Goals and Accomplishments;
        -	Approach and Activities;
        -	Outcomes and Current Conclusions;
