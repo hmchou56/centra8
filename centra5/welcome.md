@@ -21,7 +21,7 @@ We could not be more excited to welcome you in May 2020 at the UNESCO’s World 
 
 Therefore, once again, we really look forward to meeting you all in Porto, a city with a character of its own that has been a gateway for a new and more connected world for centuries. What a perfect stage to host the 5th edition of our CENTRA meeting!
 
-CENTRA activities are funded in part by the National Science Foundation (NSF ACI Award 1550126) of the USA, the Ministry of Science and Technology (MOST) of Taiwan, the National Institute of Information and Communications Technologies (NICT) of Japan, and the Institute for Systems and Computer Engineering, Technology and Science (INESC TEC) of Portugal. We are very thankful for the support of all these sponsors.
+CENTRA's activities are funded in part by the National Science Foundation (NSF ACI Award 1550126) of the USA, the Ministry of Science and Technology (MOST) of Taiwan, the National Institute of Information and Communications Technologies (NICT) of Japan, and the Institute for Systems and Computer Engineering, Technology and Science (INESC TEC) of Portugal. We are very thankful for the support of all these sponsors.
 
 José Manuel Mendonça<br>
 President of INESC TEC
