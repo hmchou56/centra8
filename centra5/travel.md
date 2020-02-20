@@ -55,4 +55,11 @@ Detailed information about trains, timetables, journey times and ticket fares ma
 ### By car
 
 If you are travelling by car, the GPS coordinates to Crown Plaza Porto are N 41°09.623'
-W 8°38.440'. There are several car rental services available in Porto and also at the airport area.
+W 8°38.440'. There are several car rental services available in Porto and also at the airport area.  
+  
+As of today, World Health Organization (WHO) and the European Centre for Disease Prevention and Control (ECDPC) did not recommend any travel restrictions, in particular to Portugal, based on the current information available.  
+
+Travelers should only take into consideration the restrictions that airlines may have put in place and follow the recommendations from the health organizations and countries to where they are traveling.  
+ 
+Visit [this website](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/travel-advice) to learn more on travelling during the COVID-2019 outbreak.   
+
