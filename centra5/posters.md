@@ -73,14 +73,14 @@ Please note that whether you are participating with a poster and/or an oral pres
 
 **Guidelines for creating a Poster**
 
--	All posters must be A0 (841 x 1189 mm) with portrait orientation. Authors must use CENTRA 5 Meeting template for posters, which will be made available in this section before February 28, 2020.
+-	All posters must be A0 (841 x 1189 mm) with portrait orientation. Authors must use [CENTRA 5 Meeting template for posters](Poster_template_CENTRA5.pptx).
 -	Authors of summaries selected for poster presentation must send the final version of their posters (.pdf file) to Rui Oliveira (rui.oliveira@inesctec.pt) by April 30, 2020. Posters will be checked and non-conforming authors contacted to amend them.
 -	Please note that to have your poster eligible for printing by the Local Organizing Team you must send a .pdf file with your poster to centra@inesctec.pt by May 6. If you miss this deadline you may still participate, however you are responsible for printing and transporting your poster.
 -	Authors are responsible for poster setup and removal.
 
 **Guidelines for Oral Presentations (using PowerPoint)**
 
-- A template with the visual identity of the event will be provided in this section. Its use is, however, optional. 
+- A template with the visual identity of the event can be found [here](CENTRA5_Template_V2.pptx). Its use is, however, optional. 
 - Authors of summaries selected for oral presentation must send the final version of their presentations (.ppt or .pptx. file) to Rui Oliveira (rui.oliveira@inesctec.pt) by April 30, 2020.   
 - Presentations will be checked and non-conforming authors contacted to amend their presentations.   
 
