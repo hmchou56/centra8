@@ -40,7 +40,7 @@ Bill Chang       |Special Advisor in the Office of Vice President for Research a
 Ken-Hsuan Chang       |Researcher, National Museum of Marine Science & Technology, Taiwan    |
 Ling-huang Chang       |Professor, National Taichung University, Taiwan     |Software-defined networking, wireless sensor networks
 Yi-Chun Chang       |Researcher, National Museum of Marine Science & Technology, Taiwan    |
-Ling-Jyh Chen       |Associate Researcher, Academia Sinica, Taiwan      |Participatory urban sensing, networked sensing systems, smart cities
+Ling-Jyh Chen       |Research Fellow, Academia Sinica, Taiwan      |Participatory urban sensing, networked sensing systems, smart cities
 Yen-Jong Chen       |Professor, National Cheng Kung University, Taiwan     |Urban systems, housing economics, energy application, green city
 Kum Won Cho      |Vice President, KISTI, South Korea      |High-performance computing
 Hsiu-Mei Chou       |Associate Researcher, National Center for High-performance Computing, Taiwan     |Large-scale scientific data management, data visualization, user experience
