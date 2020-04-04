@@ -39,8 +39,8 @@ On Portuguese consulates around the world - [Portugal’s Ministry of Foreign Af
 
 
 
-**Letter of Invitation**
+<!--**Letter of Invitation**
 
 You must fill in the CENTRA 5 Meeting registration form and request the sending of an invitation letter in the appropriate section.  
 
-* Your request will be reviewed and processed within 2-4 business days, and the invitation letter will be sent to the email address provided in your registration form. Please, note that you can only apply for a Portugal Schengen Visa **3 months before your planned travel**. If you have any questions regarding Visa letters, please contact centra@inesctec.pt
+* Your request will be reviewed and processed within 2-4 business days, and the invitation letter will be sent to the email address provided in your registration form. Please, note that you can only apply for a Portugal Schengen Visa **3 months before your planned travel**. If you have any questions regarding Visa letters, please contact centra@inesctec.pt-->
