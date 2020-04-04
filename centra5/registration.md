@@ -10,4 +10,4 @@ hide: true
 
 ## Registration
 
-Registration for CENTRA 5 Meeting and Satellite Event SAGE 2 Visualization Workshop is now open [here](https://forms.gle/Uyd6qZAxJqwipc689).
+Registration for CENTRA 5 Meeting and Satellite Event SAGE 2 Visualization Workshop has been suspended.
