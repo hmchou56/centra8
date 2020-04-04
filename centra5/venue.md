@@ -37,6 +37,11 @@ By taxi or Uber, you can easily and conveniently reach **Porto’s historic down
 
 **Accommodation \| List of suggested hotels:** 
 
+The list of suggested hotels for 2021 will be updated in the coming months. 
+If you have reserved a room at a hotel in Porto to attend the 2020 CENTRA 5 Meeting, do not forget to contact your hotel for assistance / cancellation.  
+
+<!--
+
 We have selected a number of hotel units located either in the vicinity of the meeting venue or closer to Porto’s major tourist attractions if you wish to experience a more immersive stay in the city. The list includes a range of prices and star-ratings in order to cater for all tastes and wallets.  
 
 IINESC TEC has negotiated with these hotels special conditions (such as special rates or room block) for CENTRA 5 Meeting’s delegates (e.). 
@@ -120,4 +125,4 @@ Within 10 minutes’ drive to the venue
 Phone number: +351 225 320 020  
 Email: reserva@hotelboavista.com    
 
-Tourist enterprises and local accommodation in Porto will charge a tourist tax of 2.00 € per person per night, up to a maximum of 7 nights for reservation. The tourist tax purpose is to minimize the difficulties that arise from the significant growth of tourism in Porto.  
+Tourist enterprises and local accommodation in Porto will charge a tourist tax of 2.00 € per person per night, up to a maximum of 7 nights for reservation. The tourist tax purpose is to minimize the difficulties that arise from the significant growth of tourism in Porto.  -->
