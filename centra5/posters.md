@@ -8,7 +8,9 @@ hide: true
 ---
 ## Posters and Oral Presentations
 
-**Key Dates**
+Reception of posters, demos and presentations proposals for CENTRA 5 Meeting and Satellite Event SAGE 2 Visualization Workshop has been suspended. 
+
+<!--**Key Dates**
 &nbsp;   
 &nbsp;   
 **February 3 – March 31:**  Period for submission of summaries of project progress or proposed projects (for posters and / or oral presentations at CENTRA 5 Meeting);  
@@ -87,4 +89,4 @@ Please note that whether you are participating with a poster and/or an oral pres
 **Contact**
 
 If you have any questions regarding the call for posters and oral presentations, please contact: Ana Lopes (ana.i.lopes@inesctec.pt)
-
+-->
