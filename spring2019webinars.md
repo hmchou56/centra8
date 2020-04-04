@@ -23,7 +23,7 @@ Here is a preview of current scheduled webinars and more potential topics being 
 *01/18 at 0100 Portugal | 0800 Indonesia/Thailand/Vietnam | 0900 Taiwan/Malaysia/The Philippines | 1000 Japan/S. Korea*  
 **Integrating Autonomy into Transportation Systems**  
 By Dr. Cathy Wu, Microsoft Research AI, USA  
-[Abstract and Video Recording](http://bit.ly/2WsXnIP)
+[Abstract and Video Recording](https://vimeo.com/319636804)
   
 **2019/03/21 @08:00 US EDT**  
 *03/21 at 0300 Hawaii | 0500 US Pacific | 0600 US Mountain | 1200 Portugal*   
