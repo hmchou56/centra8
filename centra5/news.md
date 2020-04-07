@@ -7,6 +7,6 @@ published: true
 hide: true
 ---
 
-## Important Dates
+## New Dates
 
 More details on specific dates for the 2021 CENTRA 5 Meeting and preceding 2020 events forthcoming.

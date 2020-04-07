@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 
-## CENTRA 2020 Venue and Hotels
+## Venue & Lodging
 
 **Meeting Venue**
 
@@ -20,20 +20,6 @@ See map.
 
 The hotel is located right in the heart of one of the city’s main business and shopping districts (*Avenida da Boavista*), served by several bus lines and within 15-minute walking-distance from Casa da Música Metro Station. 
 
-![oporto02](../img/centra5/oporto02.png)
-
-
-Source: Google Maps
-
-​		![round_black](../img/centra5/round_black.png)Meeting venue (Crowne Plaza Porto)
-
-​		![round_blue](../img/centra5/round_blue.png)Porto’s beachfront
-
-​		![round_green](../img/centra5/round_green.png)Porto’s historic center
-
-The hotel is on the route of one of the hops on hops off buses that will take you in a memorable journey to some of the many must-see attractions the city has to offer travelers: the historic center of Porto, the Clérigos Bell Tower, the Serralves Foundation and Casa da Música, two icons of the city’s contemporary architecture, or even the Porto Cruise terminal.
-
-By taxi or Uber, you can easily and conveniently reach **Porto’s historic downtown** or **Porto Airport** in just under 20 minutes. 
 
 **Accommodation \| List of suggested hotels:** 
 

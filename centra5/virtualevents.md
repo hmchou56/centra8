@@ -7,6 +7,6 @@ published: true
 hide: true
 ---
 
-## 2020 VIRTUAL EVENTS
+## 2020 Virtual Events
 
 This section will be updated soon with information on the first-ever CENTRA virtual event arriving to you in July 2020.

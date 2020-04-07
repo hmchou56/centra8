@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 
-## CENTRA 2020 Visa Information
+## Visa Information
 
 International delegates should give special attention to Visa requirements and make travel plans well in advance. Visa regulations depend on a delegate’s nationality and country of origin.
 
