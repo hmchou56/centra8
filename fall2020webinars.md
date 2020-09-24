@@ -6,17 +6,38 @@ permalink: /fall2020webinars/
 ---
   
 <p align="center">
-Recordings of the upcoming webinars (2019) will be available within 7 days after each event and linked to the presentations below. 2016-2018 webinars recordings are available for viewing on <a href="https://goo.gl/nUjf6F" target="_blank">CENTRA's Vimeo channel</a>
+Recordings of the upcoming webinars (2020) will be available within 7 days after each event and linked to the presentations below. 2016-2019 webinars recordings are available for viewing on <a href="https://goo.gl/nUjf6F" target="_blank">CENTRA's Vimeo channel</a>
 </p>
 <br>   
    
-## Spring 2019 Global CENTRA Webinar Series
+## Spring 2020 Global CENTRA Webinar Series
 
 Global CENTRA invites you to attend the following webinars to learn about ongoing and proposed CENTRA collaborative research. The purpose of these webinars is also to engage international researchers in transnational collaborations. Webinar presentations will include descriptions of specific areas or questions where collaborations are desirable and attendees will have the opportunity to follow up with presenters on their interest in engaging in such collaborations. On this page you will find information about the webinar times, dates, speakers and registrations pages that link to the abstract of each presentation *(webinar times and dates might be subject to change)*. 
 
-The Global CENTRA Webinars are free and open to all, whether they have been involved in CENTRA member organizations or not. Please invite your colleagues and students interested in these topics and may benefit from interacting with the speakers and CENTRA researchers! (Please e-mail to gshong (at) ufl (dot) edu to be added to centrawebinars-l to receive webinar announcements and recordings updates.) 
+The Global CENTRA Webinars are free and open to all, whether they have been involved in CENTRA member organizations or not. Please invite your colleagues and students interested in these topics and may benefit from interacting with the speakers and CENTRA researchers! (Please e-mail centra@acis.ufl.edu receive webinar announcements and recordings updates.) 
 
-Here is a preview of current scheduled webinars and more potential topics being confirmed during early 2019. More details are being updated here as they become available. Check back to this page often and follow us on Facebook @globalcentra.
+Here is a preview of current scheduled webinars and more potential topics being confirmed during early 2019. More details are being updated here as they become available. Check back to this page often and follow us on Facebook @globalcentra and Twitter @globalcentra.
+
+
+_Time: 9 am (USA Eastern) 10pm (Tokyo, Seoul) 9 pm (Taipei) 6 am (USA Pacific) 2 pm (Portugal)_
+
+**<ins>Date: 10/7/2020:</ins> Differential Privacy and its Applications on Data Release and Data Collection.**--
+_Speaker: Dr. Chia-Mu Yu_ --
+
+**<ins>Date:10/21/2020:</ins> KISTI Supercomputing for COVID-19 Challenges (KISTI)**--
+_Speaker: Dr. Sangjae Seo (Provided by Woojin Seok)_--
+
+
+
+
+
+
+
+
+
+
+
+
 
 **2019/01/17 @20:00 US EST**  
 *01/17 at 1500 Hawaii | 1700 US Pacific | 1800 US Mountain |*   
