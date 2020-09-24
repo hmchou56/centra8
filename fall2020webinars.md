@@ -21,11 +21,23 @@ Here is a preview of current scheduled webinars and more potential topics being 
 
 _Time: 9 am (USA Eastern) 10pm (Tokyo, Seoul) 9 pm (Taipei) 6 am (USA Pacific) 2 pm (Portugal)_
 
-**<ins>Date: 10/7/2020:</ins> Differential Privacy and its Applications on Data Release and Data Collection.**--
-_Speaker: Dr. Chia-Mu Yu_ --
+**<ins>Date: 10/7/2020:</ins> Differential Privacy and its Applications on Data Release and Data Collection.**
+_Speaker: Dr. Chia-Mu Yu_ 
 
-**<ins>Date:10/21/2020:</ins> KISTI Supercomputing for COVID-19 Challenges (KISTI)**--
-_Speaker: Dr. Sangjae Seo (Provided by Woojin Seok)_--
+**<ins>Date:10/21/2020:</ins> KISTI Supercomputing for COVID-19 Challenges (KISTI)**
+_Speaker: Dr. Sangjae Seo (Provided by Woojin Seok)_
+
+**<ins>Date:11/04/2020:</ins> Edge X and IoT technology (KISTI)**---
+_Speaker: Dr. Kiwook Kim (Provided by Woojin Seok)_ 
+
+**<ins>Date: 11/11/2020:</ins> Edge intelligence: QoS-Cost tradeoff for learning-based services at the edge**---
+Speaker: Dr. Hana Khamfroush. (U. Kentucky)
+
+**<ins>Date: 12/16/2020:</ins> Edge VPN** 
+Speaker: Dr. Renato Figueiredo (U. Florida)
+
+**<ins>Date: 1/13/2021:</ins> Dynamic Interactions between Human and Information in Complex Online Environments Responding to SARS-COV-2**--
+Speaker: Dr. Yan Wang (U. Florida)
 
 
 
@@ -39,26 +51,6 @@ _Speaker: Dr. Sangjae Seo (Provided by Woojin Seok)_--
 
 
 
-**2019/01/17 @20:00 US EST**  
-*01/17 at 1500 Hawaii | 1700 US Pacific | 1800 US Mountain |*   
-*01/18 at 0100 Portugal | 0800 Indonesia/Thailand/Vietnam | 0900 Taiwan/Malaysia/The Philippines | 1000 Japan/S. Korea*  
-**Integrating Autonomy into Transportation Systems**  
-By Dr. Cathy Wu, Microsoft Research AI, USA  
-[Abstract and Video Recording](https://vimeo.com/319636804)
-  
-**2019/03/21 @08:00 US EDT**  
-*03/21 at 0300 Hawaii | 0500 US Pacific | 0600 US Mountain | 1200 Portugal*   
-*03/21 at 1900 Indonesia/Thailand/Vietnam | 2000 Taiwan/Malaysia/The Philippines | 2100 Japan/S. Korea*  
-**Machine Learning and Application in Remote Sensing**  
-By Dr. Alina Zare, University of Florida, USA   
-[Abstract and Video Recording](https://vimeo.com/325987097)  
-  
-**2019/04/10 @20:00 US EDT**  
-*04/10 at 1400 Hawaii | 1700 US Pacific | 1800 US Mountain*   
-*04/11 at 0100 Portugal | 0700 Indonesia/Thailand/Vietnam | 0800 Taiwan/Malaysia/The Philippines | 0900 Japan/S. Korea*  
-**ABCI: An Open Innovation Platform for Advancing AI Research and Deployment**   
-By Dr. Ryuosei Takano, National Institute of Advanced Industrial Science and Technology (AIST), Japan   
-[Abstract and Video Recording](https://vimeo.com/330841817)   
   
   
   
