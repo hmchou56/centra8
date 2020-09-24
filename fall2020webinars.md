@@ -23,13 +23,13 @@ SCHEDULE:
 _Time: 9 am (USA Eastern) 10pm (Tokyo, Seoul) 9 pm (Taipei) 6 am (USA Pacific) 2 pm (Portugal)_
 
 **<ins>Date: 10/7/2020:</ins> Differential Privacy and its Applications on Data Release and Data Collection.**
-_Speaker: Dr. Chia-Mu Yu_ 
+_Speaker: Dr. Chia-Mu Yu_, Department of Information Management and Finance, National Chiao Tung University, Taiwan
 
 **<ins>Date:10/21/2020:</ins> KISTI Supercomputing for COVID-19 Challenges (KISTI)**
-_Speaker: Dr. Sangjae Seo (Provided by Woojin Seok)_
+_Speaker: Dr. Sangjae Seo (Provided by Woojin Seok)_, Korea Institute of Science and Technology
 
 **<ins>Date:11/04/2020:</ins> Edge X and IoT technology (KISTI)**
-_Speaker: Dr. Kiwook Kim (Provided by Woojin Seok)_ 
+_Speaker: Dr. Kiwook Kim (Provided by Woojin Seok)_, Korea Institute of Science and Technology
 
 **<ins>Date: 11/11/2020:</ins> Edge intelligence: QoS-Cost tradeoff for learning-based services at the edge**
 Speaker: Dr. Hana Khamfroush. (U. Kentucky)
@@ -44,26 +44,31 @@ Speaker: Dr. Yan Wang (U. Florida)
 
 **ABSTRACTS:**
 
-Date: 10/7/2020: Differential Privacy and its Applications on Data Release and Data Collection.
+**Date: 10/7/2020: Differential Privacy and its Applications on Data Release and Data Collection**
 _Speaker: Dr. Chia-Mu Yu_ 
+Abstract Pending
 
-**<ins>Date:10/21/2020:</ins> KISTI Supercomputing for COVID-19 Challenges (KISTI)**
+**Date:10/21/2020: KISTI Supercomputing for COVID-19 Challenges (KISTI)**
 _Speaker: Dr. Sangjae Seo (Provided by Woojin Seok)_
+Abstract Pending
 
-**<ins>Date:11/04/2020:</ins> Edge X and IoT technology (KISTI)**
-_Speaker: Dr. Kiwook Kim (Provided by Woojin Seok)_ 
+**Date:11/04/2020: Edge X and IoT technology (KISTI)**
+_Speaker: Dr. Kiwook Kim (Provided by Woojin Seok)_
+Abstract Pending
 
-**<ins>Date: 11/11/2020:</ins> Edge intelligence: QoS-Cost tradeoff for learning-based services at the edge**
+**Date: 11/11/2020:Edge intelligence: QoS-Cost tradeoff for learning-based services at the edge**
 Speaker: Dr. Hana Khamfroush. (U. Kentucky)
+Abstract Pending
 
-Date: 12/16/2020: **EdgeVPN.io: Software-Defined Overlay Virtual Private Networks for Edge Computing** 
+**Date: 12/16/2020: EdgeVPN.io: Software-Defined Overlay Virtual Private Networks for Edge Computing** 
 Speaker: Dr. Renato Figueiredo (U. Florida)
-image
+
 
 _Abstract_: Edge and fog computing encompass a variety of technologies that are poised to enable new applications across the Internet that support data capture, storage, processing, and communication across the networking continuum: from Internet-of-Things (IoT) devices to edge and cloud data centers. These environments pose unique challenges to the design and implementation of networks: membership can be dynamic, devices are heterogeneous, widely distributed geographically and/or mobile, and potentially assigned private IP addresses constrained by policies of different NAT (Network Address Translation) and firewall middleboxes. This talk overviews EdgeVPN.io, an open-source, software-defined network (SDN) that addresses challenges in the deployment of virtual networks spanning distributed edge and cloud resources. In particular, the talk describes the Evio software architecture, how it leverages standards and open-source software for firewall/NAT traversal (XMPP, STUN, TURN, and WebRTC), how it integrates with open-source SDN software switches (Open vSwitch), and how it supports deployment of unmodified container-based middleware and services (Docker, Kubernetes, and Flannel).  
 
-**<ins>Date: 1/13/2021:</ins> Dynamic Interactions between Human and Information in Complex Online Environments Responding to SARS-COV-2**
+**Date: 1/13/2021:</ins> Dynamic Interactions between Human and Information in Complex Online Environments Responding to SARS-COV-2**
 Speaker: Dr. Yan Wang (U. Florida)
+Abstract Pending
 
 
 
