@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Fall 2020 Webinars
-permalink: /fall2020webinars/
+title: 2020 Webinars
+permalink: /2020webinars/
 "feature-img": img/header-nologo.jpg
 ---
   
 <p align="center">
-Recordings of the upcoming webinars (2020) will be available within 7 days after each event and linked to the presentations below. 2016-2019 webinars recordings are available for viewing on <a href="https://goo.gl/nUjf6F" target="_blank">CENTRA's Vimeo channel</a>
+Recordings of the upcoming webinars (2020) will be available within 7 days after each event and linked to the presentations below. 2016-2019 webinar recordings are available for viewing on <a href="https://goo.gl/nUjf6F" target="_blank">CENTRA's Vimeo channel</a>
 </p>
 <br>   
    
-## Spring 2020 Global CENTRA Webinar Series
+## 2020 Global CENTRA Webinar Series
 
 Global CENTRA invites you to attend the following webinars to learn about ongoing and proposed CENTRA collaborative research. The purpose of these webinars is also to engage international researchers in transnational collaborations. Webinar presentations will include descriptions of specific areas or questions where collaborations are desirable and attendees will have the opportunity to follow up with presenters on their interest in engaging in such collaborations. On this page you will find information about the webinar times, dates, speakers and registrations pages that link to the abstract of each presentation *(webinar times and dates might be subject to change)*. 
 
