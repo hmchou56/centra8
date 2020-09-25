@@ -23,7 +23,16 @@ Here is a preview of current scheduled webinars and more potential topics being 
 _Time: 9 am (USA Eastern) 10pm (Tokyo, Seoul) 9 pm (Taipei) 6 am (USA Pacific) 2 pm (Portugal)_
 
 **<ins>Date: 10/7/2020:</ins> Differential Privacy and its Applications on Data Release and Data Collection.**
-_Speaker: Dr. Chia-Mu Yu_, Department of Information Management and Finance, National Chiao Tung University, Taiwan
+ <div class="container">
+        <div class="row row-content align-items-center">
+            <!-- occupy all 12 cols in small, 4 cols in small, 3 in md and larger-->           
+            <div class="col-8">
+            _Speaker: Dr. Chia-Mu Yu_, Department of Information Management and Finance, National Chiao Tung University, Taiwan
+            </div>
+            <div class="col-4">
+            <img src="img/members/Chia-Mu_Yu.jpg">
+            </div>
+        </div>
 
 **<ins>Date:10/21/2020:</ins> KISTI Supercomputing for COVID-19 Challenges (KISTI)**
 _Speaker: Dr. Sangjae Seo (Provided by Woojin Seok)_, Korea Institute of Science and Technology
