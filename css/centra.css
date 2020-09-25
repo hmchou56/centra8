@@ -107,3 +107,8 @@ text-decoration: underline;
 li {
 margin-bottom: 1em;
 }
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
