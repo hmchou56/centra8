@@ -79,4 +79,4 @@ Taiwan, and the National Institute of Information and Communications Technologie
 # Contact
 
 For more information about CENTRA or to express an interest in collaborating, please
-contact us via email at gshong (at) acis (dot) ufl (dot) edu
+contact us via email at <centra@acis.ufl.edu>
