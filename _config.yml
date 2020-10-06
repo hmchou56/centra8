@@ -3,7 +3,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.globalcentra.org" # the base hostname & protocol for your site
 #custom site variables
 NSF_footer_text: "CENTRA is funded in part by a grant (NSF ACI 1550126) from the National Science Foundation"
-site_navigation_logo: <img src="/img/centra-logo.jpg" align="left" title="CENTRA logo" alt="CENTRA logo">
+site_navigation_logo: <img src="/img/centra-logo.jpg" title="CENTRA logo" alt="CENTRA logo">
 
 # THEME-SPECIFIC CONFIGURATION
 centra:
