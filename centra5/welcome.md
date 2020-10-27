@@ -26,7 +26,7 @@ CENTRA's activities are funded in part by the National Science Foundation (NSF A
 José Manuel Mendonça<br>
 President of INESC TEC-->
 
-After thoughtful deliberations, and because our members’ health and safety come first, CENTRA’s Steering Committee (SC) has decided to postpone CENTRA 5 Meeting to May 2021 due to the COVID-19.  
+After thoughtful deliberations, and because our members’ health and safety come first, CENTRA’s Steering Committee (SC) has decided to postpone CENTRA 5 Meeting to July 2021 due to the COVID-19.  
 
 We hope you understand our decision, which was not made lightly. At the same time, we want to assure you that we are committed to go the extra mile with the 2021 event. Porto and INESC TEC will remain the host city and the local organizer respectively.  
 
