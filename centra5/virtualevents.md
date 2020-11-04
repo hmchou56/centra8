@@ -9,4 +9,4 @@ hide: true
 
 ## 2020 Virtual Events
 
-This section will be updated soon with information on the first-ever CENTRA virtual event arriving to you in July 2020.
+Please refer to the <a href="https://www.globalcentra.org/2020webinars/">2020 Global CENTRA Webinar Series for more information"</a>. 
