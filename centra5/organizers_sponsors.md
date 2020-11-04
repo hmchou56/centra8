@@ -35,6 +35,5 @@ TBA
 ## Local Organizing Committee
 -	Ana Lopes, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal; 
 -	Andreia Passos, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal; 
--	Bárbara Veloso, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal;
 -	Daniel Dantas, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal; 
 -	Vera Pinto, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal. 
