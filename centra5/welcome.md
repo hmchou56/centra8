@@ -15,7 +15,7 @@ hide: true
 
 Updates coming soon.
 
-In the meantime, we wish you health and peace of mind as we make our way through these exceptionally challenging times! Stay safe
+In the meantime, we wish you health and peace of mind as we make our way through these exceptionally challenging times! Stay safe.
 
 
 <img src="/img/centra5/centra5-porto1.jpg" style="width:1050px">
