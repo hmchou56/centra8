@@ -3,7 +3,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.globalcentra.org" # the base hostname & protocol for your site
 #custom site variables
 NSF_footer_text: "CENTRA is funded in part by a grant (NSF ACI 1550126) from the National Science Foundation"
-site_naivation_logo: <img src="/img/centra-logo.jpg" align="left">
+site_navigation_logo: <img src="/img/centra-logo.jpg" title="CENTRA logo" alt="CENTRA logo">
 
 # THEME-SPECIFIC CONFIGURATION
 centra:
@@ -17,12 +17,12 @@ centra:
   header_text:
   header_text_feature_image:
   footer_text: >
-   <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></br>
+   <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br>
    Except where otherwise noted, content on this site is licensed under a 
    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
-   </br>
-   Copyright 2016 ACIS Lab
-   <p>This page uses <a href="http://www.google.com/analytics">Google Analytics</a> &bull; <a href="http://www.google.com/intl/en_ALL/privacypolicy.html">Google Privacy Policy</a> &copy; Copyright 2016</p>
+   <br>
+   Copyright 2020 ACIS Lab
+   <p>This page uses <a href="http://www.google.com/analytics">Google Analytics</a> &bull; <a href="http://www.google.com/intl/en_ALL/privacypolicy.html">Google Privacy Policy</a> &copy; Copyright 2020</p>
   # Icons
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"

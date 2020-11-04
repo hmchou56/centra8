@@ -107,3 +107,16 @@ text-decoration: underline;
 li {
 margin-bottom: 1em;
 }
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+.row-m {
+    margin-top : 30px;
+    margin-bottom: 30px;
+    border: 0px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
