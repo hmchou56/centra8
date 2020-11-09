@@ -10,4 +10,4 @@ hide: true
 
 ## Registration
 
-More details on how to register for CENTRA 5 Meeting and Satellite Event SAGE 2 Visualization Workshop coming soon.
+More details on how to register for CENTRA 5 Meeting coming soon.

@@ -8,14 +8,13 @@ hide: true
 ---
 
 ## Travel 
+  
 
-The State of Emergency has been declared in Portugal and brings into force a series of measures to curb down the spread of the virus (COVID-19).  
+Since the outbreak of the new Coronavirus, the Portuguese Governement has been taking the necessary public health measures to guarantee the well-being and safety of the population. The evolution of the pandemic is in constant analyzes and new measures will be updated and reinforced as necessary.  
 
-The pack of measures include significant restrictions on movement throughout the country, affecting public places and transport. They are in place since March 19, will be extended for another two weeks, and can be renewed. Public gatherings are prohibited, most shops other than those selling food or other essential items such as pharmacies have been closed. People in the country have been instructed to remain at home.   
+Before travelling, visitors should confirm the procedures and restrictions in place in the country of origin and destination, from both the airline companies and border services.  
 
-More information [here](https://www.visitportugal.com/en/node/420733).  
+In the meantime, please refer <a href="https://www.visitportugal.com/en/node/421175">here</a> for more information.  
 
-Additionally, the EU has urged Member-States to introduce temporary restrictions on non-essential travel to the Union.   
-
-(Information updated on April 2, 2020)   
+(Information updated on November 6, 2020)  
 

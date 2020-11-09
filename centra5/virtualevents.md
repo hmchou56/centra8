@@ -9,4 +9,4 @@ hide: true
 
 ## 2020 Virtual Events
 
-Please refer to the <a href="https://www.globalcentra.org/2020webinars/">2020 Global CENTRA Webinar Series for more information</a>. 
+Please refer to the <a href="https://www.globalcentra.org/2020webinars/">2020 Global CENTRA Webinar Series</a> for more information. 

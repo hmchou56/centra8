@@ -8,7 +8,7 @@ hide: true
 ---
 ## Posters and Oral Presentations
 
-Reception of posters, demos and presentations proposals for CENTRA 5 Meeting and Satellite Event SAGE 2 Visualization Workshop has been suspended. 
+More details coming soon.  
 
 <!--**Key Dates**
 &nbsp;   
