@@ -11,8 +11,7 @@ hide: true
 
 **Meeting Venue**
 
-The CENTRA 5 Meeting will be held at 5-star [Crowne Plaza Porto](https://www.crowneplaza.com/hotels/gb/en/porto/opocp/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99603195&icdv=99603195&glat=SEAR&qSlH=OPOCP&setPMCookies=true&qSHBrC=CP&qDest=Avenida%20da%20Boavista,%201466,%20Porto,%20PT&dp=true&gclid=Cj0KCQjw0IDtBRC6ARIsAIA5gWucOPW7Z8EVjFeJPhSHs0XeCu_HwkeRdnZheSz_tht79kNktzwLiqEaAqDSEALw_wcB&cid=41468&srb_u=1), in Porto, Portugal. 
-See map.
+The CENTRA 5 Meeting will be held at 5-star [Crowne Plaza Porto](https://www.crowneplaza.com/hotels/gb/en/porto/opocp/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99603195&icdv=99603195&glat=SEAR&qSlH=OPOCP&setPMCookies=true&qSHBrC=CP&qDest=Avenida%20da%20Boavista,%201466,%20Porto,%20PT&dp=true&gclid=Cj0KCQjw0IDtBRC6ARIsAIA5gWucOPW7Z8EVjFeJPhSHs0XeCu_HwkeRdnZheSz_tht79kNktzwLiqEaAqDSEALw_wcB&cid=41468&srb_u=1), in Porto, Portugal.
 
 ![oporto01](../img/centra5/oporto01.png)
 
