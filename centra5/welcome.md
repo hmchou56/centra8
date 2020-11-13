@@ -27,7 +27,7 @@ hide: true
 
 *In the meantime, we wish you health and peace of mind, as we make our way through these exceptionally challenging times!*
 
-*José Manuel Mendonça
+*José Manuel Mendonça*
 *President of INESC TEC*
 
 

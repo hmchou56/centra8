@@ -14,7 +14,7 @@ Since the outbreak of the new Coronavirus, the Portuguese Governement has been t
 
 Before travelling, visitors should confirm the procedures and restrictions in place in the country of origin and destination, from both the airline companies and border services.  
 
-In the meantime, please refer <a href="https://www.visitportugal.com/en/node/421175">here</a> for more information.  
+In the meantime, please refer <a href="https://www.reopen.europa.eu/en">here</a> for more information.  
 
-(Information updated on November 6, 2020)  
+(Information updated on November 12, 2020)  
 
