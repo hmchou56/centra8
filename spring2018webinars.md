@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spring 2018 Webinars
+title:  2018 Webinars
 permalink: /spring2018webinars/
 "feature-img": img/header-nologo.jpg
 published: true
