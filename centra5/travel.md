@@ -16,5 +16,5 @@ Before travelling, visitors should confirm the procedures and restrictions in pl
 
 In the meantime, please refer <a href="https://reopen.europa.eu/en">here</a> for more information.  
 
-(Information updated on November 12, 2020)  
+(Information updated on February 3, 2021)  
 

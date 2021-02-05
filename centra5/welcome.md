@@ -23,7 +23,7 @@ Being a community of scientists and researchers, we are future-oriented by natur
 
 With this mindset, we are looking at 2021 with high hopes. We hope the world will gradually come out of the pandemic with reinvigorated resilience; we hope we can start travel again, meet each other face-to-face. Next year, we might well go on being subjected to many of todays’ restrictions in order to avoid new outbreaks, but it is the price we will have to pay to grasp some sense of normality. Hopefully, 2021 will allow our community to come together under the same roof and exchange thoughts on the progress of ongoing projects, discuss ideas for new undertakings and get feedback from peers. Hopefully, we will get the chance to welcome you cheerfully upon your arrival to Porto.<br /><br />
 
-We are therefore back on track to put the 5th CENTRA Meeting up for you: mark now on your calendars 21-23 July 2021; destination: Porto, Portugal. At INESC TEC, with the support of CENTRA’s Steering Committee, we remain more committed than ever to going the extra mile and providing you with a safe venue and an unforgettable experience next year!<br /><br />
+We are therefore back on track to put the 5th CENTRA Meeting up for you: mark now on your calendars 15-17 September 2021; destination: Porto, Portugal. At INESC TEC, with the support of CENTRA’s Steering Committee, we remain more committed than ever to going the extra mile and providing you with a safe venue and an unforgettable experience next year!<br /><br />
 
 In the meantime, we wish you health and peace of mind, as we make our way through these exceptionally challenging times!<br /><br />
 
