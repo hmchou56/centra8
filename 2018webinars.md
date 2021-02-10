@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  2018 Webinars
-permalink: /spring2018webinars/
+permalink: /2018webinars/
 "feature-img": img/header-nologo.jpg
 published: true
 ---

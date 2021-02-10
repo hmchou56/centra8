@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2019 Webinars
-permalink: /spring2019webinars/
+permalink: /2019webinars/
 "feature-img": img/header-nologo.jpg
 ---
   
