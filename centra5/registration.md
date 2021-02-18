@@ -10,4 +10,4 @@ hide: true
 
 ## Registration
 
-More details on how to register for CENTRA 5 Meeting coming soon.
+Event registration form coming in March.

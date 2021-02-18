@@ -8,7 +8,7 @@ hide: true
 ---
 ## Posters and Oral Presentations
 
-More details coming soon.  
+More details on the Call for Posters and Oral Presentations to be published in this section as from April 1. 
 
 <!--**Key Dates**
 &nbsp;   
