@@ -12,7 +12,7 @@ hide: true
 <p>
 <img src="/img/centra5/centra5-president-inesctec.jpg" style="width:150px;" align="right"/>
 </p>
-<p style="font-size:9pt; font-style:italic">
+<p style="font-style:italic">
 Dear All,  <br /><br />
  
 The pandemic changed the course of our plans and in 2020 we were faced with the tough yet right decision to postpone the 5th edition of CENTRA’s annual meeting, scheduled to take place in May 2020, in the picturesque city of Porto, a UNESCO’s World Heritage site.  <br /><br />

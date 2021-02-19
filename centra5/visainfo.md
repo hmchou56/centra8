@@ -27,10 +27,11 @@ For visits of less than 90 days, a passport valid for at least three months afte
 **Useful information:**
 
 **On short-stay visas (Schengen)** 
-https://www.schengenvisainfo.com/portugal-visa/
-https://www.vistos.mne.pt/en/short-stay-visas-schengen/general-information/type-of-visas
-https://www.vistos.mne.pt/en/short-stay-visas-schengen/general-information/who-needs-a-visa
-https://www.sef.pt/en/Pages/homepage.aspx
+
+[https://www.schengenvisainfo.com/portugal-visa/](https://www.schengenvisainfo.com/portugal-visa/)  
+[https://www.vistos.mne.pt/en/short-stay-visas-schengen/general-information/type-of-visas](https://www.vistos.mne.pt/en/short-stay-visas-schengen/general-information/type-of-visas)  
+[https://www.vistos.mne.pt/en/short-stay-visas-schengen/general-information/who-needs-a-visa](https://www.vistos.mne.pt/en/short-stay-visas-schengen/general-information/who-needs-a-visa)  
+[https://www.sef.pt/en/Pages/homepage.aspx](https://www.sef.pt/en/Pages/homepage.aspx)  
 
 **On Portuguese consulates around the world - Portugal’s Ministry of Foreign Affairs:**
 http://www.secomunidades.pt/web/guest/PostosConsulares 

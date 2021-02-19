@@ -47,7 +47,7 @@ The airport is located approximately 7 miles / 11 kilometers away from the meeti
 **Average fare (Taxi – one way): 25,00 €**  
 **Average fare (Uber– one way): 12,00 €**  
 
-**Metro:** Another possibility to consider, which is cheaper than the taxi (single ticket: 2,00 €), is the metro. The Airport is served by a single line (Line E - purple) that runs every 20 to 30 minutes and will take you to the historic city centre (end of line: Trindade station) in the same amount of time. If you wish to go directly to the meeting venue, you will have to get off a few stations before, i.e., at Francos, and then walk up to 15 minutes to reach the Crowne Plaza Hotel. See the[map](https://www.google.com/maps/dir/Francos,+Porto/Crowne+Plaza+Porto,+Avenida+da+Boavista,+Porto/@41.1630057,-8.6418303,16z/data=!4m14!4m13!1m5!1m1!1s0xd2465a2edd50b5b:0x30215c822acb978c!2m2!1d-8.636347!2d41.165549!1m5!1m1!1s0xd24659efd4e5e9b:0xc695ad1f002380ec!2m2!1d-8.6406733!2d41.1601724!3e2).
+**Metro:** Another possibility to consider, which is cheaper than the taxi (single ticket: 2,00 €), is the metro. The Airport is served by a single line (Line E - purple) that runs every 20 to 30 minutes and will take you to the historic city centre (end of line: Trindade station) in the same amount of time. If you wish to go directly to the meeting venue, you will have to get off a few stations before, i.e., at Francos, and then walk up to 15 minutes to reach the Crowne Plaza Hotel. See the [map](https://www.google.com/maps/dir/Francos,+Porto/Crowne+Plaza+Porto,+Avenida+da+Boavista,+Porto/@41.1630057,-8.6418303,16z/data=!4m14!4m13!1m5!1m1!1s0xd2465a2edd50b5b:0x30215c822acb978c!2m2!1d-8.636347!2d41.165549!1m5!1m1!1s0xd24659efd4e5e9b:0xc695ad1f002380ec!2m2!1d-8.6406733!2d41.1601724!3e2).
 Detailed information about these and other travel options at the Porto Airport may be found [here](https://www.aeroportoporto.pt/en/opo/access-parking/) getting-to-and-from-the-airport/public-transportationhere.  
 
 **From Campanhã Train Station (for international visitors flying to Lisbon)**
@@ -57,6 +57,7 @@ Porto is approximately 300 kms /205 miles away from Lisbon. If you are flying to
 Detailed information about trains, timetables, journey times and ticket fares may be found [here](https://www.cp.pt/passageiros/en).  
 
 **By car**
+
 If you are travelling by car, the GPS coordinates to Crown Plaza Porto are N 41°09.623'
 W 8°38.440'. There are several car rental services available in Porto and also at the airport area.  
 

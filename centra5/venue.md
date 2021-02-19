@@ -47,7 +47,6 @@ The situation is, however, likely to change as some group/individual reservation
 **Phone number:** +351 226 072 500  
 **Email:** opocp.info@ihg.com.    
 **Price:** DBL 165€ and SGL 150€ (breakfast incl.)  - 15 locked rooms  
-<u>Form for reservation (to be provided by the Organizing Team) available until September 8 2021 or room availability</u> 
 
 - **Hotels in the vicinity of the venue**  
 
@@ -55,7 +54,7 @@ The situation is, however, likely to change as some group/individual reservation
 **Address:** Rua Tenente Valadim, 146 | 4100-476 Porto | Portugal  
 **Phone number:** +351 220 404 127  
 **Price:** DBL 180€ and SGL 160€ (breakast incl.)  
-**5- minute walking distance to the venue**   
+**5-minute walking distance to the venue**   
 
 [Portus Cale Hotel](http://www.portuscalehotel.com/EN/hotel.html?id_referer=ADWORDS&gclid=EAIaIQobChMI67eNrrSb5QIVg4xRCh0JwgCMEAAYASAAEgKaYPD_BwE) ★★★★  
 **Address:** Avenida da Boavista, 1060 | 4100-113 Porto | Portugal  
