@@ -39,7 +39,7 @@ You can find relevant information about the city of Porto in the following websi
 
 Porto’s Francisco Sá Carneiro Airport, the second largest international airport in Portugal, was distinguished by Airports Council International as the best airport in Europe in 2018, in the category of 5 to 15 million passengers.  
 
-Check [here] (https://www.aeroportoporto.pt/en/opo/flights-destinations/airlines/airlines-and-destinations) what airlines offer flights from/to Porto.  
+Check [here](https://www.aeroportoporto.pt/en/opo/flights-destinations/airlines/airlines-and-destinations) what airlines offer flights from/to Porto.  
 
 The airport is located approximately 7 miles / 11 kilometers away from the meeting venue and is served by several modes of public transportation.   
 
