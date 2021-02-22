@@ -36,17 +36,15 @@ We have selected a number of hotel units located either in the vicinity of the m
   
 INESC TEC has negotiated special rates with these hotels. To benefit from such rates, **you will need to first register for the meeting. At the time of registration confirmation, you will be given a promo code or a reservation link that you can use at any of the hotels on the list**.  
 
-The Organizing Team of the CENTRA 5 Meeting will be accountable neither for reservations/ confirmations nor cancellations.
+CENTRA 5 Meeting's Local Organizing Team will not be accountable for hotel reservations/confirmations nor cancellations.
 
-- **For the criterion *convenience*, Crowne Plaza Porto**ranks first on our list of suggested hotels.  The Organizing Team will go on updating this section with information about room availability at these hotels.
-
-The situation is, however, likely to change as some group/individual reservations may be cancelled. Therefore, you can always check with the hotel whether any booked room has been released in the meantime. Also, the Local Organizing Team will go on updating this section with information about room availability at Crowne Plaza Porto.  
+- **For the criterion *convenience*, Crowne Plaza Porto** ranks first on our list of suggested hotels.  
 
 [Crowne Plaza Porto](https://www.crowneplaza.com/hotels/gb/en/porto/opocp/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99603195&icdv=99603195&glat=SEAR&qSlH=OPOCP&setPMCookies=true&qSHBrC=CP&qDest=Avenida%20da%20Boavista,%201466,%20Porto,%20PT&dp=true&gclid=EAIaIQobChMI_-_QgZGc5QIVVZ3VCh0aqg4wEAAYASAAEgJX5PD_BwE&cid=41468&srb_u=1) ★★★★★  
 **Address:** Avenida da Boavista, 1466, Porto | 4100-114 | Portugal  
 **Phone number:** +351 226 072 500  
 **Email:** opocp.info@ihg.com.    
-**Price:** DBL 165€ and SGL 150€ (breakfast incl.)  - 15 locked rooms  
+**Price:** DBL 165€ and SGL 150€ (breakfast incl.) 
 
 - **Hotels in the vicinity of the venue**  
 
@@ -98,4 +96,4 @@ The situation is, however, likely to change as some group/individual reservation
 **15-minute by car to the venue**  
    
 
-Tourist enterprises and local accommodation in Porto will charge a tourist tax of 2.00 € per person per night, up to a maximum of 7 nights for reservation. The tourist tax purpose is to minimize the difficulties that arise from the significant growth of tourism in Porto.  
+Tourist enterprises and local accommodation in Porto will charge a tourist tax of 2.00 € per person per night, up to a maximum of 7 nights for reservation.  
