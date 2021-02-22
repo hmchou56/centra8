@@ -15,9 +15,7 @@ hide: true
 <p style="font-style:italic">
 
 
-&nbsp
-
-
+  
 Dear All,  <br /><br />
 
 
