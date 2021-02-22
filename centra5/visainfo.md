@@ -35,7 +35,7 @@ For visits of less than 90 days, a passport valid for at least three months afte
 
 **- On Portuguese consulates around the world - Portugal’s Ministry of Foreign Affairs:**
 
-(http://www.secomunidades.pt/web/guest/PostosConsulares) 
+[http://www.secomunidades.pt/web/guest/PostosConsulares](http://www.secomunidades.pt/web/guest/PostosConsulares)  
 
 **Letter of Invitation**
 
@@ -43,4 +43,4 @@ If you need an official letter of invitation from the Organizing Committee to in
 1.	First register for the CENTRA 5 meeting and indicate that you need an invitation letter from the Organizing Committee in the registration form.
 2.	Your request will be reviewed and processed within 2-4 business days, and the invitation letter will be sent to your email address. Please, note that you can only apply for a Portugal Schengen visa **three months before your planned travel**.
 
-If you have any questions regarding visa letters, please contact (centra@inesctec.pt)
+If you have any questions regarding visa letters, please contact [centra@inesctec.pt](centra@inesctec.pt) 
