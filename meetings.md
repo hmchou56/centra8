@@ -11,7 +11,7 @@ published: true
  <table class="noBorder">
  <!-- item 1  --> 
  <tr class="noBorder">
-   <th class="noBorder"><img src="/img/centra5-banner.png"></th>
+   <th class="noBorder"><img src="/img/centra5/centra5-banner.png"></th>
    <th class="noBorder">CENTRA 5 Meeting, September 15-17, 2021, Porto, Portugal <br> <a href="/centra5/">Website</a> </th>
  </tr>
 
