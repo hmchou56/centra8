@@ -15,12 +15,12 @@ The CENTRA 5 Meeting will be held at 5-star [Crowne Plaza Porto](https://www.cro
 
 ![oporto01](../img/centra5/oporto01.png)
 
-​				Photo credit: Crowne Plaza Porto
+_Photo credit: Crowne Plaza Porto_  
 
 The hotel is located right in the heart of one of the city’s main business and shopping districts (*Avenida da Boavista*), served by several bus lines and within 15-minute walking-distance from Casa da Música Metro Station.  
 ![oporto02](../img/centra5/mapa_porto.png)
 
-​				Source: [Google Maps](https://www.google.pt/maps/@41.1570569,-8.6467148,14.18z)
+*Source: [Google Maps](https://www.google.pt/maps/@41.1570569,-8.6467148,14.18z)*
 
 ![black](../img/centra5/black.png) Meeting venue (Crowne Plaza Porto)  
 ![blue](../img/centra5/blue.png) Porto’s beachfront  
