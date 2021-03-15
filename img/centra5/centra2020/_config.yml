@@ -1,0 +1,81 @@
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.globalcentra.org" # the base hostname & protocol for your site
+#custom site variables
+NSF_footer_text: "CENTRA is funded in part by a grant (NSF ACI 1550126) from the National Science Foundation"
+site_navigation_logo: <img src="/img/centra-logo.jpg" title="CENTRA logo" alt="CENTRA logo">
+
+# THEME-SPECIFIC CONFIGURATION
+centra:
+  # Meta
+  title: Global CENTRA
+  avatar: avatar.png
+  gravatar: # Email MD5 hash
+  description: "Global Collaborations to Enable Transnational Cyberinfrastructure Applications" # used by search engines
+
+  # Header and footer text
+  header_text:
+  header_text_feature_image:
+  footer_text: >
+   <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br>
+   Except where otherwise noted, content on this site is licensed under a 
+   <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
+   <br>
+   Copyright 2021 ACIS Lab
+   <p>This page uses <a href="http://www.google.com/analytics">Google Analytics</a> &bull; <a href="http://www.google.com/intl/en_ALL/privacypolicy.html">Google Privacy Policy</a> &copy; Copyright 2021</p>
+  # Icons
+  rss: false
+  email_address: # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook: "GlobalCENTRA"
+  flickr:
+  github: "GlobalCENTRA"
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: "GlobalCENTRA"
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: UA-73373367-1
+  disqus_shortname:
+  katex: false # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "View details"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+  
+  # Post navigation
+  post_navigation: true
+
+# PAGINATION
+collections:
+  news:
+    output: true
+#gems: [jekyll-paginate]
+#paginate: 5
+#paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed

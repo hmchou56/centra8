@@ -27,7 +27,7 @@ We are therefore back on track to put the 5th CENTRA Meeting up for you: mark no
 
 In the meantime, we wish you health and peace of mind, as we make our way through these exceptionally challenging times!<br /><br />
 
-Porto, February 15 2021 <br /> 
+Porto, March 15 2021 <br /> 
 José Manuel Mendonça,<br />
 President of INESC TEC
 </p>
