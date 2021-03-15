@@ -10,4 +10,5 @@ hide: true
 
 ## Registration
 
-Event registration form coming in March.
+Registrations for the CENTRA 5 Meeting are now open. Please, fill in and submit [this registration form](https://forms.gle/U7XHpCqV1xvVBf2y8) to the Organizing Committee. You will be confirmed to the event once your registration has been duly processed. 
+
