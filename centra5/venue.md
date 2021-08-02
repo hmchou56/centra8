@@ -9,9 +9,9 @@ hide: true
 
 ## Venue & Lodging
 
-**Meeting Venue**
+**More information coming soon**
 
-The CENTRA 5 Meeting will be held at 5-star [Crowne Plaza Porto](https://www.crowneplaza.com/hotels/gb/en/porto/opocp/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99603195&icdv=99603195&glat=SEAR&qSlH=OPOCP&setPMCookies=true&qSHBrC=CP&qDest=Avenida%20da%20Boavista,%201466,%20Porto,%20PT&dp=true&gclid=Cj0KCQjw0IDtBRC6ARIsAIA5gWucOPW7Z8EVjFeJPhSHs0XeCu_HwkeRdnZheSz_tht79kNktzwLiqEaAqDSEALw_wcB&cid=41468&srb_u=1), in Porto, Portugal. See [map](https://www.google.com/maps/place/Crowne+Plaza+Porto/@41.1601764,-8.642862,17z/data=!3m1!4b1!4m8!3m7!1s0xd24659efd4e5e9b:0xc695ad1f002380ec!5m2!4m1!1i2!8m2!3d41.1601724!4d-8.6406733?hl=en-US&shorturl=1).
+<!--The CENTRA 5 Meeting will be held at 5-star [Crowne Plaza Porto](https://www.crowneplaza.com/hotels/gb/en/porto/opocp/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99603195&icdv=99603195&glat=SEAR&qSlH=OPOCP&setPMCookies=true&qSHBrC=CP&qDest=Avenida%20da%20Boavista,%201466,%20Porto,%20PT&dp=true&gclid=Cj0KCQjw0IDtBRC6ARIsAIA5gWucOPW7Z8EVjFeJPhSHs0XeCu_HwkeRdnZheSz_tht79kNktzwLiqEaAqDSEALw_wcB&cid=41468&srb_u=1), in Porto, Portugal. See [map](https://www.google.com/maps/place/Crowne+Plaza+Porto/@41.1601764,-8.642862,17z/data=!3m1!4b1!4m8!3m7!1s0xd24659efd4e5e9b:0xc695ad1f002380ec!5m2!4m1!1i2!8m2!3d41.1601724!4d-8.6406733?hl=en-US&shorturl=1).
 
 ![oporto01](../img/centra5/oporto01.png)
 
@@ -96,4 +96,4 @@ CENTRA 5 Meeting's Local Organizing Team will not be accountable for hotel reser
 **15-minute by car to the venue**  
    
 
-Tourist enterprises and local accommodation in Porto will charge a tourist tax of €2.00 per person per night, up to a maximum of 7 nights for reservation.  
+Tourist enterprises and local accommodation in Porto will charge a tourist tax of €2.00 per person per night, up to a maximum of 7 nights for reservation.  -->
