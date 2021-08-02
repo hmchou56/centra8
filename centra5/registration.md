@@ -10,5 +10,5 @@ hide: true
 
 ## Registration
 
-Registrations for the CENTRA 5 Meeting are now open. Please, fill in and submit [this registration form](https://forms.gle/U7XHpCqV1xvVBf2y8) to the Organizing Committee. You will be confirmed to the event once your registration has been duly processed. 
+Registrations for the CENTRA 5 Meeting are now open. Please, fill in and submit [this registration form](https://forms.gle/PjDYhzzVPHPp4ypC6) to the Organizing Committee. You will be confirmed to the event once your registration has been duly processed. 
 
