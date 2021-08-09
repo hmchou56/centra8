@@ -15,7 +15,7 @@ In the light of the pandemic evolution and the vaccination efforts, the Portugue
 
 **Nevertheless, before traveling, visitors should always confirm with airline companies and border services the procedures and restrictions in place in the country of origin and destination.**
 
-In the meantime, please refer here for more information.  
+In the meantime, please refer [here](https://reopen.europa.eu/en) for more information.  
 
 (Information updated on July 29, 2021)  
 
