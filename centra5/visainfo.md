@@ -35,7 +35,7 @@ For visits of less than 90 days, a passport valid for at least three months afte
 [https://www.sef.pt/en/Pages/homepage.aspx](https://www.sef.pt/en/Pages/homepage.aspx)  
   
 **On Portuguese consulates around the world - Portugal's Ministry of Foreign Affairs:**  
-[http://www.secomunidades.pt/web/guest/PostosConsulares]  
+[http://www.secomunidades.pt/web/guest/PostosConsulares](http://www.secomunidades.pt/web/guest/PostosConsulares)  
 
 **Letter of Invitation**  
 If you need an official letter of invitation from the Organizing Committee to initiate your visa application process, you must: 
