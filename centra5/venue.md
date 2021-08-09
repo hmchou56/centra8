@@ -9,7 +9,48 @@ hide: true
 
 ## Venue & Lodging
 
-**More information coming soon**
+
+The CENTRA 5 Meeting will be held in a hybrid format. All sessions will be staged and live-streamed from the Faculty of Engineering of the University of Porto.  
+<p style="font-style:italic; ">Kindly note that due to the heterogeneous spreading of Covid-19 across the countries that make up the CENTRA community and the different responses by national governments to control it, thereby conditioning international travel, we kindly ask you to wait until August 31 for updated information on the in-person agenda. </p>
+
+University of Porto | Faculty of Engineering  
+![feup](../img/centra5/feup.png)
+  
+The Faculty of Engineering of the University of Porto (FEUP) was created in 1926. Still, its history began a century before within the Polytechnic Academy of Porto to "plant industry science in the country".   
+
+The Faculty of Engineering of the University of Porto undertakes education, research, and innovation activities at the international level. The results of these activities lead to the creation and transfer of knowledge, training of competent and ethical professionals, future leaders in engineering and similar areas, and the promotion of our global society’s well-being.  
+
+With a workforce of over 1.000 collaborators, including more than 600 teachers, FEUP offers over 90 degree and non-degree courses, which enrolled around 9.000 students in the last academic year.  
+  
+Source: FEUP  
+
+
+![feup2](../img/centra5/feup2.png)  
+*Photo credits:* Engenharia Radio  
+
+![feup_map](../img/centra5/feup_map.png)  
+
+Faculdade de Engenharia da Universidade do Porto  
+Rua Dr. Roberto Frias  
+4200-465 Porto  
+Portugal  
+41.17855261102346, -8.595838656216014  
+[View map](https://goo.gl/maps/oe23e2PHBoLXRjWAA)
+
+**Accommodation & Transfers**
+
+The Local Organizing Committee has selected a 5-star hotel located closer to Porto's major tourist attractions for you to experience a more immersive stay in the city. CENTRA 5 Meeting's delegates are entitled to special rates in this hotel.  
+
+To benefit from such rates, you will need to first register for the meeting. At the time of registration confirmation, you will be given a promo code that you should use when booking directly with the hotel.  
+
+A shuttle or bus service arranged by the Local Organizing Committee will ensure all transfers between this hotel and the meeting venue.  
+
+Please note that the Local Organizing Committee cannot be held accountable for reservations/confirmations or cancellations.  
+
+Also keep in mind that tourist enterprises and local accommodation in Porto may charge a tourist tax of €2,00/ person per night, up to a maximum of 7 nights for reservation.  
+
+**Please keep in mind that, due to the heterogeneous spreading of Covid-19 across the countries that make up the CENTRA community and the different responses by national governments to control it, thereby conditioning international travel, we kindly ask you to wait until August 31 for updated information on the in-person agenda.**
+
 
 <!--The CENTRA 5 Meeting will be held at 5-star [Crowne Plaza Porto](https://www.crowneplaza.com/hotels/gb/en/porto/opocp/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99603195&icdv=99603195&glat=SEAR&qSlH=OPOCP&setPMCookies=true&qSHBrC=CP&qDest=Avenida%20da%20Boavista,%201466,%20Porto,%20PT&dp=true&gclid=Cj0KCQjw0IDtBRC6ARIsAIA5gWucOPW7Z8EVjFeJPhSHs0XeCu_HwkeRdnZheSz_tht79kNktzwLiqEaAqDSEALw_wcB&cid=41468&srb_u=1), in Porto, Portugal. See [map](https://www.google.com/maps/place/Crowne+Plaza+Porto/@41.1601764,-8.642862,17z/data=!3m1!4b1!4m8!3m7!1s0xd24659efd4e5e9b:0xc695ad1f002380ec!5m2!4m1!1i2!8m2!3d41.1601724!4d-8.6406733?hl=en-US&shorturl=1).
 
