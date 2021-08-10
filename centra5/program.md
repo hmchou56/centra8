@@ -12,5 +12,5 @@ hide: true
 
 
 The final 3-day program will be published here soon.  
-All hours according to the current local time in Porto. For time zone conversions, check out this [time zone converter](https://www.timeanddate.com/worldclock/converter.html))
+All hours according to the current local time in Porto. For time zone conversions, check out this [time zone converter](https://www.timeanddate.com/worldclock/converter.html)
 
