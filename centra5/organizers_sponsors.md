@@ -16,7 +16,7 @@ TBA
 
 ## Local Organizing Committee
 -	Andreia Passos, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal;
-<!--- 	António Carlos Sá, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal;-->
+- 	António Carlos Sá, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal;
 - 	Bárbara Pinho, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal;
 -	Joana Coelho, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal;
 -	Paula Rodrigues, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal;
