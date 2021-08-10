@@ -53,7 +53,7 @@ The airport is located approximately 10 miles / 15 kilometers away from the meet
 
 **Metro:** Another possibility to consider, which is cheaper than the taxi (single ticket: € 2,00), is the metro. The Airport is served by a single line (Line E - purple) that runs every 20 to 30 minutes and will take you to the historic city centre (end of line: Trindade station) in the same amount of time. When you get off at Trindade station, take Line D - yellow. See the [map](https://www.google.com/maps/dir/I.p.o.,+Porto/FEUP+-+Faculdade+de+Engenharia+da+Universidade+do+Porto,+Rua+Doutor+Roberto+Frias,+Porto/@41.1785432,-8.6054457,16z/data=!3m2!4b1!5s0xd24659f1d840a4b:0xb814d00dda93219!4m14!4m13!1m5!1m1!1s0xd246438248f9323:0xd815dd1e62b22f5b!2m2!1d-8.6045954!2d41.1812273!1m5!1m1!1s0xd246446d48922a3:0x8b1e4a0bcdacc840!2m2!1d-8.5958454!2d41.1783583!3e2). Detailed information about these and other travel options at the Porto Airport may be found [here](https://www.aeroportoporto.pt/en/opo/access-parking/getting-to-and-from-the-airport/public-transportation).  
 
-**From Campanhã Train Station (for international visitors flying to Lisbon)**
+**From Campanhã Train Station (for international visitors flying to Lisbon):**
 
 Porto is approximately 300 kms /205 miles away from Lisbon. If you are flying to Lisbon International Airport (Humberto Delgado airport) and planning to get to Porto by train (Alfa Pendular or Intercidades) you should buy a ticket at Lisbon's Gare do Oriente Station to Campanhã Station, where you'll need to get off. Once more, the taxi or Uber is rather convenient, since the conference venue is only 8 kms or 6 miles away from Campanhã Station and the price is likely to be around € 20-25 euros.  
 

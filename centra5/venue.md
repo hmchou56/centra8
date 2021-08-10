@@ -11,7 +11,6 @@ hide: true
 
 
 The CENTRA 5 Meeting will be held in a hybrid format. All sessions will be staged and live-streamed from the Faculty of Engineering of the University of Porto.  
-<p style="font-style:italic; ">Kindly note that due to the heterogeneous spreading of Covid-19 across the countries that make up the CENTRA community and the different responses by national governments to control it, thereby conditioning international travel, we kindly ask you to wait until August 31 for updated information on the in-person agenda. </p>
 
 University of Porto | Faculty of Engineering  
 ![feup](../img/centra5/feup.png)
