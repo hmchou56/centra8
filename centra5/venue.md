@@ -10,31 +10,30 @@ hide: true
 ## Venue & Lodging
 
 
-The CENTRA 5 Meeting will be held in a hybrid format. All sessions will be staged and live-streamed from the Faculty of Engineering of the University of Porto.  
+The CENTRA 5 Meeting will be held in a hybrid format. All sessions will be staged and live-streamed from INESC TEC  Institute for Systems and Computer Engineering, Technology and Science.  
 
-University of Porto | Faculty of Engineering  
-![feup](../img/centra5/feup.png)
+![inesctec-logo](../img/centra5/inesctec_logo.png)
   
-The Faculty of Engineering of the University of Porto (FEUP) was created in 1926. Still, its history began a century before within the Polytechnic Academy of Porto to "plant industry science in the country".   
+INESC TEC is a private non-profit research association, with Public Interest status, dedicated to scientific research and technological development, technology transfer, advanced consulting and training, and pre-incubation of new technology-based companies.  
 
-The Faculty of Engineering of the University of Porto undertakes education, research, and innovation activities at the international level. The results of these activities lead to the creation and transfer of knowledge, training of competent and ethical professionals, future leaders in engineering and similar areas, and the promotion of our global society’s well-being.  
+As an institution operating at the interface of the academic and business worlds, bringing closer together academia, companies, public administration, and society, INESC TEC typically applies the knowledge and results generated as part of its research in technology transfer projects, seeking value creation and immediate social relevance.  
 
-With a workforce of over 1.000 collaborators, including more than 600 teachers, FEUP offers over 90 degree and non-degree courses, which enrolled around 9.000 students in the last academic year.  
-  
-Source: FEUP  
+INESC TEC hosts over 700 integrated researchers (about 350 PhDs), including staff researchers, researchers from Higher Education Institutions, grant holders and affiliated researchers. INESC TEC’s team also includes trainees, and technical and administrative support staff.  
 
+Source: INESC TEC  
 
-![feup2](../img/centra5/feup2.png)  
-*Photo credits:* Engenharia Radio  
+![INESCTEC Asprela](../img/centra5/inesctec_asprela.png) 
+ 
+*Photo credits:* INESCTEC  
 
-![feup_map](../img/centra5/feup_map.png)  
+![mapa campus FEUP](../img/centra5/mapa_campus_feup.png)  
 
-Faculdade de Engenharia da Universidade do Porto  
+INESC TEC  
 Rua Dr. Roberto Frias  
 4200-465 Porto  
 Portugal  
-41.17855261102346, -8.595838656216014  
-[View map](https://goo.gl/maps/oe23e2PHBoLXRjWAA)
+41.17968, -8.59510  
+[View map](https://www.google.com/maps/place/INESC+TEC+-+Institute+for+Systems+and+Computer+Engineering,+Technology+and+Science/@41.1794332,-8.5975957,17z/data=!3m1!4b1!4m5!3m4!1s0xd246440cf4b8787:0x4969a3392daad2eb!8m2!3d41.1794059!4d-8.5954106)
 
 **Accommodation & Transfers**
 
