@@ -11,6 +11,7 @@ hide: true
 ## CENTRA 5 Meeting Program
 
 
-The final 3-day program will be published here soon.  
+Tentative 3-day program..  
 All hours according to the current local time in Porto. For time zone conversions, check out this [time zone converter](https://www.timeanddate.com/worldclock/converter.html)
-
+ 
+![CENTRA5 Agenda ](../img/centra5/centra5_agenda.png)
