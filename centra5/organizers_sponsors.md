@@ -20,7 +20,6 @@ TBA
 - 	Bárbara Pinho, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal;
 -	Gil Coutinho, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal;
 -	Joana Coelho, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal;
--	Paula Rodrigues, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal;
 -	Rita Costa, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal;
 -	Sandra Nunes, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal;
 -	Sheila Habib, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal;
