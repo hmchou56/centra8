@@ -11,7 +11,7 @@ hide: true
 ## CENTRA 5 Meeting Program
 
 
-Please, scroll down to check out the full event program (tentative version).  
+Please, scroll down to check out the full event program.  
 All hours according to the current local time in Porto. For time zone conversions, check out this [time zone converter](https://www.timeanddate.com/worldclock/converter.html)
  
 ![CENTRA5 Agenda ](../img/centra5/centra5_agenda.png)
