@@ -1,8 +1,8 @@
 ---
-layout: centrameeting5
-title: CENTRA 2020
-permalink: /centra5/code_of_conduct.html
-"feature-img": img/centra5/centra5-banner.png
+layout: centrameeting6
+title: CENTRA 2023
+permalink: /centra6/code_of_conduct.html
+"feature-img": img/centra6/centra6-banner.png
 published: true
 hide: true
 ---
@@ -45,6 +45,5 @@ If you are not in immediate danger but feel that you are the subject of unaccept
 Conference organizers will treat all reports seriously and will work to understand the situation through prompt investigation, including conversations with relevant individuals and witnesses before determining an appropriate course of action.   
 
 **Contact information to Report an Incident:**  
-centra@inesctec.pt  
-centra@acis.ufl.edu  
+pti@iu.edu   
 

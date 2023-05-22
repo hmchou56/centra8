@@ -1,8 +1,8 @@
 ---
-layout: centrameeting5
-title: CENTRA 2020
-permalink: /centra5/registration.html
-"feature-img": img/centra5/centra5-banner.png
+layout: centrameeting6
+title: CENTRA 2023
+permalink: /centra6/registration.html
+"feature-img": img/centra6/centra6-banner.png
 published: true
 hide: true
 ---
@@ -10,5 +10,6 @@ hide: true
 
 ## Registration
 
-Registrations for the CENTRA 5 Meeting are now open. Please, fill in and submit [this registration form](https://forms.gle/PjDYhzzVPHPp4ypC6) to the Organizing Committee. You will be confirmed to the event once your registration has been duly processed. 
+Registrations for the CENTRA 6 Meeting will open soon.
 
+You will be confirmed to the event once your registration has been duly processed. VISA letters and invitation letters will be available through the registration process.

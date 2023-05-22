@@ -1,8 +1,8 @@
 ---
-layout: centrameeting5
-title: CENTRA 2020
-permalink: /centra5/travel.html
-"feature-img": img/centra5/centra5-banner.png
+layout: centrameeting6
+title: CENTRA 2023
+permalink: /centra6/travel.html
+"feature-img": img/centra6/centra6-banner.png
 published: true
 hide: true
 ---
@@ -11,51 +11,45 @@ hide: true
 
 The Local Organizing Committee is working to make your travel and stay as smooth and trouble-free as possible.  
 
-In the light of the pandemic evolution and the vaccination efforts, the Portuguese Government has announced the lifting of several restrictions from August 1. Portugal has administered at least 11,852,193 doses of COVID vaccines so far (July 29, 2021). Assuming every person needs two doses, that is enough to have vaccinated about 57.7% of the country's population.  
+Before booking travel, visitors should always confirm with airline companies and border services the procedures and restrictions in place in the country of origin and destination for required travel documents and COVID19 restrictions.
 
-**Nevertheless, before traveling, visitors should always confirm with airline companies and border services the procedures and restrictions in place in the country of origin and destination.**
+Here are resources available to international travelers:
+[Reopen Europa](https://reopen.europa.eu/en)
+[USA Gov information for tourism/business](https://www.usa.gov/visit-united-states)
+[Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/diseases/covid19)
 
-In the meantime, please refer [here](https://reopen.europa.eu/en) for more information.  
-
-(Information updated on July 29, 2021)  
-
-
-**About Porto, the host city**
-<p>
-<img src="/img/centra5/porto_mosaic.png" align="center"/>
-</p>
+**About Indianapolis, Indiana, the host city, state**
   
-Since 1996, the Historic Center of Porto is listed as [UNESCO World Heritage](http://whc.unesco.org/en/list/755). Porto was elected three times as the [Best European Destination](https://www.europeanbestdestinations.com/best-of-europe/european-best-destinations-2017/), through the [European Best Destinations](https://www.europeanbestdestinations.com/) initiative (the last of which in 2017, after 2012 and 2014). This year, the city was also voted the [most interesting city in Europe](https://theculturetrip.com/europe/articles/culture-trip-wishlist-destinations-2019/) to visit by the prestigious travel platform [Culture Trip](https://theculturetrip.com/).  
+IUPUI was established in 1969 and is Indiana's premier urban research university offering more than 550 undergraduate, graduate, and professional programs from Indiana University and Purdue University. Among the many campuses of Indiana University, it is second in size only to the flagship campus of Indiana University - Bloomington. Located in downtown Indianapolis, IUPUI will be the site of CENTRA 6 meetings and activities. Indianapolis is the capital city and the economic and government center of Indiana. And IUPUI is located in the center of it all.
 
-You can find relevant information about the city of Porto in the following websites:  
+In Indianapolis you can dine at dusk on a patio where tonight’s entrée is made from local, farm-fresh ingredients. And make sure you stop by the International Marketplace where over 70 languages are spoken and you’ll find tasty fare from around the world. Find global premieres of a never-before-seen art exhibit at the Indianapolis Museum of Art. Attend an outdoor concert at the Farm Bureau Insurance Lawn at White River State Park. Or spend some time on Mass Ave, which features five performing arts theaters.
 
-[Visit Porto](https://visitporto.travel/en-GB/home#/)  
-[Visit Porto & The North](http://www.visitportoandnorth.travel/)  
-[Introducing Porto](https://www.introducingporto.com/map)  
+Whether you’re traveling by foot, bicycle, bus, or car, you’ll always have access to one of Indianapolis’s six designated [Cultural Districts](http://www.downtownindy.org/explore-downtown/cultural-districts/) — where you’ll encounter thriving pockets of international and local talent, music, and art.
 
-<!--- Or by downloading the [Appy Tourist app](http://www.appytourist.pt/). Developed by the Portuguese Association for Consumer’s Right (DECO), this app allows you to enjoy your vacation or business travel to Porto without overlooking your consumer’s rights. Download is free.  -->
+You can find relevant information about the city of Indianapolis [here](http://visitindy.com/).
+Learn more about IUPUI [here](https://www.iupui.edu/about/index.html).
+
+The Pervasive Technology Institute (PTI) at Indiana University is the host organization for CENTRA 6. PTI is a locus for activity and collaboration beyond IU — serving as a point of contact for partners external to IU and a nucleus of new ideas within IU. The “Pervasive” in the name IU Pervasive Technology Institute reflects the foundational importance of computer science, informatics, cyberinfrastructure, and information technology research to most of what is done in academia and industry today.
+
+PTI operates outreach and training activities which reaches thousands of people throughout IU and more than 100,000 people worldwide per year. PTI supports innovation within industries operating within IT. And PTI supports job growth in Indiana, bringing millions of dollars of federal grant funding to the state.
+
+PTI serves as a way for faculty, researchers, librarians, IT professionals, students, humanists, and artists to collaborate to advance IU’s research, creative, and educational activities. PTI spans the spectrum of research, development, delivery, and support of new technologies in ways that cross collaborating units.
+
+The Pervasive Technology Institute at IU is led by executive director, Beth Plale, and chief operating officer, Winona Snapp-Childs.
+
+Learn more about PTI [here](https://pti.iu.edu/index.html).
 
 **How to get to the venue**
 
-![inside_airport](../img/centra5/airport.png) ![map_airport](../img/centra5/airport_map.png)
+The Indianapolis International Airport (IND) is voted Best Airport in North America by Airports Council International and Best Airport in America by readers of Condé Nast Traveler, year after year.
 
-**From Porto Airport:**
+Rated the #1 Convention City in the U.S. by USA TODAY, Indianapolis offers Hoosier Hospitality to visitors young and old. IND serves as a gateway to the city offering world-class service and a commitment to the regional community.
 
-Porto’s Francisco Sá Carneiro Airport, the second largest international airport in Portugal, was distinguished by Airports Council International as the best airport in Europe in 2018, in the category of 5 to 15 million passengers.  
+Visit the IND website [here](https://www.ind.com/).
 
-Check [here](https://www.aeroportoporto.pt/en/opo/flights-destinations/airlines/airlines-and-destinations) what airlines offer flights from/to Porto.  
+The airport is located approximately 12 miles / 20 kilometers away from the meeting venue and is served by several modes of public transportation. We suggest using a private car, taxi, uber, or Lyft. The airport website has links to these options [here](https://www.ind.com/transportation-car-rental) and the JW Marriott (the host hotel) has information about travel [here](https://www.marriott.com/en-us/hotels/indjw-jw-marriott-indianapolis/overview/). There is no hotel shuttle to/from the JW and the Scheduled Bus Service does not stop at the JW.
 
-The airport is located approximately 10 miles / 15 kilometers away from the meeting venue and is served by several modes of public transportation.   
+More information will be posted here as it become available.  
 
-**Taxi and Uber: The easiest and fastest way to get to from the airport to the meeting venue and /or your hotel is by** [taxi](http://www.taxis-porto.pt/) or [Uber](https://www.uber.com/pt/en/). These are transport services that are permanently available to travelers at the airport arrivals entrance/exit. Both offer you the possibility to schedule the trip in advance or immediately after your plane lands.  
-**Average fare (Taxi  one way): € 25,00**  
-**Average fare (Uber one way): € 15,00**  
 
-**Metro:** Another possibility to consider, which is cheaper than the taxi (single ticket: € 2,00), is the metro. The Airport is served by a single line (Line E - purple) that runs every 20 to 30 minutes and will take you to the historic city centre (end of line: Trindade station) in the same amount of time. When you get off at Trindade station, take Line D - yellow. See the [map](https://www.google.com/maps/dir/I.p.o.,+Porto/FEUP+-+Faculdade+de+Engenharia+da+Universidade+do+Porto,+Rua+Doutor+Roberto+Frias,+Porto/@41.1785432,-8.6054457,16z/data=!3m2!4b1!5s0xd24659f1d840a4b:0xb814d00dda93219!4m14!4m13!1m5!1m1!1s0xd246438248f9323:0xd815dd1e62b22f5b!2m2!1d-8.6045954!2d41.1812273!1m5!1m1!1s0xd246446d48922a3:0x8b1e4a0bcdacc840!2m2!1d-8.5958454!2d41.1783583!3e2). Detailed information about these and other travel options at the Porto Airport may be found [here](https://www.aeroportoporto.pt/en/opo/access-parking/getting-to-and-from-the-airport/public-transportation).  
-
-**From Campanhã Train Station (for international visitors flying to Lisbon):**
-
-Porto is approximately 300 kms /205 miles away from Lisbon. If you are flying to Lisbon International Airport (Humberto Delgado airport) and planning to get to Porto by train (Alfa Pendular or Intercidades) you should buy a ticket at Lisbon's Gare do Oriente Station to Campanhã Station, where you'll need to get off. Once more, the taxi or Uber is rather convenient, since the conference venue is only 8 kms or 6 miles away from Campanhã Station and the price is likely to be around € 20-25 euros.  
-
-Detailed information about trains, timetables, journey times and ticket fares may be found [here](https://www.cp.pt/passageiros/en).
 

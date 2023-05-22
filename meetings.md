@@ -9,7 +9,23 @@ published: true
 
 
  <table class="noBorder">
- <!-- item 1  --> 
+<!-- item 9  --> 
+ <tr class="noBorder">
+   <th class="noBorder"><img src="/img/centra6/centra6-banner.png"></th>
+   <th class="noBorder">CENTRA 6 Meeting, September 12-15, 2023, Indianapolis, Indiana, US <br> <a href="/centra5/">Website</a> </th>
+ </tr>
+
+ <tr class="noBorder">
+   <th class="noBorder"></th>
+
+ </tr>
+
+ <tr class="noBorder">
+   <th class="noBorder"></th>
+
+ </tr>
+
+ <!-- item 8  --> 
  <tr class="noBorder">
    <th class="noBorder"><img src="/img/centra5/centra5-banner.png"></th>
    <th class="noBorder">CENTRA 5 Meeting, September 15-17, 2021, Porto, Portugal <br> <a href="/centra5/">Website</a> </th>
@@ -25,7 +41,7 @@ published: true
 
  </tr>
 
-  <!-- item 2   -->
+  <!-- item 7   -->
   <tr>
     <th class="noBorder"><img src="/img/centra4-370x99.jpg"></th>
     <th class="noBorder">CENTRA 4 Meeting, April 22-24, 2019, Jeju Island, Korea <br> <a href="/centra4/">Website</a> | <a href="#">Presentations</a></th>
@@ -42,7 +58,7 @@ published: true
   </tr>
 
 
-  <!-- item 3 -->
+  <!-- item 6 -->
   <tr>
     <th class="noBorder"> <img src="/img/centra3.png"></th>
     <th class="noBorder">CENTRA 3 Meeting, May 14-16, 2018, Tokyo, Japan <br> <a href="/centra3/">Website</a> | <a href="/centra3/program.html">Presentations</a></th>
@@ -61,7 +77,7 @@ published: true
   </tr>
 
 
-  <!-- item 4 -->
+  <!-- item 5 -->
 
   <tr>
     <th class="noBorder"><img src="/img/asean.jpg"></th>
@@ -81,7 +97,7 @@ published: true
   </tr>
 
 
-  <!-- item 5 -->
+  <!-- item 4 -->
 
   <tr>
     <th class="noBorder"> <img src="/img/CENTRA2.jpg"></th>
@@ -101,7 +117,7 @@ published: true
 
   </tr>
 
- <!-- item 6 -->
+ <!-- item 3 -->
 
   <tr>
     <th class="noBorder"><img src="/img/SUNTOWNS_B.jpg"></th>
@@ -122,7 +138,7 @@ published: true
 
 
 
- <!-- item 7 -->
+ <!-- item 2 -->
 
   <tr>
     <th class="noBorder"><img src="/img/hackathon.png"></th>
@@ -142,7 +158,7 @@ published: true
   </tr>
 
 
- <!-- item 8 -->
+ <!-- item 1 -->
 
 
 

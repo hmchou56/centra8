@@ -1,8 +1,8 @@
 ---
-layout: centrameeting5
-title: CENTRA 2020
-permalink: /centra5/presentations.html
-"feature-img": img/centra5/centra5-banner.png
+layout: centrameeting6
+title: CENTRA 2023
+permalink: /centra6/presentations.html
+"feature-img": img/centra6/centra6-banner.png
 published: true
 hide: true
 ---

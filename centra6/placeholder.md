@@ -7,9 +7,9 @@ published: true
 hide: true
 ---
 
-## CENTRA 5 Post-workshop (or pre-workshop, or cultural learning day itinerary)
+## CENTRA 6 Post-workshop (or pre-workshop, or cultural learning day itinerary)
 
-This is a placeholder page for activities that CENTRA 5 host team would like a desginated page of its own beyond the main research "Program" page content.
+This is a placeholder page for activities that CENTRA 6 host team would like a designated page of its own beyond the main research "Program" page content.
 
 **Time and Date:**
 

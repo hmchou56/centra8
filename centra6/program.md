@@ -1,17 +1,17 @@
 ---
-layout: centrameeting5
-title: CENTRA 2020
-permalink: /centra5/program.html
-"feature-img": img/centra5/centra5-banner.png
+layout: centrameeting6
+title: CENTRA 2023
+permalink: /centra6/program.html
+"feature-img": img/centra6/centra6-banner.png
 published: true
 hide: true
 ---
 
 
-## CENTRA 5 Meeting Program
+## CENTRA 6 Meeting Program
 
 
 Please, scroll down to check out the full event program.  
-All hours according to the current local time in Porto. For time zone conversions, check out this [time zone converter](https://www.timeanddate.com/worldclock/converter.html)
+All hours according to the current local time in Indiana/New York. For time zone conversions, check out this [time zone converter](https://www.timeanddate.com/worldclock/converter.html)
  
-![CENTRA5 Agenda ](../img/centra5/centra5_agenda.png)
+![CENTRA5 Agenda ](../img/centra6/centra6_agenda.png)
