@@ -1,36 +1,124 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2022.6">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.2px Times; color: #121639; -webkit-text-stroke: #121639; background-color: #970905}
-    li.li3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #000000; background-color: #970905}
-    li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #000000}
-    span.s1 {font-kerning: none}
-    span.s2 {-webkit-text-stroke: 0px #000000}
-    span.s3 {text-decoration: underline ; font-kerning: none}
-    span.s4 {background-color: #970905; -webkit-text-stroke: 0px #000000}
-    ul.ul1 {list-style-type: none}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">{% assign topmenuitem = 'centra_meeting_menu_top' %} {% assign submenuitem = 'centra_meeting_menu_sub' %}</span></p>
-<p class="p2"><span class="s1"><b>CENTRA 2021<span class="Apple-converted-space"> </span></b></span></p>
-<ul class="ul1">
-  <li class="li3"><span class="s2"><a href="file:///centra6/"><span class="s3">Special Message</span></a></span></li>
-  <li class="li3"><span class="s2"><a href="file:///centra6/news.html"><span class="s3">Key Dates in 20223</span></a></span></li>
-  <li class="li3"><span class="s2"><a href="file:///centra6/registration.html"><span class="s3">Registration</span></a></span></li>
-  <li class="li3"><span class="s2"><a href="file:///centra6/program.html"><span class="s3">CENTRA 6 Meeting Program</span></a></span></li>
-  <li class="li3"><span class="s2"><a href="file:///centra6/venue.html"><span class="s3">Venue &amp; Lodging</span></a></span></li>
-  <li class="li3"><span class="s2"><a href="file:///centra6/travel.html"><span class="s3">Travel Information</span></a></span></li>
-  <li class="li3"><span class="s2"><a href="file:///centra6/visainfo.html"><span class="s3">Visa Information</span></a></span></li>
-  <li class="li3"><span class="s2"><a href="file:///centra6/organizers_sponsors.html"><span class="s3">Organizers, Sponsors &amp; Contact</span></a></span></li>
-  <li class="li4"><span class="s4"><a href="file:///centra6/code_of_conduct.html"><span class="s3">Code of Conduct</span></a></span></li>
-</ul>
-</body>
-</html>
+<style type="text/css">
+
+h1,h2,h3,h4{
+	color: #990000;
+}
+.centra_meeting_menu {
+	float:left;
+	list-style-type: none;
+	margin: 15px 25px 10px 0;
+	padding: 0px;
+	background-color: #FFAA00;
+}
+
+.panel {
+	border: 0px black solid !important;
+	border-radius: 0px !important;
+}
+
+.panel-group {
+	border-radius: 0px !important;
+}
+
+.panel-default {
+	border: 0px black solid !important;
+	border-radius: 0px !important;
+}
+
+.centra_meeting_menu .panel-heading {
+	background-color: #FFAA00;
+	border: 0px black solid !important;
+	border-radius: 0px !important;
+}
+
+.centra_meeting_menu .panel-heading a {
+	display: block;
+	color: #000;
+	font-size: 1.1em;
+	font-weight: bold;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+
+.centra_meeting_menu .panel-heading a.selected {
+	display: block;
+	color: #006298;
+	font-size: 1.1em;
+	padding: 8px 16px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.centra_meeting_menu .panel-body {
+	background-color: #FFAA00;
+	border: 0px black solid !important;
+	border-radius: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+ul.centra_meeting_menu_sub {
+	list-style-type: none;
+}
+
+li.centra_meeting_menu_sub > a {
+	display: block;
+	color: #000;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+
+li.centra_meeting_menu_sub_selected > a {
+	display: block;
+	color: #fff;
+	padding: 8px 16px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+/* Change the link color on hover */
+li.centra_meeting_menu_sub > a:hover {
+	background-color: #555;
+	color: white;
+}
+
+section.post-content {
+	min-height: 800px;
+}
+
+</style>
+
+{% assign topmenuitem = 'centra_meeting_menu_top' %}
+{% assign submenuitem = 'centra_meeting_menu_sub' %}
+
+
+<div class="panel-group centra_meeting_menu" id="accordion" role="tablist" aria-multiselectable="false" style="border-radius: 4px;">
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="centraHeading">
+			<h4 class="panel-title">
+				<a role="button" {% if page.url contains 'centra6' %} class="selected" {% endif %} data-toggle="collapse" data-parent="#accordion" href="#centra" aria-expanded="true" aria-controls="centra">
+					CENTRA 2023
+				</a>
+			</h4>
+		</div>
+		<div id="centra" {% if page.url contains 'centra6' %} class="panel-collapse collapse in" {% else %} class="panel-collapse collapse" {% endif %} role="tabpanel" aria-labelledby="centraHeading">
+			<div class="panel-body">
+				<ul class="centra_meeting_menu_sub">
+					<li {% if page.url == '/centra6/' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra6/">Special Message</a></li>
+					<li {% if page.url contains '/centra6/news.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra6/news.html">Key Dates in 2023</a></li>
+
+					<!--li {% if page.url contains '/centra6/virtualevents.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra6/virtualevents.html">2020-21 Virtual Events</a></li-->
+
+					<li {% if page.url contains '/centra6/registration.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra6/registration.html">Registration</a></li>
+
+					<li {% if page.url contains '/centra6/program.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra6/program.html">CENTRA 6 Meeting Program</a></li>
+					<li {% if page.url contains '/centra6/venue.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra6/venue.html">Venue & Lodging</a></li>
+					<li {% if page.url contains '/centra6/travel.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra6/travel.html">Travel Information</a></li>
+					<li {% if page.url contains '/centra6/visainfo.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra6/visainfo.html">Visa Information</a></li>
+					<li {% if page.url contains '/centra6/organizers_sponsors.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra6/organizers_sponsors.html">Organizers, Sponsors & Contact</a></li>
+					<li {% if page.url contains '/centra6/code_of_conduct.html' %} class="{{ submenuitem | append:'_selected'}}" {% else %} class=" {{ submenuitem }}" {% endif %}><a href="/centra6/code_of_conduct.html">Code of Conduct</a></li>
+				</ul>
+			</div>
+		</div>
+    </div>
+ </div>
