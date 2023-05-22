@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 
-## Special Message
+## Welcome Message
 
 <p>
 <img src="/img/centra6/Plale.png" style="width:150px;" align="right"/>
