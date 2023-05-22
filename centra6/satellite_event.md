@@ -8,7 +8,7 @@ hide: true
 ---
 
 
-## TITLE(Satellite Event)  
+## Satellite Events  
 
 More information about satellite events (if any) coming soon in this section.  
 

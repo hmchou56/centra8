@@ -8,7 +8,7 @@ hide: true
 ---
 
 ## Program Chair
-- TBA <br>
+- Professor Beth Plale, Pervasive Technology Institute at Indiana University <br>
 
 ## Program Committee
 
