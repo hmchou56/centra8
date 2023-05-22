@@ -13,9 +13,11 @@ hide: true
 <img src="/img/centra6/Plale.png" style="width:150px;" align="right"/>
 </p>
 <p style="font-style:italic; font-size:small">
-Dear All,  <br /><br />
+Dear Colleagues,  <br /><br />
  
-On behalf of the CENTRA 6 Organizing Committee, welcome to CENTRA 6!   The Pervasive Technology Institute at Indiana University is delighted to invite colleagues from around the globe to IUPUI in Indianapolis, Indiana, US for the next CENTRA meeting. Indianapolis is lovingly referred to as Indy.<br /><br />
+On behalf of the CENTRA 6 Organizing Committee, welcome to CENTRA 6!<br /><br />
+ 
+The Pervasive Technology Institute at Indiana University is delighted to invite colleagues from around the globe to IUPUI in Indianapolis, Indiana, US for the next CENTRA meeting. Indianapolis is lovingly referred to as Indy.<br /><br />
 
 As a reminder, CENTRA stands for Collaborations to Enable Transnational Cyberinfrastructure Applications and refers to a partnership and evolving framework for collaborations amongst research centers, institutes and laboratories across the world. Indiana University is a PRAGMA institution and I’m a member researcher of CENTRA. Indiana University has substantial research and innovation in international and national networking, informatics and computing, and big data.<br /><br />
 
@@ -26,7 +28,6 @@ Indianapolis is home to the second largest Indiana University campus, IUPUI, Ind
 From collaborating with NASA to search for life on Mars to developing a vaccine for rotavirus-norovirus in infants, Indiana University has earned its reputation as a world-class research institution. Home to one of the fastest university-owned supercomputers in the world and supported by $730 million in FY2022 from our partners, IU researchers are building collaborations and uncovering new solutions that improve lives in Indiana and around the globe. Indiana University researchers have driven innovation and creative initiatives for more than 200 years. <br /><br />
 
 We are excited to share Indiana University and Indianapolis with you and we look forward to seeing you at CENTRA 6! <br /><br />
-
 
 Professor Beth Plale,<br />
 Executive Director, Pervasive Technology Institute<br />
