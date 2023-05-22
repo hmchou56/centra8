@@ -11,4 +11,4 @@ hide: true
 
 Dates will be posted as they become available. 
 
-As soon as possible: check [Visa Information](centra6/visainfo.html) and follow up accordingly if you need to obtain a visa to enter the United State of America.
+As soon as possible: check [Visa Information](/visainfo.html) and follow up accordingly if you need to obtain a visa to enter the United State of America.
