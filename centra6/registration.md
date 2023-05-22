@@ -10,6 +10,6 @@ hide: true
 
 ## Registration
 
-Registrations for the CENTRA 6 Meeting will open soon.
+Registration for the CENTRA 6 Meeting will open soon.
 
 You will be confirmed to the event once your registration has been duly processed. VISA letters and invitation letters will be available through the registration process.
