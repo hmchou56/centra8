@@ -45,5 +45,5 @@ If you are not in immediate danger but feel that you are the subject of unaccept
 Conference organizers will treat all reports seriously and will work to understand the situation through prompt investigation, including conversations with relevant individuals and witnesses before determining an appropriate course of action.   
 
 **Contact information to Report an Incident:**  
-pti@iu.edu   
+[PTI@IU](pti@iu.edu)   
 
