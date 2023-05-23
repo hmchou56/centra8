@@ -23,4 +23,4 @@ hide: true
 -	Julie Wernert, Pervasive Technology Institute at Indiana University, US
 
 ## Contact
-[PTI@IU](pti@iu.edu)
+[PTI@IU](mailto:pti@iu.edu)
