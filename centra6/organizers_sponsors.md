@@ -7,16 +7,20 @@ published: true
 hide: true
 ---
 
-## Program Chair
-- Professor Beth Plale, Pervasive Technology Institute at Indiana University <br>
+## Program Co-Chairs
+- Professor Beth Plale, Pervasive Technology Institute at Indiana University, US;
+- Julie Wernert, Pervasive Technology Institute at Indiana University, US;
 
 ## Program Committee
 
-TBA
+- Hsiu-Mei Chou, National Applied Research Laboratories, Taiwan;
+- Ilkay Altintas De Callafon, University of California, San Diego (UCSanDiego), US;
+- Glenn Ricart, US Ignite, Washtington, DC, US;
+- Shyhtsun Felix Wu, University of California, Davis (UCDAVIS), US
 
 ## Local Organizing Committee
--	Beth Plale, Pervasive Technology Institute at Indiana University;
--	Julie Wernert, Pervasive Technology Institute at Indiana University;
+-	Beth Plale, Pervasive Technology Institute at Indiana University, US;
+-	Julie Wernert, Pervasive Technology Institute at Indiana University, US;
 
 ## Contact
 [PTI@IU](pti@iu.edu)  
