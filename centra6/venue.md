@@ -16,3 +16,4 @@ CENTRA 6 information will be posted here as it becomes available.
 
 Once Indiana University has finalized the hotel room block, more information will be posted here. 
 
+Please do not make a hotel reservation until the block is available. We have secured a very good room rate for attendees.
