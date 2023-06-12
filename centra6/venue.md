@@ -19,6 +19,6 @@ Indiana University has secured a phenomenal room rate at one of the most elite h
 - The JW Marriott is a short walk to all CENTRA 6 venues as well as downtown Indianapolis entertainment and nightlife.
 - If you need a night outside of the room block, contact us so we can have the hotel add it for you.
 - Free wifi is included.
-- Parking is ....
+- Self-park: $52/night or Valet: $57/night (subject to change).
 - Register before AUGUST 23, 2023 to receive the special CENTRA 6 room rate.
 - To cancel or make changes to your hotel reservation return to the same. JW Marriott link above.
