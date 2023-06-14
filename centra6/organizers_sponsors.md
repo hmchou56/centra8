@@ -22,6 +22,8 @@ hide: true
 ## Local Organizing Committee
 -	Julie Wernert, Pervasive Technology Institute at Indiana University, US
 -	Yu Luo, Indiana University, US
+-	Robert Ping, Pervasive Technology Institute at Indiana University, US
+-	Juli Jacobson, Pervasive Technology Institute at Indiana University, US
 
 ## Contact
 [PTI@IU](mailto:pti@iu.edu)
