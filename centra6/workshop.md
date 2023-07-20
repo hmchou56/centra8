@@ -18,6 +18,8 @@ While the potential of Artificial Intelligence (AI) is practically unlimited, it
 - Data sharing in edge-cloud environments; Ethical considerations in AI deployments at the edge
 - Global research partnerships for rapid responses to global issues
 
+[A draft schedule for the workshop is availalbe via SCHED])https://centra6.sched.com/)
+
 ## Submission Guidelines:
 
 - We welcome 1-2 page abstracts (U.S. letter – 8.5″x11″), using the [IEEE proceedings template](https://www.ieee.org/conferences/publishing/templates.html). Abstracts must be submitted as a PDF file.
