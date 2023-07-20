@@ -28,4 +28,14 @@ While the potential of Artificial Intelligence (AI) is practically unlimited, it
 
 ## Important Dates:
 
-- Submissions must be received by August 25, 2023 to be considered.
+- Paper  submissions deadline: August 25, 2023
+- Notification of acceptance: September 01, 2023
+- Camera-ready deadline: September 15, 2023
+
+For more information, contact the workshop organisers at pti@iu.edu .
+
+## Registration
+
+All workshop participants must be registered for CENTRA6. Details about registration and procedures can be found in the menu on the left. For any inquiries or further information, please contact us at pti@iu.edu .
+
+We look forward to an engaging workshop on the Workshop on Globally Situated Perspectives on AI in the Edge-Cloud ContinuumAI Edge-Cloud Continuum!
