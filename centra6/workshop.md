@@ -22,7 +22,7 @@ While the potential of Artificial Intelligence (AI) is practically unlimited, it
 
 - We welcome 1-2 page abstracts (U.S. letter – 8.5″x11″), using the [IEEE proceedings template](https://www.ieee.org/conferences/publishing/templates.html). Abstracts must be submitted as a PDF file.
 - Submissions must be original and should present novel research contributions or innovative practical applications related to the workshop topics. 
-- Authors may submit their contributions to pti@iu.edu .
+- Authors may submit their contributions to [PTI@IU](mailto:pti@iu.edu).
 - Abstracts will be published as a collection to [IUScholarWorks](https://scholarworks.iu.edu/dspace/).
 - Optional: In lieu of an abstract, authors may submit a five-page paper as the final deliverable.
 
@@ -32,10 +32,10 @@ While the potential of Artificial Intelligence (AI) is practically unlimited, it
 - Notification of acceptance: September 01, 2023
 - Camera-ready deadline: September 15, 2023
 
-For more information, contact the workshop organisers at pti@iu.edu .
+For more information, contact the workshop organisers at [PTI@IU](mailto:pti@iu.edu).
 
 ## Registration
 
-All workshop participants must be registered for CENTRA6. Details about registration and procedures can be found in the menu on the left. For any inquiries or further information, please contact us at pti@iu.edu .
+All workshop participants must be registered for CENTRA6. Details about registration and procedures can be found in the menu on the left. For any inquiries or further information, please contact us at [PTI@IU](mailto:pti@iu.edu).
 
 We look forward to an engaging workshop on the Workshop on Globally Situated Perspectives on AI in the Edge-Cloud ContinuumAI Edge-Cloud Continuum!
