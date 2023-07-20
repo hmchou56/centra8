@@ -18,7 +18,7 @@ While the potential of Artificial Intelligence (AI) is practically unlimited, it
 - Data sharing in edge-cloud environments; Ethical considerations in AI deployments at the edge
 - Global research partnerships for rapid responses to global issues
 
-[A draft schedule for the workshop is availalbe via SCHED](https://centra6.sched.com/)
+[A draft schedule for the workshop is available via SCHED](https://centra6.sched.com/)
 
 ## Submission Guidelines:
 
