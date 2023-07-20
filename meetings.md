@@ -12,7 +12,7 @@ published: true
 <!-- item 9  --> 
  <tr class="noBorder">
    <th class="noBorder"><img src="/img/centra6/centra6-banner.png"></th>
-   <th class="noBorder">CENTRA 6 Meeting, September 12-15, 2023, Indianapolis, Indiana, US <br> <a href="/centra6/">Website</a> | <a href="/centra6/workshop.html">Workshop</a> </th>
+   <th class="noBorder">CENTRA 6 Meeting, September 12-15, 2023, Indianapolis, Indiana, US <br> <a href="/centra6/">Website</a> | <a href="https://www.globalcentra.org/centra6/workshop.html">Workshop</a> </th>
  </tr>
 
  <tr class="noBorder">
