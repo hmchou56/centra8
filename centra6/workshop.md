@@ -7,10 +7,10 @@ published: true
 hide: true
 ---
 
-## Workshop on Globally Situated Perspectives on AI in the Edge-Cloud Continuum
+## Workshop on Globally Situated Perspectives on AI in the Edge-Cloud-HPC Continuum
 A precursor workshop to the CENTRA 6 Meeting
 
-While the potential of Artificial Intelligence (AI) is practically unlimited, its ramifications are often contextual based on localized (country) situations. We invite CENTRA researchers, practitioners, and professionals to submit short abstracts to the 1-day Workshop on Globally Situated Perspectives on AI in the Edge-Cloud Continuum. The workshop aims for a series of short papers that explore artificial intelligence (AI) and edge computing, specifically focusing on:
+While the potential of Artificial Intelligence (AI) is practically unlimited, its ramifications are often contextual based on localized (country) situations. We invite CENTRA researchers, practitioners, and professionals to submit short abstracts to the 1-day Workshop on Globally Situated Perspectives on AI in the Edge-Cloud-HPC Continuum. The workshop aims for a series of short papers that explore artificial intelligence (AI) and edge computing, specifically focusing on:
 - Regional or global issues in the continuum from edge devices to cloud infrastructure for AI
 - Global research partnerships for rapid responses to global issues
 - Edge computing architectures and post 5G implications for AI applications
@@ -40,4 +40,4 @@ For more information, contact the workshop organisers at [PTI@IU](mailto:pti@iu.
 
 All workshop participants must be registered for CENTRA 6. Details about registration and procedures can be found in the menu on the left. For any inquiries or further information, contact us at [PTI@IU](mailto:pti@iu.edu).
 
-We look forward to an engaging workshop on Globally Situated Perspectives on AI in the Edge-Cloud Continuum!
+We look forward to an engaging workshop on Globally Situated Perspectives on AI in the Edge-Cloud-HPC Continuum!
