@@ -15,9 +15,9 @@ hide: true
 <p style="font-style:italic; font-size:small">
 Dear Colleagues,  <br /><br />
  
-On behalf of the CENTRA 6 Organizing Committee, welcome to CENTRA 6! <br /><br />
+On behalf of the CENTRA 6 Organizing Committee, welcome to CENTRA 6: AI in the Edge-Cloud-HPC Continuum! <br /><br />
  
-The Pervasive Technology Institute (PTI) at Indiana University (IU) is delighted to invite you, our colleagues from around the globe, to the 6th CENTRA meeting, to be held September 12-15, 2023, at the Indiana University Indianapolis campus (IUPUI). CENTRA 6 will include a 1-day workshop “<a href="https://www.globalcentra.org/centra6/workshop.html">Globally Situated Perspectives on AI in the Edge-Cloud Continuum</a>” for talks on early research. <br /><br />
+The Pervasive Technology Institute (PTI) at Indiana University (IU) is delighted to invite you, our colleagues from around the globe, to the 6th CENTRA meeting, to be held September 12-15, 2023, at the Indiana University Indianapolis campus (IUPUI). CENTRA 6 will include a 1-day workshop, <a href="https://www.globalcentra.org/centra6/workshop.html">Globally Situated Perspectives on AI in the Edge-Cloud Continuum</a>, for talks on early research. <br /><br />
 
 We see the meeting as a timely opportunity for global exchange of ideas on artificial intelligence (AI) and the Edge-Cloud-HPC Continuum. As with all globalCENTRA meetings, creating a venue where global collaboration can thrive is a priority. We are thus arranging the time and spaces to allow for fruitful presentations and discussions, as well as collaborative interaction in non-meeting room settings. As AI isn’t just a technical problem, we will foster discussions that cross the social-technical threshold as well. <br /><br />
 
