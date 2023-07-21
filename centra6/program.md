@@ -8,10 +8,10 @@ hide: true
 ---
 
 
-## CENTRA 6 Meeting Program
+## CENTRA 6 Meeting and Workshop Program
 
 
-A draft and general outline of the agenda and CENTRA 6 program is availble on the SCHED platform [here](https://centra6.sched.com/). 
+A draft and general outline of the agenda and CENTRA 6 program and accompanying workshop is availble on the SCHED platform [here](https://centra6.sched.com/). 
 
 The SCHED platform allows attendees to create a profile (or us a SCHED profile from another event) to connect and network with other folks attending CENTRA 6.
 
