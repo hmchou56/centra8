@@ -14,7 +14,7 @@ hide: true
 Indiana University has secured a phenomenal room rate at one of the most elite hotels in Indianapolis. Rooms are $199 per night + tax and are only available at that rate by reserving through the [JW Marriott link here](https://book.passkey.com/event/50581226/owner/1463968/home).
 
 - The JW Marriott is a short walk to all CENTRA 6 venues as well as downtown Indianapolis entertainment and nightlife.
-- If you need a night outside of the room block, contact us so we can have the hotel add it for you.
+- If you need a night outside of the room block, contact us so we can have the hotel add it for you. The JW Mariott will extend the meeting rate to three days before or three days after CENTRA 6.
 - Free wifi is included.
 - Self-park: $52/night or Valet: $57/night (subject to change).
 - Register before AUGUST 23, 2023 to receive the special CENTRA 6 room rate.
