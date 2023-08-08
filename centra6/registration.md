@@ -12,6 +12,8 @@ hide: true
 
 Registration for CENTRA 6 is now open. [Click here to register using the Indiana University Conferences registration system](https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?aat=ALtuVtmsUuiE5H9sqGtp1lpOgnGRQWnXYVarWJ5U5AU%3d).
 
+A modest amount of funding has been appropriated for student participants, with priority given to those: (1) traveling internationally and (2) participating in a presentation, panel, etc. Students who might need support should indicate such when submitting their abstracts for the [workshop call for participation](https://www.globalcentra.org/centra6/workshop.html) or via email to [PTI@IU](mailto:pti@iu.edu).
+
 - There is no fee for attending.
 - Registration for CENTRA 6 includes the pre-meeting workshop on [Globally Situated Perspectives on AI in the Edge-Cloud Continuum](https://www.globalcentra.org/centra6/workshop.html).
 - You may register someone else from your institution to attend.
