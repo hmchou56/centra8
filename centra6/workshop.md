@@ -40,4 +40,6 @@ For more information, contact the workshop organisers at [PTI@IU](mailto:pti@iu.
 
 All workshop participants must be registered for CENTRA 6. Details about registration and procedures can be found in the menu on the left. For any inquiries or further information, contact us at [PTI@IU](mailto:pti@iu.edu).
 
+A modest amount of funding has been appropriated for student participants, with priority given to those: (1) traveling internationally and (2) participating in a presentation, panel, etc. Students who might need support should indicate such when submitting their abstracts for the workshop call for participation or via email to [PTI@IU](mailto:pti@iu.edu).
+
 We look forward to an engaging workshop on Globally Situated Perspectives on AI in the Edge-Cloud-HPC Continuum!
