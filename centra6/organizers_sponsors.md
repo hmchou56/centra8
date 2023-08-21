@@ -26,5 +26,10 @@ hide: true
 -	Robert Ping, Pervasive Technology Institute at Indiana University, US
 -	Juli Jacobson, Pervasive Technology Institute at Indiana University, US
 
+## Sponsors
+-	GlobalNOC [Visit GlobalNoc@IU](https://globalnoc.iu.edu/index.html)
+-	International Networks [Visit IN@IU](https://internationalnetworks.iu.edu/)
+-	Pervasive Technology Institute [Visit PTI@IU](https://pti.iu.edu)
+
 ## Contact
 [PTI@IU](mailto:pti@iu.edu)
