@@ -17,7 +17,7 @@ Here are resources available to international travelers:<br />
 [Visit USA Gov information for tourism/business](https://www.usa.gov/visit-united-states)<br />
 [Visit Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/diseases/covid19)
 
-**How to get to the venue**
+**How to get to Indianapolis**
 
 The Indianapolis International Airport (IND) is voted Best Airport in North America by Airports Council International and Best Airport in America by readers of Condé Nast Traveler, year after year.
 
@@ -27,7 +27,30 @@ Rated the #1 Convention City in the U.S. by USA TODAY, Indianapolis offers Hoosi
 
 The airport is located approximately 12 miles / 20 kilometers away from the meeting venue and is served by several modes of public transportation. We suggest using a private car, taxi, uber, or Lyft. [The airport website has links to these options](https://www.ind.com/transportation-car-rental) and the JW Marriott (the host hotel) has [information about travel](https://www.marriott.com/en-us/hotels/indjw-jw-marriott-indianapolis/overview/). There is no hotel shuttle to/from the JW and the Scheduled Bus Service does not stop at the JW.
 
-More information will be posted here as it become available.  
+**Parking near CENTRA 6 Meeting venues**  
 
+If you're driving to CENTRA 6, here is some information to help you find the best parking experience:
 
+Tuesday Welcome Reception (JW Marriott) recommended garage:
+White River State Park underground garage: 801 W Washington St. Indianapolis, IN 46204
+[Hourly rates](https://downtownindy.org/parking/white-river-state-park-garage)
+[Map](https://www.google.com/maps/place/White+River+State+Park+Parking+Garage/)
+or
+JW Marriott
+[Map](https://www.google.com/maps/place/JW+Marriott+Indianapolis/)
+Parking: $52
 
+Wednesday - Friday Program meetings (University Library) recommended garage:
+North Street Garage, 819 W North St, Indianapolis, IN 46202
+[Map](https://www.google.com/maps/place/North+Street+Parking+Garage,+819+W+North+St,+Indianapolis,+IN+46202/)
+Hourly rates, one-day visitor: $18
+ 
+Wednesday Welcome Dinner (University Tower, President’s Room) recommended garages:
+North Street Garage via skywalk: $18 one-day visitor (see above)
+or
+Tower Garage, 875 W North St, Indianapolis, IN 46202, connected to building: hourly rates, $18 one-day visitor
+[Map](https://www.google.com/maps/place/875+W+North+St,+Indianapolis,+IN+46202/)
+
+Indiana State Museum Thursday night dinner/reception. It's a short walk from IUPUI, so you can stay parked there and not pay additional fees.
+or
+White River State Park underground garage (see above)
