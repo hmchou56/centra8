@@ -51,6 +51,7 @@ or
 Tower Garage, 875 W North St, Indianapolis, IN 46202, connected to building: hourly rates, $18 one-day visitor
 [Map](https://www.google.com/maps/place/875+W+North+St,+Indianapolis,+IN+46202/)
 
-Indiana State Museum Thursday night dinner/reception. It's a short walk from IUPUI, so you can stay parked there and not pay additional fees.
+Thursday GALA Reception at Indiana State Museum. It's a short walk from IUPUI, so you can stay parked there and not pay additional fees.
 or
-White River State Park underground garage (see above)
+White River State Park underground garage (see above for rates, map, and address)
+Entering from the parking garage, take the stairs or the elevator up to level 3. When you get off the elevator or stairs, turn left down the hallway to enter the Canal Overlook Bridge with floor to ceiling glass windows.
