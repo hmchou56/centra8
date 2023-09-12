@@ -9,7 +9,7 @@ hide: true
 
 **COVID-19 Protocol**
 
-While we hope that everyone arrives healthy and without incident, we know many have traversed long distances in confined spaces and life can be unpredictable. If you find yourself feeling ill (or having tested positive for COVID-19), please opt to self-quarantine and alert a member of the organizing committee at pti@iu.edu so we may assist with any necessary arrangements.
+While we hope that everyone arrives healthy and without incident, we know many have traversed long distances in confined spaces and life can be unpredictable. If you find yourself feeling ill (or having tested positive for COVID-19), please opt to self-quarantine and alert a member of the organizing committee at [PTI@IU](mailto:pti@iu.edu) so we may assist with any necessary arrangements.
  
 We encourage you to social distance. Masks and hand sanitizer are available at the welcome table.
 
