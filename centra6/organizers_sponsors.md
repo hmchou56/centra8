@@ -15,6 +15,7 @@ hide: true
 
 - Ilkay Altintas, University of California, San Diego, US
 - Hsiu-Mei Chou, National Center for High-Performance Computing (NCHC), Taiwan
+- Jose Fortes, University of Florida, US
 - Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 - Glenn Ricart, US Ignite, Washington, DC, US
 - Sachith Withana, Indiana University, US
