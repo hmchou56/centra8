@@ -7,25 +7,11 @@ published: true
 hide: true
 ---
 
-## Travel Information
+**COVID-19 Protocol**
 
-The Local Organizing Committee is working to make your travel and stay as smooth and trouble-free as possible.  
-
-Before booking travel, visitors should always confirm with airline companies and border services the procedures and restrictions in place in the country of origin and destination for required travel documents and COVID19 restrictions.
-
-Here are resources available to international travelers:<br />
-[Visit USA Gov information for tourism/business](https://www.usa.gov/visit-united-states)<br />
-[Visit Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/diseases/covid19)
-
-**How to get to Indianapolis**
-
-The Indianapolis International Airport (IND) is voted Best Airport in North America by Airports Council International and Best Airport in America by readers of Condé Nast Traveler, year after year.
-
-Rated the #1 Convention City in the U.S. by USA TODAY, Indianapolis offers Hoosier Hospitality to visitors young and old. IND serves as a gateway to the city offering world-class service and a commitment to the regional community.
-
-[Visit the IND website](https://www.ind.com/).
-
-The airport is located approximately 12 miles / 20 kilometers away from the meeting venue and is served by several modes of public transportation. We suggest using a private car, taxi, uber, or Lyft. [The airport website has links to these options](https://www.ind.com/transportation-car-rental) and the JW Marriott (the host hotel) has [information about travel](https://www.marriott.com/en-us/hotels/indjw-jw-marriott-indianapolis/overview/). There is no hotel shuttle to/from the JW and the Scheduled Bus Service does not stop at the JW.
+While we hope that everyone arrives healthy and without incident, we know many have traversed long distances in confined spaces and life can be unpredictable. If you find yourself feeling ill (or having tested positive for COVID-19), please opt to self-quarantine and alert a member of the organizing committee at pti@iu.edu so we may assist with any necessary arrangements.
+ 
+We encourage you to social distance. Masks and hand sanitizer are available at the welcome table.
 
 **Parking near CENTRA 6 Meeting venues**  
 
@@ -55,3 +41,23 @@ Thursday GALA Reception at Indiana State Museum. It's a short walk from IUPUI, s
 or
 White River State Park underground garage (see above for rates, map, and address)
 Entering from the parking garage, take the stairs or the elevator up to level 3. When you get off the elevator or stairs, turn left down the hallway to enter the Canal Overlook Bridge with floor to ceiling glass windows.
+
+## Travel Information
+
+The Local Organizing Committee is working to make your travel and stay as smooth and trouble-free as possible.  
+
+Before booking travel, visitors should always confirm with airline companies and border services the procedures and restrictions in place in the country of origin and destination for required travel documents and COVID19 restrictions.
+
+Here are resources available to international travelers:<br />
+[Visit USA Gov information for tourism/business](https://www.usa.gov/visit-united-states)<br />
+[Visit Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/diseases/covid19)
+
+**How to get to Indianapolis**
+
+The Indianapolis International Airport (IND) is voted Best Airport in North America by Airports Council International and Best Airport in America by readers of Condé Nast Traveler, year after year.
+
+Rated the #1 Convention City in the U.S. by USA TODAY, Indianapolis offers Hoosier Hospitality to visitors young and old. IND serves as a gateway to the city offering world-class service and a commitment to the regional community.
+
+[Visit the IND website](https://www.ind.com/).
+
+The airport is located approximately 12 miles / 20 kilometers away from the meeting venue and is served by several modes of public transportation. We suggest using a private car, taxi, uber, or Lyft. [The airport website has links to these options](https://www.ind.com/transportation-car-rental) and the JW Marriott (the host hotel) has [information about travel](https://www.marriott.com/en-us/hotels/indjw-jw-marriott-indianapolis/overview/). There is no hotel shuttle to/from the JW and the Scheduled Bus Service does not stop at the JW.
