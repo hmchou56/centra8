@@ -52,7 +52,7 @@ José Fortes        |Professor, AT&T Eminent Scholar, University of Florida     
 Kazutoshi Fujikawa       |Researcher, NARA Institute of Science and Technology (NAIST), Japan       |
 Masanori Goto       |Researcher, National Institute of Information and Communications Technology (NICT), Japan       |Cloud computing, testbed
 Andrew Grimshaw      |Professor, University of Virginia     |Grid computing, high-performance parallel computing, compilers for parallel systems, operating systems
-Jason Haga       |Senior Researcher, National Institute of Advanced Industrial Science and Technology (AIST), Japan      |IoT, visualization, user experience, interdisciplinary collaboration
+Jason Haga       |Chief Senior Researcher, National Institute of Advanced Industrial Science and Technology (AIST), Japan      |Continuum computing, immersive visualization, interdisciplinary collaboration
 Thomas Harmon      |Professor, University of California at Merced      |Environment sensors, soil, aquatic and groundwater systems 
 Julio Ibarra       |Assistant Vice President for Technology Augmented Research, Florida International University     |Cyberinfrastructure, Networking, Internet Technologies
 Kohei Ichikawa       |Associate Professor, NAIST, Japan     |Distributed systems, virtualization, software-defined network
