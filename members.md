@@ -22,6 +22,7 @@ Each partner hosts workshops, supports researcher visits to other partners, host
 *  Center of Excellence for Cyber-Enablement of Applications (CECEA), Taiwan
 *  The Institute for Systems and Computer Engineering, Technology and Science [(INESC TEC)](https://inesctec.pt/), Portugal
 *  Korea Institute of Science and Technology Information [(KISTI)](https://www.kisti.re.kr/eng/), Republic of Korea
+*  The National Institute of Advanced Industrial Science and Technology (AIST), Japan
 *  Pacific Rim Applications and Grid Middleware Assembly [(PRAGMA)](http://www.pragma-grid.net/)
 
 <div id="researchers"> </div>
