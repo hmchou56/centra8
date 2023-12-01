@@ -1,20 +1,23 @@
 ---
-layout: centrameeting6
-title: CENTRA 2023
-permalink: /centra6/
-"feature-img": img/centra6/centra6-banner.png
+layout: centrameeting7
+title: CENTRA 2024
+permalink: /centra7/
+"feature-img": img/centra7/savethedate.png
 published: true
 hide: true
 ---
 
 ## Welcome Message
 
+MORE INFORMATION SOON!
+
+<!--- COMMENTED OUT
 <p>
 <img src="/img/centra6/Plale.png" style="width:150px;" align="right"/>
 </p>
 <p style="font-style:italic; font-size:small">
 Dear Colleagues,  <br /><br />
- 
+
 On behalf of the CENTRA 6 Organizing Committee, welcome to CENTRA 6: AI in the Edge-Cloud-HPC Continuum! <br /><br />
  
 The Pervasive Technology Institute (PTI) at Indiana University (IU) is delighted to invite you, our colleagues from around the globe, to the 6th CENTRA meeting, to be held September 12-15, 2023, at the Indiana University Indianapolis campus (IUPUI). CENTRA 6 will include a 1-day workshop, <a href="https://www.globalcentra.org/centra6/workshop.html">Globally Situated Perspectives on AI in the Edge-Cloud-HPC Continuum</a>, for talks on early research. <br /><br />
@@ -33,7 +36,7 @@ Michael A and Laurie Burns McRobbie Bicentennial Professor of Computer Engineeri
 Director, Data to Insight Center<br />
 Indiana University
 </p>
-
+---> 
 
 
 
