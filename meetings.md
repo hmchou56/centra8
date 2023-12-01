@@ -9,7 +9,23 @@ published: true
 
 
  <table class="noBorder">
-<!-- item 9  --> 
+<!-- item 10  --> 
+ <tr class="noBorder">
+   <th class="noBorder"><img src="/img/centra7/savethedate.png"></th>
+   <th class="noBorder">CENTRA 7 Meeting, February 6-9, 2024, Tokyo, Japan <br> </th>
+ </tr>
+
+ <tr class="noBorder">
+   <th class="noBorder"></th>
+
+ </tr>
+
+ <tr class="noBorder">
+   <th class="noBorder"></th>
+
+ </tr>
+ 
+ <!-- item 9  --> 
  <tr class="noBorder">
    <th class="noBorder"><img src="/img/centra6/centra6-banner.png"></th>
    <th class="noBorder">CENTRA 6 Meeting, September 12-15, 2023, Indianapolis, Indiana, US <br> <a href="/centra6/">Website</a> | <a href="https://www.globalcentra.org/centra6/workshop.html">Workshop</a> </th>
