@@ -36,15 +36,13 @@ An alternate route is to take the Rinkai Line and get off at Tokyo Teleport stat
 ### List of Nearby Hotels  
 The CENTRA 7 organizing committee is not reserving any hotel blocks so all participants are to secure their own accomodations. There are many hotel choices in the Tokyo area for a wide range of budgets. We are providing the following list of hotels informational purposes only. The CENTRA 7 organizing committee is not responsible for reservations, confirmations, cancellations, etc.  
 
-* [Grand Nikko Hotel](https://www.tokyo.grandnikko.com/) (12-minute walk to venue)  
+* [Grand Nikko Hotel](https://www.tokyo.grandnikko.com/) (12-minute walk to venue)
 * [Hilton Tokyo Odaiba](http://www.hilton.com) (15-minute walk to the venue)  
-
 * [Sotetsu Grand Fresa Tokyo-Bay Ariake](https://sotetsu-hotels.com/en/grand-fresa/ariake/) (17-minute train ride to the venue)  
 * [Tokyo Bay Ariake Washington Hotel](https://tokyobay.washington-hotels.jp/)(17-minute train ride to the venue)  
 * [Daiwa Roynet Hotel Tokyo Ariake](https://www.daiwaroynet.jp/en/ariake/) (18-minute train ride to the venue)
- 
 * [remm plus Ginza](https://www.hankyu-hotel.com/en/hotel/remm/ginza) (20-minute train ride to the venue)  
-* [Hotel Villa Fontaine Shiodome](https://www.hvf.jp/eng/shiodome/) (18-minute train ride to the venue)    
+* [Hotel Villa Fontaine Shiodome](https://www.hvf.jp/eng/shiodome/) (18-minute train ride to the venue)  
 
 
 <!---
