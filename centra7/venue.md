@@ -9,49 +9,43 @@ hide: true
 
 ### Venue
 [**AIST Tokyo Waterfront**](https://www.aist.go.jp/waterfront/index_en.html)  
-*The pre-CENTRA 7 Meeting Symposium will be held at AIST Tokyo Waterfront Annex located in Odaiba, Tokyo ([Map](https://www.google.com/maps/place/AIST+Tokyo+Waterfront+Annex/@35.6183733,139.7773874,19z/data=!3m1!4b1!4m6!3m5!1s0x60188930dbbb8da5:0x3de698ec244385c8!8m2!3d35.6183733!4d139.7780325!16s%2Fg%2F11fd4q5d4q?authuser=0&entry=ttu)
+The pre-CENTRA 7 Meeting Symposium will be held at AIST Tokyo Waterfront Annex located in Odaiba, Tokyo.  
+([Map](https://www.google.com/maps/place/AIST+Tokyo+Waterfront+Annex/@35.6183733,139.7773874,19z/data=!3m1!4b1!4m6!3m5!1s0x60188930dbbb8da5:0x3de698ec244385c8!8m2!3d35.6183733!4d139.7780325!16s%2Fg%2F11fd4q5d4q?authuser=0&entry=ttu))
 
-Address: 2-4-7 Aomi, Koto-ku, Tokyo, Japan
+Address: 2-4-7 Aomi, Koto-ku, Tokyo, Japan  
 Phone: +81-
 
-
 [**Miraikan - The National Museum of Emerging Science and Innovation**](https://www.miraikan.jst.go.jp/en/)  
-*CENTRA 7 Meeting will be held at Miraikan located in Odaiba, Tokyo and adjacent to AIST Waterfront Tokyo offices ([Map](https://www.google.com/maps/place/The+National+Museum+of+Emerging+Science+and+Innovation/@35.6187864,139.7746668,17z/data=!3m1!5s0x601889fe8b178f81:0xf235a0f8ea536912!4m6!3m5!1s0x601889fef478fdcf:0xf6b165739f8c89a0!8m2!3d35.6193359!4d139.7763995!16s%2Fm%2F02plzvg?authuser=0&entry=ttu)
+CENTRA 7 Meeting will be held at Miraikan located in Odaiba, Tokyo and adjacent to AIST Waterfront Tokyo offices.  
+([Map](https://www.google.com/maps/place/The+National+Museum+of+Emerging+Science+and+Innovation/@35.6187864,139.7746668,17z/data=!3m1!5s0x601889fe8b178f81:0xf235a0f8ea536912!4m6!3m5!1s0x601889fef478fdcf:0xf6b165739f8c89a0!8m2!3d35.6193359!4d139.7763995!16s%2Fm%2F02plzvg?authuser=0&entry=ttu))
 
-Address: 2-3-6 Aomi, Koto-ku, Tokyo, Japan
+Address: 2-3-6 Aomi, Koto-ku, Tokyo, Japan  
 Phone: +81-3-3570-9151
 
 ### Access to Venue  
  
 #### By Train
-Shinbashi Station provides the most convenient access to AIST Tokyo Waterfront and Miraikan. Take Yurikamome line and get off at Telecom Center station, then 3-minute walk from the station.
-Take Rinkai Line and get off at Tokyo Teleport station,then 15-minute walk from the station.  
+Shinbashi Station provides the most convenient access to AIST Tokyo Waterfront and Miraikan. Take the Yurikamome line from Shimbashi (U01) and get off at Telecom Center station (U09). It is a 3-minute walk to AIST and a 4-minute walk to Miraikan from the station.
+
+An alternate route is to take the Rinkai Line and get off at Tokyo Teleport station. It is a 15-minute walk from the station to AIST and Miraikan.  
   
 <img src="/img/centra7/waterfront_train_map.jpg" alt="CENTRA7 train access" style="margin-right: auto;margin-left: auto;" class="img-responsive">  
 <img src="/img/centra7/waterfront_area_map.jpg" alt="CENTRA7 area access" style="margin-right: auto;margin-left: auto;" class="img-responsive">  
 
 
-
-
 ### List of Nearby Hotels  
-Please note that hotels listed below are for information purposes only. The CENTRA 7 secretariat is not responsible for reservations, confirmations, cancellations, etc. 
+The CENTRA 7 organizing committee is not reserving any hotel blocks so all participants are to secure their own accomodations. There are many hotel choices in the Tokyo area for a wide range of budgets. We are providing the following list of hotels informational purposes only. The CENTRA 7 organizing committee is not responsible for reservations, confirmations, cancellations, etc.  
 
-＜Luxury Class＞ ★★★★★－★★★★  
+* [Grand Nikko Hotel](https://www.tokyo.grandnikko.com/) (12-minute walk to venue)  
+* [Hilton Tokyo Odaiba](http://www.hilton.com) (15-minute walk to the venue)  
 
-* [Palace Hotel](http://en.palacehoteltokyo.com/) (Located next to the venue)  
-* [The Tokyo Station Hotel](http://www.thetokyostationhotel.jp/rooms.htm) (10-minute walk from the venue)  
-* [Marunouchi Hotel](https://www.marunouchi-hotel.co.jp/en/) (10-12 minutes’ walk from the venue)  
-
-＜Moderate to Budget Class＞ ★★★－★★  
-
-* [Keio Presso Inn Otemachi](http://www.presso-inn.com/english/otemachi.html) (15-minute walk from the venue)  
-* [Hotel Villa Fontaine Tokyo Otemachi](https://www.hvf.jp/eng/)(15-minute walk from the venue)  
-* [Mitsui Garden Hotel Kyobashi](https://www.gardenhotels.co.jp/kyobashi/eng/) (about 15-minute walk from the venue)
-* [Hotel Ryumeikan Tokyo](https://www.ryumeikan-tokyo.jp/english/) (15-minute walk from the venue)  
-* [Super Hotel Lohas Tokyo-eki Yaesu Chuo-guchi](http://www.superhoteljapan.com/en/s-hotels/yaesu/?hid=109&tpl=/yaesu/index.html&ex=0)  (15-20 minutes’ walk from the venue)  
-* [Hotel Heimat](http://www.hotel-heimat.com/english/english.html) (15-minute walk from the venue)   
-
+* [Sotetsu Grand Fresa Tokyo-Bay Ariake](https://sotetsu-hotels.com/en/grand-fresa/ariake/) (17-minute train ride to the venue)  
+* [Tokyo Bay Ariake Washington Hotel](https://tokyobay.washington-hotels.jp/)(17-minute train ride to the venue)  
+* [Daiwa Roynet Hotel Tokyo Ariake](https://www.daiwaroynet.jp/en/ariake/) (18-minute train ride to the venue)
  
+* [remm plus Ginza](https://www.hankyu-hotel.com/en/hotel/remm/ginza) (20-minute train ride to the venue)  
+* [Hotel Villa Fontaine Shiodome](https://www.hvf.jp/eng/shiodome/) (18-minute train ride to the venue)    
+
 
 <!---
 ## Venue & Lodging
