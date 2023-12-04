@@ -1,18 +1,19 @@
 ---
-layout: centrameeting6
-title: CENTRA 2023
-permalink: /centra6/program.html
-"feature-img": img/centra6/centra6-banner.png
+layout: centrameeting7
+title: CENTRA 2024
+permalink: /centra7/program.html
+"feature-img": img/centra7/centra7-banner.png
 published: true
 hide: true
 ---
 
+## Coming soon!
 
-## CENTRA 6 Meeting and Workshop Program
+<!--## CENTRA 7 Meeting and Workshop Program
 
-The CENTRA 6 program is [available here on the Sched platform](https://centra6.sched.com/). 
+The CENTRA 7 program is [available here on the Sched platform](https://centra6.sched.com/). 
 
-The Sched platform allows attendees to create a profile to connect and network with other folks attending CENTRA 6.
+The Sched platform allows attendees to create a profile to connect and network with other folks attending CENTRA 7.
 
 **Pro-tips!**
 In Sched, click on SCHEDULE (next to SPEAKERS, SPONSORS, etc) and then choose EXPANDED view to see the abstracts of each talk and the speaker's name.
@@ -31,4 +32,5 @@ To make your Sched profile public:
 - You can update other information in your schedule (like a photo and institutional affiliation)
 - IMPORTANT: Scroll all the way to bottom and choose SAVE SETTINGS
 
-All hours according to the current local time in Indiana/New York. For time zone conversions, check out this [time zone converter](https://www.timeanddate.com/worldclock/converter.html)
+All hours are current local time in Tokyo, Japan. For time zone conversions, check out this [time zone converter](https://www.timeanddate.com/worldclock/converter.html)
+-->
