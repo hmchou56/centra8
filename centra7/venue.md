@@ -13,7 +13,7 @@ The pre-CENTRA 7 Meeting Symposium will be held at AIST Tokyo Waterfront Annex l
 ([Map](https://www.google.com/maps/place/AIST+Tokyo+Waterfront+Annex/@35.6183733,139.7773874,19z/data=!3m1!4b1!4m6!3m5!1s0x60188930dbbb8da5:0x3de698ec244385c8!8m2!3d35.6183733!4d139.7780325!16s%2Fg%2F11fd4q5d4q?authuser=0&entry=ttu))
 
 Address: 2-4-7 Aomi, Koto-ku, Tokyo, Japan  
-Phone: +81-
+Phone: +81-3-3599-8001
 
 [**Miraikan - The National Museum of Emerging Science and Innovation**](https://www.miraikan.jst.go.jp/en/)  
 CENTRA 7 Meeting will be held at Miraikan located in Odaiba, Tokyo and adjacent to AIST Waterfront Tokyo offices.  
