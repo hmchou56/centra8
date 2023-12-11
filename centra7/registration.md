@@ -2,7 +2,7 @@
 layout: centrameeting7
 title: CENTRA 2024
 permalink: /centra7/registration.html
-"feature-img": img/centra7/savethedate.png
+"feature-img": img/centra7/centra7-banner.png
 published: true
 hide: true
 ---
