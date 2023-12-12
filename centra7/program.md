@@ -7,10 +7,19 @@ published: true
 hide: true
 ---
 
-## Coming soon!
+## CENTRA 7 Meeting and Workshop Program
 
-<!--## CENTRA 7 Meeting and Workshop Program
+### Feb 6 - Cloud-edge Fusion (CEF) Symposium
 
+### Feb 7 - Quantum Computing Symposium
+
+### Feb 8 - CENTRA 7 Day 1
+
+### Feb 9 - CENTRA 7 Day 2
+
+## More details soon
+
+<!--
 The CENTRA 7 program is [available here on the Sched platform](https://centra6.sched.com/). 
 
 The Sched platform allows attendees to create a profile to connect and network with other folks attending CENTRA 7.
