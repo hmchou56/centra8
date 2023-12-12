@@ -19,7 +19,7 @@ hide: true
 - Woojin Seok, Korea Institute of Science and Technology Information (KISTI), Republic of Korea
 - Sachith Withana, Indiana University, US
 
-## Local Organizing Committee
+## Organizing Committee
 -	Vivian Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 -	Yumiko Saita, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 -	Hitoshi Sato, National Institute of Advanced Industrial Science and Technology (AIST), Japan
