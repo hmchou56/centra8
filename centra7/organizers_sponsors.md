@@ -24,6 +24,8 @@ hide: true
 -	Yumiko Saita, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 -	Hitoshi Sato, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 -	Ryousei Takano, National Institute of Advanced Industrial Science and Technology (AIST), Japan
+-	Robert Ping, Pervasive Technology Institute at Indiana University, US
+-	Andreia Passos, INESCTEC, Portugal
   
 ## Sponsors
 -	G-QuAT
