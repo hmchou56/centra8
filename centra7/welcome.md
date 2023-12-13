@@ -8,7 +8,9 @@ hide: true
 ---
 
 ## Welcome Message
-
+<p>
+<img src="/img/centra7/kishimoto.jpg" style="width:150px;" align="right"/>
+</p>
 <p style="font-style:italic; font-size:small">
 Dear Colleagues,<br /><br />
 
