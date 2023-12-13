@@ -1,14 +1,15 @@
 ---
-layout: centrameeting6
-title: CENTRA 2023
-permalink: /centra6/workshop.html
-"feature-img": img/centra6/centra6-banner.png
+layout: centrameeting7
+title: CENTRA 2024
+permalink: /centra7/workshop.html
+"feature-img": img/centra7/centra7-banner.png
 published: true
 hide: true
 ---
 
-## Workshop on Globally Situated Perspectives on AI in the Edge-Cloud-HPC Continuum
-A precursor workshop to the CENTRA 6 Meeting
+## More information soon
+
+<!--## Abstract Submission for Cloud-Edge Fusion for the Computing Continuum
 
 While the potential of Artificial Intelligence (AI) is practically unlimited, its ramifications are often contextual based on localized (country) situations. We invite CENTRA researchers, practitioners, and professionals to submit short abstracts to the 1-day workshop on Globally Situated Perspectives on AI in the Edge-Cloud-HPC Continuum. The workshop aims for a series of short papers that explore artificial intelligence (AI) and edge computing, specifically focusing on:
 - Regional or global issues in the continuum from edge devices to cloud infrastructure for AI
@@ -42,4 +43,4 @@ All workshop participants must be registered for CENTRA 6. Details about registr
 
 A modest amount of funding has been appropriated for student participants, with priority given to those: (1) traveling internationally and (2) participating in a presentation, panel, etc. Students who might need support should indicate such when submitting their abstracts for the workshop call for participation or via email to [PTI@IU](mailto:pti@iu.edu).
 
-We look forward to an engaging workshop on Globally Situated Perspectives on AI in the Edge-Cloud-HPC Continuum!
+We look forward to an engaging workshop on Globally Situated Perspectives on AI in the Edge-Cloud-HPC Continuum!-->
