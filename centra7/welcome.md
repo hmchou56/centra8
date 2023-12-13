@@ -8,6 +8,8 @@ hide: true
 ---
 
 ## Welcome Message
+
+<p style="font-style:italic; font-size:small">
 Dear Colleagues,
 
 On behalf of the CENTRA 7 Organizing Committee, the Digital Architecture Research Center (DigiARC) at the National Institute of Advanced Industrial Science and Technology (AIST) is pleased to invite our colleagues from around the globe to the 7th CENTRA meeting on February 6-9, 2024 in Tokyo, Japan. CENTRA 7 will include two symposiums, presentations, and breakout sessions for continuing collaboration with our international partners.
@@ -24,7 +26,7 @@ Dr. Hiro Kishimoto<br />
 Center Director<br />
 Digital Architecture Research Center<br />
 AIST, Japan<br />
-
+</p>
 
 <!--- COMMENTED OUT
 <p>
