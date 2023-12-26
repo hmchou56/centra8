@@ -11,7 +11,7 @@ published: true
  <table class="noBorder">
 <!-- item 10  --> 
  <tr class="noBorder">
-   <th class="noBorder"><img src="/img/centra7/savethedate.png"></th>
+   <th class="noBorder"><img src="/img/centra7/centra7-banner.png"></th>
    <th class="noBorder">CENTRA 7 Meeting, February 6-9, 2024, Tokyo, Japan <br> <a href="/centra7/">Website</a> </th>
  </tr>
 
