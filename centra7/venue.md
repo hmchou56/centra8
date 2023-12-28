@@ -20,7 +20,6 @@ CENTRA 7 Meeting will be held at Miraikan located in Odaiba, Tokyo and adjacent 
 ([Map](https://www.google.com/maps/place/The+National+Museum+of+Emerging+Science+and+Innovation/@35.6187864,139.7746668,17z/data=!3m1!5s0x601889fe8b178f81:0xf235a0f8ea536912!4m6!3m5!1s0x601889fef478fdcf:0xf6b165739f8c89a0!8m2!3d35.6193359!4d139.7763995!16s%2Fm%2F02plzvg?authuser=0&entry=ttu))
 
 Address: 2-3-6 Aomi, Koto-ku, Tokyo, Japan  
-Phone: +81-3-3570-9151
 
 ### Access to Venue  
  
