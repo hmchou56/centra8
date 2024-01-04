@@ -152,7 +152,7 @@ hide: true
 ### 15:00 – 16:00
 **Closing Remarks and Announcements for Future CENTRA Events**
 
-
+</div>
 
 
 <!--
