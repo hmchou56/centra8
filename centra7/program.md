@@ -6,6 +6,7 @@ permalink: /centra7/program.html
 published: true
 hide: true
 ---
+<div style="padding: .5em 0 0 270px;">
 
 ## CENTRA 7 Meeting Tentative Program (all times are local Japan time).
 
