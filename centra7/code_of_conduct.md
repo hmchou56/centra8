@@ -7,6 +7,7 @@ published: true
 hide: true
 ---
 
+<h2>Code of Conduct</h2>
 
 ## Code of Conduct
 
