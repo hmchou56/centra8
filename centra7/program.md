@@ -10,7 +10,7 @@ hide: true
 ## CENTRA 7 Meeting Tentative Program (all times are local Japan time).
 
 ****
-							 February 6, Tuesday (火)
+					 February 6, Tuesday (火)
 
 ### Cloud-edge Fusion (CEF) Symposium
 
@@ -19,7 +19,7 @@ hide: true
 - details coming soon
 
 ****
-							 February 7, Wednesday (水)
+					 February 7, Wednesday (水)
 
 ### Quantum Computing Symposium
 
