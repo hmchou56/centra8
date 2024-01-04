@@ -7,17 +7,145 @@ published: true
 hide: true
 ---
 
-## CENTRA 7 Meeting and Workshop Program
+## CENTRA 7 Meeting Tentative Program (all times are local Japan time).
 
-### Feb 6 - Cloud-edge Fusion (CEF) Symposium
+****
+							 February 6, Tuesday (火)
+### Cloud-edge Fusion (CEF) Symposium
+#### 08:30 - 17:30 
+- details coming soon
 
-### Feb 7 - Quantum Computing Symposium
+****
+							 February 7, Wednesday (水)
+### Quantum Computing Symposium
+#### 08:30 - 17:30 
+- details coming soon
 
-### Feb 8 - CENTRA 7 Day 1
+***
+#### 18:00
+**CENTRA 7 Opening Reception**
+- TBD
 
-### Feb 9 - CENTRA 7 Day 2
+****
+							 February 8, Thursday (木)
 
-## More details soon
+### CENTRA 7 Day 1
+### Location: Miraikan, Odaiba
+
+***
+#### 08:30 - 09:00 
+**Registration** 
+<br>
+<br>
+
+***
+#### 9:00 – 09:15
+**Opening Welcome**
+
+***
+#### 09:15 - 10:00
+**Keynote Presentation TBD**
+
+***
+#### 10:00 – 10:30 
+**Group Photo and Break**
+
+****
+#### 10:30 AM – 12:00
+**Institutional Updates**
+- **NICT**
+- **NCHC**
+- **KISTI**
+- **INESCTEC**
+
+****
+#### 12:00 – 13:00 
+**Lunch**
+
+****
+#### 13:00 – 15:00
+**Technical Paper Presentations**
+<!--- Session Chair: Rui Oliveira
+- **Project review:** “AirBox: a Participatory Ecosystem for PM2.5 Monitoring,” Ling-Jyh Chen
+- **Project review:** “Distributed Lifemapper,” Aimee Stewart
+- **Proposed project:** “Privacy-preserving Cloud Computing for IoT,” INESC TEC and  KISTI
+- **Proposed project:** “Network Congestion Issues in Disaster Scenarios,” Krishna Kant
+- **Proposed project:** “PADE: Precision Agriculture with Drones and Edge,” Christopher  Stewart
+  “Using UAV Images to Monitoring Rice Paddy with Artificial Intelligence,” Hui-Ping Tsai et al.
+- **Proposed project:** “Secure Data Collaboration Using GFFS,” Andrew Grimshaw
+-->
+
+****
+#### 15:00—15:30 
+**Break**
+
+****
+#### 15:30 – 16:30 
+**Concurrent Breakout Sessions**
+
+****
+#### 16:30 – 17:30 
+**Concurrent Breakout Sessions**
+
+***
+#### 18:00
+**Dinner**
+- TBD
+
+****
+							 February 9, Friday (金)
+
+### CENTRA 7 Day 2
+### Location: Miraikan, Odaiba
+
+***
+#### 08:30 - 09:00 
+**Registration** 
+<br>
+<br>
+
+#### 09:00 – 09:05 
+**Opening remarks/Housekeeping**
+
+<!--****
+#### 09:05 – 09:30
+**Brief Report back from Breakouts**
+-->
+
+****
+#### 09:05 – 10:30 
+**CEF Presentations**
+- Tomohiro Kudoh (AIST)
+- Softbank (TBD)
+- NTT (TBD)
+
+****
+#### 10:30 – 11:00
+**Break**
+
+****
+#### 11:00 – 12:00
+**Panel Discussion TBD**
+
+****
+### 12:00 – 13:30
+**Lunch**  
+**(CENTRA Steering Committee meeting with lunch boxes)**
+
+****
+### 13:30 – 14:30
+**Concurrent Breakout Sessions**
+
+****
+### 14:30 – 15:00
+**Breakout reports**
+
+****
+### 15:00 – 16:00
+**Closing Remarks and Announcements for Future CENTRA Events**
+
+
+
 
 <!--
 The CENTRA 7 program is [available here on the Sched platform](https://centra6.sched.com/). 
