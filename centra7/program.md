@@ -71,8 +71,8 @@ hide: true
 ****
 #### 13:00 – 15:00
 **Technical Paper Presentations**
+
 <!--
-- Session Chair: Rui Oliveira
 - **Project review:** “AirBox: a Participatory Ecosystem for PM2.5 Monitoring,” Ling-Jyh Chen
 - **Project review:** “Distributed Lifemapper,” Aimee Stewart
 - **Proposed project:** “Privacy-preserving Cloud Computing for IoT,” INESC TEC and  KISTI
