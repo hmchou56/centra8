@@ -6,7 +6,6 @@ permalink: /centra7/workshop.html
 published: true
 hide: true
 ---
-<p style="margin-left: 298px;">
 
 ## Abstract Submission for Cloud-Edge Fusion for the Computing Continuum
 
@@ -43,4 +42,3 @@ All workshop participants must be registered for CENTRA 7. Details about registr
 
 We look forward to an engaging session exploring the worldwide views of AI within the Edge-Cloud-HPC Continuum!
 
-</p>
