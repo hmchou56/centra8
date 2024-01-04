@@ -6,6 +6,7 @@ permalink: /centra7/workshop.html
 published: true
 hide: true
 ---
+<div style="margin-left: 295px;">
 
 ## Abstract Submission for Cloud-Edge Fusion for the Computing Continuum
 
@@ -41,3 +42,5 @@ For more information, contact the event organisers at [pti@iu.edu](mailto:pti@iu
 All workshop participants must be registered for CENTRA 7. Details about registration and procedures can be found in the menu on the left. For any inquiries or further information, contact centra7@3stars-tyo.co.jp.
 
 We look forward to an engaging session exploring the worldwide views of AI within the Edge-Cloud-HPC Continuum!
+
+</div>
