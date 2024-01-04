@@ -33,7 +33,7 @@ An alternate route is to take the Rinkai Line and get off at Tokyo Teleport stat
 
 
 ### List of Nearby Hotels  
-The CENTRA 7 organizing committee is not reserving any hotel blocks so all participants are to secure their own accomodations. There are many hotel choices in the Tokyo area for a wide range of budgets. We are providing the following list of hotels informational purposes only. The CENTRA 7 organizing committee is not responsible for reservations, confirmations, cancellations, etc.  
+The CENTRA 7 organizing committee is not reserving any hotel blocks so all participants are to secure their own accomodations. There are many hotel choices in the Tokyo area for a wide range of budgets. We are providing the following list of hotels for informational purposes only. The CENTRA 7 organizing committee is not responsible for reservations, confirmations, cancellations, etc.  
 
 * [Grand Nikko Hotel](https://www.tokyo.grandnikko.com/) (12-minute walk to venue)
 * [Hilton Tokyo Odaiba](http://www.hilton.com) (15-minute walk to the venue)  
