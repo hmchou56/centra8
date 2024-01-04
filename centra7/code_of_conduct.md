@@ -9,7 +9,6 @@ hide: true
 
 <h2>Code of Conduct</h2>
 <p style="margin-left: 298px;>
-	
 The CENTRA 7 organizing committee values the diversity of views, expertise, opinions, backgrounds, and experiences reflected among our partners and the broader community and is committed to providing a safe, productive, and welcoming environment for all participants. This Code of Conduct is in place to ensure an inclusive, supportive, and collaborative environment for all people and cultures.  
 
 The Code of Conduct applies to attendees, speakers, volunteers, organizers, members of the media, vendors, and service providers. It applies in all venues, including ancillary events and social gatherings of CENTRA 7.  
@@ -26,7 +25,7 @@ We expect everyone to respect the following list of behaviors.
 <li>Respect the rules and policies of the meeting venue, hotels, CENTRA-contracted facility, or any other venue.</li>
 </ul>
 
-**Unacceptable Behavior**   
+<b>Unacceptable Behavior</b>   
 <ul>
 <li>Harassment, intimidation, or discrimination in any form including, but not limited to:</li>  
 <li>Physical or verbal abuse.</li> 
