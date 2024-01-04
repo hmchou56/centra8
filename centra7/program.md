@@ -12,12 +12,16 @@ hide: true
 ****
 							 February 6, Tuesday (火)
 ### Cloud-edge Fusion (CEF) Symposium
+
+***
 #### 08:30 - 17:30 
 - details coming soon
 
 ****
 							 February 7, Wednesday (水)
 ### Quantum Computing Symposium
+
+***
 #### 08:30 - 17:30 
 - details coming soon
 
