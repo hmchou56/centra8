@@ -24,10 +24,10 @@ The Digital Architecture Research Center was established to develop and implemen
 
 I am very honored to be able to host the 7th global CENTRA meeting and look forward to seeing you in Tokyo!<br /><br />
 
-                                                                                                     Dr. Hiro Kishimoto<br />
-                                                                                                     Center Director<br />
-                                                                                                     Digital Architecture Research Center<br />
-                                                                                                     AIST, Japan<br />
+Dr. Hiro Kishimoto<br />
+Center Director<br />
+Digital Architecture Research Center<br />
+AIST, Japan<br />
 </p>
 
 <!--- COMMENTED OUT
