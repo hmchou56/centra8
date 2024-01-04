@@ -11,7 +11,7 @@ hide: true
 <p>
 <img src="/img/centra7/kishimoto.jpg" style="width:150px;" align="right"/>
 </p>
-<p style="font-style:italic; font-size:small">
+<p style="font-style:italic; font-size:small; margin-left: 25px">
 Dear Colleagues,<br /><br />
 
 On behalf of the CENTRA 7 Organizing Committee, the Digital Architecture Research Center (DigiARC) at the National Institute of Advanced Industrial Science and Technology (AIST) is pleased to invite our colleagues from around the globe to the 7th CENTRA meeting on February 6-9, 2024 in Tokyo, Japan. CENTRA 7 will include two symposiums, presentations, and breakout sessions for continuing collaboration with our international partners.<br /><br />
@@ -31,6 +31,13 @@ AIST, Japan<br />
 </p>
 
 <!--- COMMENTED OUT
+<div style="margin-left: 15px;">
+
+  <p>sample text</p>
+
+</div>
+
+
 <p>
 <img src="/img/centra6/Plale.png" style="width:150px;" align="right"/>
 </p>
