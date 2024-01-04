@@ -8,7 +8,10 @@ hide: true
 ---
 
 <h2>Code of Conduct</h2>
+<!--
 <p style="margin-left: 298px;>
+-->
+
 The CENTRA 7 organizing committee values the diversity of views, expertise, opinions, backgrounds, and experiences reflected among our partners and the broader community and is committed to providing a safe, productive, and welcoming environment for all participants. This Code of Conduct is in place to ensure an inclusive, supportive, and collaborative environment for all people and cultures.  
 
 The Code of Conduct applies to attendees, speakers, volunteers, organizers, members of the media, vendors, and service providers. It applies in all venues, including ancillary events and social gatherings of CENTRA 7.  
@@ -46,8 +49,9 @@ Anyone experiencing or witnessing behavior that constitutes an immediate or seri
 If you are not in immediate danger but feel that you are the subject of unacceptable behavior, have witnessed any such behavior, or have other concerns, report the incident to one of the conference organizers (as soon as possible) who will work to resolve the situation.   
 
 Conference organizers will treat all reports seriously and will work to understand the situation through prompt investigation, including conversations with relevant individuals and witnesses before determining an appropriate course of action.   
-</p>
 
+<!-- </p>
+-->
 
 <!--**Contact information to Report an Incident:**  
 [PTI@IU](mailto:pti@iu.edu)   
