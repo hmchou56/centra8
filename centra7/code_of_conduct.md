@@ -1,8 +1,8 @@
 ---
-layout: centrameeting6
-title: CENTRA 2023
-permalink: /centra6/code_of_conduct.html
-"feature-img": img/centra6/centra6-banner.png
+layout: centrameeting7
+title: CENTRA 2024
+permalink: /centra7/code_of_conduct.html
+"feature-img": img/centra7/centra7-banner.png
 published: true
 hide: true
 ---
@@ -10,9 +10,9 @@ hide: true
 
 ## Code of Conduct
 
-The CENTRA 6 organizing committee values the diversity of views, expertise, opinions, backgrounds, and experiences reflected among our partners and the broader community and is committed to providing a safe, productive, and welcoming environment for all participants. This Code of Conduct is in place to ensure an inclusive, supportive, and collaborative environment for all people and cultures.  
+The CENTRA 7 organizing committee values the diversity of views, expertise, opinions, backgrounds, and experiences reflected among our partners and the broader community and is committed to providing a safe, productive, and welcoming environment for all participants. This Code of Conduct is in place to ensure an inclusive, supportive, and collaborative environment for all people and cultures.  
 
-The Code of Conduct applies to attendees, speakers, volunteers, organizers, members of the media, vendors, and service providers. It applies in all venues, including ancillary events and social gatherings of CENTRA6.  
+The Code of Conduct applies to attendees, speakers, volunteers, organizers, members of the media, vendors, and service providers. It applies in all venues, including ancillary events and social gatherings of CENTRA 7.  
 
 We expect everyone to respect the following list of behaviors.  
 
@@ -38,12 +38,12 @@ We expect everyone to respect the following list of behaviors.
 	-	Unacceptable behavior conveyed in a magger of joking still constitutes unacceptable behavior.  
 
 **Reporting Incidents**  
-Anyone experiencing or witnessing behavior that constitutes an immediate or serious threat to public safety at any time should contact local law enforcement (by calling 911) and then immediately notify any of the CENTRA6 organizers in person or at the email linked below.  
+Anyone experiencing or witnessing behavior that constitutes an immediate or serious threat to public safety at any time should immediately notify any of the CENTRA 7 organizers in person.  
 
 If you are not in immediate danger but feel that you are the subject of unacceptable behavior, have witnessed any such behavior, or have other concerns, report the incident to one of the conference organizers (as soon as possible) who will work to resolve the situation.   
 
 Conference organizers will treat all reports seriously and will work to understand the situation through prompt investigation, including conversations with relevant individuals and witnesses before determining an appropriate course of action.   
 
-**Contact information to Report an Incident:**  
+<!--**Contact information to Report an Incident:**  
 [PTI@IU](mailto:pti@iu.edu)   
-
+-->
