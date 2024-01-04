@@ -8,6 +8,7 @@ hide: true
 ---
 
 
+
 ## CENTRA 7 Meeting Tentative Program (all times are local Japan time).
 
 ****
@@ -97,7 +98,7 @@ hide: true
 
 ***
 #### 18:00
-**Dinner**
+**CENTRA 7 Dinner**
 - TBD
 
 ****
