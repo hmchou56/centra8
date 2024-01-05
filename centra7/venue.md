@@ -29,7 +29,7 @@ Shinbashi Station provides the most convenient access to AIST Tokyo Waterfront a
 An alternate route is to take the Rinkai Line and get off at Tokyo Teleport station. It is a 15-minute walk from the station to AIST and Miraikan.  
   
 <img src="/img/centra7/waterfront_train_map.jpg" alt="CENTRA7 train access" style="margin-right: auto;margin-left: auto;" class="img-responsive">  
-<img src="/img/centra7/waterfront_area_map.jpg" alt="CENTRA7 area access" style="margin-right: auto;margin-left: auto;" class="img-responsive">  
+<img src="/img/centra7/waterfront_area_map.png" alt="CENTRA7 area access" style="margin-right: auto;margin-left: auto;" class="img-responsive">  
 
 
 ### List of Nearby Hotels  
