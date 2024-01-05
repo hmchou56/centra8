@@ -16,8 +16,10 @@ hide: true
 - Jose Fortes, University of Florida, US
 - Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 - Hidehisa Nagano, National Institute of Information and Communications Technology (NICT), Japan
+- Rui Oliveria, INESCTEC, Portugal
 - Beth Plale, Indiana University, US
 - Woojin Seok, Korea Institute of Science and Technology Information (KISTI), Republic of Korea
+- Shinji Shimojo, Aomori University, Japan
 - Sachith Withana, Indiana University, US
 
 ## Organizing Committees
