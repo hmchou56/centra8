@@ -26,16 +26,16 @@ We expect everyone to respect the following list of behaviors.
 
 **Unacceptable Behavior**   
 - Harassment, intimidation, or discrimination in any form including, but not limited to:  
-- Physical or verbal abuse.  
-- Exclusionary behavior and microaggressions related to age, appearance or body size, employment or military status, ethnicity, gender identity and expression, individual lifestyle, marital status, national origin, physical or cognitive ability, political affiliation, sexual orientation, race, or religion. 
-- Inappropriate physical contact.
-- Unwanted sexual attention.
-- Use of sexual or discriminatory images in public spaces or in presentations.
-- Deliberate intimidation, stalking, or following.
-- Sustained disruption of talks or other events.
-- Bullying behavior, including intentional microaggressions.
-- Retaliation for reporting unacceptable behavior.
-- Unacceptable behavior conveyed in a manner of joking still constitutes unacceptable behavior.  
+  - Physical or verbal abuse.  
+  - Exclusionary behavior and microaggressions related to age, appearance or body size, employment or military status, ethnicity, gender identity and expression, individual lifestyle, marital status, national origin, physical or cognitive ability, political affiliation, sexual orientation, race, or religion. 
+  - Inappropriate physical contact.
+  - Unwanted sexual attention.
+  - Use of sexual or discriminatory images in public spaces or in presentations.
+  - Deliberate intimidation, stalking, or following.
+  - Sustained disruption of talks or other events.
+  - Bullying behavior, including intentional microaggressions.
+  - Retaliation for reporting unacceptable behavior.
+  - Unacceptable behavior conveyed in a manner of joking still constitutes unacceptable behavior.  
 
 
 **Reporting Incidents**  
