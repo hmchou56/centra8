@@ -15,6 +15,7 @@ hide: true
 					 February 6, Tuesday (火)
 
 ### Cloud-edge Fusion (CEF) Symposium
+### Location: AIST Rinkai, Annex Building, 11F, Odaiba
 
 ***
 #### 08:30 - 17:30 
@@ -24,6 +25,7 @@ hide: true
 					 February 7, Wednesday (水)
 
 ### Quantum Computing Symposium
+### Location: Miraikan, Odaiba
 
 ***
 #### 08:30 - 17:30 
