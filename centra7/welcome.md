@@ -8,6 +8,7 @@ hide: true
 ---
 
 ## Welcome Message
+
 <p>
 <img src="/img/centra7/kishimoto.jpg" style="width:150px;" align="right"/>
 </p>
