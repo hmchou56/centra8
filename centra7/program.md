@@ -65,6 +65,7 @@ If you want to make your Sched profile public:
 **Global Perspectives on Cloud-Edge Fusion II**
 - **IU**
 - **KISTI (TBD)**
+- **NCHC (TBD)** 
 
 ****
 #### 11:45 – 12:45 
