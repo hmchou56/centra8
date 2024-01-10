@@ -41,8 +41,62 @@ If you want to make your Sched profile public:
 ### Location: AIST Rinkai, Annex Building, 11F, Odaiba
 
 ***
-#### 08:30 - 17:30 
-- details coming soon
+#### 08:30 - 9:00 
+**Registration** 
+<br>
+<br>
+
+***
+#### 9:00 – 09:15
+**Opening Welcome**
+
+***
+#### 09:15 - 10:00
+**Global Perspectives on Cloud-Edge Fusion I**
+- **INESCTEC**
+- **NICT**
+
+***
+#### 10:00 – 10:30 
+**Break**
+
+****
+#### 10:30 AM – 11:45
+**Global Perspectives on Cloud-Edge Fusion II**
+- **IU**
+- **KISTI (TBD)**
+
+****
+#### 11:45 – 12:45 
+**Lunch**
+
+****
+#### 12:45 – 13:00
+**AIST Cloud-Edge Fusion Opening**
+
+****
+#### 13:00 – 14:30
+**Session I Resource Management**
+- Chair: Hirofuchi
+
+****
+#### 14:30—15:00 
+**Break**
+
+****
+#### 15:00 – 16:15 
+**Session II Zero Trust Network**
+- Chair: Oiwa
+
+****
+#### 16:15 – 17:45 
+**Session III Data Pipeline**
+- Chair: Tanimura
+
+****
+#### 17:45 – 18:00
+**Closing Remarks**
+
 
 ****
 					 February 7, Wednesday (水)
