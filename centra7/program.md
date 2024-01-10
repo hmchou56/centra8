@@ -97,7 +97,7 @@ If you want to make your Sched profile public:
 
 ****
 #### 13:00 – 15:00
-**Technical Paper Presentations**
+**Technical Abstract Presentations and Ongoing Project Updates**
 
 <!--
 - **Project review:** “AirBox: a Participatory Ecosystem for PM2.5 Monitoring,” Ling-Jyh Chen
