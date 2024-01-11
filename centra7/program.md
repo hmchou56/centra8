@@ -41,13 +41,13 @@ If you want to make your Sched profile public:
 ### Location: AIST Rinkai, Annex Building, 11F, Odaiba
 
 ***
-#### 08:30 - 9:00 
+#### 08:30 - 09:00 
 **Registration** 
 <br>
 <br>
 
 ***
-#### 9:00 – 09:15
+#### 09:00 – 09:15
 **Opening Welcome**
 
 ***
@@ -61,7 +61,7 @@ If you want to make your Sched profile public:
 **Break**
 
 ****
-#### 10:30 AM – 11:45
+#### 10:30 – 11:45
 **Global Perspectives on Cloud-Edge Fusion II**
 - **IU**
 - **KISTI (TBD)**
@@ -81,7 +81,7 @@ If you want to make your Sched profile public:
 - Chair: Hirofuchi
 
 ****
-#### 14:30—15:00 
+#### 14:30 — 15:00 
 **Break**
 
 ****
@@ -127,7 +127,7 @@ If you want to make your Sched profile public:
 <br>
 
 ***
-#### 9:00 – 09:15
+#### 09:00 – 09:15
 **Opening Welcome**
 
 ***
@@ -139,7 +139,7 @@ If you want to make your Sched profile public:
 **Group Photo and Break**
 
 ****
-#### 10:30 AM – 12:00
+#### 10:30 – 12:00
 **Institutional Updates**
 - **NICT**
 - **NCHC**
@@ -165,7 +165,7 @@ If you want to make your Sched profile public:
 -->
 
 ****
-#### 15:00—15:30 
+#### 15:00 — 15:30 
 **Break**
 
 ****
