@@ -42,7 +42,7 @@ The CENTRA 7 organizing committee is not reserving any hotel blocks so all parti
 * [Daiwa Roynet Hotel Tokyo Ariake](https://www.daiwaroynet.jp/en/ariake/) (18-minute train ride to the venue)
 * [remm plus Ginza](https://www.hankyu-hotel.com/en/hotel/remm/ginza) (20-minute train ride to the venue)  
 * [Hotel Villa Fontaine Shiodome](https://www.hvf.jp/eng/shiodome/) (18-minute train ride to the venue)  
-* [Park Hotel, Tokyo](https://parkhoteltokyo.com/) (18-minute train ride to the venue)  
+* [Park Hotel Tokyo](https://parkhoteltokyo.com/) (18-minute train ride to the venue)  
 
 <!---
 ## Venue & Lodging
