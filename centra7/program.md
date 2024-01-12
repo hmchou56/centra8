@@ -32,7 +32,7 @@ If you want to make your Sched profile public:
 <br>
 
 
-## CENTRA 7 Meeting Tentative Program (All times are local time in Tokyo, Japan. For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).
+## CENTRA 7 Meeting Tentative Program <br> (All times are local time in Tokyo, Japan. For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).
 
 ****
 					 February 6, Tuesday (火)
