@@ -35,7 +35,7 @@ If you want to make your Sched profile public:
 ## CENTRA 7 Meeting Tentative Program <br> (All times are local time in Tokyo, Japan. For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).
 
 ****
-February 6, Tuesday (火)
+      February 6, Tuesday (火)
 
 ### Cloud-edge Fusion (CEF) Symposium
 ### Location: AIST Rinkai, Annex Building, 11F, Odaiba
@@ -100,7 +100,7 @@ February 6, Tuesday (火)
 
 
 ****
-February 7, Wednesday (水)
+      February 7, Wednesday (水)
 
 ### Quantum Computing Symposium
 ### Location: Miraikan, Odaiba
@@ -115,7 +115,7 @@ February 7, Wednesday (水)
 - TBD
 
 ****
-February 8, Thursday (木)
+      February 8, Thursday (木)
 
 ### CENTRA 7 Day 1
 ### Location: Miraikan, Odaiba
@@ -182,7 +182,7 @@ February 8, Thursday (木)
 - TBD
 
 ****
-February 9, Friday (金)
+      February 9, Friday (金)
 
 ### CENTRA 7 Day 2
 ### Location: Miraikan, Odaiba
