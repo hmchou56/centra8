@@ -18,8 +18,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 
 We encourage everyone to create a Sched profile and upload your photo and biographical information. Creating your profile and encouraging others to do the same is your best bet for learning about all the attendees and networking with others who attend CENTRA 7.
 
-**Make your Sched profile public**
-If you want to make your Sched profile public:
+**To make your Sched profile public:**
 - Go [here](https://centra7.sched.com/)
 - Login to Sched.
 - Click on your image or initials in upper right corner
@@ -32,7 +31,7 @@ If you want to make your Sched profile public:
 <br>
 
 
-## CENTRA 7 Meeting Tentative Program <br> (All times are local time in Tokyo, Japan. For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).
+## CENTRA 7 Meeting Tentative Program <br> (All times are local time in Tokyo, Japan. For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).<br> Program details and updated schedule information are available in [Sched](https://centra7.sched.com/). 
 
 ****
       February 6, Tuesday (火)
