@@ -131,7 +131,11 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 
 ***
 #### 09:15 - 10:00
-**Keynote Presentation TBD**
+**Keynote Presentation**
+**Keynote Presentation**  
+Professor Rio Yokota  
+Global Scientific Information and Computing Center, Tokyo Institute of Technology  
+*Title: Training a Large Language Model on ABCI*  
 
 ***
 #### 10:00 – 10:30 
