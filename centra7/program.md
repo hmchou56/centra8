@@ -115,7 +115,7 @@ If you want to make your Sched profile public:
 - TBD
 
 ****
-							 February 8, Thursday (木)
+					 February 8, Thursday (木)
 
 ### CENTRA 7 Day 1
 ### Location: Miraikan, Odaiba
@@ -182,7 +182,7 @@ If you want to make your Sched profile public:
 - TBD
 
 ****
-							 February 9, Friday (金)
+					 February 9, Friday (金)
 
 ### CENTRA 7 Day 2
 ### Location: Miraikan, Odaiba
