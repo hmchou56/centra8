@@ -52,7 +52,7 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ***
 #### 09:15 - 10:00
 **Global Perspectives on Cloud-Edge Fusion I**
-- **INESCTEC**
+- **IU**
 - **NICT**
 
 ***
@@ -62,7 +62,7 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ****
 #### 10:30 – 11:45
 **Global Perspectives on Cloud-Edge Fusion II**
-- **IU**
+- **INESCTEC**
 - **KISTI (TBD)**
 - **NCHC (TBD)** 
 
@@ -209,7 +209,7 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 **CEF Presentations**
 - Tomohiro Kudoh (AIST)
 - Softbank (TBD)
-- NTT (TBD)
+- NTT Data (TBD)
 
 ****
 #### 10:30 – 11:00
