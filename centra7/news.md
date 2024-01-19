@@ -10,7 +10,8 @@ hide: true
 ## Important Dates
 
 - 2024.01.04: CENTRA 7 registration open
-- 2024.01.20: CENTRA 7 regular registration closes (dietary and name badge information accepted)
+- ~~2024.01.20: CENTRA 7 regular registration closes (dietary and name badge information accepted)~~ 
+- **2024.01.22: CENTRA 7 registration EXTENDED DEADLINE**
 - 2024.01.12: [Paper submissions](https://www.globalcentra.org/centra7/workshop.html) deadline
 - 2024.01.15: Notification of paper acceptance
 - 2024.02.09: Camera-ready deadline
