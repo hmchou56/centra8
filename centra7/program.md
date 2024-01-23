@@ -30,7 +30,6 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 <br>
 <br>
 
-
 ## CENTRA 7 Meeting Tentative Program <br> (All times are local time in Tokyo, Japan. For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).<br> Program details and updated schedule information are available in [Sched](https://centra7.sched.com/). 
 
 ****
@@ -62,9 +61,9 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ****
 #### 10:30 – 11:45
 **Global Perspectives on Cloud-Edge Fusion II**
-- **INESCTEC**
+- **NCHC (TBD)**
 - **KISTI (TBD)**
-- **NCHC (TBD)** 
+- **INESCTEC**
 
 ****
 #### 11:45 – 12:45 
@@ -105,8 +104,53 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ### Location: Miraikan, Odaiba
 
 ***
-#### 08:30 - 17:30 
-- details coming soon
+#### 08:30 - 09:00 
+**Registration**  
+
+***
+#### 09:00 - 09:15  
+**Welcome Remarks**  
+
+***
+#### 9:15 - 10:00  
+**G-QuAT**
+- Masahiro Horibe (AIST, 45min)
+
+***
+#### 10:00 - 10:30
+**Break**
+
+***
+#### 10:30 - 12:00
+**HPC+QC**
+- Mitsuhisa Sato (RIKEN)
+- Ulf Tigerstedt (CSC)
+- Ryousei Takano (AIST)
+
+***
+#### 12:00 - 13:30
+**Lunch**
+
+***
+#### 13:30 - 14:45
+**Software Stack (1)**
+- Takuji Hiraoka (Fixstars Amplify/Q-STAR, 45min)
+- Ryota Kojima (QunaSys)
+
+***
+#### 14:45 - 15:15
+**Break**
+
+***
+#### 15:15 - 16:15
+**Software Stack (2)**
+- Shoko Utsunomiya (AWS Japan)
+- Sam Stanwyck (NVIDIA)
+
+***
+#### 16:15 - 16:30
+**Closing remarks**
+
 
 ***
 #### 18:00
