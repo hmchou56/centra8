@@ -14,7 +14,6 @@ hide: true
 ## Program Committee
 - Hsiu-Mei Chou, National Center for High-Performance Computing (NCHC), Taiwan
 - Jose Fortes, University of Florida, US
-- Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 - Hidehisa Nagano, National Institute of Information and Communications Technology (NICT), Japan
 - Rui Oliveria, INESCTEC, Portugal
 - Beth Plale, Indiana University, US
@@ -24,16 +23,15 @@ hide: true
 
 ## Organizing Committees
 ### Local Organizing Committee
--	Vivian Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
--	Yumiko Saita, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 -	Hitoshi Sato, National Institute of Advanced Industrial Science and Technology (AIST), Japan
--	Ryousei Takano, National Institute of Advanced Industrial Science and Technology (AIST), Japan
+-	Yaeko Takeuchi, National Institute of Advanced Industrial Science and Technology (AIST), Japan
+- Hide Yokoi, National Institute of Advanced Industrial Science and Technology (AIST), Japan
+ 
 ### Operations Committee
+- Vivian Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 -	Robert Ping, Pervasive Technology Institute at Indiana University, US
 -	Andreia Passos, INESCTEC, Portugal
   
 ## Sponsors
--	G-QuAT
--	Pervasive Technology Institute [Visit PTI@IU](https://pti.iu.edu)
 
 <!--## Contact-->
