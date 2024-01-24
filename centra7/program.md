@@ -44,11 +44,11 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 <br>
 
 ***
-#### 09:00 – 09:15
+#### 09:00 – 09:05
 **Opening Welcome**
 
 ***
-#### 09:15 - 10:00
+#### 09:05 - 10:00
 **Global Perspectives on Cloud-Edge Fusion I**
 - Beth Plale, Indiana University
 - Hidehisa Nagano, NICT
