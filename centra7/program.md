@@ -50,8 +50,8 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ***
 #### 09:15 - 10:00
 **Global Perspectives on Cloud-Edge Fusion I**
-- **IU**
-- **NICT**
+- Beth Plale, Indiana University
+- Hidehisa Nagano, NICT
 
 ***
 #### 10:00 – 10:30 
@@ -60,8 +60,8 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ****
 #### 10:30 – 11:45
 **Global Perspectives on Cloud-Edge Fusion II**
-- **NCHC (TBD)**
-- **KISTI (TBD, virtual/remote presentation)**
+- Speaker TBD, National Center for High Performance Computing
+- Jeonghoon Moon, KISTI (virtual/remote presentation)
 
 ****
 #### 11:45 – 12:45 
@@ -70,28 +70,42 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ****
 #### 12:45 – 13:00
 **AIST Cloud-Edge Fusion Opening**
+- Hiro Kishimoto@AIST (15min)
 
 ****
-#### 13:00 – 14:30
-**Session I Resource Management**
-- Chair: Hirofuchi
+#### 13:00-14:20
+**Resource Management**
+- Takahiro Hirofuchi, AIST (5min)
+- Tetsuya Ido, NICT (30min)
+- Katsuhiro Horiba, Softbank (30min)
+- Kohei Taniguchi, Osaka University (15min)
 
 ****
-#### 14:30 — 15:00 
+#### 14:20 - 14:50
 **Break**
 
 ****
-#### 15:00 – 16:15 
-**Session II Zero Trust Network**
-- Chair: Oiwa
+#### 14:50 - 15:50
+**Zero Trust**
+- Yutaka Oiwa, AIST (15min)
+- Atsuko Takefusa, NII (30min)
+- Yuji Sekiya, University of Tokyo (15min)
 
 ****
-#### 16:15 – 17:45 
-**Session III Data Pipeline**
-- Chair: Tanimura
+#### 15:50 - 17:05
+**Data Management**
+- Kenichi Korai, Kyutech (30min)
+- Le Van An, AIST (15min)
+- Bou Savong, University of Tsukuba (15min)
+- Shin Nakajima, University of Tokyo (15min)
 
 ****
-#### 17:45 – 18:00
+#### 17:05 - 17:35
+**Global Perspectives on Cloud-Edge Fusion III**
+- Rui Oliveira, INESC-TEC (30min) 
+
+****
+#### 17:35 – 17:45
 **Closing Remarks**
 
 
