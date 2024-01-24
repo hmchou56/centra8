@@ -44,21 +44,21 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 <br>
 
 ***
-#### 09:00 – 09:05
+#### 09:00 – 09:15
 **Opening Welcome**
 
 ***
-#### 09:05 - 10:00
+#### 09:15 - 10:15
 **Global Perspectives on Cloud-Edge Fusion I**
 - Beth Plale, Indiana University
 - Hidehisa Nagano, NICT
 
 ***
-#### 10:00 – 10:30 
+#### 10:15 – 10:45 
 **Break**
 
 ****
-#### 10:30 – 11:45
+#### 10:45 – 11:45
 **Global Perspectives on Cloud-Edge Fusion II**
 - Speaker TBD, National Center for High Performance Computing
 - Jeonghoon Moon, KISTI (virtual/remote presentation)
@@ -261,19 +261,21 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 -->
 
 ****
-#### 09:05 – 10:30 
+#### 09:05 – 10:00 
+**Technical Abstract Presentations**
+- abstract 1 (~30min)
+- abstract 2 (~30min)
+
+****
+#### 10:00 – 10:30
+**Break**
+
+****
+#### 10:30 – 12:00
 **CEF Presentations**
 - Tomohiro Kudoh (AIST)
 - Softbank (TBD)
 - NTT Data (TBD)
-
-****
-#### 10:30 – 11:00
-**Break**
-
-****
-#### 11:00 – 12:00
-**Panel Discussion TBD**
 
 ****
 ### 12:00 – 13:30
