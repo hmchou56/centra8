@@ -42,7 +42,6 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 #### 08:30 - 09:00 
 **Registration** 
 <br>
-<br>
 
 ***
 #### 09:00 – 09:15
@@ -62,8 +61,7 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 #### 10:30 – 11:45
 **Global Perspectives on Cloud-Edge Fusion II**
 - **NCHC (TBD)**
-- **KISTI (TBD)**
-- **INESCTEC**
+- **KISTI (TBD, virtual/remote presentation)**
 
 ****
 #### 11:45 – 12:45 
