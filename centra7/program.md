@@ -70,15 +70,15 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ****
 #### 12:45 – 13:00
 **AIST Cloud-Edge Fusion Opening**
-- Hiro Kishimoto@AIST (15min)
+- Hiro Kishimoto, AIST
 
 ****
 #### 13:00-14:20
 **Resource Management**
-- Takahiro Hirofuchi, AIST (5min)
-- Tetsuya Ido, NICT (30min)
-- Katsuhiro Horiba, Softbank (30min)
-- Kohei Taniguchi, Osaka University (15min)
+- Takahiro Hirofuchi, AIST
+- Tetsuya Ido, NICT
+- Katsuhiro Horiba, Softbank
+- Kohei Taniguchi, Osaka University
 
 ****
 #### 14:20 - 14:50
@@ -87,22 +87,22 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ****
 #### 14:50 - 15:50
 **Zero Trust**
-- Yutaka Oiwa, AIST (15min)
-- Atsuko Takefusa, NII (30min)
-- Yuji Sekiya, University of Tokyo (15min)
+- Yutaka Oiwa, AIST 
+- Atsuko Takefusa, NII
+- Yuji Sekiya, University of Tokyo
 
 ****
 #### 15:50 - 17:05
 **Data Management**
-- Kenichi Korai, Kyutech (30min)
-- Le Van An, AIST (15min)
-- Bou Savong, University of Tsukuba (15min)
-- Shin Nakajima, University of Tokyo (15min)
+- Kenichi Korai, Kyutech
+- Le Van An, AIST
+- Bou Savong, University of Tsukuba 
+- Shin Nakajima, University of Tokyo
 
 ****
 #### 17:05 - 17:35
 **Global Perspectives on Cloud-Edge Fusion III**
-- Rui Oliveira, INESC-TEC (30min) 
+- Rui Oliveira, INESC-TEC 
 
 ****
 #### 17:35 – 17:45
@@ -126,7 +126,7 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ***
 #### 9:15 - 10:00  
 **G-QuAT**
-- Masahiro Horibe (AIST, 45min)
+- Masahiro Horibe, AIST
 
 ***
 #### 10:00 - 10:30
@@ -135,9 +135,9 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ***
 #### 10:30 - 12:00
 **HPC+QC**
-- Mitsuhisa Sato (RIKEN)
-- Ulf Tigerstedt (CSC)
-- Ryousei Takano (AIST)
+- Mitsuhisa Sato, RIKEN
+- Ulf Tigerstedt, CSC
+- Ryousei Takano, AIST
 
 ***
 #### 12:00 - 13:30
@@ -146,8 +146,8 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ***
 #### 13:30 - 14:45
 **Software Stack (1)**
-- Takuji Hiraoka (Fixstars Amplify/Q-STAR, 45min)
-- Ryota Kojima (QunaSys)
+- Takuji Hiraoka, Fixstars Amplify/Q-STAR
+- Ryota Kojima, QunaSys
 
 ***
 #### 14:45 - 15:15
@@ -156,8 +156,8 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ***
 #### 15:15 - 16:15
 **Software Stack (2)**
-- Shoko Utsunomiya (AWS Japan)
-- Sam Stanwyck (NVIDIA)
+- Shoko Utsunomiya, AWS Japan
+- Sam Stanwyck, NVIDIA
 
 ***
 #### 16:15 - 16:30
