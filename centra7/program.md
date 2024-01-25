@@ -145,7 +145,7 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 
 ***
 #### 13:30 - 14:45
-**Software Stack (1)**
+**Software Stack I**
 - Takuji Hiraoka, Fixstars Amplify/Q-STAR
 - Ryota Kojima, QunaSys
 
@@ -155,7 +155,7 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 
 ***
 #### 15:15 - 16:15
-**Software Stack (2)**
+**Software Stack II**
 - Shoko Utsunomiya, AWS Japan
 - Sam Stanwyck, NVIDIA
 
@@ -263,8 +263,8 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 ****
 #### 09:05 – 10:00 
 **Technical Abstract Presentations**
-- abstract 1 (~30min)
-- abstract 2 (~30min)
+- Abstract 1 
+- Abstract 2 
 
 ****
 #### 10:00 – 10:30
