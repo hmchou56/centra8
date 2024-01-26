@@ -39,7 +39,7 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ### Location: AIST Rinkai, Annex Building, 11F, Odaiba
 
 ***
-#### 08:30 - 17:30 
+#### 08:30 -  
 **Registration** 
 <br>
 
@@ -116,7 +116,7 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ### Location: Miraikan, Odaiba
 
 ***
-#### 08:30 - 16:30 
+#### 08:30 -  
 **Registration**  
 
 ***
@@ -176,7 +176,7 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ### Location: Miraikan, Odaiba
 
 ***
-#### 08:30 - 17:30 
+#### 08:30 -  
 **Registration** 
 <br>
 <br>
@@ -247,7 +247,7 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 ### Location: Miraikan, Odaiba
 
 ***
-#### 08:30 - 16:00 
+#### 08:30 -  
 **Registration** 
 <br>
 <br>
