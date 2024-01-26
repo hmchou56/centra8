@@ -283,15 +283,15 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 **(CENTRA Steering Committee meeting with lunch boxes)**
 
 ****
-### 13:30 – 14:30
+### 13:30 – 15:00
 **Concurrent Breakout Sessions**
 
 ****
-### 14:30 – 15:00
+### 15:00 – 15:30
 **Breakout reports**
 
 ****
-### 15:00 – 16:00
+### 15:30 – 16:00
 **Closing Remarks and Announcements for Future CENTRA Events**
 
 
