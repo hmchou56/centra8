@@ -20,6 +20,7 @@ hide: true
 - Woojin Seok, Korea Institute of Science and Technology Information (KISTI), Republic of Korea
 - Shinji Shimojo, Aomori University, Japan
 - Sachith Withana, Indiana University, US
+- Masahiro Horibe, G-QuAT, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 
 ## Organizing Committees
 ### Local Organizing Committee
