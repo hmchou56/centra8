@@ -165,9 +165,9 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 
 
 ***
-#### 18:00
+#### 18:00 - 20:00
 **CENTRA 7 Opening Reception**
-- TBD
+- Katsuo Tamago
 
 ****
       February 8, Thursday (木)
@@ -187,8 +187,7 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 
 ***
 #### 09:15 - 10:00
-**Keynote Presentation**
-**Keynote Presentation**  
+**Keynote Presentation** 
 Professor Rio Yokota  
 Global Scientific Information and Computing Center, Tokyo Institute of Technology  
 *Title: Training a Large Language Model on ABCI*  
@@ -212,9 +211,12 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 ****
 #### 13:00 – 15:00
 **Technical Abstract Presentations and Ongoing Project Updates**
+- **Abstract placeholder:**
+- **Abstract placeholder:**
+- **Abstract placeholder:**
+- **Abstract placeholder:**
 
-<!--
-- **Project review:** “AirBox: a Participatory Ecosystem for PM2.5 Monitoring,” Ling-Jyh Chen
+<!-- “AirBox: a Participatory Ecosystem for PM2.5 Monitoring,” Ling-Jyh Chen
 - **Project review:** “Distributed Lifemapper,” Aimee Stewart
 - **Proposed project:** “Privacy-preserving Cloud Computing for IoT,” INESC TEC and  KISTI
 - **Proposed project:** “Network Congestion Issues in Disaster Scenarios,” Krishna Kant
@@ -236,9 +238,9 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 **Concurrent Breakout Sessions**
 -->
 ***
-#### 18:00
+#### 18:00 - 20:00
 **CENTRA 7 Dinner**
-- Katsuo Tamago
+- Observation Lounge, Miraikan
 
 ****
       February 9, Friday (金)
@@ -263,8 +265,8 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 ****
 #### 09:05 – 10:00 
 **Technical Abstract Presentations**
-- Abstract 1 
-- Abstract 2 
+- **Abstract placeholder:**
+- **Abstract placeholder:**
 
 ****
 #### 10:00 – 10:30
