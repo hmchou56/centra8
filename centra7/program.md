@@ -39,7 +39,7 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ### Location: AIST Rinkai, Annex Building, 11F, Odaiba
 
 ***
-#### 08:30 - 09:00 
+#### 08:30 - 17:30 
 **Registration** 
 <br>
 
@@ -116,7 +116,7 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ### Location: Miraikan, Odaiba
 
 ***
-#### 08:30 - 09:00 
+#### 08:30 - 16:30 
 **Registration**  
 
 ***
@@ -176,7 +176,7 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ### Location: Miraikan, Odaiba
 
 ***
-#### 08:30 - 09:00 
+#### 08:30 - 17:30 
 **Registration** 
 <br>
 <br>
@@ -228,17 +228,17 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 **Break**
 
 ****
-#### 15:30 – 16:30 
+#### 15:30 – 17:00 
 **Concurrent Breakout Sessions**
 
-****
-#### 16:30 – 17:30 
+<!--****
+#### 16:30 – 17:00 
 **Concurrent Breakout Sessions**
-
+-->
 ***
 #### 18:00
 **CENTRA 7 Dinner**
-- TBD
+- Katsuo Tamago
 
 ****
       February 9, Friday (金)
@@ -247,7 +247,7 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 ### Location: Miraikan, Odaiba
 
 ***
-#### 08:30 - 09:00 
+#### 08:30 - 16:00 
 **Registration** 
 <br>
 <br>
