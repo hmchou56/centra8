@@ -7,7 +7,7 @@ published: true
 hide: true
 ---
 
-## CENTRA 7 Meeting Tentative Program <br> For the latest program details and schedule information go to [Sched](https://centra7.sched.com/).<br> 
+## CENTRA 7 Program and Schedule <br> For the latest details and schedule information go to [Sched](https://centra7.sched.com/).<br> 
 ### (All times are local time in Tokyo, Japan. For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).<br>  
 <br>
 
