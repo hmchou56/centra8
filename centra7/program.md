@@ -93,7 +93,7 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 
 ****
 #### 15:50 - 17:05
-**Data Management**
+**Data Security and Trust**
 - Kenichi Korai, Kyutech
 - Le Van An, AIST
 - Bou Savong, University of Tsukuba 
