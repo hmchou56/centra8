@@ -60,7 +60,8 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 ****
 #### 10:45 – 11:45
 **Global Perspectives on Cloud-Edge Fusion II**
-- Speaker TBD, National Center for High Performance Computing
+- Ming-Der Yang, Fang-Pang Lin, National Center for High Performance Computing
+  - Title: HPC Cloud and Smart Appliances 
 - Jeonghoon Moon, KISTI (virtual/remote presentation)
 
 ****
