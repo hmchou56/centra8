@@ -7,16 +7,18 @@ published: true
 hide: true
 ---
 
-The CENTRA 7 program is available below and [available here on the Sched platform](https://centra7.sched.com/). 
-The Sched platform allows attendees to create a profile to connect and network with other folks attending CENTRA 7.
-It also allows for the fastest updates to the program schedule.
+## CENTRA 7 Meeting Tentative Program <br> For the latest program details and schedule information go to [Sched](https://centra7.sched.com/).<br> 
+### (All times are local time in Tokyo, Japan. For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).<br>  
+<br>
+
+The Sched platform allows attendees to create a profile to connect with other folks attending CENTRA 7. It also allows for the fastest updates to the program schedule. We encourage everyone to create a Sched profile and upload your photo and biographical information. Creating your profile and encouraging others to do the same is a great way to learn about all the attendees and network with others who attend CENTRA 7.
 
 **Pro-tips!**
 In Sched, click on SCHEDULE (next to SPEAKERS, SPONSORS, etc) and then choose EXPANDED view to see the abstracts of each talk and the speaker's name.
 
 If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you click on your own profile or click on your profile image, then you need to go to settings and change your settings to be public so everyone attending can see you.
 
-We encourage everyone to create a Sched profile and upload your photo and biographical information. Creating your profile and encouraging others to do the same is your best bet for learning about all the attendees and networking with others who attend CENTRA 7.
+
 
 **To make your Sched profile public:**
 - Go [here](https://centra7.sched.com/)
@@ -26,11 +28,7 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 - Under Privacy & Email, turn the switch for MAKE MY PROFILE & SCHEDULE PUBLIC to green.
 - You can update other information in your schedule (like a photo and institutional affiliation)
 - IMPORTANT: Scroll all the way to bottom and choose SAVE SETTINGS
-
 <br>
-<br>
-
-## CENTRA 7 Meeting Tentative Program <br> (All times are local time in Tokyo, Japan. For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).<br> Program details and updated schedule information are available in [Sched](https://centra7.sched.com/). 
 
 ****
       February 6, Tuesday (火)
@@ -61,7 +59,6 @@ We encourage everyone to create a Sched profile and upload your photo and biogra
 #### 10:45 – 11:45
 **Global Perspectives on Cloud-Edge Fusion II**
 - Ming-Der Yang, Fang-Pang Lin, National Center for High Performance Computing
-  - Title: HPC Cloud and Smart Appliances 
 - Jeonghoon Moon, KISTI (virtual/remote presentation)
 
 ****
