@@ -11,16 +11,13 @@ hide: true
 ### (All times are local time in Tokyo, Japan. For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).<br>  
 <br>
 
-The Sched platform allows attendees to create a profile to connect with other folks attending CENTRA 7. It also allows for the fastest updates to the program schedule. We encourage everyone to create a Sched profile and upload your photo and biographical information. Creating your profile and encouraging others to do the same is a great way to learn about all the attendees and network with others who attend CENTRA 7.
+The Sched platform allows attendees to create a profile to connect with other participants at CENTRA 7. It also allows for the fastest updates to the program schedule. We encourage everyone to create a Sched profile and upload your photo and biographical information. It is a great way to learn about all the attendees and network with each other.
 
-**Pro-tips!**
+**Pro-tip!**
 In Sched, click on SCHEDULE (next to SPEAKERS, SPONSORS, etc) and then choose EXPANDED view to see the abstracts of each talk and the speaker's name.
 
-If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you click on your own profile or click on your profile image, then you need to go to settings and change your settings to be public so everyone attending can see you.
+If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you click on your own profile and you would like to make your profile public, please follow these steps: 
 
-
-
-**To make your Sched profile public:**
 - Go [here](https://centra7.sched.com/)
 - Login to Sched.
 - Click on your image or initials in upper right corner
