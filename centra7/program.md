@@ -8,7 +8,7 @@ hide: true
 ---
 
 ## CENTRA 7 Program and Schedule <br> For the latest details and schedule information go to [Sched](https://centra7.sched.com/).<br> 
-### (All times are local time in Tokyo, Japan. For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).<br>  
+### (All times are Japan Standard Time (JST). For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).<br>  
 <br>
 
 The Sched platform allows attendees to create a profile to connect with other participants at CENTRA 7. It also allows for the fastest updates to the program schedule. We encourage everyone to create a Sched profile and upload your photo and biographical information. It is a great way to learn about all the attendees and network with each other.
