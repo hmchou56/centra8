@@ -194,13 +194,13 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 ****
 #### 10:30 – 12:00
 **Institutional Updates**
-- **UF Gainesville**
-- **Indiana University**
 - **AIST**
+- **KISTI**
 - **NICT**
 - **NCHC**
-- **KISTI**
+- **Indiana University**
 - **INESCTEC**
+- **UF Gainesville**
 
 ****
 #### 12:00 – 13:00 
