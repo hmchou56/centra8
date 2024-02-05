@@ -28,6 +28,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 - You can update other information in your schedule (like a photo and institutional affiliation)
 - IMPORTANT: Scroll all the way to bottom and choose SAVE SETTINGS
 <br>
+
 <!--
 ****
       February 6, Tuesday (火)
@@ -215,16 +216,7 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 - **Abstract placeholder:**
 - **Abstract placeholder:**
 - **Abstract placeholder:**
--->
-<!-- “AirBox: a Participatory Ecosystem for PM2.5 Monitoring,” Ling-Jyh Chen
-- **Project review:** “Distributed Lifemapper,” Aimee Stewart
-- **Proposed project:** “Privacy-preserving Cloud Computing for IoT,” INESC TEC and  KISTI
-- **Proposed project:** “Network Congestion Issues in Disaster Scenarios,” Krishna Kant
-- **Proposed project:** “PADE: Precision Agriculture with Drones and Edge,” Christopher  Stewart
-  “Using UAV Images to Monitoring Rice Paddy with Artificial Intelligence,” Hui-Ping Tsai et al.
-- **Proposed project:** “Secure Data Collaboration Using GFFS,” Andrew Grimshaw
--->
-<!--
+
 ****
 #### 15:00 — 15:30 
 **Break**
@@ -286,6 +278,7 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 ****
 ### 15:30 – 16:00
 **Closing Remarks and Announcements for Future CENTRA Events**
+
 -->
 
 
