@@ -7,7 +7,9 @@ published: true
 hide: true
 ---
 
-## CENTRA 7 Program and Schedule <br> For the latest details and schedule information go to [Sched](https://centra7.sched.com/).<br> 
+# CENTRA 7 Program and Schedule <br> 
+# For the latest details and schedule information go to [Sched](https://centra7.sched.com/).<br> 
+# NOTE: Due to the need to quickly make updates to the program and to avoid confusion, we are temporaily removing the program from this page. The program is publically viewable on [Sched](https://centra7.sched.com/).
 ### (All times are Japan Standard Time (JST). For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).<br>  
 <br>
 
@@ -26,7 +28,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 - You can update other information in your schedule (like a photo and institutional affiliation)
 - IMPORTANT: Scroll all the way to bottom and choose SAVE SETTINGS
 <br>
-
+<!--
 ****
       February 6, Tuesday (火)
 
@@ -213,7 +215,7 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 - **Abstract placeholder:**
 - **Abstract placeholder:**
 - **Abstract placeholder:**
-
+-->
 <!-- “AirBox: a Participatory Ecosystem for PM2.5 Monitoring,” Ling-Jyh Chen
 - **Project review:** “Distributed Lifemapper,” Aimee Stewart
 - **Proposed project:** “Privacy-preserving Cloud Computing for IoT,” INESC TEC and  KISTI
@@ -222,7 +224,7 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
   “Using UAV Images to Monitoring Rice Paddy with Artificial Intelligence,” Hui-Ping Tsai et al.
 - **Proposed project:** “Secure Data Collaboration Using GFFS,” Andrew Grimshaw
 -->
-
+<!--
 ****
 #### 15:00 — 15:30 
 **Break**
@@ -231,10 +233,6 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 #### 15:30 – 17:00 
 **Concurrent Breakout Sessions**
 
-<!--****
-#### 16:30 – 17:00 
-**Concurrent Breakout Sessions**
--->
 ***
 #### 18:00 - 20:00
 **CENTRA 7 Dinner**
@@ -254,11 +252,6 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 
 #### 09:00 – 09:05 
 **Opening remarks/Housekeeping**
-
-<!--****
-#### 09:05 – 09:30
-**Brief Report back from Breakouts**
--->
 
 ****
 #### 09:05 – 10:00 
@@ -293,6 +286,6 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 ****
 ### 15:30 – 16:00
 **Closing Remarks and Announcements for Future CENTRA Events**
-
+-->
 
 
