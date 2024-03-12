@@ -32,7 +32,7 @@ Operations Committee members consists of staff from the Partner organiztions and
 
 **Current Operations Committee Members:**
 *  Vivian Haga (Chair), The National Institute of Advanced Industrial Science and Technology (AIST), Japan
-*  Andreia Passeos, The Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal
+*  Andreia Passos, The Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal
 *  Robert Ping, Indiana University, USA
 
 <div id="researchers"> </div>
