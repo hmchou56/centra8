@@ -28,7 +28,7 @@ Each partner hosts workshops, supports researcher visits to other partners, host
 <div id="Operations Committee"> </div>
 
 # Operations Committee - Members
-Operations Committee members consists of staff from the Partner organiztions and are nominated and approved by the Steering Committee. The role of the Operations Committee is to support the operational needs of CENTRA.
+Operations Committee members consists of staff from Partner organizations and CENTRA meeting host organizations. Members are nominated and approved by the Steering Committee. The role of the Operations Committee is to support the operational needs of CENTRA.
 
 **Current Operations Committee Members:**
 *  Vivian Haga (Chair), The National Institute of Advanced Industrial Science and Technology (AIST), Japan
