@@ -29,7 +29,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 - IMPORTANT: Scroll all the way to bottom and choose SAVE SETTINGS
 <br>
 
-<!--
+
 ****
       February 6, Tuesday (火)
 
@@ -42,14 +42,19 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 <br>
 
 ***
-#### 09:00 – 09:15
+#### 09:10 – 09:15
 **Opening Welcome**
+- Jason Haga, Chief Senior Research Scientist, AIST
 
 ***
 #### 09:15 - 10:15
 **Global Perspectives on Cloud-Edge Fusion I**
-- Beth Plale, Indiana University
-- Hidehisa Nagano, NICT
+
+- 09:15 - 9:45:  CKN: an Edge AI Distributed Framework  
+                Beth Plale, Michael A and Laurie Burns McRobbie Bicentennial Professor of Computer Engineering, Indiana University
+
+- 09:45 - 10:15:  HPC Cloud and Smart Appliances  
+                 Ming-Der Yang, Fang-Pang Lin, National Center for High Performance Computing
 
 ***
 #### 10:15 – 10:45 
@@ -58,8 +63,12 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 ****
 #### 10:45 – 11:45
 **Global Perspectives on Cloud-Edge Fusion II**
-- Ming-Der Yang, Fang-Pang Lin, National Center for High Performance Computing
-- Jeonghoon Moon, KISTI (virtual/remote presentation)
+
+- 10:45 - 11:15:  Research and Development of “Beyond 5G/IoT testbed with high-reliability and high-elasticity” and Edge Computing Towards Beyond 5G Era  
+Hidehisa Nagano, NICT
+
+- 11:15 – 11:45:  Introduction to High Bandwidth Distributed HPC and Korea Research Platform  
+Jeonghoon Moon, KISTI (virtual/remote presentation)
 
 ****
 #### 11:45 – 12:45 
@@ -68,15 +77,23 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 ****
 #### 12:45 – 13:00
 **AIST Cloud-Edge Fusion Opening**
-- Hiro Kishimoto, AIST
+- Hiro Kishimoto, Director, Digital Architecture Research Center, AIST
 
 ****
-#### 13:00-14:20
-**Resource Management**
-- Takahiro Hirofuchi, AIST
-- Tetsuya Ido, NICT
-- Katsuhiro Horiba, Softbank
-- Kohei Taniguchi, Osaka University
+#### 13:00 - 14:20
+**Session I: Resource Management**
+
+- 13:00 - 13:05: Opening  
+Chair: Takahiro Hirofuchi, Continuum Computing Infrastructure Research Team Leader, Digital Architechure Research Center, AIST
+
+- 13:05 - 13:35:  Space-Time Synchronization Now Relevant to Computer Technology  
+Tetsuya Ido, Director, NICT
+
+- 13:35 - 14:05:  Demonstration Experience of Low-latency Applications using SRv6 MUP  
+Katsuhiro Horiba, Acting Director, SoftBank Research Institute of Advanced Technology, Advanced Network Research Office
+
+- 14:05 - 14:20: A Profile of Deterministic Networking for Cloud-Edge Continuum Computing Platform  
+Kohei Taniguchi, Specially Appointed Researcher, Osaka University 
 
 ****
 #### 14:20 - 14:50
@@ -84,27 +101,42 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 
 ****
 #### 14:50 - 15:50
-**Zero Trust**
-- Yutaka Oiwa, AIST 
-- Atsuko Takefusa, NII
-- Yuji Sekiya, University of Tokyo
+**Session II: Zero Trust Network**
+
+- 14:50 - 15:20:  System Software Studies towards Zero Trust IoT (ZT-IoT)  
+Atsuko Takefusa, Professor, The National Institute of Informatics
+
+- 15:20 - 15:35:  Securing Cloud-to-Edge Computing by Network and Data Layers  
+Yutaka Oiwa, Leader, Continuum Computing Trustworthiness Research Team, Digital Architecture Research Center, AIST
+
+- 15:35 - 15:50:  Research on Network Security and Stable Performance for Distributed Cloud Environment  
+Yuji Sekiya, Professor, The University of Tokyo
 
 ****
 #### 15:50 - 17:05
-**Data Security and Trust**
-- Kenichi Korai, Kyutech
-- Le Van An, AIST
-- Bou Savong, University of Tsukuba 
-- Shin Nakajima, University of Tokyo
+**Session III: Data Security and Trust**
+- 15:50 - 16:20:  Infrastructure for Privacy-Centric Information Processing  
+Kenichi Kourai, Professor, Kyushu Institute of Technology
+
+- 16:20 - 16:35:  Privacy Preservation and Collaborative Learning in the Edge-to-Cloud Infrastructure using Nvidia FLARE  
+Le Van An, Post Doctoral Researcher, Digital Architecture Research Center, AIST
+
+- 16:35 - 16:50:  Efficient Distance Likelihood for Predicting Missing Attribute Value  
+Savong Bou, Assistant Professor, Center for Computational Sciences, University of Tsukuba
+
+- 16:50 - 17:05:  Data Act through a Lens of Data Usage Control  
+Shin Nakajima, Project Professor, University of Tokyo
 
 ****
 #### 17:05 - 17:35
 **Global Perspectives on Cloud-Edge Fusion III**
-- Rui Oliveira, INESC-TEC 
+- From Pervasive Intelligence to Global Understanding  
+Rui Oliveira, Member of Board, INESC TEC
 
 ****
 #### 17:35 – 17:45
 **Closing Remarks**
+- Hiro Kishimoto, Director, Digital Architecture Research Center, AIST
 
 
 ****
@@ -120,11 +152,13 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 ***
 #### 09:00 - 09:15  
 **Welcome Remarks**  
+- Ryousei Tanako. Deputy Leader, AIST
 
 ***
 #### 9:15 - 10:00  
 **G-QuAT**
-- Masahiro Horibe, AIST
+- Accelerating Quantum Business Ecosystem Creation  
+Masahiro Horibe, Deputy Director G-QuAT, AIST
 
 ***
 #### 10:00 - 10:30
@@ -133,9 +167,14 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 ***
 #### 10:30 - 12:00
 **HPC+QC**
-- Mitsuhisa Sato, RIKEN
-- Ulf Tigerstedt, CSC
-- Ryousei Takano, AIST
+- 10:30 - 11:00:  Quantum HPC Hybrid Computing Platform Project in RIKEN R-CCS  
+Mitsuhisa Sato, Deputy Director, RIKEN, R-CCS
+
+- 11:00 - 11:30:  Nordic Work on Combining Quantum Computers with HPC Resources  
+Ulf Tigerstedt,  Senior application specialist, CSC - It center for science
+
+- 11:30 - 12:00:  ABCI-Q: ABCI's Journey and Future Direction  
+Ryousei Takano, Senior Researcher, Digital Architecture Research Center, AIST
 
 ***
 #### 12:00 - 13:30
@@ -144,8 +183,11 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 ***
 #### 13:30 - 14:45
 **Software Stack I**
-- Takuji Hiraoka, Fixstars Amplify/Q-STAR
-- Ryota Kojima, QunaSys
+- 10:30 - 11:15:  Quantum-Ready Software Platform Developed in Japan  
+Takuji Hiraoka, CEO, Fixstars Amplify/Q-STAR
+
+- 11:15 - 11:30:  QunaSys Overview: SIP & QURI Parts  
+Ryota Kojima, Principal Software Engineer, QunaSys
 
 ***
 #### 14:45 - 15:15
@@ -154,13 +196,16 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 ***
 #### 15:15 - 16:15
 **Software Stack II**
-- Shoko Utsunomiya, AWS Japan
-- Sam Stanwyck, NVIDIA
+- 15:15 - 15:45:  Quantum Computing on AWS  
+Shoko Utsunomiya, Principal ML / Quantum Specialist Solutions Architect, Amazon Web Services, G.K.
+
+- 15:45 - 16:15:  Quantum Computing with CUDA Quantum  
+Sam Stanwyck, Quantum Product Lead, NVIDIA
 
 ***
 #### 16:15 - 16:30
 **Closing remarks**
-
+- Jason Haga, Chief Senior Research Scientist, AIST
 
 ***
 #### 18:00 - 20:00
@@ -180,15 +225,18 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 <br>
 
 ***
-#### 09:00 – 09:15
+#### 09:00 – 09:10
 **Opening Welcome**
+- Hiro Kishimoto, Director, Digital Architecture Research Center, AIST
+
+**CENTRA 7 Logistics**
+- Jason Haga, Chief Senior Research Scientist, AIST
 
 ***
-#### 09:15 - 10:00
+#### 09:10 - 10:00
 **Keynote Presentation** 
-Professor Rio Yokota  
-Global Scientific Information and Computing Center, Tokyo Institute of Technology  
-*Title: Training a Large Language Model on ABCI*  
+- Training a Large Language Model on ABCI  
+Rio Yokota, Professor, Global Scientific Information and Computing Center, Tokyo Institute of Technology 
 
 ***
 #### 10:00 – 10:30 
@@ -196,14 +244,24 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 
 ****
 #### 10:30 – 12:00
-**Institutional Updates**
-- **AIST**
-- **KISTI**
-- **NICT**
-- **NCHC**
-- **Indiana University**
-- **INESCTEC**
-- **UF Gainesville**
+**Institutional Updates**  
+**KISTI Update**
+- Woojin Seok
+
+**AIST Update**
+- Jason Haga
+
+**NICT Update**
+- Hidehisa Nagano
+
+**Indiana University Update**
+- Beth Plale
+
+**INESC TEC Update**
+- Rui Oliveria
+
+**University of Florida, Gainesville Update**
+- Jose Fortes
 
 ****
 #### 12:00 – 13:00 
@@ -212,10 +270,14 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 ****
 #### 13:00 – 15:00
 **Technical Abstract Presentations and Ongoing Project Updates**
-- **Abstract placeholder:**
-- **Abstract placeholder:**
-- **Abstract placeholder:**
-- **Abstract placeholder:**
+- 13:00 - 13:30:  A Deterministic Scheduler for Hybrid Wired and Wireless Network Resources over Cloud-Edge Continuum Computing Platform  
+Kundjanasith Thonglek, Osaka University   
+- 13:30 - 14:00:  The Preliminary Study of Federated Learning for Enhancing the HPC Job Scheduling Policy  
+Weicheng Huang, NARLabs
+- 14:00 - 14:30:  Model Disparity in Distributed Learning  
+Ana Nunes Alonso, INESC TEC
+- 14:30 - 15:00:  Enabling Real-Time Multispectral Imagery Processing And Object Detection With Edge Computer On Unmanned Aerial Vehicles  
+Hsin-Hung Tseng, Ming-Der Yang National Chung Hsing University (Taiwan) 
 
 ****
 #### 15:00 — 15:30 
@@ -244,12 +306,16 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 
 #### 09:00 – 09:05 
 **Opening remarks/Housekeeping**
+- Jason Haga, Chief Senior Research Scientist, AIST
 
 ****
 #### 09:05 – 10:00 
 **Technical Abstract Presentations**
-- **Abstract placeholder:**
-- **Abstract placeholder:**
+- 9:05 - 9:35:  Dynamic Edge-to-Cloud Model Selection Via Confidence Estimation  
+Michael J. Elliott, University of Florida, Gainesville
+
+- 9:35 - 10:05:  Highly Scalable Personalized Treatment Recommendation in Critical Care  
+Chandra Prasetyo Utomo, Universitas YARSI
 
 ****
 #### 10:00 – 10:30
@@ -258,9 +324,14 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 ****
 #### 10:30 – 12:00
 **CEF Presentations**
-- Tomohiro Kudoh (AIST)
-- Softbank (TBD)
-- NTT Data (TBD)
+- 10:30 - 11:00: CloudEdge Fusion Project
+Tomohiro Kudoh, Joint Appointed Fellow, National Institute of Advanced Industrial Science and Technology (AIST)
+
+- 11:00 - 11:30: Next-Generation Social Infrastructure and its Platform Concept  
+Kinya Matsumoto, Manager, SoftBank Corp. Data Platform Strategy Division, Architecture Promotion Office
+
+- 11:30 - 12:00: Secret Processing and Portable Execution Technology of Data and Algorithms for Realizing Data Space Ecosystems  
+Miki Kanno, Manager NTT DATA Group Corporation, IOWN Innovation Office, Research and Development Headquarters, Technology and Innovation General Headquarters
 
 ****
 ### 12:00 – 13:30
@@ -274,11 +345,24 @@ Global Scientific Information and Computing Center, Tokyo Institute of Technolog
 ****
 ### 15:00 – 15:30
 **Breakout reports**
+- Leader: Akram Ben Ahmed, AIST  
+Hardware/Software Co-design for Edge Computing Systems
+
+- Leader: Weicheng Huang, NCHC  
+Federated Learning
+
+- Leader: Min-der Yang, National Chung Hsing University  
+Digi-Agriculture Cloud/Edge Application
+
+- Leader: Glenn Ricart, US Ignite, Founder and CTO  
+Innovative Global Science for Smart and Connected Communities
 
 ****
 ### 15:30 – 16:00
 **Closing Remarks and Announcements for Future CENTRA Events**
+- Jose Fortes, Professor, University of Florida, Gainesville
 
+<!--
 -->
 
 
