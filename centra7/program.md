@@ -50,11 +50,11 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 #### 09:15 - 10:15
 **Global Perspectives on Cloud-Edge Fusion I**
 
-- 09:15 - 9:45:  CKN: an Edge AI Distributed Framework  
-                Beth Plale, Michael A and Laurie Burns McRobbie Bicentennial Professor of Computer Engineering, Indiana University
+- 09:15 - 9:45: CKN: an Edge AI Distributed Framework
+Beth Plale, Michael A and Laurie Burns McRobbie Bicentennial Professor of Computer Engineering, Indiana University
 
-- 09:45 - 10:15:  HPC Cloud and Smart Appliances  
-                 Ming-Der Yang, Fang-Pang Lin, National Center for High Performance Computing
+- 09:45 - 10:15: HPC Cloud and Smart Appliances  
+Ming-Der Yang, Fang-Pang Lin, National Center for High Performance Computing
 
 ***
 #### 10:15 – 10:45 
@@ -64,10 +64,10 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 #### 10:45 – 11:45
 **Global Perspectives on Cloud-Edge Fusion II**
 
-- 10:45 - 11:15:  Research and Development of “Beyond 5G/IoT testbed with high-reliability and high-elasticity” and Edge Computing Towards Beyond 5G Era  
+- 10:45 - 11:15: Research and Development of “Beyond 5G/IoT testbed with high-reliability and high-elasticity” and Edge Computing Towards Beyond 5G Era  
 Hidehisa Nagano, NICT
 
-- 11:15 – 11:45:  Introduction to High Bandwidth Distributed HPC and Korea Research Platform  
+- 11:15 – 11:45: Introduction to High Bandwidth Distributed HPC and Korea Research Platform  
 Jeonghoon Moon, KISTI (virtual/remote presentation)
 
 ****
