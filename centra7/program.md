@@ -50,7 +50,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 #### 09:15 - 10:15
 **Global Perspectives on Cloud-Edge Fusion I**
 
-- 09:15 - 9:45: CKN: an Edge AI Distributed Framework
+- 09:15-9:45: CKN: an Edge AI Distributed Framework  
 Beth Plale, Michael A and Laurie Burns McRobbie Bicentennial Professor of Computer Engineering, Indiana University
 
 - 09:45 - 10:15: HPC Cloud and Smart Appliances  
