@@ -50,10 +50,10 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 #### 09:15 - 10:15
 **Global Perspectives on Cloud-Edge Fusion I**
 
-09:15 - 9:45: CKN: an Edge AI Distributed Framework  
+- CKN: an Edge AI Distributed Framework  
 Beth Plale, Michael A and Laurie Burns McRobbie Bicentennial Professor of Computer Engineering, Indiana University
 
-09:45 - 10:15: HPC Cloud and Smart Appliances  
+- HPC Cloud and Smart Appliances  
 Ming-Der Yang, Fang-Pang Lin, National Center for High Performance Computing
 
 ***
@@ -64,10 +64,10 @@ Ming-Der Yang, Fang-Pang Lin, National Center for High Performance Computing
 #### 10:45 – 11:45
 **Global Perspectives on Cloud-Edge Fusion II**
 
-10:45 - 11:15: Research and Development of “Beyond 5G/IoT testbed with high-reliability and high-elasticity” and Edge Computing Towards Beyond 5G Era  
+- Research and Development of “Beyond 5G/IoT testbed with high-reliability and high-elasticity” and Edge Computing Towards Beyond 5G Era  
 Hidehisa Nagano, NICT
 
-11:15 – 11:45: Introduction to High Bandwidth Distributed HPC and Korea Research Platform  
+- Introduction to High Bandwidth Distributed HPC and Korea Research Platform  
 Jeonghoon Moon, KISTI (virtual/remote presentation)
 
 ****
@@ -83,16 +83,16 @@ Jeonghoon Moon, KISTI (virtual/remote presentation)
 #### 13:00 - 14:20
 **Session I: Resource Management**
 
-- 13:00 - 13:05: Opening  
+- Opening  
 Chair: Takahiro Hirofuchi, Continuum Computing Infrastructure Research Team Leader, Digital Architechure Research Center, AIST
 
-- 13:05 - 13:35:  Space-Time Synchronization Now Relevant to Computer Technology  
+- Space-Time Synchronization Now Relevant to Computer Technology  
 Tetsuya Ido, Director, NICT
 
-- 13:35 - 14:05:  Demonstration Experience of Low-latency Applications using SRv6 MUP  
+- Demonstration Experience of Low-latency Applications using SRv6 MUP  
 Katsuhiro Horiba, Acting Director, SoftBank Research Institute of Advanced Technology, Advanced Network Research Office
 
-- 14:05 - 14:20: A Profile of Deterministic Networking for Cloud-Edge Continuum Computing Platform  
+- A Profile of Deterministic Networking for Cloud-Edge Continuum Computing Platform  
 Kohei Taniguchi, Specially Appointed Researcher, Osaka University 
 
 ****
@@ -103,28 +103,28 @@ Kohei Taniguchi, Specially Appointed Researcher, Osaka University
 #### 14:50 - 15:50
 **Session II: Zero Trust Network**
 
-- 14:50 - 15:20:  System Software Studies towards Zero Trust IoT (ZT-IoT)  
+- System Software Studies towards Zero Trust IoT (ZT-IoT)  
 Atsuko Takefusa, Professor, The National Institute of Informatics
 
-- 15:20 - 15:35:  Securing Cloud-to-Edge Computing by Network and Data Layers  
+- Securing Cloud-to-Edge Computing by Network and Data Layers  
 Yutaka Oiwa, Leader, Continuum Computing Trustworthiness Research Team, Digital Architecture Research Center, AIST
 
-- 15:35 - 15:50:  Research on Network Security and Stable Performance for Distributed Cloud Environment  
+- Research on Network Security and Stable Performance for Distributed Cloud Environment  
 Yuji Sekiya, Professor, The University of Tokyo
 
 ****
 #### 15:50 - 17:05
 **Session III: Data Security and Trust**
-- 15:50 - 16:20:  Infrastructure for Privacy-Centric Information Processing  
+- Infrastructure for Privacy-Centric Information Processing  
 Kenichi Kourai, Professor, Kyushu Institute of Technology
 
-- 16:20 - 16:35:  Privacy Preservation and Collaborative Learning in the Edge-to-Cloud Infrastructure using Nvidia FLARE  
+- Privacy Preservation and Collaborative Learning in the Edge-to-Cloud Infrastructure using Nvidia FLARE  
 Le Van An, Post Doctoral Researcher, Digital Architecture Research Center, AIST
 
-- 16:35 - 16:50:  Efficient Distance Likelihood for Predicting Missing Attribute Value  
+- Efficient Distance Likelihood for Predicting Missing Attribute Value  
 Savong Bou, Assistant Professor, Center for Computational Sciences, University of Tsukuba
 
-- 16:50 - 17:05:  Data Act through a Lens of Data Usage Control  
+- Data Act through a Lens of Data Usage Control  
 Shin Nakajima, Project Professor, University of Tokyo
 
 ****
@@ -167,13 +167,13 @@ Masahiro Horibe, Deputy Director G-QuAT, AIST
 ***
 #### 10:30 - 12:00
 **HPC+QC**
-- 10:30 - 11:00:  Quantum HPC Hybrid Computing Platform Project in RIKEN R-CCS  
+- Quantum HPC Hybrid Computing Platform Project in RIKEN R-CCS  
 Mitsuhisa Sato, Deputy Director, RIKEN, R-CCS
 
-- 11:00 - 11:30:  Nordic Work on Combining Quantum Computers with HPC Resources  
+- Nordic Work on Combining Quantum Computers with HPC Resources  
 Ulf Tigerstedt,  Senior application specialist, CSC - It center for science
 
-- 11:30 - 12:00:  ABCI-Q: ABCI's Journey and Future Direction  
+- ABCI-Q: ABCI's Journey and Future Direction  
 Ryousei Takano, Senior Researcher, Digital Architecture Research Center, AIST
 
 ***
@@ -183,10 +183,10 @@ Ryousei Takano, Senior Researcher, Digital Architecture Research Center, AIST
 ***
 #### 13:30 - 14:45
 **Software Stack I**
-- 10:30 - 11:15:  Quantum-Ready Software Platform Developed in Japan  
+- Quantum-Ready Software Platform Developed in Japan  
 Takuji Hiraoka, CEO, Fixstars Amplify/Q-STAR
 
-- 11:15 - 11:30:  QunaSys Overview: SIP & QURI Parts  
+- QunaSys Overview: SIP & QURI Parts  
 Ryota Kojima, Principal Software Engineer, QunaSys
 
 ***
@@ -196,10 +196,10 @@ Ryota Kojima, Principal Software Engineer, QunaSys
 ***
 #### 15:15 - 16:15
 **Software Stack II**
-- 15:15 - 15:45:  Quantum Computing on AWS  
+- Quantum Computing on AWS  
 Shoko Utsunomiya, Principal ML / Quantum Specialist Solutions Architect, Amazon Web Services, G.K.
 
-- 15:45 - 16:15:  Quantum Computing with CUDA Quantum  
+- Quantum Computing with CUDA Quantum  
 Sam Stanwyck, Quantum Product Lead, NVIDIA
 
 ***
@@ -270,13 +270,13 @@ Rio Yokota, Professor, Global Scientific Information and Computing Center, Tokyo
 ****
 #### 13:00 – 15:00
 **Technical Abstract Presentations and Ongoing Project Updates**
-- 13:00 - 13:30:  A Deterministic Scheduler for Hybrid Wired and Wireless Network Resources over Cloud-Edge Continuum Computing Platform  
+- A Deterministic Scheduler for Hybrid Wired and Wireless Network Resources over Cloud-Edge Continuum Computing Platform  
 Kundjanasith Thonglek, Osaka University   
-- 13:30 - 14:00:  The Preliminary Study of Federated Learning for Enhancing the HPC Job Scheduling Policy  
+- The Preliminary Study of Federated Learning for Enhancing the HPC Job Scheduling Policy  
 Weicheng Huang, NARLabs
-- 14:00 - 14:30:  Model Disparity in Distributed Learning  
+- Model Disparity in Distributed Learning  
 Ana Nunes Alonso, INESC TEC
-- 14:30 - 15:00:  Enabling Real-Time Multispectral Imagery Processing And Object Detection With Edge Computer On Unmanned Aerial Vehicles  
+- Enabling Real-Time Multispectral Imagery Processing And Object Detection With Edge Computer On Unmanned Aerial Vehicles  
 Hsin-Hung Tseng, Ming-Der Yang National Chung Hsing University (Taiwan) 
 
 ****
@@ -311,10 +311,10 @@ Hsin-Hung Tseng, Ming-Der Yang National Chung Hsing University (Taiwan)
 ****
 #### 09:05 – 10:00 
 **Technical Abstract Presentations**
-- 9:05 - 9:35:  Dynamic Edge-to-Cloud Model Selection Via Confidence Estimation  
+- Dynamic Edge-to-Cloud Model Selection Via Confidence Estimation  
 Michael J. Elliott, University of Florida, Gainesville
 
-- 9:35 - 10:05:  Highly Scalable Personalized Treatment Recommendation in Critical Care  
+- Highly Scalable Personalized Treatment Recommendation in Critical Care  
 Chandra Prasetyo Utomo, Universitas YARSI
 
 ****
@@ -324,13 +324,13 @@ Chandra Prasetyo Utomo, Universitas YARSI
 ****
 #### 10:30 – 12:00
 **CEF Presentations**
-- 10:30 - 11:00: CloudEdge Fusion Project
+- CloudEdge Fusion Project
 Tomohiro Kudoh, Joint Appointed Fellow, National Institute of Advanced Industrial Science and Technology (AIST)
 
-- 11:00 - 11:30: Next-Generation Social Infrastructure and its Platform Concept  
+- Next-Generation Social Infrastructure and its Platform Concept  
 Kinya Matsumoto, Manager, SoftBank Corp. Data Platform Strategy Division, Architecture Promotion Office
 
-- 11:30 - 12:00: Secret Processing and Portable Execution Technology of Data and Algorithms for Realizing Data Space Ecosystems  
+- Secret Processing and Portable Execution Technology of Data and Algorithms for Realizing Data Space Ecosystems  
 Miki Kanno, Manager NTT DATA Group Corporation, IOWN Innovation Office, Research and Development Headquarters, Technology and Innovation General Headquarters
 
 ****
