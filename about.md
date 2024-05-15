@@ -81,9 +81,9 @@ Operations Committee members consists of staff from Partner organizations and CE
 CENTRA engages international entities in collaborative research activities in several ways. Institutional members provide access to facilities and testbeds to host researchers and enable experimental work. Individual researchers who belong to member institutions, or are invited by these institutions, can participate in CENTRA projects. 
 
 **Current Institutional Members:** 
-*  Advanced Computing and Information Systems (<a href="https://www.acis.ufl.edu/" target="_blank">ACIS</a>)laboratory of the University of Florida, US
+*  Advanced Computing and Information Systems (<a href="https://www.acis.ufl.edu/" target="_blank">ACIS</a>)laboratory of the University of Florida, USA
 *  Center of Excellence for Cyber-Enablement of Applications (<a href="http://cecea.nchc.org.tw/">CECEA</a>), Taiwan
-*  Indiana University (<a href="https://www.iu.edu/index.html">IU</a>), US
+*  Indiana University (<a href="https://www.iu.edu/index.html">IU</a>), USA
 *  The Institute for Systems and Computer Engineering, Technology and Science (<a href="https://www.inesctec.pt/en" target="_blank">INESC TEC</a>), Portugal
 *  Korea Institute of Science and Technology Information (<a href="https://www.kisti.re.kr/eng/" target="_blank">KISTI</a>), Korea
 *  The National Institute of Advanced Industrial Science and Technology (<a href="https://www.aist.go.jp/index_en.html" target="_blank">AIST</a>), Japan
