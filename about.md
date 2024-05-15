@@ -79,6 +79,7 @@ Operations Committee members consists of staff from Partner organizations and CE
 # Collaborators
 
 CENTRA engages international entities in collaborative research activities in several ways. Institutional members provide access to facilities and testbeds to host researchers and enable experimental work. Individual researchers who belong to member institutions, or are invited by these institutions, can participate in CENTRA projects. 
+
 **Current Institutional Members:** 
 *  Advanced Computing and Information Systems (<a href="https://www.acis.ufl.edu/" target="_blank">ACIS</a>)laboratory of the University of Florida, US
 *  Center of Excellence for Cyber-Enablement of Applications (<a href="http://cecea.nchc.org.tw/">CECEA</a>), Taiwan
