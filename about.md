@@ -65,6 +65,35 @@ CENTRA's mission is to
 
 <div id="collaborators"></div>
 
+# Steering Committee
+The Steering Committee consists of Individual Members who are staff of Institutional Members and collectively provide direction on matters relating to CENTRA.
+
+**Current Steering Committee Members:**
+*  Fang-Pang Lin, National Center for High Performance Computing, Taiwan (Initial member)
+*  Hidehisa Nagano, National Institute of Information and Communications Technologies, Japan (Initial member)
+*  José Fortes, Advanced Computing and Information Systems Laboratory, University of Florida, USA (Initial member)
+*  Shava Smallen (acting), Pacific Rim Application And Grid Middleware Assembly (<a href="[http://cecea.nchc.org.tw](http://www.pragma-grid.net/index.php)/">PRAGMA</a>))
+*  Rui Oliveira, The Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal
+*  Woojin Seok, Korea Institute of Science and Technology Information (KISTI), Korea
+*  Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
+*  Beth Plale, Indiana University (IU), USA
+
+**Past Steering Committee Members:**
+*  Shinji Shimojo, National Institute of Information and Communications Technologies, Japan (Initial member)         
+*  Kum Won Cho, Korea Institute of Science and Technology Information (KISTI), Korea
+
+<div id="researchers"> </div>
+
+# Operations Committee
+Operations Committee members consists of staff from Partner organizations and CENTRA meeting host organizations. Members are nominated and approved by the Steering Committee. The role of the Operations Committee is to support the operational needs of CENTRA.
+
+**Current Operations Committee Members:**
+*  Vivian Haga (Chair), National Institute of Advanced Industrial Science and Technology (AIST), Japan
+*  Andreia Passos, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal
+*  Robert Ping, Indiana University, USA
+
+<div id="researchers"> </div>
+
 # Collaborators
 
 CENTRA engages international entities in collaborative research activities in several ways. Institutional members provide access to facilities and testbeds to host researchers and enable experimental work. Individual researchers who belong to member institutions, or are invited by these institutions, can participate in CENTRA projects. Current institutional members are the Advanced Computing and Information Systems (<a href="https://www.acis.ufl.edu/" target="_blank">ACIS</a>)laboratory of the University of Florida, the Center of Excellence for Cyber-Enablement of Applications (<a href="http://cecea.nchc.org.tw/">CECEA</a>) in Taiwan, the National Institute of Information and Communications Technologies (<a href="https://www.nict.go.jp/en/" target="_blank">NICT</a>) in Japan, the Institute for Systems and Computer Engineering, Technology and Science (<a href="https://www.inesctec.pt/en" target="_blank">INESC TEC</a>) in Portugal, Korea Institute of Science and Technology Information (<a href="https://www.kisti.re.kr/eng/" target="_blank">KISTI</a>) in Republic of Korea, and the National Institute of Advanced Industrial Science and Technology (<a href="https://www.aist.go.jp/index_en.html" target="_blank">AIST</a>) in Japan. Researchers who have accepted invitations of interest in participation in CENTRA activities are from a growing number of countries which include the following: Indonesia, Japan, Philippines, Portugal, Malaysia, Myanmar, Taiwan, Thailand, Singapore, South Korea, Vietnam and USA.
