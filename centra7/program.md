@@ -9,7 +9,6 @@ hide: true
 
 # CENTRA 7 Program and Schedule <br> 
 # For the latest details and schedule information go to [Sched](https://centra7.sched.com/).<br> 
-# NOTE: Due to the need to quickly make updates to the program and to avoid confusion, we are temporaily removing the program from this page. The program is publically viewable on [Sched](https://centra7.sched.com/).
 ### (All times are Japan Standard Time (JST). For time-zone conversions check [here](https://www.timeanddate.com/worldclock/converter.html)).<br>  
 <br>
 
