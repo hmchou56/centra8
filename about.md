@@ -26,6 +26,7 @@ CENTRA currently supports collaborative cyberinfrastructure research activities 
 * The emergence of software-defined cyberinfrastructure, starting with networking components followed by compute and 
 storage hardware and extending to middleware and application-software layers. 
 * The emergence of data and software that can be used to help understand and solve problems of regional or global nature.
+
 These trends are intertwined because software-definition can enable heterogeneous transnational cyberinfrastructure and applications to interoperate and integrate and, conversely, the characteristics and requirements of transnational cyberinfrastructure and applications determine the kinds of software-definition that need to be implemented. The confluence of these two trends creates many novel research questions and disrupts many established IT solutions adopted for problems of local or national scope and homogeneous cyberinfrastructures whose IT stack components have a static nature with respect to their configuration and control. This project pursues the rigorous understanding and solution of these scientific problems via international collaborations which bring out real-world contexts of transnational applications and create transnational cyberinfrastructure instances where researchers get practical insight. Currently, the broad application domains of interest are disaster management, environmental modeling and smart and connected communities.
 
 # Mission
