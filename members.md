@@ -20,6 +20,7 @@ Each partner hosts workshops, supports researcher visits to other partners, host
 *  Advanced Computing and Information Systems (ACIS) Laboratory, University of Florida, USA
 *  ASEAN International Virtual Organization (ASEAN IVO), National Institute of Information and Communications Technologies (NICT), Japan
 *  Center of Excellence for Cyber-Enablement of Applications (CECEA), Taiwan
+*  Indiana University (IU), USA
 *  The Institute for Systems and Computer Engineering, Technology and Science [(INESC TEC)](https://inesctec.pt/), Portugal
 *  Korea Institute of Science and Technology Information [(KISTI)](https://www.kisti.re.kr/eng/), Republic of Korea
 *  The National Institute of Advanced Industrial Science and Technology (AIST), Japan
