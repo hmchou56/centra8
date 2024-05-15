@@ -52,14 +52,14 @@ CENTRA's mission is to
 The Steering Committee consists of staff from Institutional Member Organizations and collectively provide direction on matters relating to CENTRA.
 
 **Current Steering Committee Members:**
+*  José Fortes, Advanced Computing and Information Systems Laboratory, University of Florida, USA (Initial member)
+*  Jason Haga, The National Institute of Advanced Industrial Science and Technology (AIST), Japan
 *  Fang-Pang Lin, National Center for High Performance Computing, Taiwan (Initial member)
 *  Hidehisa Nagano, National Institute of Information and Communications Technologies, Japan (Initial member)
-*  José Fortes, Advanced Computing and Information Systems Laboratory, University of Florida, USA (Initial member)
-*  Shava Smallen (acting), Pacific Rim Application And Grid Middleware Assembly (<a href="[http://cecea.nchc.org.tw](http://www.pragma-grid.net/index.php)/">PRAGMA</a>)
 *  Rui Oliveira, The Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal
-*  Woojin Seok, Korea Institute of Science and Technology Information (KISTI), Korea
-*  Jason Haga, The National Institute of Advanced Industrial Science and Technology (AIST), Japan
 *  Beth Plale, Indiana University (IU), USA
+*  Woojin Seok, Korea Institute of Science and Technology Information (KISTI), Korea
+*  Shava Smallen (acting), Pacific Rim Application And Grid Middleware Assembly (<a href="[http://cecea.nchc.org.tw](http://www.pragma-grid.net/index.php)/">PRAGMA</a>)
 
 **Past Steering Committee Members:**
 *  Shinji Shimojo, National Institute of Information and Communications Technologies, Japan (Initial member)         
