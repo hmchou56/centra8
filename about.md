@@ -66,16 +66,16 @@ CENTRA's mission is to
 <div id="collaborators"></div>
 
 # Steering Committee
-The Steering Committee consists of Individual Members who are staff of Institutional Members and collectively provide direction on matters relating to CENTRA.
+The Steering Committee consists of staff from Institutional Member Organizations and collectively provide direction on matters relating to CENTRA.
 
 **Current Steering Committee Members:**
 *  Fang-Pang Lin, National Center for High Performance Computing, Taiwan (Initial member)
 *  Hidehisa Nagano, National Institute of Information and Communications Technologies, Japan (Initial member)
 *  José Fortes, Advanced Computing and Information Systems Laboratory, University of Florida, USA (Initial member)
-*  Shava Smallen (acting), Pacific Rim Application And Grid Middleware Assembly (<a href="[http://cecea.nchc.org.tw](http://www.pragma-grid.net/index.php)/">PRAGMA</a>))
+*  Shava Smallen (acting), Pacific Rim Application And Grid Middleware Assembly (<a href="[http://cecea.nchc.org.tw](http://www.pragma-grid.net/index.php)/">PRAGMA</a>)
 *  Rui Oliveira, The Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal
 *  Woojin Seok, Korea Institute of Science and Technology Information (KISTI), Korea
-*  Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
+*  Jason Haga, The National Institute of Advanced Industrial Science and Technology (AIST), Japan
 *  Beth Plale, Indiana University (IU), USA
 
 **Past Steering Committee Members:**
@@ -88,8 +88,8 @@ The Steering Committee consists of Individual Members who are staff of Instituti
 Operations Committee members consists of staff from Partner organizations and CENTRA meeting host organizations. Members are nominated and approved by the Steering Committee. The role of the Operations Committee is to support the operational needs of CENTRA.
 
 **Current Operations Committee Members:**
-*  Vivian Haga (Chair), National Institute of Advanced Industrial Science and Technology (AIST), Japan
-*  Andreia Passos, Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal
+*  Vivian Haga (Chair), The National Institute of Advanced Industrial Science and Technology (AIST), Japan
+*  Andreia Passos, The Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal
 *  Robert Ping, Indiana University, USA
 
 <div id="researchers"> </div>
