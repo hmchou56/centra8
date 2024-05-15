@@ -22,27 +22,11 @@ CENTRA envisions:
 
 # Objectives
 
-CENTRA currently supports collaborative cyberinfrastructure research activities 
-designed to educate a new generation of researchers who are technically and 
-culturally competent to engage with international scientific networks. Two 
-intertwined transformative global trends motivate the scope of technical 
-research activities. One is the emergence of software-defined 
-cyberinfrastructure, starting with networking components followed by compute and 
+CENTRA currently supports collaborative cyberinfrastructure research activities designed to educate a new generation of researchers who are technically and culturally competent to engage with international scientific networks. Two intertwined transformative global trends motivate the scope of technical research activities:
+* The emergence of software-defined cyberinfrastructure, starting with networking components followed by compute and 
 storage hardware and extending to middleware and application-software layers. 
-The second trend is the emergence of data and software that can be used to help 
-understand and solve problems of regional or global nature. These trends are 
-intertwined because software-definition can enable heterogeneous transnational 
-cyberinfrastructure and applications to interoperate and integrate and, 
-conversely, the characteristics and requirements of transnational 
-cyberinfrastructure and applications determine the kinds of software-definition 
-that need to be implemented. The confluence of these two trends creates many 
-novel research questions and disrupts many established IT solutions adopted for 
-problems of local or national scope and homogeneous cyberinfrastructures whose 
-IT stack components have a static nature with respect to their configuration and 
-control. This project pursues the rigorous understanding and solution of these 
-scientific problems via international collaborations which bring out real-world 
-contexts of transnational applications and create transnational 
-cyberinfrastructure instances where researchers get practical insight. Currently, the broad application domains of interest are disaster management, environmental modeling and smart and connected communities.
+* The emergence of data and software that can be used to help understand and solve problems of regional or global nature.
+These trends are intertwined because software-definition can enable heterogeneous transnational cyberinfrastructure and applications to interoperate and integrate and, conversely, the characteristics and requirements of transnational cyberinfrastructure and applications determine the kinds of software-definition that need to be implemented. The confluence of these two trends creates many novel research questions and disrupts many established IT solutions adopted for problems of local or national scope and homogeneous cyberinfrastructures whose IT stack components have a static nature with respect to their configuration and control. This project pursues the rigorous understanding and solution of these scientific problems via international collaborations which bring out real-world contexts of transnational applications and create transnational cyberinfrastructure instances where researchers get practical insight. Currently, the broad application domains of interest are disaster management, environmental modeling and smart and connected communities.
 
 # Mission
 
@@ -63,8 +47,6 @@ CENTRA's mission is to
 * Julio Ibarra, Assistant Vice President for Technology Augmented Research, Florida International University
 * Glenn Ricart, Founder and CEO of US Ignite
 
-<div id="collaborators"></div>
-
 # Steering Committee
 The Steering Committee consists of staff from Institutional Member Organizations and collectively provide direction on matters relating to CENTRA.
 
@@ -82,8 +64,6 @@ The Steering Committee consists of staff from Institutional Member Organizations
 *  Shinji Shimojo, National Institute of Information and Communications Technologies, Japan (Initial member)         
 *  Kum Won Cho, Korea Institute of Science and Technology Information (KISTI), Korea
 
-<div id="researchers"> </div>
-
 # Operations Committee
 Operations Committee members consists of staff from Partner organizations and CENTRA meeting host organizations. Members are nominated and approved by the Steering Committee. The role of the Operations Committee is to support the operational needs of CENTRA.
 
@@ -92,7 +72,7 @@ Operations Committee members consists of staff from Partner organizations and CE
 *  Andreia Passos, The Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal
 *  Robert Ping, Indiana University, USA
 
-<div id="researchers"> </div>
+<div id="Collaborators"> </div>
 
 # Collaborators
 
