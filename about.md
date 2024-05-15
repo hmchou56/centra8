@@ -82,10 +82,9 @@ CENTRA engages international entities in collaborative research activities in se
 
 # Funding
 
-CENTRA is funded in the USA by the US National Science Foundation (NSF). CENTRA 
-partners include the Center of Excellence for Cyber-Enablement of Applications 
-(CECEA) in Taiwan funded by the Ministry of Science and Technology (MOST) of 
-Taiwan, and the National Institute of Information and Communications Technologies (NICT), Japan.
+Funding for CENTRA continues through the generosity of the (<a href="https://www.globalcentra.org/members/" target="_blank">Partner - Institutional Members</a>). Partners host workshops, webinars, and the annual meeting, support researcher visits to other partners, host CENTRA collaborations, and provide access to cyberinfrastructure testbeds. Partners also provide administrative resources for communication and file management, as well as personnel for the Operations Committee.
+
+The launch of CENTRA was funded in the USA by the US National Science Foundation (NSF) under grant NSF ACI 1550126. CENTRA partners included the Center of Excellence for Cyber-Enablement of Applications (CECEA) in Taiwan funded by the Ministry of Science and Technology (MOST) of Taiwan, and the National Institute of Information and Communications Technologies (NICT), Japan.
 
 # Contact
 
