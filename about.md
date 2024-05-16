@@ -84,13 +84,13 @@ Operations Committee members consists of staff from Partner organizations and CE
 CENTRA engages international entities in collaborative research activities in several ways. Institutional members provide access to facilities and testbeds to host researchers and enable experimental work. Individual researchers who belong to member institutions, or are invited by these institutions, can participate in CENTRA projects. 
 
 **Current Institutional Members:** 
-*  [ACIS](https://www.acis.ufl.edu/) Advanced Computing and Information Systems laboratory of the University of Florida, USA
-*  [CECEA](http://cecea.nchc.org.tw/) Center of Excellence for Cyber-Enablement of Applications, Taiwan
-*  [IU](https://www.iu.edu/index.html) Indiana University, USA
-*  [INESC TEC](https://www.inesctec.pt/en) The Institute for Systems and Computer Engineering, Technology and Science, Portugal
-*  [KISTI](https://www.kisti.re.kr/eng/) Korea Institute of Science and Technology Information, Korea
-*  [AIST](https://www.aist.go.jp/index_en.html) The National Institute of Advanced Industrial Science and Technology, Japan
-*  [NICT](https://www.nict.go.jp/en/) National Institute of Information and Communications Technologies, Japan
+*  [ACIS:](https://www.acis.ufl.edu/) Advanced Computing and Information Systems laboratory of the University of Florida, USA
+*  [CECEA:](http://cecea.nchc.org.tw/) Center of Excellence for Cyber-Enablement of Applications, Taiwan
+*  [IU:](https://www.iu.edu/index.html) Indiana University, USA
+*  [INESC TEC:](https://www.inesctec.pt/en) The Institute for Systems and Computer Engineering, Technology and Science, Portugal
+*  [KISTI:](https://www.kisti.re.kr/eng/) Korea Institute of Science and Technology Information, Korea
+*  [AIST:](https://www.aist.go.jp/index_en.html) The National Institute of Advanced Industrial Science and Technology, Japan
+*  [NICT:](https://www.nict.go.jp/en/) National Institute of Information and Communications Technologies, Japan
 
 
   Researchers who have accepted invitations of interest in participation in CENTRA activities are from a growing number of countries which include the following: Indonesia, Japan, Philippines, Portugal, Malaysia, Myanmar, Taiwan, Thailand, Singapore, South Korea, Vietnam and USA.
