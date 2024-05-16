@@ -92,6 +92,8 @@ CENTRA engages international entities in collaborative research activities in se
 *  [KISTI:](https://www.kisti.re.kr/eng/) Korea Institute of Science and Technology Information, Korea
 *  [NICT:](https://www.nict.go.jp/en/) National Institute of Information and Communications Technologies, Japan
 
+**Invited Institutional Members:**
+*  [PRAGMA:](http://www.pragma-grid.net/index.php) Pacific Rim Application And Grid Middleware Assembly 
 
   Researchers who have accepted invitations of interest in participation in CENTRA activities are from a growing number of countries which include the following: Indonesia, Japan, Philippines, Portugal, Malaysia, Myanmar, Taiwan, Thailand, Singapore, South Korea, Vietnam and USA.
 
