@@ -11,20 +11,22 @@ published: true
 
 The founding members of CENTRA are the [Advanced Computing and Information Systems (ACIS) Laboratory](https://www.acis.ufl.edu/node) of the University of Florida with support from the National Science Foundation (NSF) of the USA, the Center of Excellence for Cyber-Enablement of Applications (<a href="http://www.cecea.tw/e_index.php" target="_blank">CECEA</a>) of the National Center for High-Performance Computing (NCHC) with support from the Ministry of Science and Technology (MOST) of Taiwan, and the [ASEAN International Virtual Organization (IVO)](https://www.nict.go.jp/en/asean_ivo/about_asean_ivo.html) funded by the National Institute of Information and Communications Technologies (NICT), Japan.
 
-Each partner hosts workshops, supports researcher visits to other partners, hosts CENTRA collaborators and provides access to cyberinfrastructure testbeds. In addition to scientific outcomes, CENTRA is developing a framework to coordinate research involving these and other partners in order to achieve scientific progress and engage junior researchers in international activities.
-
 <div id="partners"> </div>
 
 # Partners - Institutional Members
 
-*  Advanced Computing and Information Systems (ACIS) Laboratory, University of Florida, USA
-*  ASEAN International Virtual Organization (ASEAN IVO), National Institute of Information and Communications Technologies (NICT), Japan
-*  Center of Excellence for Cyber-Enablement of Applications (CECEA), Taiwan
-*  Indiana University (IU), USA
-*  The Institute for Systems and Computer Engineering, Technology and Science [(INESC TEC)](https://inesctec.pt/), Portugal
-*  Korea Institute of Science and Technology Information [(KISTI)](https://www.kisti.re.kr/eng/), Republic of Korea
-*  The National Institute of Advanced Industrial Science and Technology (AIST), Japan
-*  Pacific Rim Applications and Grid Middleware Assembly [(PRAGMA)](http://www.pragma-grid.net/)
+Partners hosts the CENTRA meetings, offers workshops, supports researcher visits to other partners, hosts CENTRA collaborators, and provides access to cyberinfrastructure testbeds. In addition to scientific outcomes, CENTRA is developing a framework to coordinate research involving these and other partners in order to achieve scientific progress and engage junior researchers in international activities.
+
+*  [ACIS:](https://www.acis.ufl.edu/) Advanced Computing and Information Systems laboratory of the University of Florida, USA
+*  [AIST:](https://www.aist.go.jp/index_en.html) The National Institute of Advanced Industrial Science and Technology, Japan
+*  [CECEA:](http://cecea.nchc.org.tw/) Center of Excellence for Cyber-Enablement of Applications, Taiwan
+*  [IU:](https://www.iu.edu/index.html) Indiana University, USA
+*  [INESC TEC:](https://www.inesctec.pt/en) The Institute for Systems and Computer Engineering, Technology and Science, Portugal
+*  [KISTI:](https://www.kisti.re.kr/eng/) Korea Institute of Science and Technology Information, Korea
+*  [NICT:](https://www.nict.go.jp/en/) National Institute of Information and Communications Technologies, Japan
+
+**Invited Institutional Members:**
+*  [PRAGMA:](http://www.pragma-grid.net/index.php) Pacific Rim Application And Grid Middleware Assembly 
 
 <div id="researchers"> </div>
 
