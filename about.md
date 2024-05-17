@@ -75,7 +75,7 @@ Operations Committee members consists of staff from Partner organizations and CE
 **Current Members:**
 *  Vivian Haga (Chair), The National Institute of Advanced Industrial Science and Technology (AIST), Japan
 *  Andreia Passos, The Institute for Systems and Computer Engineering, Technology and Science (INESC TEC), Portugal
-*  Robert Ping, Indiana University, USA
+*  Robert Ping, Indiana University (IU) Pervasive Technology Institute (PTI), USA
 
 <div id="Collaborators"> </div>
 
@@ -87,8 +87,8 @@ CENTRA engages international entities in collaborative research activities in se
 *  [ACIS:](https://www.acis.ufl.edu/) Advanced Computing and Information Systems laboratory of the University of Florida, USA
 *  [AIST:](https://www.aist.go.jp/index_en.html) The National Institute of Advanced Industrial Science and Technology, Japan
 *  [CECEA:](http://cecea.nchc.org.tw/) Center of Excellence for Cyber-Enablement of Applications, Taiwan
-*  [IU:](https://www.iu.edu/index.html) Indiana University, USA
 *  [INESC TEC:](https://www.inesctec.pt/en) The Institute for Systems and Computer Engineering, Technology and Science, Portugal
+*  [IU:](https://www.iu.edu/index.html) Indiana University, USA
 *  [KISTI:](https://www.kisti.re.kr/eng/) Korea Institute of Science and Technology Information, Korea
 *  [NICT:](https://www.nict.go.jp/en/) National Institute of Information and Communications Technologies, Japan
 
@@ -101,7 +101,7 @@ CENTRA engages international entities in collaborative research activities in se
 
 Funding for CENTRA continues through the generosity of the  [Partner - Institutional Members](https://www.globalcentra.org/members/) . Partners host workshops, webinars, and the annual meeting, support researcher visits to other partners, host CENTRA collaborations, and provide access to cyberinfrastructure testbeds. Partners also provide administrative resources for communication and file management, as well as personnel for the Operations Committee.
 
-The launch of CENTRA was funded in the USA by the US National Science Foundation (NSF) under grant NSF ACI 1550126. CENTRA founding partners included the Center of Excellence for Cyber-Enablement of Applications (CECEA) in Taiwan funded by the Ministry of Science and Technology (MOST) of Taiwan, and the National Institute of Information and Communications Technologies (NICT), Japan.
+From its inception in 2015 until 2021, CENTRA was funded in the USA by the US National Science Foundation (NSF) under grant NSF ACI 1550126. CENTRA founding partners included the Center of Excellence for Cyber-Enablement of Applications (CECEA) in Taiwan funded by the Ministry of Science and Technology (MOST) of Taiwan, and the National Institute of Information and Communications Technologies (NICT), Japan.
 
 # Contact
 
