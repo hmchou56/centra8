@@ -15,7 +15,7 @@ The founding members of CENTRA are the [Advanced Computing and Information Syste
 
 # Partners - Institutional Members
 
-Partners support one or more of the following: workshops, webinars, the annual meeting, sending their researchers to visit/collaborate with other partners, hosting CENTRA collaborations, and/or providing access to cyberinfrastructure testbeds. Partners also provide administrative resources for communication and file management, as well as personnel for the Operations Committee. In addition to scientific outcomes, CENTRA is developing a framework to coordinate research involving these and other partners in order to achieve scientific progress and engage junior researchers in international activities.
+Partners support activities such as workshops, webinars, the annual meeting, sending their researchers to visit/collaborate with other partners, hosting CENTRA collaborations, and/or providing access to cyberinfrastructure testbeds. Partners also provide administrative resources for communication and file management, as well as personnel for the Operations Committee. In addition to scientific outcomes, CENTRA is developing a framework to coordinate research involving these and other partners in order to achieve scientific progress and engage junior researchers in international activities.
 
 *  [ACIS:](https://www.acis.ufl.edu/) Advanced Computing and Information Systems laboratory of the University of Florida, USA
 *  [AIST:](https://www.aist.go.jp/index_en.html) The National Institute of Advanced Industrial Science and Technology, Japan
