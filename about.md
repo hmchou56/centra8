@@ -62,10 +62,10 @@ The Steering Committee consists of staff from Institutional Member Organizations
 *  Woojin Seok, Korea Institute of Science and Technology Information (KISTI), Korea
 
 **Invited Members:**
-*  Shava Smallen, Pacific Rim Application And Grid Middleware Assembly (<a href="[http://cecea.nchc.org.tw](http://www.pragma-grid.net/index.php)/">PRAGMA</a>)
+*  Shava Smallen, Pacific Rim Application And Grid Middleware Assembly (PRAGMA)
 
 **Past Members:**
-*  Peter Arzberger, Pacific Rim Application And Grid Middleware Assembly (<a href="[http://cecea.nchc.org.tw](http://www.pragma-grid.net/index.php)/">PRAGMA</a>)
+*  Peter Arzberger, Pacific Rim Application And Grid Middleware Assembly (PRAGMA)
 *  Shinji Shimojo, National Institute of Information and Communications Technologies, Japan (Initial member)         
 *  Kum Won Cho, Korea Institute of Science and Technology Information (KISTI), Korea
 
@@ -93,7 +93,7 @@ CENTRA engages international entities in collaborative research activities in se
 *  [NICT:](https://www.nict.go.jp/en/) National Institute of Information and Communications Technologies, Japan
 
 **Invited Institutional Members:**
-*  [PRAGMA:](http://www.pragma-grid.net/index.php) Pacific Rim Application And Grid Middleware Assembly 
+*  [PRAGMA:](https://www.pragma-grid.net) Pacific Rim Application And Grid Middleware Assembly 
 
   Researchers who have accepted invitations of interest in participation in CENTRA activities are from a growing number of countries which include the following: Indonesia, Japan, Philippines, Portugal, Malaysia, Myanmar, Taiwan, Thailand, Singapore, South Korea, Vietnam and USA.
 
