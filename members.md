@@ -9,7 +9,7 @@ published: true
 
 # Founding Members
 
-The founding members of CENTRA are the [Advanced Computing and Information Systems (ACIS) Laboratory](https://www.acis.ufl.edu/node) of the University of Florida with support from the National Science Foundation (NSF) of the USA, the Center of Excellence for Cyber-Enablement of Applications (<a href="http://www.cecea.tw/e_index.php" target="_blank">CECEA</a>) of the National Center for High-Performance Computing (NCHC) with support from the Ministry of Science and Technology (MOST) of Taiwan, and the [ASEAN International Virtual Organization (IVO)](https://www.nict.go.jp/en/asean_ivo/about_asean_ivo.html) funded by the National Institute of Information and Communications Technologies (NICT), Japan.
+The founding members of CENTRA are the [Advanced Computing and Information Systems (ACIS) Laboratory](https://www.acis.ufl.edu/node) of the University of Florida with support from the National Science Foundation (NSF) of the USA, the [Center of Excellence for Cyber-Enablement of Applications CECEA)](https://cecea.nchc.org.tw/e_index.php)  of the National Center for High-Performance Computing (NCHC) with support from the Ministry of Science and Technology (MOST) of Taiwan, and the [ASEAN International Virtual Organization (IVO)](https://www.nict.go.jp/en/asean_ivo/about_asean_ivo.html) funded by the National Institute of Information and Communications Technologies (NICT), Japan.
 
 <div id="partners"> </div>
 
@@ -19,7 +19,7 @@ Partners support one or more of the following actvities: workshops, webinars, th
 
 *  [ACIS:](https://www.acis.ufl.edu/) Advanced Computing and Information Systems laboratory of the University of Florida, USA
 *  [AIST:](https://www.aist.go.jp/index_en.html) The National Institute of Advanced Industrial Science and Technology, Japan
-*  [CECEA:](http://cecea.nchc.org.tw/) Center of Excellence for Cyber-Enablement of Applications, Taiwan
+*  [CECEA:](https://cecea.nchc.org.tw/e_index.php) Center of Excellence for Cyber-Enablement of Applications, Taiwan
 *  [IU:](https://www.iu.edu/index.html) Indiana University, USA
 *  [INESC TEC:](https://www.inesctec.pt/en) The Institute for Systems and Computer Engineering, Technology and Science, Portugal
 *  [KISTI:](https://www.kisti.re.kr/eng/) Korea Institute of Science and Technology Information, Korea
