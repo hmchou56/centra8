@@ -26,7 +26,7 @@ Partners support one or more of the following actvities: workshops, webinars, th
 *  [NICT:](https://www.nict.go.jp/en/) National Institute of Information and Communications Technologies, Japan
 
 **Invited Institutional Members:**
-*  [PRAGMA:](http://www.pragma-grid.net/index.php) Pacific Rim Application And Grid Middleware Assembly 
+*  [PRAGMA:](https://www.pragma-grid.net) Pacific Rim Application And Grid Middleware Assembly 
 
 <div id="researchers"> </div>
 
