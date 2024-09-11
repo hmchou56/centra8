@@ -4,7 +4,7 @@ url: "http://www.globalcentra.org" # the base hostname & protocol for your site
 #custom site variables
 NSF_footer_text: >
    From its inception in 2015 until 2021, CENTRA was funded in the USA by the US National Science Foundation (NSF) under grant NSF ACI 1550126. <a href="https://www.globalcentra.org/about/">See the About page for more information.</a><br>
-site_navigation_logo: <img src="/img/centra-logo.jpg" title="CENTRA logo" alt="CENTRA logo">
+site_navigation_logo: <img src="img/centra-logo.jpg" title="CENTRA logo" alt="CENTRA logo">
 
 # THEME-SPECIFIC CONFIGURATION
 centra:
