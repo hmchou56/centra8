@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/centra8" # the subpath of your site, e.g. /blog/
+baseurl: "/centra8/" # the subpath of your site, e.g. /blog/
 url: "http://www.globalcentra.org" # the base hostname & protocol for your site
 #custom site variables
 NSF_footer_text: >
